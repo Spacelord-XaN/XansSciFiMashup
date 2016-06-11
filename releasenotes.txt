@@ -1,4 +1,7 @@
-Vesrion 1.1
+Version 1.2
+-Changed species & ruler appearance
+
+Version 1.1
 -Added mod picture.jpg
 
 Version 1.0
