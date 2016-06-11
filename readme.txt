@@ -1,3 +1,5 @@
+Currently WIP
+
 Addes the following fractions to the game, all are set to spawn always:
 
 Star Wars
@@ -20,11 +22,7 @@ Warhammer 40k
 +Tau
 +Tyranids
 
-
-Current State:
--Added empires and symbols for them
-
-Roadmap
+Roadmap:
 -Add name lists for each empire
 -Custom AI personalities
 -Species & leader pictures
@@ -33,27 +31,4 @@ Roadmap
 -Add more SF - Franchises
 
 
-
-ModId = 701641284
-
-Color-Mapping:
-dark_brown		xan_w4_chaos
-brown
-orange			xan_w4_tau
-red_orange
-red				xan_sw_newRepublic
-burgundy		xan_st_klingon
-pink
-purple			xan_w4_tyranids
-dark_purple		xan_w4_darkEldar
-indigo			xan_w4_empire
-dark_blue		xan_sw_empire
-blue			xan_st_federation
-turquoise		xan_w4_eldar
-teal			xan_st_cardassian
-dark_teal
-green
-dark_green		xan_st_borg
-grey
-dark_grey		xan_w4_necron
-black
+Please feel free to provide me some feedback so i can improve the mod experience.
