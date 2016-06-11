@@ -1,0 +1,22 @@
+Version 1.0
+
+Added the following empires & logos for them
+Star Wars
++Galactic Empire
++New Republic
+
+Star Trek
++Borg Collective
++Cardassian Union
++Klingon Empire
++United Federation of Plantes
+
+Warhammer 40k
++Chaos
++Dark Eldar
++Eldar 
++Imperium
++Necrons 
++Orks
++Tau
++Tyranids
