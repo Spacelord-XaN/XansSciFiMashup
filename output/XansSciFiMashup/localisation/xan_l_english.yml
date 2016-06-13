@@ -1,2 +1,22 @@
 ﻿l_english:
  FLAG_CATEGORY_xan:0 "XansSciFiMashup"
+ 
+
+ personality_xan_sw_empire:0 "Fanatic Xenophobe"
+ personality_xan_sw_empire_desc:0 "For the Galactic Empire the human race is superior to all others. Their absolute end-target is to purge all other races from the galaxy."
+
+ personality_xan_sw_newRepublic:0 "New Republic"
+ personality_xan_sw_newRepublic_desc:0 "TODO"
+ 
+ personality_xan_st_borg:0 "Fanatic assimilators"
+ personality_xan_st_borg_desc:0 "The Borg Collective only have one target to assimilate all other species. >>Resistance is futile.<<"
+ 
+ personality_xan_st_cardassian:0 "Militaristic Conquerors"
+ personality_xan_st_cardassian_desc:0 "The Cardassion Union is continiously expanding their influence."
+ 
+ personality_xan_st_klingon:0 "Militaristic Conquerors"
+ personality_xan_st_klingon_desc:0 "The Klingon Empire is trying to conquer all un-honorable species."
+ 
+ personality_xan_st_federation:0 "Peaceful federation builder."
+ personality_xan_st_federation_desc:0 "The united federation of planets stands for science, trade and cultural exchange between all races."
+ 
