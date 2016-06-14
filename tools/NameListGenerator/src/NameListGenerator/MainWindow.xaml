@@ -1,0 +1,9 @@
+﻿<Window x:Class="NameListGenerator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <StackPanel>
+        <Button Content="Copy to clipboard" Click="Button_Click" Height="30" />
+        <Button Content="Reset" Click="ButtonResetClick" />
+        <TextBlock x:Name="textBloxNames" TextWrapping="Wrap" />
+    </StackPanel>
+</Window>

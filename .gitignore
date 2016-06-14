@@ -1,1 +1,4 @@
 Thumbs.db
+tools/NameListGenerator/src/NameListGenerator/bin
+tools/NameListGenerator/src/NameListGenerator/obj
+*.suo
