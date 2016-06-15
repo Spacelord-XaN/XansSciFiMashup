@@ -6,6 +6,51 @@ xan_sw_empire = {
 
 	ship_names = {
 		generic = {
+			Abolisher Abrogator Acheron Achilles Ackyuna Aculeus Adarga Adjudicator Admonitor Adventurer Adversary Aggregator Aggressor Agility Agincourt Akaga Allecto 
+			Allegiance Almirante Aluma Ambition Ambitious Angrix Anjisan Anterab "Anya Karu" Apocahk "Arc Hammer" Archer Aremin Arjun "Arjun Jr." "Arkanian Dragon" Arreis 
+			Arrestor "Ars Opus" Asp Aspirant Aspiration Assertor Assiduous Astin Attaintor Attentive Audacious Auditor Avarice Avatar Avenger Azgoghk Badger "Badi Dea" 
+			Bakkun Ballista Banthar Bastinade Battalion "Battle Lance" "Battle of Yavin" Battler "Beauty of Yevetha" Bel'reen Bellicose Belligerent Benar Betar Bew'a 
+			Binder Bira "Bird of Prey" Bixby "Black Hawk" "Black Ice" Blacken Blackjack Blazen Blessings Blu "Blue Fox" "Blue Hawk" "Blue Ruin" "Blue Shuttle" Boltthrower 
+			Bombard Botani Bounty "Braxant Bonecrusher" Brazen "Burning Vengeance" Caledonia Callisto Calvary Candaserri Carnifex "Carrion Spike" Cascade Cauldron 
+			Centurion Ceptor Cerberus Certainty Chimaera Chokehold Choora Codec Coercion "Colo's Ship" Compellor Compton Condemnation Conqueror Conquest Conquistador 
+			Constrainer Constrictor Contel "Core Envoy" "Corusca Fire" Counter-Puncher Courteous "Crusader's Shield" Crynyd Cudgel Cutlass Dagger Daggerblade Dallust 
+			Damocles Dandi Danticore "Dar Es" Dargon Daring "Dark Star" Darkk Dauntless "Death's Head" Deddite "Deep Dark" Defiant Degathem Demolisher Denunciator 
+			Destrier Detainer Deuterium Devastator Dexterous Dhoora Diadem "Digit Six" Diomede "Diputs group" Direption Dismay Disorver "Distant Wind" Divad Diviner 
+			"Docking Plt" Dominant Doneeta Dotermin Dragonfly Draklor Drakmha Drammel Dromii Ebolo Edict Eel Eichler Eidolon Eleemosynary Eliminator Elusive Emancipator 
+			Eminence "Emperor's Disciple" "Emperor's Shadow" "Emperor's Will" "Empire Forever" Empirical Encounter Enforcement Enforcer "Enforcer One" Engager Erinnic 
+			"Errant Venture" Esorp "Ession Strike" "Eternal Wrath" Ethar Eviscerator Exactor Excalibur Expeditious Exsanguinator Exterminator "Eye of Palpatine" 
+			"Eye of the Storm" Faithless Fantome "Far Orbit" FarRun FarStar Fariso Fasan Fear Figii "Fire's Path" Fireclaw Firelance Firewind "First Edition" Fixer 
+			Flanchard "Flash Fire" Fogger Forager Forbidden Forger Formidable Fowler Freebird Freedom Freedon Fremond Fubarium Furious "Furlo group" G'Neeznow G'nabgib 
+			Gaarni Gabi Gafra "Galactic Guardian" "Galaxy Dragon" "Galaxy Gun" "Gallant Sun" Geddawai Geedon Genue "Gilad Halsek's Lambda-class shuttle" "Gilded Claw" 
+			Gnisnal Godar Goliath Gordoon Gorfan Gorgon Goya "Grey Shadow" "Grey Wolf" Griphon Grotius Guardstar Halberd Halifax Hammer Harasser "Hard Liner" "Hard Shell" 
+			Harilin Harpax Harpox Harpy Harramin Harridan Harrow Harvester "Hashim group" Hate Hav Havelon Havoc Havok Helicon Hermes "High Hauler" Hilo Himner Hininbirg 
+			Horvus Hugo Huntsman Hurricane Hut Hyko Hyperion Igaka "Ill Wind" Illudium "Ilthmar's Fist" Imac Imbak Immobilizer Immortal Impeccable "Impending Doom" 
+			Impenetrable Impetuous Implacable Impounder Imputator Indictor Indiko Indomitable Inexorable Inflexible Inflictor Insidious Instigator Interrogator 
+			Intimidator Intractable Intrepid Invader Inveterate Invictus Invidious Invincible "Ion Storm" Iridium "Iron Duke" Ironhand Jaamn Java Javelin Jev Juno Juvaini 
+			"Kabalian Cross" Kalif Kalree Kan "Kana's Steel" Kant "Kathol Protector" Kiam Kolermigon Kotiate Kraken Krieger Laantis "Lady Telura" Lagos Lambda Lament 
+			"Lance of Endor" Lawbringer Leonides Leopard Lesyta "Lianna Guard" Libom Libra Libro Lifeline Link Liquidator Lokvar Longbow Lonus "Lucky Day" Ludwick Lumin 
+			Luung Magellan "Magic Dragon" Majestic Mako Malevolent Malicious Malignant Mandible Manta Manticore Marauder Marduk "Marshall Awe" "Maru Ki" Marut 
+			"Master Stroke" Mathayus Mauler Maximum Mayhem Mazur "MedStar Four" "Melnor Spear" Meniscus Mercator Mercurium Mercy Mescue Metternich Mharsup Mhath 
+			"Millennium Falcon" Minelayer Minestra Mist "Moff Weblin" Molator Monru Mssan Mule Muraat Murtceps Myrenia Nagan Nartissteu Nastion Neelie "Negra Star" 
+			Nemesis "New Star" Nexus "Nichevo group" Nigiro Nihema Nihil Nitsa Nocturnô Nomad Nomme Norvach Noshow "Novar's Bluff" Nuance Nullifier "Nuna's Twins" 
+			Obedience Objurium Observateur Odeaon Oldskep "Olrac Etnom" Omega Omicron Omlaut Onteba Optitron Oracle Oramac Orcim Oriflamme Osprey Outpost Overseer Pacho 
+			Peacehawk Penetrator Peremptory Perfect Perilous Phaldera Phalderi Phoenix Pincer "Pit Bull" "Platinum Mist" Polis Posi Pradeux "Predator's Beak" Predominant 
+			Priam "Pride of Tarlandia" "Pride of the Senate" Provocateur Prowler Pulsar Punisher Purge "Purple Claw" Qork Questor "Quirt's prison ship" Rage Raider 
+			Rakehell "Ram's Head" Ramit Rampage Rampant "Rand Ecliptic" Ranger Rasvin Ravager Ravagor Ravn "Raygar's freighter" "Razor's Kiss" "Rebel Dream" Rebirth 
+			Recalcitrant Recondite "Red Claw" "Red Dragon" "Red Harvest" "Red Knight" "Red Shuttle" "Red Tooth" "Red Wind" Redoubtable Refugee "Regina Cayli" Relentless 
+			Reliable Reliance Reliant Reload Reluctant Remoh Render Renegade Renown "Renthal's Vigilance" Requital Respectable Resro Restrainer Resupply Resurgence 
+			Retaliation Retaliator Retribution Retsub Revelator Revenant Revenge Reyna Riesa Rimrider "Rintonne's Flame" Riptide "Rogue Shadow" Rouh Ruggert Rugin Rugle 
+			Ruthless Salliche Sardis Sarissa Sceltor Scipion Scourge Scythe Scythis Seer "Sela group" "Semqi Pefis" Sentry Serpent "Seswennan Nightcloak" 
+			"Shackles of Nizon" Shador Shadow Shakker Shamus Shark Shepherd Shieldmaiden Shotel Shurik Sicorro "Silver Bull" Singularity "Sinking Stone" Sipharium Sivaa 
+			Skirmisher Skywalker Slainte Slick Sodrab "Solar Storm" Solii Sormus Sornsen Soryi Spartiate Spectre Spite Sprinter Stalker Stallion "Star Bantha" 
+			"Star Ravager" Staraker "Steel Talon" "Stellar Halo" "Stellar Manx" "Stellar Web" Stormclaw Stormont Stormwind Straasa Strider Strikefast Subcom Suelu Suluk 
+			"Sun Crusher" Sungrass Supply Suprosa Swift "TIE Fire" Talon Talsor Tanyay Tarken Tarquinas Tasson Tatium Taureg Teal Tegret "Tekra Point" Temerit Tenacious 
+			Tendo Termagant Terminator Terror Terrup Terry Tessera Thalassa "The Chariot" "The Miniad" "The Tone" Themor Thinin Thor Thunderflare Thyfonian Tiger Tilark 
+			Timber Timely Titan Titania Togri "Too Late Now" Toral Toranni Torment Tormentor Torven "Tory's Catcher" Toten "Trait Luminique" Transmor Transtom Treader 
+			Trident Tridius Trigger Triumph Triumphant Tropsobor "True Justice" Truncheon Turmoil Tydirium Tymtogo Tyrannic Tyranny Tyrant U3f14 Uhuru Ull Ultima 
+			Ultimatum Ulzepdi Undauntable Upright Uranium VTR-LX Vagrant Vainglorious Val Valiant Vanquish Vehement Vendor Vengeance Vensenor Victorious Victrix Vigilant 
+			Vigiliance Vindictive Viridium Visage Viscount Vo Vorknkx "Vote Snaplaunce" Vrexlir Wachtor Walker Wanderer Waq Warlover Watcher Watchtower Weema Wennis Whell 
+			Whelm "Whip Hand" Wide-Eyed Wiggins "Wolf's Claw" Wolf-Pack "World Devastator" Wrath Wunt Xamaural Xerxes Xibo Xiridium Yaai Yanov "Zaff Jendinpurg" 
 		}
 		
 		corvette = {
@@ -67,7 +112,10 @@ xan_sw_empire = {
 
 	fleet_names = {
 		random_names = {
-			"Black Fleet"
+			"Arrowhead Command" "Battlegroup Orion" "Black Fleet" "Crimson Command" "Death Squadron" "Deep patrol" "Digit Squadron" "Ground Pounders" "Maw fleet" 
+			"Scourge Squadron" "Secret armada" "Shadow Hand Fleet" "Swift Wing" "Task Force Admonitor" "Task Force Vengeance" "Task Force Whirlwind" 
+			"Vengeance Battle Group" "Wyvern battle group" 
+
 		}
 		sequential_name = "%O% Fleet"
 	}
@@ -75,43 +123,39 @@ xan_sw_empire = {
 	army_names = {
 	
 		defense_army = {
-			sequential_name = "%O% Planetary Guard"
+			sequential_name = "%O% Stormtrooper Corp"
 		}
 
 		assault_army = {
-			sequential_name = "%O% Stormtrooper Army"
+			sequential_name = "%O% Heavy Stormtrooper Corp"
 		}
 		
 		slave_army = {
-			sequential_name = "%O% Indentured Rifles"
+			sequential_name = "%O% Scout Trooper Corp"
 		}
 		
 		clone_army = { 
-			sequential_name = "%O% Clonetrooper Army"
+			sequential_name = "%O% Clonetrooper Corp"
 		}
 		
 		robotic_army = {
-			sequential_name = "%O% Hunter-Killer Group"
+			sequential_name = "%O% Battledroid Army"
 		}
 		
 		android_army = {
-			sequential_name = "%O% Synthetic Rangers"
+			sequential_name = "%O% Death Trooper Corp"
 		}
 		
 		psionic_army = { 
-			sequential_name = "%O% Psi Commando"
+			sequential_name = "%O% Dark Trooper Corp"
 		}
 		
 		xenomorph_army = {
-			sequential_name = "%O% Bio-Warfare Division"
+			sequential_name = "%O% Shadow Trooper Corp"
 		}
 		
 		gene_warrior_army = {
-			random_names = {
-				"SARC-A 'Gladiators'" "SARC-B 'Widowmakers'" "SARC-C 'Immortals'" "SARC-D 'Berserkers'" "SARC-E 'Assassins'"
-				"SARC-F 'Reapers'" "SARC-G 'Nighthawks'" "SARC-H 'Desperados'" "SARC-I 'Grey Knights'" "SARC-J 'Roughnecks'" 
-			}
-			sequential_name = "%O% Bio-Engineered Squadron"
+			sequential_name = "%O% Storm Commando"
 		}
 	}
 
@@ -119,64 +163,58 @@ xan_sw_empire = {
 
 		generic = {
 			names = {
-				"New Jerusalem" Anchor Dis Avalon Bounty Hope Olympia Serendipity Spring Thinis Salaam Xianyang Concord
-				Theia Tuscany "New Roanoke" Wenzhou "New Jamestown" "New Troy" Delgovicia "Wang Tong" Al-Jissa Al-Mada'in 
-				Al-Nuqayrah Al-Karak Al-Matabbah "Las Veredas" "San Lucas" "San Fernando" "San Cristóbal" "Nueva Sonora" 
-				"Puerto González" Nozomi Akatsuki "Nueva Cádiz" "La Isabela" "New Coventry" "St. Yegorov" "St. Pomeroy"
-				"Port Karakosov"
 			}
 		}
 		
 		pc_desert = {
 			names = {
-				"Nova Arabia" Sahara Gobi Kalahari Mojave Patagonia Syria Chihuahua Sand "Kara Kum" Colorado Sonora 
-				"Kyzyl Kum" Taklamakan Thar Gibson Namib Lut Kavir Dune Kali Muspelheim Vulcan Baal Carthage 
-				Ordos Khara Lop Maranjab Negev Sinai Atacama Simpson
+				Aargonar Allyuen Ambria Argavat Aridus Askaj Baros Beheboth Bpfassh Byss "Delari Prime" Elom Filve Gacerian Geonosis Halm "Kalist VI" Kamar Kampe N'zoth 
+				"Odik II" Ponemah "Sevarcos II" Sriluur Tatooine Zirulast
 			}
 		}
 		
 		pc_arid = {
 			names = {
-				Lebanon Tyre Antioch Jaxartes Oxus Turan Accona Bardenas Larzac Oltenia Tabernas Atacama Tanami 
-				Rangipo "New Mars" Canaan
+				"Aeten II" Alabash Haariden Lok Mustafar RZ7-6113-23 Riflor Sarapin Shu-Torun "Taspir III" Torize Vaathkree
 			}
 		}
 		
 		pc_tropical = {
 			names = {
-				Amazonia Congo Ecuador Rain Storm Monsoon Bengal "New Africa" Kishkindha Zanzibar Kipling
+				Argovia Ergeshui "Gap Nine" Gentes Imdaar Lotide Mijos Mimban Najiba "Nim Drovis"
 			}
 		}
 		
 		pc_continental = {
 			names = {
-				Albion Amor Dawn Horizon Asgard "Terra Nova" Kongzi Zoroaster "Tian Yi" 
-				"Wu Ding" Zheng "Gao Zu" Tokugawa Oda Toyotomi Rama Vishnu Soma Pangea
+				Agamar Agriworld-2079 Aldivy Angratha Anobis Barnaba Biitu Broest Brolsam Celanon Chandrila Cilpar ""Draenell's Point"" Fallowan Garqi Kinyen ""Liinade III"" 
+				M'haeli Moorja Nadiem ""Nez Peron"" Ruan Sacorria Ukio Zerm
 			}
 		}
 		
 		pc_gaia = {
 			names = {
-				Eden Elysium Cornucopia Utopia Shambhala Xanadu Shangri-La
 			}
 		}
 		
 		pc_ocean = {
 			names = {
-				Atlantis Oceania Pacifica Atlantica Euxina Hyrcania Rubrica Erythraea Baltica R'lyeh Dagon Kraken Aegea 
-				Adriatica Tyrrhenia Mediterranea Mare "Port Rabcewicz" Ningbo
+				"Aguarl 3" Alluuvia Anantapar Ando Aquaris Aquella Baraboo Bengat "Bestine IV" Corlass Dubrillion F'tral Fresia Illarreen Issor "Mon Cala" Selonia Sesid Spira 
+				Varn Vaynai Woostri
 			}
 		}
 		
 		pc_tundra = {
 			names = {
-				Iceland Canada Kola Scandza Utgard Rus Blizzard Taiyuan
+				Alvorine Amarin Arzid Aztubek Barnaba Batorine Bavva Bethal Binaros "Cantros 7" Cilpar Columus Dar'Or Dathomir Dennaskar Drall Gamorr Halmad Krant Kubindi 
+				Lankashiir Lowick Malastare Moltok "Nilash III" Shar'Ack Tarsa Vryssa "Vurdon Ka" Wakeelmui Xagobah
 			}
 		}
 		
 		pc_arctic = {
 			names = {
-				Thule Arctica Greenland Alaska Baffin Siberia Niflheim Hyperborea
+				"Akuria II" "Alzoc III" "Ando Prime" Anteevy Arkania Belsavis Burcana "Cadomai Prime" Crondre "Edan II" Eloggi "Eredenn Prime" Fest Garnib Hoth Ilum 
+				Obroa-skai Orto "Rhen Var" Syned Tantra Toola
 			}
 		}
 	}

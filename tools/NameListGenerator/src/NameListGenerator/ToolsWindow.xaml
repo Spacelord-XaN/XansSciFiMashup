@@ -3,6 +3,9 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:local="clr-namespace:NameListGenerator">
     <TabControl>
+        <TabItem Header="Formatter">
+            <local:Formatter />
+        </TabItem>
         <TabItem Header="Extractor">
             <local:ExtractorControl />
         </TabItem>

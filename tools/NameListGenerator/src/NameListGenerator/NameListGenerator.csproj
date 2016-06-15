@@ -58,10 +58,17 @@
     <Compile Include="ExtractorControl.xaml.cs">
       <DependentUpon>ExtractorControl.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Formatter.xaml.cs">
+      <DependentUpon>Formatter.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ToolsWindow.xaml.cs">
       <DependentUpon>ToolsWindow.xaml</DependentUpon>
     </Compile>
     <Page Include="ExtractorControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Formatter.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
