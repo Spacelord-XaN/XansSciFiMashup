@@ -43,8 +43,8 @@ xan_st_borg = {
 	type = purifier
 
 	aggressiveness = 2.0
-	trade_willingness = 0.1
-	bravery = 0.1
+	trade_willingness = 0.0
+	bravery = 0.0
 	
 	military_spending = 1.0
 	colony_spending = 1.0
@@ -52,8 +52,8 @@ xan_st_borg = {
 	alliance_acceptance = -1000
 	federation_acceptance = -1000
 	
-	threat_modifier = 2.0
-	friction_modifier = 4.0
+	threat_modifier = 3.0
+	friction_modifier = 3.0
 	
 	behaviour = {
 		conqueror = yes
@@ -84,7 +84,7 @@ xan_st_cardassian = {
 
 	aggressiveness = 1.5
 	trade_willingness = 0.8
-	bravery = 1.5
+	bravery = 1.3
 	
 	military_spending = 1.7
 	colony_spending = 0.6
@@ -92,7 +92,7 @@ xan_st_cardassian = {
 	alliance_acceptance = -50
 	federation_acceptance = -100
 	
-	threat_modifier = 0.6
+	threat_modifier = 1.4
 	friction_modifier = 1.7
 	
 	behaviour = {
@@ -124,7 +124,7 @@ xan_st_klingon = {
 
 	aggressiveness = 1.8
 	trade_willingness = 0.8
-	bravery = 2.0
+	bravery = 1.8
 	
 	military_spending = 1.8
 	colony_spending = 0.6
@@ -132,7 +132,7 @@ xan_st_klingon = {
 	alliance_acceptance = -50
 	federation_acceptance = -100
 	
-	threat_modifier = 0.9
+	threat_modifier = 1.7
 	friction_modifier = 1.6
 	
 	behaviour = {
@@ -163,16 +163,16 @@ xan_st_federation = {
 	type = federation_builder
 
 	aggressiveness = 0.2
-	trade_willingness = 2.0
+	trade_willingness = 1.2
 	bravery = 1.0
 	
 	military_spending = 0.7
-	colony_spending = 2.1
+	colony_spending = 1.7
 	
-	alliance_acceptance = 100
-	federation_acceptance = 100
+	alliance_acceptance = 200
+	federation_acceptance = 200
 	
-	threat_modifier = 0.2
+	threat_modifier = 0.8
 	friction_modifier = 0.2
 	
 	behaviour = {
