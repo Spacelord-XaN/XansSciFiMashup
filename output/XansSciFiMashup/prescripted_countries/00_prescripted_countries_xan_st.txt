@@ -53,6 +53,7 @@ xan_st_borg
 	trait="trait_quick_learners"
 	trait="trait_slow_breeders"
 	trait="trait_adaptive"
+	flags = { xan_st_borg }
 }
 
 xan_st_cardassian

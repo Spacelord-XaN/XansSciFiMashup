@@ -71,11 +71,11 @@ xan_st_borg = {
 	}
 	
 	allow = {
-        has_country_flag = xan_st_borg
-    }
+		has_country_flag = xan_st_borg
+	}
 	
 	weight_modifier = {
-		weight = 100			
+		weight = 100
 	}
 }
 

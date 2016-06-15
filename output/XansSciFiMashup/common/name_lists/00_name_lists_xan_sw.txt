@@ -21,7 +21,7 @@ xan_sw_empire = {
 			"Errant Venture" Esorp "Ession Strike" "Eternal Wrath" Ethar Eviscerator Exactor Excalibur Expeditious Exsanguinator Exterminator "Eye of Palpatine" 
 			"Eye of the Storm" Faithless Fantome "Far Orbit" FarRun FarStar Fariso Fasan Fear Figii "Fire's Path" Fireclaw Firelance Firewind "First Edition" Fixer 
 			Flanchard "Flash Fire" Fogger Forager Forbidden Forger Formidable Fowler Freebird Freedom Freedon Fremond Fubarium Furious "Furlo group" G'Neeznow G'nabgib 
-			Gaarni Gabi Gafra "Galactic Guardian" "Galaxy Dragon" "Galaxy Gun" "Gallant Sun" Geddawai Geedon Genue "Gilad Halsek's Lambda-class shuttle" "Gilded Claw" 
+			Gaarni Gabi Gafra "Galactic Guardian" "Galaxy Dragon" "Galaxy Gun" "Gallant Sun" Geddawai Geedon Genue "Gilded Claw" 
 			Gnisnal Godar Goliath Gordoon Gorfan Gorgon Goya "Grey Shadow" "Grey Wolf" Griphon Grotius Guardstar Halberd Halifax Hammer Harasser "Hard Liner" "Hard Shell" 
 			Harilin Harpax Harpox Harpy Harramin Harridan Harrow Harvester "Hashim group" Hate Hav Havelon Havoc Havok Helicon Hermes "High Hauler" Hilo Himner Hininbirg 
 			Horvus Hugo Huntsman Hurricane Hut Hyko Hyperion Igaka "Ill Wind" Illudium "Ilthmar's Fist" Imac Imbak Immobilizer Immortal Impeccable "Impending Doom" 
