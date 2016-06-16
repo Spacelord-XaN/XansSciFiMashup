@@ -52,6 +52,7 @@ xan_sw_empire
 	ethic="ethic_militarist"
 	trait="trait_strong"
 	trait="trait_resilient"
+	flags = { xan_sw_empire }
 }
 
 xan_sw_newRepublic
@@ -106,4 +107,5 @@ xan_sw_newRepublic
 	trait="trait_adaptive"
 	trait="trait_weak"
 	trait="trait_charismatic"
+	flags = { xan_sw_newRepublic }
 }

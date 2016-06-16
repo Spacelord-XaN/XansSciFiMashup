@@ -109,6 +109,7 @@ xan_st_cardassian
 	trait="trait_strong"
 	trait="trait_intelligent"
 	trait="trait_repugnant"
+	flags = { xan_st_cardassian }
 }
 
 xan_st_klingon
@@ -163,6 +164,7 @@ xan_st_klingon
 	trait="trait_strong"
 	trait="trait_talented"
 	trait="trait_slow_learners"
+	flags = { xan_st_klingon }
 }
 
 xan_st_federation
@@ -214,4 +216,5 @@ xan_st_federation
 	ethic="ethic_xenophile"
 	ethic="ethic_fanatic_pacifist"
 	trait="trait_intelligent"
+	flags = { xan_st_federation }
 }

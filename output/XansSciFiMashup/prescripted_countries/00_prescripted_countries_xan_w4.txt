@@ -56,6 +56,7 @@ xan_w4_darkEldar
 	trait="trait_nomadic"
 	trait="trait_strong"
 	trait="trait_enduring"
+	flags = { xan_w4_darkEldar }
 }
 
 xan_w4_eldar
@@ -109,6 +110,7 @@ xan_w4_eldar
 	trait="trait_enduring"
 	trait="trait_sedentary"
 	trait="trait_intelligent"
+	flags = { xan_w4_eldar }
 }
 
 xan_w4_chaos
@@ -163,6 +165,7 @@ xan_w4_chaos
 	trait="trait_strong"
 	trait="trait_repugnant"
 	trait="trait_adaptive"
+	flags = { xan_w4_chaos }
 }
 
 xan_w4_tyranid
@@ -216,6 +219,7 @@ xan_w4_tyranid
 	trait="trait_rapid_breeders"
 	trait="trait_adaptive"
 	trait="trait_repugnant"
+	flags = { xan_w4_tyranid }
 }
 
 xan_w4_tau
@@ -268,6 +272,7 @@ xan_w4_tau
 	ethic="ethic_collectivist"
 	ethic="ethic_fanatic_xenophile"
 	trait="trait_conformists"
+	flags = { xan_w4_tau }
 }
 
 xan_w4_necron
@@ -320,6 +325,7 @@ xan_w4_necron
 	ethic="ethic_militarist"
 	ethic="ethic_fanatic_spiritualist"
 	trait="trait_adaptive"
+	flags = { xan_w4_necron }
 }
 
 xan_w4_empire
@@ -372,6 +378,7 @@ xan_w4_empire
 	ethic="ethic_fanatic_xenophobe"
 	ethic="ethic_militarist"
 	trait="trait_industrious"
+	flags = { xan_w4_empire }
 }
 
 xan_w4_ork
@@ -427,4 +434,5 @@ xan_w4_ork
 	trait="trait_slow_learners"
 	trait="trait_very_strong"
 	trait="trait_repugnant"
+	flags = { xan_w4_ork }
 }
