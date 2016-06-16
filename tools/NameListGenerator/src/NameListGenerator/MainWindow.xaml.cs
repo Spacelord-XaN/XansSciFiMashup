@@ -1,5 +1,8 @@
-﻿using System;
+﻿using NameListGenerator.Paradox;
+using Pdoxcl2Sharp;
+using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -29,6 +32,13 @@ namespace NameListGenerator
         public MainWindow()
         {
             InitializeComponent();
+
+
+
+
+
+
+
 
             this.names = new List<string>();
             this.lastContent = Clipboard.GetText();

@@ -7,14 +7,14 @@ using System.Windows.Controls;
 namespace NameListGenerator
 {
     /// <summary>
-    /// Interaction logic for ExtractorControl.xaml
+    /// Interaction logic for Extractor.xaml
     /// </summary>
-    public partial class ExtractorControl : UserControl
+    public partial class Extractor : UserControl
     {
         private readonly List<string> lines;
         private readonly List<string> result;
 
-        public ExtractorControl()
+        public Extractor()
         {
             InitializeComponent();
 

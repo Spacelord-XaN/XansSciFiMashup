@@ -7,7 +7,7 @@
             <local:Formatter />
         </TabItem>
         <TabItem Header="Extractor">
-            <local:ExtractorControl />
+            <local:Extractor />
         </TabItem>
     </TabControl>
 </Window>

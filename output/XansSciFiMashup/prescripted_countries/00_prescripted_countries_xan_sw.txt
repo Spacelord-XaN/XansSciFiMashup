@@ -3,14 +3,14 @@
 #========================================
 xan_sw_empire
 ={
-	name_list="Human"
+	name_list="xan_sw_empire"
 	ship_prefix="IS"
 	species_name="Imperial citizen"
 	species_plural="Imperial citizens"
 	species_class="MAM"
 	species_adjective="imperial"
 	species_bio=""
-	portrait="human"
+	portrait="xan_super_special"
 	name="Galactic Empire"
 	adjective="imperial"
 	government="military_dictatorship"
@@ -41,7 +41,7 @@ xan_sw_empire
 	ruler={
 		gender=male
 		name="Palpatine"
-		portrait="human_male_01"
+		portrait="xan_sw_empire_ruler"
 		texture=0
 		hair=0
 		clothes=0
@@ -57,7 +57,7 @@ xan_sw_empire
 
 xan_sw_newRepublic
 ={
-	name_list="Human2"
+	name_list="xan_sw_newRepublic"
 	ship_prefix="NRS"
 	species_name="Human"
 	species_plural="Humans"

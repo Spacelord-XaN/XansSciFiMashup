@@ -1,4 +1,4 @@
-﻿<UserControl x:Class="NameListGenerator.ExtractorControl"
+﻿<UserControl x:Class="NameListGenerator.Extractor"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
     <Grid>
