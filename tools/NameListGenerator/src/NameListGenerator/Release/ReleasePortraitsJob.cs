@@ -45,8 +45,8 @@ namespace NameListGenerator.Release
                 Utils.ImageMagickPngToDds(pngFile, Path.Combine(destRoot, destFileName));
 
 
-                string portraitEntryPath = string.Format("gfx/portraits/xan/{0}", destFileName);
-                string portraitEntry = string.Format("{0} = {{ texturefile = {1} }}", Path.GetFileNameWithoutExtension(destFileName), portraitEntryPath);
+                string portraitEntryPath = string.Format("gfx/portraits/{0}", destFileName);
+                string portraitEntry = string.Format("{0} = {{ texturefile = \"{1}\" }}", Path.GetFileNameWithoutExtension(destFileName), portraitEntryPath);
 
                 portraitEntries.Add(portraitEntry);
             }

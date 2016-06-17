@@ -13,7 +13,7 @@ portrait_groups = {
 		
 		#species scope
 		species = { #generic portrait for a species
-			set = {
+			add = {
 				portraits = {
 					00_portraits_xan_sw_empire_population_00
 				}
@@ -33,7 +33,7 @@ portrait_groups = {
 		
 		#leader scope
 		leader = { #scientists, generals, admirals, governor
-			set = {
+			add = {
 				trigger = {
 					gender = male
 				}
@@ -45,7 +45,7 @@ portrait_groups = {
 				}
 			}
 			
-			set = {
+			add = {
 				trigger = {
 					gender = female
 				}

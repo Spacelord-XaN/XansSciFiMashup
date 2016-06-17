@@ -17,14 +17,14 @@ namespace NameListGenerator.Release
 
         public override void Execute()
         {
-            string sourceRoot = Path.Combine(this.repoPath, "src", "flags");
+            string sourceRoot = Path.Combine(this.repoPath, "src", "flags", "xan");
             if (!Directory.Exists(sourceRoot))
             {
                 this.Message(string.Format("sourceRoot: {0} does not exist.", sourceRoot));
                 return;
             }
 
-            string destRoot = Path.Combine(this.repoPath, "output", "XansSciFiMashup", "flags");
+            string destRoot = Path.Combine(this.repoPath, "output", "XansSciFiMashup", "flags", "xan");
             if (!Directory.Exists(destRoot))
             {
                 this.Message(string.Format("destRoot: {0} does not exist.", destRoot));
