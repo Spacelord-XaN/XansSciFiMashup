@@ -1,0 +1,83 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace NameListGenerator.Release
+{
+    public class ReleaseCreator : IMessageConsole
+    {
+        public event EventHandler<ReleaseCreatorEventArgs> MessageReady = delegate { };
+
+        private readonly BackgroundWorker worker;
+
+        public ReleaseCreator()
+        {
+            this.worker = new BackgroundWorker( );
+            this.worker.DoWork += this.WorkerDoWork;
+            this.worker.RunWorkerCompleted += this.WorkerRunWorkerCompleted;
+            this.worker.ProgressChanged += this.WorkerProgressChanged;
+            this.worker.WorkerReportsProgress = true;
+
+            
+        }
+
+        public void RunAsync()
+        {
+            this.worker.RunWorkerAsync();
+        }
+
+        private void WorkerProgressChanged(object Sender, ProgressChangedEventArgs E)
+        {
+            this.MessageReady(this, new ReleaseCreatorEventArgs(E.UserState as string));
+        }
+
+        private void WorkerRunWorkerCompleted(object Sender, RunWorkerCompletedEventArgs E)
+        {
+        }
+
+        private void WorkerDoWork(object Sender, DoWorkEventArgs E)
+        {
+            string path = this.RepositoryPath;
+            if (string.IsNullOrEmpty(path))
+            {
+                this.Message("RepositoryPath is empty or null");
+                return;
+            }
+
+            if (!Directory.Exists(path))
+            {
+                this.Message(string.Format("RepositoryPath: {0} does not exit.", path));
+                return;
+            }
+
+            this.Message("Starting release...");
+
+            List<Job> jobs = new List<Job>();
+            jobs.Add(new ReleasePortraitsJob(this, path));
+            jobs.Add(new ReleaseFlagsJob(this, path, @"c:\Program Files\Inkscape\inkscape.exe"));
+            //jobs.Add(new CreatePortraitList(path));
+
+            foreach (Job job in jobs)
+            {
+                job.Execute();
+            }
+
+            this.Message("Release done, no erros...");
+        }
+
+        public void Message(string Message)
+        {
+            this.worker.ReportProgress(0, Message);
+        }
+
+        public string RepositoryPath
+        {
+            get;
+            set;
+        }
+    }
+}

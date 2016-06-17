@@ -12,7 +12,7 @@
             <RowDefinition Height="Auto" />
         </Grid.RowDefinitions>
 
-        <TextBox x:Name="textBoxInput" Height="200" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" />
+        <TextBox x:Name="textBoxInput" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" />
 
         <GroupBox Grid.Row="1" Header="Options">
             <StackPanel>
@@ -30,7 +30,7 @@
             </StackPanel>
         </GroupBox>
 
-        <TextBox x:Name="textBoxResult" Grid.Row="2" IsReadOnly="True" />
+        <TextBox x:Name="textBoxResult" Grid.Row="2" IsReadOnly="True" VerticalScrollBarVisibility="Auto" />
 
         <Button x:Name="buttonCopyResultToClipboard" Grid.Row="3" Content="Copy result to clipboard" Click="ButtonCopyResultToClipboardClick" />
     </Grid>

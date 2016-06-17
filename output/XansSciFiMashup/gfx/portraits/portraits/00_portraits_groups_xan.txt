@@ -1,0 +1,58 @@
+portrait_groups = {
+	portrait_groups_xan_sw_empire = {
+		#	displayed in the overview for starting game
+		default = 00_portraits_xan_sw_empire_population_00
+		
+		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
+			add = {
+				portraits = {
+					00_portraits_xan_sw_empire_population_00
+				}
+			}
+		}		
+		
+		#species scope
+		species = { #generic portrait for a species
+			set = {
+				portraits = {
+					00_portraits_xan_sw_empire_population_00
+				}
+			}
+		}		
+		
+		#pop scope on a planet
+		pop = { #for a specific pop
+			add = {
+				portraits = {
+					00_portraits_xan_sw_empire_population_00
+					00_portraits_xan_sw_empire_population_01
+					00_portraits_xan_sw_empire_population_02
+				}
+			}
+		}
+		
+		#leader scope
+		leader = { #scientists, generals, admirals, governor
+			set = {
+				trigger = {
+					gender = male
+				}
+				portraits = {
+					00_portraits_xan_sw_empire_male_leader_00
+					00_portraits_xan_sw_empire_male_leader_01
+					00_portraits_xan_sw_empire_male_leader_02
+					00_portraits_xan_sw_empire_male_leader_03
+				}
+			}
+			
+			set = {
+				trigger = {
+					gender = female
+				}
+				portraits = {
+					00_portraits_xan_sw_empire_female_leader_00
+					00_portraits_xan_sw_empire_female_leader_01
+				}
+			}
+		}
+	}

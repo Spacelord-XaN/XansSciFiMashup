@@ -35,12 +35,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Magick.NET-Q8-AnyCPU, Version=7.0.0.0, Culture=neutral, PublicKeyToken=2004825badfa91ec, processorArchitecture=MSIL">
+      <HintPath>..\packages\Magick.NET-Q8-AnyCPU.7.0.1.500\lib\net40-client\Magick.NET-Q8-AnyCPU.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Pdoxcl2Sharp, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Pdoxcl2Sharp.0.5.2\lib\net40\Pdoxcl2Sharp.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
@@ -59,11 +64,29 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Backformatter.xaml.cs">
+      <DependentUpon>Backformatter.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Extractor.xaml.cs">
       <DependentUpon>Extractor.xaml</DependentUpon>
     </Compile>
     <Compile Include="Formatter.xaml.cs">
       <DependentUpon>Formatter.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NameSplitter.xaml.cs">
+      <DependentUpon>NameSplitter.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ReleaseBuilder.xaml.cs">
+      <DependentUpon>ReleaseBuilder.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Release\IMessageConsole.cs" />
+    <Compile Include="Release\Job.cs" />
+    <Compile Include="Release\ReleaseFlagsJob.cs" />
+    <Compile Include="Release\ReleasePortraitsJob.cs" />
+    <Compile Include="Release\ReleaseCreator.cs" />
+    <Compile Include="Release\ReleaseCreatorEventArgs.cs" />
+    <Compile Include="Subtractor.xaml.cs">
+      <DependentUpon>Subtractor.xaml</DependentUpon>
     </Compile>
     <Compile Include="Paradox\NameList.cs">
       <AutoGen>True</AutoGen>
@@ -73,6 +96,11 @@
     <Compile Include="ToolsWindow.xaml.cs">
       <DependentUpon>ToolsWindow.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Utils.cs" />
+    <Page Include="Backformatter.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Extractor.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -93,6 +121,18 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="NameSplitter.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ReleaseBuilder.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Subtractor.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="ToolsWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -135,6 +175,7 @@
       <LastGenOutput>NameList.cs</LastGenOutput>
     </Content>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

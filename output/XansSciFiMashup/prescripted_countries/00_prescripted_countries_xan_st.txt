@@ -25,7 +25,7 @@ xan_st_borg
 	empire_flag={
 		icon={
 			category="xan"
-			file="xan_st_borg.dds"
+			file="00_flags_xan_st_borg.dds"
 		}
 		background={
 			category="backgrounds"
@@ -80,7 +80,7 @@ xan_st_cardassian
 	empire_flag={
 		icon={
 			category="xan"
-			file="xan_st_cardassian.dds"
+			file="00_flags_xan_st_cardassian.dds"
 		}
 		background={
 			category="backgrounds"
@@ -136,7 +136,7 @@ xan_st_klingon
 	empire_flag={
 		icon={
 			category="xan"
-			file="xan_st_klingon.dds"
+			file="00_flags_xan_st_klingon.dds"
 		}
 		background={
 			category="backgrounds"
@@ -191,7 +191,7 @@ xan_st_federation
 	empire_flag={
 		icon={
 			category="xan"
-			file="xan_st_federation.dds"
+			file="00_flags_xan_st_federation.dds"
 		}
 		background={
 			category="backgrounds"

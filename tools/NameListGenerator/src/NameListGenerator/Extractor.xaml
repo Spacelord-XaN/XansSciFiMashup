@@ -13,7 +13,7 @@
             <RowDefinition Height="Auto" />
         </Grid.RowDefinitions>
 
-        <TextBox x:Name="textBoxInput" Grid.ColumnSpan="2" Height="200" AcceptsReturn="True" />
+        <TextBox x:Name="textBoxInput" Grid.ColumnSpan="2" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" />
 
         <GroupBox Grid.Row="1" Grid.ColumnSpan="2" Header="Options">
             <Grid ScrollViewer.VerticalScrollBarVisibility="Auto">
@@ -26,7 +26,7 @@
             </Grid>
         </GroupBox>
 
-        <TextBox x:Name="textBoxResult" Grid.Row="2" Grid.ColumnSpan="2" IsReadOnly="True" />
+        <TextBox x:Name="textBoxResult" Grid.Row="2" Grid.ColumnSpan="2" IsReadOnly="True" VerticalScrollBarVisibility="Auto" />
 
         <Button x:Name="buttonCopyResultToClipboard" Grid.Row="3" Content="Copy result to clipboard" Click="ButtonCopyResultToClipboardClick" />
         <Button x:Name="buttonCopyCorrectedSourceToClipboard" Grid.Row="3" Grid.Column="1" Content="Copy corrected source to clipboard" Click="ButtonCopyCorrectedSourceClipboardClick" />

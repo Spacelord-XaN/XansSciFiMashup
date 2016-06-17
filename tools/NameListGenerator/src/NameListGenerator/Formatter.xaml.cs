@@ -21,18 +21,10 @@ namespace NameListGenerator
             this.lines = new List<string>();
         }
 
-        private void ParseInput()
-        {
-            this.lines.Clear();
-            string input = this.textBoxInput.Text;
-            string[] lines = input.Split('\n', '\r');
-
-            this.lines.AddRange(lines.Where(X => !string.IsNullOrEmpty(X)));
-        }
-
         private void ButtonFormatClick(object Sender, RoutedEventArgs E)
         {
-            this.ParseInput();
+            this.lines.Clear();
+            this.lines.AddRange(Utils.ParseLines(this.textBoxInput.Text));
 
             List<string> resultLines = new List<string>();
             StringBuilder sb = new StringBuilder();
@@ -83,13 +75,8 @@ namespace NameListGenerator
             }
             resultLines.Add(sb.ToString());
 
-            sb.Clear();
-            foreach (string resultLine in resultLines)
-            {
-                sb.AppendLine(resultLine);
-            }
-            this.result = sb.ToString();
-            this.textBoxResult.Text = result;
+            this.result = Utils.MakeLines(resultLines);
+            this.textBoxResult.Text = this.result;
         }
 
         private void ButtonCopyResultToClipboardClick(object Sender, RoutedEventArgs E)
