@@ -42,6 +42,7 @@ portrait_groups = {
 					00_portraits_xan_sw_empire_male_leader_01
 					00_portraits_xan_sw_empire_male_leader_02
 					00_portraits_xan_sw_empire_male_leader_03
+					00_portraits_xan_sw_empire_male_leader_04
 				}
 			}
 			
