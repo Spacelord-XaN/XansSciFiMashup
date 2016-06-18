@@ -1,7 +1,7 @@
 ﻿#========================================
 # Star Wars
 #========================================
-name_list_xan_sw_empire = {
+xan_sw_empire = {
 	randomized = no
 
 	ship_names = {
@@ -271,7 +271,7 @@ name_list_xan_sw_empire = {
 	}
 }
 
-name_list_xan_sw_newRepublic = {
+xan_sw_newRepublic = {
 	randomized = no
 
 	ship_names = {

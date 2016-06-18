@@ -3,14 +3,14 @@
 #========================================
 xan_sw_empire
 ={
-	name_list="name_list_xan_sw_empire"
+	name_list="xan_sw_empire"
 	ship_prefix="IS"
 	species_name="Imperial citizen"
 	species_plural="Imperial citizens"
 	species_class="MAM"
 	species_adjective="imperial"
 	species_bio=""
-	portrait="portrait_groups_xan_sw_empire"
+	portrait="xan_sw_empire"
 	name="Galactic Empire"
 	adjective="imperial"
 	government="military_dictatorship"
@@ -25,7 +25,7 @@ xan_sw_empire
 	empire_flag={
 		icon={
 			category="xan"
-			file="00_flags_xan_sw_empire.dds"
+			file="xan_sw_empire.dds"
 		}
 		background={
 			category="backgrounds"
@@ -41,7 +41,7 @@ xan_sw_empire
 	ruler={
 		gender=male
 		name="Palpatine"
-		portrait="00_portraits_xan_sw_empire_ruler_00"
+		portrait="xan_sw_empire_ruler_00"
 		texture=0
 		hair=0
 		clothes=0
@@ -57,7 +57,7 @@ xan_sw_empire
 
 xan_sw_newRepublic
 ={
-	name_list="name_list_xan_sw_newRepublic"
+	name_list="xan_sw_newRepublic"
 	ship_prefix="NRS"
 	species_name="Human"
 	species_plural="Humans"
@@ -79,7 +79,7 @@ xan_sw_newRepublic
 	empire_flag={
 		icon={
 			category="xan"
-			file="00_flags_xan_sw_newRepublic.dds"
+			file="xan_sw_newRepublic.dds"
 		}
 		background={
 			category="backgrounds"

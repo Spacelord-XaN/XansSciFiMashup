@@ -1,0 +1,13 @@
+portraits = {
+	xan_sw_empire_female_leader_00 = { texturefile = "gfx/portraits/xan_sw_empire_female_leader_00.dds" }
+	xan_sw_empire_female_leader_01 = { texturefile = "gfx/portraits/xan_sw_empire_female_leader_01.dds" }
+	xan_sw_empire_male_leader_00 = { texturefile = "gfx/portraits/xan_sw_empire_male_leader_00.dds" }
+	xan_sw_empire_male_leader_01 = { texturefile = "gfx/portraits/xan_sw_empire_male_leader_01.dds" }
+	xan_sw_empire_male_leader_02 = { texturefile = "gfx/portraits/xan_sw_empire_male_leader_02.dds" }
+	xan_sw_empire_male_leader_03 = { texturefile = "gfx/portraits/xan_sw_empire_male_leader_03.dds" }
+	xan_sw_empire_male_leader_04 = { texturefile = "gfx/portraits/xan_sw_empire_male_leader_04.dds" }
+	xan_sw_empire_population_00 = { texturefile = "gfx/portraits/xan_sw_empire_population_00.dds" }
+	xan_sw_empire_population_01 = { texturefile = "gfx/portraits/xan_sw_empire_population_01.dds" }
+	xan_sw_empire_population_02 = { texturefile = "gfx/portraits/xan_sw_empire_population_02.dds" }
+	xan_sw_empire_ruler_00 = { texturefile = "gfx/portraits/xan_sw_empire_ruler_00.dds" }
+}

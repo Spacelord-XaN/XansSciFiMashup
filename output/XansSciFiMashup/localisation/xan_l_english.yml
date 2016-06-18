@@ -1,7 +1,10 @@
 ﻿l_english:
  FLAG_CATEGORY_xan:0 "XansSciFiMashup"
  
-
+ 
+####################
+# personality
+####################
  personality_xan_sw_empire:0 "Fanatic Xenophobe"
  personality_xan_sw_empire_desc:0 "For the Galactic Empire the human race is superior to all others. Their absolute end-target is to purge all other races from the galaxy."
 
@@ -43,3 +46,10 @@
  
  personality_xan_st_ork:0 "Honorbound conquerors"
  personality_xan_st_ork_desc:0 "For the orks only one thing counts; the Waaagh!"
+ 
+ 
+####################
+# name_lists
+####################
+ name_list_xan_sw_empire:0 "SW Empire"
+ name_list_xan_sw_newRepublic:0 "SW New Republic"

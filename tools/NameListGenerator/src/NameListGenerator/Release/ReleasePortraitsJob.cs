@@ -40,7 +40,7 @@ namespace NameListGenerator.Release
                 string empire = tokens[tokens.Length - 2];
                 string franchise = tokens[tokens.Length - 3];
 
-                string destFileName = string.Format("00_portraits_xan_{0}_{1}_{2}", franchise, empire, file);
+                string destFileName = string.Format("xan_{0}_{1}_{2}", franchise, empire, file);
 
                 Utils.ImageMagickPngToDds(pngFile, Path.Combine(destRoot, destFileName));
 
@@ -59,9 +59,9 @@ namespace NameListGenerator.Release
 
         private void CreateTxtFile(List<string> portraitEntries)
         {
-            this.Message("Creating 00_portraits_xan.txt");
+            this.Message("Creating xan_portraits.txt");
 
-            string targetPath = Path.Combine(this.repoPath, "output", "XansSciFiMashup", "gfx", "portraits", "portraits", "00_portraits_xan.txt");
+            string targetPath = Path.Combine(this.repoPath, "output", "XansSciFiMashup", "gfx", "portraits", "portraits", "xan_portraits.txt");
             using (FileStream fileStream = new FileStream(targetPath, FileMode.Create, FileAccess.Write))
             {
                 using (StreamWriter streamWriter = new StreamWriter(fileStream))
@@ -76,7 +76,7 @@ namespace NameListGenerator.Release
                 }
             }
 
-            this.Message("00_portraits_xan.txt created.");
+            this.Message("xan_portraits.txt created.");
         }
     }
 }
