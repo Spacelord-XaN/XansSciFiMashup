@@ -1,3 +1,12 @@
+Version 1.3
+-Added AI personalities for all fractions
+-Added name lists for:
+	-Star Wars Galactic Empire
+	-Star Wars New Republic
+-Added portraits for 
+	-Star Wars Galactic Empire
+-Small fixes
+
 Version 1.2
 -Changed species & ruler appearance
 

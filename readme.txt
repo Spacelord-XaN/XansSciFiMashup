@@ -22,13 +22,11 @@ Warhammer 40k
 +Tau
 +Tyranids
 
-Roadmap:
--Add name lists for each empire
--Custom AI personalities
--Species & leader pictures
+Short-Roadmap:
+-Add name lists for remaining
+-Species & leader pictures for remaining
 -German translation
 -Add biography
 -Add more SF - Franchises
-
 
 Please feel free to provide me some feedback so i can improve the mod experience.
