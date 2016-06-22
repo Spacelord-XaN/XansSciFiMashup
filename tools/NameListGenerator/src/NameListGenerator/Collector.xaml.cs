@@ -1,46 +1,28 @@
-﻿using NameListGenerator.Paradox;
-using Pdoxcl2Sharp;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 using System.Windows.Threading;
 
 namespace NameListGenerator
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Collector.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Collector : UserControl
     {
         private readonly List<char> invalidCharacters;
         private readonly DispatcherTimer timer;
-        private readonly List<string> names;
+        private readonly List<string> lines;
         private string lastContent;
 
-        public MainWindow()
+        public Collector()
         {
             InitializeComponent();
 
-
-
-
-
-
-
-
-            this.names = new List<string>();
+            this.lines = new List<string>();
             this.lastContent = Clipboard.GetText();
             this.invalidCharacters = new List<char>();
             this.invalidCharacters.Add('(');
@@ -58,11 +40,61 @@ namespace NameListGenerator
 
             this.timer = new DispatcherTimer();
             this.timer.Interval = TimeSpan.FromMilliseconds(300);
-            this.timer.Tick += Timer_Tick;
+            this.timer.Tick += this.TimerTick;
+
+            this.UpdateButtonStates();
+        }
+
+        private void UpdateButtonStates()
+        {
+            this.buttonStart.IsEnabled = !this.timer.IsEnabled;
+            this.buttonStop.IsEnabled = this.timer.IsEnabled;
+        }
+
+        private void ButtonStartClick(object sender, RoutedEventArgs e)
+        {
+            this.timer.Start();
+            this.UpdateButtonStates();
+        }
+
+        private void ButtonStopClick(object sender, RoutedEventArgs e)
+        {
+            this.timer.Stop();
+            this.UpdateButtonStates();
+        }
+
+        private void ButtonClearClick(object sender, RoutedEventArgs e)
+        {
+            this.timer.Stop();
+            Clipboard.Clear();
+            this.lastContent = null;
+            this.lines.Clear();
+            this.textBoxResult.Text = "";
             this.timer.Start();
         }
 
-        private void Timer_Tick(object sender, EventArgs e)
+        private void ButtonCopyResultToClipboardClick(object sender, RoutedEventArgs e)
+        {
+            this.lines.Sort();
+
+            StringBuilder sb = new StringBuilder();
+            foreach (string line in this.lines)
+            {
+                if (line.Contains(' '))
+                {
+                    sb.AppendFormat("\"{0}\"", line);
+                }
+                else
+                {
+                    sb.Append(line);
+                }
+                sb.Append(' ');
+            }
+
+            Clipboard.SetText(sb.ToString(), TextDataFormat.Text);
+        }
+
+        private void TimerTick(object sender, EventArgs e)
         {
             string content = Clipboard.GetText();
             if (content != this.lastContent)
@@ -87,47 +119,16 @@ namespace NameListGenerator
                 }
                 name = name.Replace("\"", "");
                 name = name.Replace("\t", "");
-                if (this.names.Contains(name))
+                if (this.lines.Contains(name))
                 {
                     continue;
                 }
-                this.names.Add(name);
+                this.lines.Add(name);
                 sb.Append(name);
                 sb.Append(" ");
             }
 
-            this.textBloxNames.Text += sb.ToString();
-        }
-
-        private void Button_Click(object Sender, RoutedEventArgs E)
-        {
-            this.names.Sort();
-
-            StringBuilder sb = new StringBuilder();
-            foreach (string name in names)
-            {
-                if (name.Contains(' '))
-                {
-                    sb.AppendFormat("\"{0}\"", name);
-                }
-                else
-                {
-                    sb.Append(name);
-                }
-                sb.Append(' ');
-            }
-
-            Clipboard.SetText(sb.ToString(), TextDataFormat.Text);
-        }
-
-        private void ButtonResetClick(object Sender, RoutedEventArgs E)
-        {
-            this.timer.Stop();
-            Clipboard.Clear();
-            this.lastContent = null;
-            this.names.Clear();
-            this.textBloxNames.Text = "";
-            this.timer.Start();
+            this.textBoxResult.Text += sb.ToString();
         }
     }
 }

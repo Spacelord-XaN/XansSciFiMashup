@@ -4,6 +4,9 @@
         xmlns:local="clr-namespace:NameListGenerator"
         Title="Text tools">
     <TabControl>
+        <TabItem Header="Collector">
+            <local:Collector />
+        </TabItem>
         <TabItem Header="Formatter">
             <local:Formatter />
         </TabItem>

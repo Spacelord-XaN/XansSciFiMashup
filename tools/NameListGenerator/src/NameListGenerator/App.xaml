@@ -4,6 +4,9 @@
              xmlns:local="clr-namespace:NameListGenerator"
              StartupUri="ToolsWindow.xaml">
     <Application.Resources>
-         
+        <Style TargetType="Button">
+            <Setter Property="Margin" Value="3" />
+            <Setter Property="MinWidth" Value="75" />
+        </Style>
     </Application.Resources>
 </Application>

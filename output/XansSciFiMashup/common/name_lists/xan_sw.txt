@@ -259,13 +259,15 @@ xan_sw_empire = {
 				Siefel Silvoi Slamen Slokay Smail Soliger Stone Tagge Tamazarian Tokai Tolann Tolas Tomvig Valanti Vansyn Vorn Vox Waurie Winger Winthazen Wren Yarrow 
 			}
 			regnal_first_names_male = {
-				Anakin Firmus Kendal Thrawn Wilhuff
+				Afsheen Ambris Anakin Ardus Argon Bartam Bertroff Danetta Demetrius Dunhausen Dureya Firmus Gann Gerald Ishin-Il-Raz Josef Kendal Kintaro Kohl Lynch Martio 
+				Miltin Muzzer Nial Nigel Nox Octavian Osvald Peccati Ravik Rufaan Tanniel Tharil Thistleborn Thrawn Trachta Traeda Wilhuff Wilkadon Zsinj
 			}
 			regnal_first_names_female = {
-				Natasi Ysanne
+				Natasi Ysanne Naomi
 			}
 			regnal_second_names = {
-				Daala Isard Ozzel Piett Skywalker Tarkin
+				Batch Daala Dargon Declann Grant Grunger Hauser Hissa Isard Kaine Makati Nivers Ozzel Piett Pitta Seerdon Selit Skywalker Syn Takel Tarkin Tavira Teshik
+				Tigellinus Vellam Weizel Zaarin
 			}
 		}
 	}
@@ -457,7 +459,7 @@ xan_sw_newRepublic = {
 				Able Abso Adon Adonar Ahk-laht Akimbo Alben Alku Andren Andur Antone Ardal Arhul Ariq Arkhan Arleil Arvel Attichitcuk Avery Ayx Baco Bahb Bail Bail Balderik 
 				Ballifore Barney Batral Baze Beak Becker Ben Benbul Bendlar Benthar Berkelium Berryl Bey Bey Biggs Bink Biv Blainekie Blim Blox Bodhi Bolpuhr Boo Boom Booster 
 				Bornan Borsk Borvo Braylen Bren Brentin Brin Bron Buran Burellion Busurra Cakhmaim Callus Caluan Card Carib Carith Carlist Cassian Cermack Ch Ch Chalmer Chaz 
-				Chel Cherioer Chewbacca Chirpa Chirrut Cobb Cole Cooper Corask Cord Corvan Creed Crix Croy Dab Daiv Dak Dann Dannen Daron Darryn Davish Daw Daye Dayvid 
+				Chel Cherioer  Chirpa Chirrut Cobb Cole Cooper Corask Cord Corvan Creed Crix Croy Dab Daiv Dak Dann Dannen Daron Darryn Davish Daw Daye Dayvid 
 				Deckland Deen Deflector Del Deltura Den Denid Derek Dero Detien Devon Dex Dictio Diric Dobrow Dodger Donn Dorsk Dorsk Dorsk Dracos Drenn Droma Drun Dunari 
 				Durne Ebrihim Ekelarc Ello Ellos Emon Eneb Envoy Erisson Evram Falton Fandar Fanty Faron Fez Fordwyn Francis Fru Fugo Gaav Gabrial Gadren Galin Ganner 
 				Gantoris Garek Garello Garin Garm Garul Garv Garve Garven Gebnerret Gharakh Gibbon Gil Ginbotham Gno Gorbek Grael Granit Grease Greglik Grel Grisserno Grizz 
@@ -510,13 +512,13 @@ xan_sw_newRepublic = {
 				"Wystri Warrick" "Yalom Yalom" Yeasson Yekkiv Yellan Yong Ysanna Zanedi Zuma 
 			}
 			regnal_first_names_male = {
-				Gial Han Luke Obi-Wan
+				Chewbacca Gial Han Lando Luke Obi-Wan Yoda
 			}
 			regnal_first_names_female = {
 				Mon Leia Padme
 			}
 			regnal_second_names = {
-				Ackbar Kenobi Mothma Organa Skywalker Solo
+				Ackbar Calrissian Kenobi Mothma Organa Skywalker Solo
 			}
 		}
 	}
