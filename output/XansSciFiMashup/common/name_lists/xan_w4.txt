@@ -1,139 +1,139 @@
-#========================================
+﻿#========================================
 # Warhammer 40k
 #========================================
-xan_4k_empire = {
-	randomized = no
-
-	ship_names = {
-		generic = {}		
-		corvette = {}		
-		constructor = {}
-		colonizer = {}
-		science = {}		
-		destroyer = {}		
-		cruiser = {}		
-		battleship = {}		
-		orbital_station = {}
-		mining_station = {}
-		research_station = {}
-		wormhole_station = {}
-		terraform_station = {}
-		observation_station = {}
-		outpost_station = {}
-		transport = {}
-		military_station_small = {}
-		military_station_medium = {}
-		military_station_large = {}
-	}
-
-	fleet_names = {
-		random_names = {
-
-		}
-		sequential_name = "%O% Fleet"
-	}
-	
-	army_names = {
-	
-		defense_army = {
-			sequential_name = "%O% "
-		}
-
-		assault_army = {
-			sequential_name = "%O% Imperial Guard"
-		}
-		
-		slave_army = {
-			sequential_name = "%O% "
-		}
-		
-		clone_army = { 
-			sequential_name = "%O% "
-		}
-		
-		robotic_army = {
-			sequential_name = "%O% Combat Servitor Corp"
-		}
-		
-		android_army = {
-			sequential_name = "%O% "
-		}
-		
-		psionic_army = { 
-			sequential_name = "%O% "
-		}
-		
-		xenomorph_army = {
-			sequential_name = "%O% "
-		}
-		
-		gene_warrior_army = {
-			sequential_name = "%O% Space Marine Legion"
-		}
-	}
-
-	planet_names = {
-
-		generic = {
-			names = {
-			}
-		}
-		
-		pc_desert = {
-			names = {
-			}
-		}
-		
-		pc_arid = {
-			names = {
-			}
-		}
-		
-		pc_tropical = {
-			names = {
-			}
-		}
-		
-		pc_continental = {
-			names = {
-			}
-		}
-		
-		pc_gaia = {
-			names = {}
-		}
-		
-		pc_ocean = {
-			names = {
-			}
-		}
-		
-		pc_tundra = {
-			names = {
-			}
-		}
-		
-		pc_arctic = {
-			names = {
-			}
-		}
-	}
-
-	character_names = {
-		names1 = {
-			weight = 100
-			first_names_male = {
-			}
-			first_names_female = {
-			}
-			second_names = {
-			}
-			regnal_first_names_male = {
-			}
-			regnal_first_names_female = {
-			}
-			regnal_second_names = {
-			}
-		}
-	}
-}
+#xan_4k_empire = {
+#	randomized = no
+#
+#	ship_names = {
+#		generic = {}		
+#		corvette = {}		
+#		constructor = {}
+#		colonizer = {}
+#		science = {}		
+#		destroyer = {}		
+#		cruiser = {}		
+#		battleship = {}		
+#		orbital_station = {}
+#		mining_station = {}
+#		research_station = {}
+#		wormhole_station = {}
+#		terraform_station = {}
+#		observation_station = {}
+#		outpost_station = {}
+#		transport = {}
+#		military_station_small = {}
+#		military_station_medium = {}
+#		military_station_large = {}
+#	}
+#
+#	fleet_names = {
+#		random_names = {
+#
+#		}
+#		sequential_name = "%O% Fleet"
+#	}
+#	
+#	army_names = {
+#	
+#		defense_army = {
+#			sequential_name = "%O% "
+#		}
+#
+#		assault_army = {
+#			sequential_name = "%O% Imperial Guard"
+#		}
+#		
+#		slave_army = {
+#			sequential_name = "%O% "
+#		}
+#		
+#		clone_army = { 
+#			sequential_name = "%O% "
+#		}
+#		
+#		robotic_army = {
+#			sequential_name = "%O% Combat Servitor Corp"
+#		}
+#		
+#		android_army = {
+#			sequential_name = "%O% "
+#		}
+#		
+#		psionic_army = { 
+#			sequential_name = "%O% "
+#		}
+#		
+#		xenomorph_army = {
+#			sequential_name = "%O% "
+#		}
+#		
+#		gene_warrior_army = {
+#			sequential_name = "%O% Space Marine Legion"
+#		}
+#	}
+#
+#	planet_names = {
+#
+#		generic = {
+#			names = {
+#			}
+#		}
+#		
+#		pc_desert = {
+#			names = {
+#			}
+#		}
+#		
+#		pc_arid = {
+#			names = {
+#			}
+#		}
+#		
+#		pc_tropical = {
+#			names = {
+#			}
+#		}
+#		
+#		pc_continental = {
+#			names = {
+#			}
+#		}
+#		
+#		pc_gaia = {
+#			names = {}
+#		}
+#		
+#		pc_ocean = {
+#			names = {
+#			}
+#		}
+#		
+#		pc_tundra = {
+#			names = {
+#			}
+#		}
+#		
+#		pc_arctic = {
+#			names = {
+#			}
+#		}
+#	}
+#
+#	character_names = {
+#		names1 = {
+#			weight = 100
+#			first_names_male = {
+#			}
+#			first_names_female = {
+#			}
+#			second_names = {
+#			}
+#			regnal_first_names_male = {
+#			}
+#			regnal_first_names_female = {
+#			}
+#			regnal_second_names = {
+#			}
+#		}
+#	}
+#}

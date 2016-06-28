@@ -1,3 +1,7 @@
+Version 1.4 - fixes for Stellaris patch 1.2
+-Updated Warhammer 40k traits
+-Updated AI personalities
+
 Version 1.3
 -Added AI personalities for all fractions
 -Added name lists for:

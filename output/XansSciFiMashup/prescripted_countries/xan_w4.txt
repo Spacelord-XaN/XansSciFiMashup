@@ -433,6 +433,5 @@ xan_w4_ork
 	ethic="ethic_fanatic_militarist"
 	trait="trait_slow_learners"
 	trait="trait_very_strong"
-	trait="trait_repugnant"
 	flags = { xan_w4_ork }
 }
