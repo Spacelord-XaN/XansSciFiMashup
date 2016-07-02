@@ -1,18 +1,40 @@
-﻿#========================================
+#========================================
 # Warhammer 40k
 #========================================
 #xan_4k_empire = {
 #	randomized = no
 #
 #	ship_names = {
-#		generic = {}		
-#		corvette = {}		
+#		generic = {
+#			"Anarchic Vendetta" "Blood Royale" "Bloodied Sword" "Bringer of Despair" "Chaos Eternus" Contagion "Damnations Fury" Darkblood Deathbane Deathblade Deathskull 
+#			"Despicable Ecstasy" Doombringer "Eternity of Pain" Excessive Foe-Reaper Foebane "Fortress of Agony" "Heartless Destroyer" "Heathen Promise" Horrific 
+#			"Initiate of Skalathrax" Injustice Killfrenzy "Malignus Maximus" "Merciless Death" Monstrous Plagueclaw Soulless "Steel Fang" "Sword of Sacrilege" Torment 
+#			Unforgivable "Unholy Dominion" "Wanton Desecration" Warmaker 
+#		}		
+#		corvette = {
+#			Abdiel "Ad Liberis" Advocate Archangel August "Baron Surtur" "Blue Squadron" "Cape Wrath" Cerebus "Costa Barbarus Patrol" "Divine Crusade" Forebearer Guardian 
+#			Harrower Havock Leonid "Lexus Squadron" Luxor "Omega Squadron" "Patrol Group Erinyes" Purgation "Red Squadron" "Saint of Scintilla" "Sanctis Legate" 
+#			"Skargul Patrol" "Strident Virtue" "Sword of Voss" Uziel Valiant Vanguard Vigilant Yermetov 
+#		}		
 #		constructor = {}
 #		colonizer = {}
 #		science = {}		
-#		destroyer = {}		
-#		cruiser = {}		
-#		battleship = {}		
+#		destroyer = {
+#			Agrippa "Archon Kort" "Blade of Drusus" "Cardinal Turin" "Depth of Fury" Dominion "Emperor's Wrath" "Ferrum Aeterna" Fortitude Goliath "Hammer of Justice" 
+#			"Hammer of Thrace" "Imperial Wrath" Incendrius "Indomitus Imperious" Invincible "Iron Duke" Justicar "Lord Daros" "Lord Solar" "Lord Sylvanus" Macharius 
+#			Minotaur "Pallas Imperious" Preceptor Relentless Retribution Rhadamanthine "Righteous Fury" "Sebastian Thor" "Silent Fire" "Spirit of Defiance" 
+#			"Sword of Orion" "Ultima Praetor" Zealous
+#		}		
+#		cruiser = {
+#			"Cardinal Xian" "Cypra Probatii" "Ex Cathedra" "Fist of Russ" "Flame of Purity" "Guardian of Aquinas" "Hammer of Light" Imperious Jovian Kingmaker 
+#			"Light of Ascension" "Marquis Lex" Niobe "Pax Imperium" "Righteous Power" "Sword of Retribution" "The Covenanter" "The Sword Infernus" Thunderchild 
+#			"Vigilanti Eternas" "Warrior Knight"
+#		}		
+#		battleship = {
+#			Bloodhawk "Cardinal Boras" Corax "Divine Right" "Dominus Astra" "Duke Helbrecht" Emperor Godefroy "Green Lake" "Hammer of Scaro" "His Will" Huud Immortal 
+#			"Indomitable Wrath" Inflexible Invincible "Justus Dominus" "Legatus Stygies" "Lord of Light" Magnificat "Pride of Fenris" "Saint Augusta" Triumph "Vae Victis" 
+#			Victory "Virtue of Helena" 
+#		}		
 #		orbital_station = {}
 #		mining_station = {}
 #		research_station = {}
@@ -27,9 +49,7 @@
 #	}
 #
 #	fleet_names = {
-#		random_names = {
-#
-#		}
+#		random_names = {}
 #		sequential_name = "%O% Fleet"
 #	}
 #	
@@ -44,7 +64,7 @@
 #		}
 #		
 #		slave_army = {
-#			sequential_name = "%O% "
+#			sequential_name = "%O% Slave warriors"
 #		}
 #		
 #		clone_army = { 
