@@ -1,4 +1,7 @@
 portrait_groups = {
+	#========================================
+	# Star Wars
+	#========================================
 	xan_sw_empire = {
 		#	displayed in the overview for starting game
 		default = xan_sw_empire_population_00
@@ -57,3 +60,215 @@ portrait_groups = {
 			}
 		}
 	}
+	
+	#========================================
+	# Warhammer 40k
+	#========================================
+	xan_w4_chaos = {
+		#	displayed in the overview for starting game
+		default = xan_w4_chaos_ruler_00
+		
+		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
+			add = {
+				portraits = {
+					xan_w4_chaos_ruler_00
+				}
+			}
+		}		
+		
+		#species scope
+		species = { #generic portrait for a species
+			add = {
+				portraits = {
+					xan_w4_chaos_ruler_00
+				}
+			}
+		}		
+		
+		#pop scope on a planet
+		pop = { #for a specific pop
+			add = {
+				portraits = {
+					xan_w4_chaos_ruler_00
+				}
+			}
+		}
+		
+		#leader scope
+		leader = { #scientists, generals, admirals, governor
+			add = {
+				trigger = {
+					gender = male
+				}
+				portraits = {
+					xan_w4_chaos_ruler_00
+				}
+			}
+			
+			add = {
+				trigger = {
+					gender = female
+				}
+				portraits = {
+					xan_w4_chaos_ruler_00
+				}
+			}
+		}
+	}
+
+	xan_w4_empire = {
+		#	displayed in the overview for starting game
+		default = xan_w4_empire_ruler_00
+		
+		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
+			add = {
+				portraits = {
+					xan_w4_empire_ruler_00
+				}
+			}
+		}		
+		
+		#species scope
+		species = { #generic portrait for a species
+			add = {
+				portraits = {
+					xan_w4_empire_ruler_00
+				}
+			}
+		}		
+		
+		#pop scope on a planet
+		pop = { #for a specific pop
+			add = {
+				portraits = {
+					xan_w4_empire_ruler_00
+				}
+			}
+		}
+		
+		#leader scope
+		leader = { #scientists, generals, admirals, governor
+			add = {
+				trigger = {
+					gender = male
+				}
+				portraits = {
+					xan_w4_empire_ruler_00
+				}
+			}
+			
+			add = {
+				trigger = {
+					gender = female
+				}
+				portraits = {
+					xan_w4_empire_ruler_00
+				}
+			}
+		}
+	}
+	
+	xan_w4_necron = {
+		#	displayed in the overview for starting game
+		default = xan_w4_necron_ruler_00
+		
+		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
+			add = {
+				portraits = {
+					xan_w4_necron_ruler_00
+				}
+			}
+		}		
+		
+		#species scope
+		species = { #generic portrait for a species
+			add = {
+				portraits = {
+					xan_w4_necron_ruler_00
+				}
+			}
+		}		
+		
+		#pop scope on a planet
+		pop = { #for a specific pop
+			add = {
+				portraits = {
+					xan_w4_necron_ruler_00
+				}
+			}
+		}
+		
+		#leader scope
+		leader = { #scientists, generals, admirals, governor
+			add = {
+				trigger = {
+					gender = male
+				}
+				portraits = {
+					xan_w4_necron_ruler_00
+				}
+			}
+			
+			add = {
+				trigger = {
+					gender = female
+				}
+				portraits = {
+					xan_w4_necron_ruler_00
+				}
+			}
+		}
+	}
+
+	xan_w4_ork = {
+		#	displayed in the overview for starting game
+		default = xan_w4_ork_ruler_00
+		
+		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
+			add = {
+				portraits = {
+					xan_w4_ork_ruler_00
+				}
+			}
+		}		
+		
+		#species scope
+		species = { #generic portrait for a species
+			add = {
+				portraits = {
+					xan_w4_ork_ruler_00
+				}
+			}
+		}		
+		
+		#pop scope on a planet
+		pop = { #for a specific pop
+			add = {
+				portraits = {
+					xan_w4_ork_ruler_00
+				}
+			}
+		}
+		
+		#leader scope
+		leader = { #scientists, generals, admirals, governor
+			add = {
+				trigger = {
+					gender = male
+				}
+				portraits = {
+					xan_w4_ork_ruler_00
+				}
+			}
+			
+			add = {
+				trigger = {
+					gender = female
+				}
+				portraits = {
+					xan_w4_ork_ruler_00
+				}
+			}
+		}
+	}
+}
