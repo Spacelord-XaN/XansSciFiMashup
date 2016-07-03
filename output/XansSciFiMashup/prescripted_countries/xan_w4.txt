@@ -170,7 +170,7 @@ xan_w4_eldar
 
 xan_w4_empire
 ={
-	name_list="Human"
+	name_list="xan_w4_empire"
 	ship_prefix="INV"
 	species_name="Human"
 	species_plural="Humans"
@@ -207,12 +207,13 @@ xan_w4_empire
 	}
 	ruler={
 		gender=male
-		name="	Emperor of Mankind"
+		name="Emperor of Mankind"
 		portrait="xan_w4_empire_ruler_00"
 		texture=0
 		hair=4
 		clothes=3
-		ruler_title="Emperor"
+		ruler_title=" "
+		ruler_title_female=" "
 	}
 	spawn_enabled=always
 	ethic="ethic_fanatic_xenophobe"
@@ -384,7 +385,7 @@ xan_w4_tau
 
 xan_w4_tyranid
 ={
-	name_list="ART2"
+	name_list="xan_w4_tyranid"
 	ship_prefix="TYS"
 	species_name="Tyranid"
 	species_plural="Tyranids"
@@ -420,12 +421,14 @@ xan_w4_tyranid
 		}
 	}
 	ruler={
-		gender=female
-		name="Hive Mind."
+		gender=male
+		name="Hive Mind"
 		portrait="art16"
 		texture=0
 		hair=0
 		clothes=0
+		ruler_title=" "
+		ruler_title_female=" "
 	}
 	spawn_enabled=always
 	ethic="ethic_fanatic_collectivist"
