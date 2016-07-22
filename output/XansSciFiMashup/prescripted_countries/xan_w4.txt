@@ -3,7 +3,7 @@
 #========================================
 xan_w4_chaos
 ={
-	name_list="Human"
+	name_list="xan_w4_chaos"
 	ship_prefix="CSS"
 	species_name="Chaos"
 	species_plural="Chaos"
@@ -116,7 +116,7 @@ xan_w4_darkEldar
 
 xan_w4_eldar
 ={
-	name_list="Human"
+	name_list="xan_w4_eldar"
 	ship_prefix="ES"
 	species_name="Eldar"
 	species_plural="Eldar"

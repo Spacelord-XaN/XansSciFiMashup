@@ -149,6 +149,150 @@ xan_w4_chaos = {
 	}
 }
 #========================================
+# Eldar
+#========================================
+xan_w4_eldar = {
+	randomized = no
+
+	ship_names = {
+		generic = {
+			Aconite "Asuryan's Chosen" "Black Star" "Bright Claw" "Bright Star" "Celestial King" "Chariot of Mathurir" "Child of Khaine" Darkstar "Eagle Bomber" 
+			"Eliarenath's Gift" Fhianna "Flame of Asuryan" "Forge of Vaul" Hellebore Hemlock "Hemlock Wraithfighter" Naiad Nightshade Nightwing Phoenix Rethol 
+			Shadowhunter "Silent Warrior" Stardeath "Storm Chaser" "Vampire Hunter" "Vampire Raider" "Void Dragon" "Void Serpent" "Wind Runner" 
+		}
+		corvette = {}
+		constructor = {}
+		colonizer = {}
+		science = {}
+		destroyer = {}
+		cruiser = {}
+		battleship = {}
+		orbital_station = {}
+		mining_station = {}
+		research_station = {}
+		wormhole_station = {}
+		terraform_station = {}
+		observation_station = {}
+		outpost_station = {}
+		transport = {}
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}
+	}
+
+	fleet_names = {
+		random_names = {
+			"Alaitoc fleet" "Biel-tan fleet" "Iyanden fleet" Saim-Hann fleet" "Ulthwé fleet"
+		}
+		sequential_name = "%O% fleet"
+	}
+
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Guardians"
+		}
+		assault_army = {
+			sequential_name = "%O% Dire Avengers"
+		}
+		slave_army = {
+			sequential_name = "%O% Slaves"
+		}
+		clone_army = { 
+			sequential_name = "%O% Shadow Spectres"
+		}
+		robotic_army = {
+			sequential_name = "%O% Dark Reapers"
+		}
+		android_army = {
+			sequential_name = "%O% Wraithguards"
+		}
+		psionic_army = { 
+			sequential_name = "%O% Warlocks"
+		}
+		xenomorph_army = {
+			sequential_name = "%O% Fire Dragons"
+		}
+		gene_warrior_army = {
+			sequential_name = "%O% Warp Spiders"
+		}
+	}
+
+	planet_names = {
+		#@todo
+		generic = {
+			names = {
+				Aktosha Alaitoc Altansar An-Iolsus Anaen Arach-Cyn Arach-Qin Aringhe Baran Bel-Shammon Belial Biel-tan Carnac Ctho Dorhai Eidafaeron Halathel Haranshemash 
+				Idharae Il'sariadh Il-Kaithe Ila-Manesh Ishareq Iyanden Iybraesil Iydris Kaelor Kher-Ys Kinshara Kolth'se Lileathanir Lugganath Malan'tai Menimshemash Meros 
+				"Miel Carn" Mor-rioh'i Muirgaythh Mymeara Mynathensar Nacretineï Saim-Hann Satari Selesti She'enshar Stel-Uit T'krahn Tar-Etenil Telennar Teleth-ai 
+				"The Black Library" Thuyelsa Tir-Val Tirathain Tuonoetar Ulthwé Varantha Yllen Yme-Loc Zahr-Tann Zandros Zu'lasa 
+			}
+		}
+		pc_desert = {
+			names = {}
+		}
+		pc_arid = {
+			names = {}
+		}
+		pc_tropical = {
+			names = {}
+		}
+		pc_continental = {
+			names = {}
+		}
+		pc_gaia = {
+			names = {}
+		}
+		pc_ocean = {
+			names = {}
+		}
+		pc_tundra = {
+			names = {}
+		}
+		pc_arctic = {
+			names = {}
+		}
+	}
+
+	character_names = {
+		names1 = {
+			weight = 100
+			first_names_male = {
+				Adrallanar Ailen Alianna Alladrios Amonther Anaya Ardyelle Arhathain Ariganna Arquellia Asurmen Aurian Auric Avele Avenelle Baharroth Bel-Annath Bethaneal 
+				Bilgaedrin Birliel Caerys Catritheyn Celachia Clyona Draech Ehriahna Ehveline Elarique Eldorath Eldrad Eliac Enimiah Envyan Erathal Evanaeroth Excellion 
+				Faeruithir Farendis Fell Fuegan Gasael Geruthain Gesbier Gesson Hekmonah Hihdrel Hilan Idranel Illandra Illanor Illic Illimitar Ilthana Inessar Invaril Iriass 
+				Irillyth Irolac Iyanna Jain Jur Kael Kaeleth-Tul Kai Kalrimon Karandras Karhaedron Karhedron Karus Kayleth Kelmon Khiraen Korhedron Korlandril Korothil 
+				Kyanorath Kyrlrir Legirion Lhykosidae Linril Macha Maireth Malenbrin Maugan Mauryon Mehlendri Narine Nestra Nimalla Nuadhu Oloriel Phoenix Prothenulh 
+				Q'sandria Rakanis Ronahn Ruterias Rynain Saetheis Silvanol Solcar Sunspear Surainan Taec Taldeer Taolis Teryen Torhaedril Trekhulir Tuaren Tyleannar Ulthos 
+				Una Valansar Vinduil Yrannae Yriel Yrn-fae Yrrthilien Yuen 
+			}
+			first_names_female = {
+				Adrallanar Ailen Alianna Alladrios Amonther Anaya Ardyelle Arhathain Ariganna Arquellia Asurmen Aurian Auric Avele Avenelle Baharroth Bel-Annath Bethaneal 
+				Bilgaedrin Birliel Caerys Catritheyn Celachia Clyona Draech Ehriahna Ehveline Elarique Eldorath Eldrad Eliac Enimiah Envyan Erathal Evanaeroth Excellion 
+				Faeruithir Farendis Fell Fuegan Gasael Geruthain Gesbier Gesson Hekmonah Hihdrel Hilan Idranel Illandra Illanor Illic Illimitar Ilthana Inessar Invaril Iriass 
+				Irillyth Irolac Iyanna Jain Jur Kael Kaeleth-Tul Kai Kalrimon Karandras Karhaedron Karhedron Karus Kayleth Kelmon Khiraen Korhedron Korlandril Korothil 
+				Kyanorath Kyrlrir Legirion Lhykosidae Linril Macha Maireth Malenbrin Maugan Mauryon Mehlendri Narine Nestra Nimalla Nuadhu Oloriel Phoenix Prothenulh 
+				Q'sandria Rakanis Ronahn Ruterias Rynain Saetheis Silvanol Solcar Sunspear Surainan Taec Taldeer Taolis Teryen Torhaedril Trekhulir Tuaren Tyleannar Ulthos 
+				Una Valansar Vinduil Yrannae Yriel Yrn-fae Yrrthilien Yuen 
+			}
+			second_names = {
+				Arienal Belphoebe Bethaneal Boldseer Brightshard Dawnslayer Eversong Fireheart Firesight Goldenheart Goldhelm Goldsight Kulcassian Longgaze Lord Mournsong 
+				Nightspear Numeriel Orphiel Ra Shadoweye Shadowwind Silvercloud Silvereye Silversoul Skystorm Starbane Stormcloud Stormwarden Swiftblade Swifteye Swiftflight 
+				Telerath Telissa Teuthlas Ulthran Voidwalker Whitetreader Winter Zar Zephyrblade 
+			}
+
+			regnal_first_names_male = {
+				Asurmen Baharroth Caerys Eldrad Fuegan Idranel Illic Irillyth Iyanna Jain Karandras Kayleth Kelmon Macha Maugan Slau Taldeer Yriel 
+			}
+			regnal_first_names_female = {
+				Asurmen Baharroth Caerys Eldrad Fuegan Idranel Illic Irillyth Iyanna Jain Karandras Kayleth Kelmon Macha Maugan Slau Taldeer Yriel 
+			}
+			regnal_second_names = {
+				Arienal Dha Nightspear Ra Ulthran Zar 
+			}
+		}
+	}
+}
+#========================================
 # Empire
 #========================================
 xan_w4_empire = {

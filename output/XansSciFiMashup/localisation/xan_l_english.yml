@@ -53,5 +53,7 @@
 ####################
  name_list_xan_sw_empire:0 "SW Empire"
  name_list_xan_sw_newRepublic:0 "SW New Republic"
+ name_list_xan_w4_chaos:0 "W40k Chaos"
+ name_list_xan_w4_eldar:0 "W40k Eldar"
  name_list_xan_w4_empire:0 "W40k Empire"
  name_list_xan_w4_tyranid:0 "W40k Tyranid"
