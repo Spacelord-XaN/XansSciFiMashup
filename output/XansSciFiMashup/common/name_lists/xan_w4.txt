@@ -804,6 +804,180 @@ xan_w4_necron = {
 	}
 }
 #========================================
+# Ork
+#========================================
+xan_w4_ork = {
+	randomized = no
+
+	ship_names = {
+		generic = {
+			Arbuttz Ardenuff Argluk Bigtoof Blaktoof Bloodskar Bork Butcher Chobog Dethdeala Dethrekka Dok Garaghak Gazbag Ghazghkull Gluttok Gorbad Gorbag 
+			"Gorbag's Revenge" Gorklaw Gragnatz Grax "Green Kroosade" "Green Tide" Grimgutz Grimtusk "Grimzag's Ammer" Grizgutz Groblonik Grog Grognik Grughakh Gulgrag 
+			Gutcutta Hruk Irongol Irontoof Kroolboy Makrina Megamek Nagrut Rekkfist Rukrippa Scarfist Scraghurtz Skadrek Skullkrak Slamblasta Smogbelcha Snagrod 
+			Starsmasha "The Beast" Thogza Tuska Ugblitz Ugskraga Vangrod Wazdakka Zagdakka Zanzag Zoggit "Zukov's Klaw" 
+		}
+		corvette = {}
+		constructor = {}
+		colonizer = {}
+		science = {}
+		destroyer = {}
+		cruiser = {}
+		battleship = {}
+		orbital_station = {}
+		mining_station = {}
+		research_station = {}
+		wormhole_station = {}
+		terraform_station = {}
+		observation_station = {}
+		outpost_station = {}
+		transport = {}
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}
+	}
+
+	fleet_names = {
+		random_names = {
+			"Waaagh! Fleet Ghazghkull" "Waaagh! Fleet Grax" "Waaagh! Fleet Skullkrak"
+		}
+		sequential_name = "%O% Waaagh! Fleet"
+	}
+
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Yoofs"
+		}
+		assault_army = {
+			sequential_name = "%O% Ork Boyz"
+		}
+		slave_army = {
+			sequential_name = "%O% Gretchins"
+		}
+		clone_army = { 
+			sequential_name = "%O% Skarboyz"
+		}
+		robotic_army = {
+			sequential_name = "%O% Mekboyz"
+		}
+		android_army = {
+			sequential_name = "%O% Painboz"
+		}
+		psionic_army = { 
+			sequential_name = "%O% Weirdboyz"
+		}
+		xenomorph_army = {
+			sequential_name = "%O% Flash Gitz"
+		}
+		gene_warrior_army = {
+			random_names = {}
+			sequential_name = "%O% Nobz"
+		}
+	}
+
+	planet_names = {
+		generic = {
+			names = {
+				"Atari Vo" Avitohol Baran Bork Castellax Charadon Chosin Corinth Eyrok "Garaghak's World" Garbax Ghorala Golgotha Gorkamorka Gorro Graegus "Gunza Major" 
+				"Gurgit’s Mekworld" Hekitai Huiveneras Imbrium Jagga Klostra "Koram Mote" "Lethe Eleven" Magdelene Mekslag-Ikks Moredakka Octarius Orbalok Perseus 
+				"Skumgrot's Rock" Tenebra Thantus Tigrus Tusk Ulant Ullanor "Undred-Undred Teef" Urk V'run Vorsk Xit Yurk 
+			}
+		}
+		pc_desert = {
+			names = {}
+		}
+		pc_arid = {
+			names = {}
+		}
+		pc_tropical = {
+			names = {}
+		}
+		pc_continental = {
+			names = {}
+		}
+		pc_gaia = {
+			names = {}
+		}
+		pc_ocean = {
+			names = {}
+		}
+		pc_tundra = {
+			names = {}
+		}
+		pc_arctic = {
+			names = {}
+		}
+	}
+
+	@todo
+	character_names = {
+		names1 = {
+			weight = 100
+			first_names_male = {
+				'Eadcrumpa Arbuttz Arch-Arsonist "Arch-Maniac of Calverna" "Arrgard the Defiler" "Azrukk Ur Nazdakka" Baddfrag Badfragg Badlug Badrukk "Big Boss Gigagob" 
+				"Big Redd" "Big Skorcha" "Big Wattz" Biglug Blackaxe Blacklaw Blaktoof Bludcrumpa Bluddflagg Boargurr Bogga-bogga "Bogrot Bones" Bogsnik Bolgrog "Bone Stompa" 
+				Bonekraka "Borzag Khan" Brug Burzuruk Buzzgit Buzzgob "Chewgrim Klubboss" "Da Blue Mek" "Da Krimson Barun" "Da Red Gobbo" "Da Sky Shredda" "Dreg Panzeehunta" 
+				"Dregz Wuzghal" Drogbag Drogg Garaghak "Gargash Korbul" "Garmek Oil-Guzzler" Garskrak Garzulk "Gashrakk Da Flash" Gazbag Gazgrim "Gharag Badtoof" 
+				"Gharkul Blackfang" "Ghazghkull Mag Uruk Thraka" "Ghenghiz Grimtoof" Gitsmasha Gluttok Gobklaw Godstompa Gogard Gorbad Gorbag "Gorbag Gitburna" Gorblood 
+				Gorfang "Gorgutz 'Ead 'Unter" "Gorsnik Magash" Gorwazza Grabork Gragnatz "Grak Bigtoof" Grakka Grax Grimgutz "Grimgutz da 'Orrible" Grimshak Grimskull 
+				"Grimsnag Urk" "Grimtusk Bloodboila" Grishnak Grizgutz "Griznak Gobsmasha" Groblonik "Grog Chewtops" "Grog Ironteef" Grokksmak Groshpit Grotnaut Grotsnik 
+				Grozbok Grubnak "Grukk Face-Rippa" Gulgrog Gurgit Gutcrusha Gutgouger "Gutrak Dethhead" Gutshredda Gutstompa Hedkrakka "Hruk Teefsplinta" Humiehacka Icekrakka 
+				Irongol Irongutz Ironjaw Jazgob "Judrog Irontoof" "Kaptin Blackgit" Killdagga Killfist Killzkar Klawjaw Kodos Kogtoof "Kommander Rarguts" Kozgrob Kragga 
+				Krakskul Kroksnikz Krugg "Krunch 'Ead-stompa" Kurguz Madbrakka Magog Magrot Mahrblud Makari Makrina "Manstompa Megakilla" Mardrug Mashogg Megamek 
+				"Mogdos Gilt-Toof" Mogrok Morbad Morfangz "Morgaash Kulgraz" Morkrog "Morkrull Grimskar" "Murgor 'Undred Teef" "Nabrot Stub-fingers" "Nazdreg Ug Urdgrub" 
+				Nazgob Nekkruncha Nuddyfist Oddgit Oilguzla Orghamek Orkamungus Orkimedes "Overfiend of Octarius" Ozdakka "Raddak Bluefinga" "Razgrod Duffsnik" Razorhed 
+				Rekkfist "Rokbad Necksnapper" Rotgrub Rukrippa Skabsnik Skagrog Skarfang Skarfangz "Skargor the Despoiler" "Skargrim Ruknar" Skogrin Skorgrin Skullkrak 
+				Skullkrumpa Skullrencha Snagga-snagga Snagratoof Snagrod Snappaklaw Snikrot Spleenrippa Starsmasha Sunspitta "The Beast" Thugsnik Toofjaw Tuska Ugblitz Uggrot 
+				"Uglurk Gitsmasha" Ugrak "Ugskraga da Mighty" Ugulhard Ungskar "Urgok the Unstoppable" "Urlakk Urg" Vargall Vorgnot "Vorhgad Bloodfang" "Wazdakka Gutsmek" 
+				Wingnutz Wugzark Zagdakka "Zodgrod Wortsnagga" 
+			}
+			first_names_female = {
+				'Eadcrumpa Arbuttz Arch-Arsonist "Arch-Maniac of Calverna" "Arrgard the Defiler" "Azrukk Ur Nazdakka" Baddfrag Badfragg Badlug Badrukk "Big Boss Gigagob" 
+				"Big Redd" "Big Skorcha" "Big Wattz" Biglug Blackaxe Blacklaw Blaktoof Bludcrumpa Bluddflagg Boargurr Bogga-bogga "Bogrot Bones" Bogsnik Bolgrog "Bone Stompa" 
+				Bonekraka "Borzag Khan" Brug Burzuruk Buzzgit Buzzgob "Chewgrim Klubboss" "Da Blue Mek" "Da Krimson Barun" "Da Red Gobbo" "Da Sky Shredda" "Dreg Panzeehunta" 
+				"Dregz Wuzghal" Drogbag Drogg Garaghak "Gargash Korbul" "Garmek Oil-Guzzler" Garskrak Garzulk "Gashrakk Da Flash" Gazbag Gazgrim "Gharag Badtoof" 
+				"Gharkul Blackfang" "Ghazghkull Mag Uruk Thraka" "Ghenghiz Grimtoof" Gitsmasha Gluttok Gobklaw Godstompa Gogard Gorbad Gorbag "Gorbag Gitburna" Gorblood 
+				Gorfang "Gorgutz 'Ead 'Unter" "Gorsnik Magash" Gorwazza Grabork Gragnatz "Grak Bigtoof" Grakka Grax Grimgutz "Grimgutz da 'Orrible" Grimshak Grimskull 
+				"Grimsnag Urk" "Grimtusk Bloodboila" Grishnak Grizgutz "Griznak Gobsmasha" Groblonik "Grog Chewtops" "Grog Ironteef" Grokksmak Groshpit Grotnaut Grotsnik 
+				Grozbok Grubnak "Grukk Face-Rippa" Gulgrog Gurgit Gutcrusha Gutgouger "Gutrak Dethhead" Gutshredda Gutstompa Hedkrakka "Hruk Teefsplinta" Humiehacka Icekrakka 
+				Irongol Irongutz Ironjaw Jazgob "Judrog Irontoof" "Kaptin Blackgit" Killdagga Killfist Killzkar Klawjaw Kodos Kogtoof "Kommander Rarguts" Kozgrob Kragga 
+				Krakskul Kroksnikz Krugg "Krunch 'Ead-stompa" Kurguz Madbrakka Magog Magrot Mahrblud Makari Makrina "Manstompa Megakilla" Mardrug Mashogg Megamek 
+				"Mogdos Gilt-Toof" Mogrok Morbad Morfangz "Morgaash Kulgraz" Morkrog "Morkrull Grimskar" "Murgor 'Undred Teef" "Nabrot Stub-fingers" "Nazdreg Ug Urdgrub" 
+				Nazgob Nekkruncha Nuddyfist Oddgit Oilguzla Orghamek Orkamungus Orkimedes "Overfiend of Octarius" Ozdakka "Raddak Bluefinga" "Razgrod Duffsnik" Razorhed 
+				Rekkfist "Rokbad Necksnapper" Rotgrub Rukrippa Skabsnik Skagrog Skarfang Skarfangz "Skargor the Despoiler" "Skargrim Ruknar" Skogrin Skorgrin Skullkrak 
+				Skullkrumpa Skullrencha Snagga-snagga Snagratoof Snagrod Snappaklaw Snikrot Spleenrippa Starsmasha Sunspitta "The Beast" Thugsnik Toofjaw Tuska Ugblitz Uggrot 
+				"Uglurk Gitsmasha" Ugrak "Ugskraga da Mighty" Ugulhard Ungskar "Urgok the Unstoppable" "Urlakk Urg" Vargall Vorgnot "Vorhgad Bloodfang" "Wazdakka Gutsmek" 
+				Wingnutz Wugzark Zagdakka "Zodgrod Wortsnagga" 
+			}
+			second_names = {}
+			regnal_first_names_male = {
+				'Eadcrumpa Arbuttz "Arch-Maniac of Calverna" "Arrgard the Defiler" Badfragg "Beast, The" "Big Skorcha" Biglug Blaktoof Bludcrumpa Bogga-bogga Bolgrog 
+				"Bone Stompa" Bonekraka Bonesmasha Brug "Buzzgob da Burna Boy" Chatak Dragnatz Garaghak "Gargash Korbul" "Garmek Oil-Guzzler" "Garshul the Destroyer" Garskrak 
+				"Garzulk the Faceless" Gazbag Gazgrim "Gharag Badtoof" "Gharkul Blackfang" "Ghazghkull Mag Uruk Thraka" "Ghenghiz Grimtoof" Gitzmott Gluttok Godstompa Gogard 
+				Gorbad Gorbag Gorfang "Gorgutz 'Ead 'Hunter" Gorklaw "Gorsnik Magash" Gorwazza Gorzod Gragnatz Grax "Grimgutz da 'Orrible" Grimskull "Grimsnag Urk" 
+				"Grimtusk Bloodboila" Grishnak Grizgutz Groblonik "Grog Ironteef" Grokksmak "Groshpit 'The Flayer'" Grughakh Grukk Gulgrog Gutshredda Gutstompa Hedkrakka Hruk 
+				Humiehacka Icekrakka Irongol "Judrog Irontoof" "Khorga Skroll" Killdagga Killfist Killzkar Klawjaw Kogtoof Kozgrob Krugg Madbrakka Mahrblud Morkrog 
+				"Morkrull Grimskar" "Murgor 'Undred Teef" "Nazdreg Ug Urdgrub" Nekbrekka Nuddyfist Orkamungus Ozdakka Rarguts Rekkfist Rotgrub Rukrippa Skarfang 
+				"Skargor the Despoiler" "Skargrim Ruknar" Skogrin Skullkrak Skullkrumpa Smashface Snagga-snagga Snagratoof Snagrod Snappaklaw Starsmasha Sunspitta Toofjaw 
+				Tuska Ugblitz "Uglurk Gitsmasha" "Ugskraga da Mighty" Ugulhard Ungskar "Urgok the Unstoppable" "Urkthrall Kraka" "Urlakk Urg" "Urzog Mag Kull" Vargall Vorgnot 
+				"Vorhgad Bloodfang" Wugzark Zagdakka Zanzag Zhadsnark "Zogax da Great" Zoggit Zrikgutta 
+			}
+			regnal_first_names_female = {
+				'Eadcrumpa Arbuttz "Arch-Maniac of Calverna" "Arrgard the Defiler" Badfragg "Beast, The" "Big Skorcha" Biglug Blaktoof Bludcrumpa Bogga-bogga Bolgrog 
+				"Bone Stompa" Bonekraka Bonesmasha Brug "Buzzgob da Burna Boy" Chatak Dragnatz Garaghak "Gargash Korbul" "Garmek Oil-Guzzler" "Garshul the Destroyer" Garskrak 
+				"Garzulk the Faceless" Gazbag Gazgrim "Gharag Badtoof" "Gharkul Blackfang" "Ghazghkull Mag Uruk Thraka" "Ghenghiz Grimtoof" Gitzmott Gluttok Godstompa Gogard 
+				Gorbad Gorbag Gorfang "Gorgutz 'Ead 'Hunter" Gorklaw "Gorsnik Magash" Gorwazza Gorzod Gragnatz Grax "Grimgutz da 'Orrible" Grimskull "Grimsnag Urk" 
+				"Grimtusk Bloodboila" Grishnak Grizgutz Groblonik "Grog Ironteef" Grokksmak "Groshpit 'The Flayer'" Grughakh Grukk Gulgrog Gutshredda Gutstompa Hedkrakka Hruk 
+				Humiehacka Icekrakka Irongol "Judrog Irontoof" "Khorga Skroll" Killdagga Killfist Killzkar Klawjaw Kogtoof Kozgrob Krugg Madbrakka Mahrblud Morkrog 
+				"Morkrull Grimskar" "Murgor 'Undred Teef" "Nazdreg Ug Urdgrub" Nekbrekka Nuddyfist Orkamungus Ozdakka Rarguts Rekkfist Rotgrub Rukrippa Skarfang 
+				"Skargor the Despoiler" "Skargrim Ruknar" Skogrin Skullkrak Skullkrumpa Smashface Snagga-snagga Snagratoof Snagrod Snappaklaw Starsmasha Sunspitta Toofjaw 
+				Tuska Ugblitz "Uglurk Gitsmasha" "Ugskraga da Mighty" Ugulhard Ungskar "Urgok the Unstoppable" "Urkthrall Kraka" "Urlakk Urg" "Urzog Mag Kull" Vargall Vorgnot 
+				"Vorhgad Bloodfang" Wugzark Zagdakka Zanzag Zhadsnark "Zogax da Great" Zoggit Zrikgutta 
+			}
+			regnal_second_names = {}
+		}
+	}
+}
+#========================================
 # Tyranid
 #========================================
 xan_w4_tyranid = {

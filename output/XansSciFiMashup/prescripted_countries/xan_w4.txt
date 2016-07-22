@@ -277,8 +277,8 @@ xan_w4_necron
 
 xan_w4_ork
 ={
-	name_list="ART2"
-	ship_prefix="OS"
+	name_list="xan_w4_ork"
+	ship_prefix="WS"
 	species_name="Ork"
 	species_plural="Orks"
 	species_class="REP"
