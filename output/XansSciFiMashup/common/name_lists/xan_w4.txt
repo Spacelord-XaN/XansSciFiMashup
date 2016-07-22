@@ -672,6 +672,138 @@ xan_w4_empire = {
 	}
 }
 #========================================
+# Necron
+#========================================
+xan_w4_necron = {
+	randomized = no
+
+	ship_names = {
+		generic = {
+			Cairn Dirge "Doom Skythe" Jackal "Night Shroud" "Night Skythe" Scythe Shroud
+		}
+		corvette = {}
+		constructor = {}
+		colonizer = {}
+		science = {}
+		destroyer = {}
+		cruiser = {}
+		battleship = {}
+		orbital_station = {}
+		mining_station = {}
+		research_station = {}
+		wormhole_station = {}
+		terraform_station = {}
+		observation_station = {}
+		outpost_station = {}
+		transport = {}
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}
+	}
+
+	fleet_names = {
+		random_names = {
+			"Agdagath Fleet" "Altymhor Fleet" "Arotepk Fleet" "Arrynmarok Fleet" "Atun Fleet" "Charnovokh Fleet" "Dyvanakh Fleet" "Hyrekh Fleet" "Kardenath Fleet" 
+			"Kayra Fleet" "Khansu Fleet" "Maynarkh Fleet" "Mephrit Fleet" "Nekthyst Fleet" "Nephrekh Fleet" "Nihilakh Fleet" "Novokh Fleet" "Ogdobekh Fleet" "Oltep Fleet" 
+			"Oroskh Fleet" "Oruscar Fleet" "Rytak Fleet" "Sarnekh Fleet" "Sautekh Fleet" "Sekemtar Fleet" "Shemnoch Fleet" "Suhbekhar Fleet" "Thokt Fleet" "Xonthar Fleet" 
+		}
+		sequential_name = "%O% Tomb Fleet"
+	}
+
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Dormat Guards"
+		}
+		assault_army = {
+			sequential_name = "%O% Necron Warriors"
+		}
+		slave_army = {
+			sequential_name = "%O% Flayed Ones"
+		}
+		clone_army = { 
+			sequential_name = "%O% Immortas"
+		}
+		robotic_army = {
+			sequential_name = "%O% Crypteks"
+		}
+		android_army = {
+			sequential_name = "%O% Deathmarks"
+		}
+		psionic_army = { 
+			sequential_name = "%O% C'tan Shards"
+		}
+		xenomorph_army = {
+			sequential_name = "%O% Triarch Praetorians"
+		}
+		gene_warrior_army = {
+			random_names = {}
+			sequential_name = "%O% Lychguards"
+		}
+	}
+
+	planet_names = {
+		generic = {
+			names = {
+				Adacore Akator Akynatos Ankekh Aryand Avarris Bardic Bellicas Berien Brogrod Cano'var Cardrim Carnac "Carrion Deep" Chandrax Cocholos Cthelmax Damnos Davatas 
+				Dhol Draven Drazak Fordris Gheden Ghelleph Gidrim Gorkamorka "Hollow Sun" Icnarus Interitus "Iori Delta Tove" Ixya Kaurava Kavardia Kinbriar Kronus Loxar 
+				"Luther Macintyre" Maedrax Mandragora Medusa Meghoshta Moebius Morrigar Morrigor Nagathar Naogeddon Nervkor Nymidae Orrak Pavonis Perdita Phaethon Primordus 
+				Pyrrhia Qyrakotosh Rithcarin Sanctarro Santos Sarkon Sarlok Schrodinger Seidon "Septimus Moore" Shemnoch "Simia Orichalcae" Solemnace Somonor Suranas Tamar 
+				Thanatos Thridia Trakonn Trantis Tyr Uttu Verdus Vorketh Zantragora Zapennec Zykorak 
+			}
+		}
+		pc_desert = {
+			names = {}
+		}
+		pc_arid = {
+			names = {}
+		}
+		pc_tropical = {
+			names = {}
+		}
+		pc_continental = {
+			names = {}
+		}
+		pc_gaia = {
+			names = {}
+		}
+		pc_ocean = {
+			names = {}
+		}
+		pc_tundra = {
+			names = {}
+		}
+		pc_arctic = {
+			names = {}
+		}
+	}
+
+	character_names = {
+		names1 = {
+			weight = 100
+			first_names_male = {
+				Aetehk Ahhotekh Ahmontekh Akanabekh Akanabeth Anrakyr Aramakh Atun Azderon Crimson Drizyan Galmakh Harri'apt Hasist Henghast Herald Illmahnokh Imotekh 
+				Ixatotekh Janzikh Kepakh Korovoskh Kothorahn Krispekh Maktlan Naszar Navgran Obyron Ogdovakh Orikan Osiskor Ozkan R'zhan Rahkoz Rakszan Raznaak Sarkoni Setekh 
+				Stygos Svarokh Szarekh Szaron Szeras Tahek Tarekh Thaszar Thulekh Tlazolt Toholk Tomas Trazyn Valgul Varagon Vitokh Xun'bakyr Zahndrekh Zarathusa 
+			}
+			first_names_female = {
+				Aetehk Ahhotekh Ahmontekh Akanabekh Akanabeth Anrakyr Aramakh Atun Azderon Crimson Drizyan Galmakh Harri'apt Hasist Henghast Herald Illmahnokh Imotekh 
+				Ixatotekh Janzikh Kepakh Korovoskh Kothorahn Krispekh Maktlan Naszar Navgran Obyron Ogdovakh Orikan Osiskor Ozkan R'zhan Rahkoz Rakszan Raznaak Sarkoni Setekh 
+				Stygos Svarokh Szarekh Szaron Szeras Tahek Tarekh Thaszar Thulekh Tlazolt Toholk Tomas Trazyn Valgul Varagon Vitokh Xun'bakyr Zahndrekh Zarathusa 
+			}
+			second_names = {
+				Drakvir Emperor King Kutlakh M'rrith Macabee R'drah Undying Voidbringer Zo 
+			}
+			regnal_first_names_male = {
+				Ahhotekh Ahmontekh Anrakyr Imotekh "Vargard Obyron" Orikan Szarekh "Illuminor Szeras" Trazyn "Nemesor Zahndrekh" 
+			}
+			regnal_first_names_female = {
+				Ahhotekh Ahmontekh Anrakyr Imotekh "Vargard Obyron" Orikan Szarekh "Illuminor Szeras" Trazyn "Nemesor Zahndrekh" 
+			}
+			regnal_second_names = {}
+		}
+	}
+}
+#========================================
 # Tyranid
 #========================================
 xan_w4_tyranid = {

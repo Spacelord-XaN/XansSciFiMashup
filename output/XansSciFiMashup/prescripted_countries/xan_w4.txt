@@ -224,8 +224,8 @@ xan_w4_empire
 
 xan_w4_necron
 ={
-	name_list="ART2"
-	ship_prefix="NS"
+	name_list="xan_w4_necron"
+	ship_prefix="TS"
 	species_name="Necron"
 	species_plural="Necrons"
 	species_class="ART"
