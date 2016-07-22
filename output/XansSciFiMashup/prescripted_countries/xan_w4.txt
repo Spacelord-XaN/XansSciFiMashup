@@ -58,7 +58,7 @@ xan_w4_chaos
 
 xan_w4_darkEldar
 ={
-	name_list="Human"
+	name_list="xan_w4_darkEldar"
 	ship_prefix="DES"
 	species_name="Dark Eldar"
 	species_plural="Dark Eldar"
