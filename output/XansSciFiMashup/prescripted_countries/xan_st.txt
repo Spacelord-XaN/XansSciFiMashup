@@ -118,7 +118,7 @@ xan_st_cardassian
 #========================================
 xan_st_klingon
 ={
-	name_list="Human"
+	name_list="xan_st_klingon"
 	ship_prefix="IKS"
 	species_name="Klingon"
 	species_plural="Klingons"

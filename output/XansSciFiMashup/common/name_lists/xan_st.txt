@@ -296,3 +296,143 @@ xan_st_cardassian = {
 		}
 	}
 }
+#========================================
+# Klingon
+#========================================
+xan_st_klingon = {
+	randomized = no
+
+	ship_names = {
+		generic = {
+			Amar B'Moth Bortas Buruk Ch'Tang Chang's Drovana "Duras sisters'" Duras' Fek'lhr Gr'oth Hegh'ta Hor'Cha K'Nera's K'Temang's K'Vada's K'mpec Kang's Ki'tang 
+			Klaa's Klothos Kohlar's Koraga Korinar "Kronos One" Kruge's Kuri's M'Char Maht-H'a Malik's Malpara Negh'Var Ning'tao Orantho P'Rang Pagh Par'tok Qu'Vat 
+			Rotarran Slivin Somraw T'Acog T'Ong Toh'Kaht Ursva Vor'nak Vorn Vorok's Y'tem Ya'Vang 
+		}
+		corvette = {}
+		constructor = {}
+		colonizer = {}
+		science = {}
+		destroyer = {}
+		cruiser = {}
+		battleship = {}
+		orbital_station = {}
+		mining_station = {}
+		research_station = {}
+		wormhole_station = {}
+		terraform_station = {}
+		observation_station = {}
+		outpost_station = {}
+		transport = {}
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}
+	}
+
+	fleet_names = {
+		random_names = {}
+		sequential_name = "%O% Klingon Imperial Fleet"
+	}
+
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Defense Army"
+		}
+		assault_army = {
+			sequential_name = "%O% Warriors"
+		}
+		slave_army = {
+			sequential_name = "%O% Slaves"
+		}
+		clone_army = { 
+			sequential_name = "%O% Clone Amry"
+		}
+		robotic_army = {
+			sequential_name = "%O% Robots"
+		}
+		android_army = {
+			sequential_name = "%O% Androids"
+		}
+		psionic_army = { 
+			sequential_name = "%O% Psionic Army"
+		}
+		xenomorph_army = {
+			sequential_name = "%O% Xenomorphs"
+		}
+		gene_warrior_army = {
+			sequential_name = "%O% Gene Warriors"
+		}
+	}
+
+	planet_names = {
+		generic = {
+			names = {
+				Archanis Boreth H'atoria Khitomer Krios Maranga Morska N'Vak Narendra Organia Praxis Qo'noS Qu'Vat Raatooras "Rura Penthe" Ty'Gokor 
+			}
+		}
+		pc_desert = {
+			names = {}
+		}
+		pc_arid = {
+			names = {}
+		}
+		pc_tropical = {
+			names = {}
+		}
+		pc_continental = {
+			names = {}
+		}
+		pc_gaia = {
+			names = {}
+		}
+		pc_ocean = {
+			names = {}
+		}
+		pc_tundra = {
+			names = {}
+		}
+		pc_arctic = {
+			names = {}
+		}
+	}
+
+	@todo
+	character_names = {
+		names1 = {
+			weight = 100
+			first_names_male = {
+				"Aamin Marritza" Ari Asha Benil Boheeka Borven Broca Bronok Brun Cazanjian Corak "Corbin Entek" "Crell Moset" "Curry Dan" Damar Danar Darhe'el Daro Dejar 
+				Delgado Dolak Dukat Ekoor "Elim Garak" "Enabran Tain" Evek "Gilora Rejal" Goris "H cont." Hadar Hogue Hovat "Hutzel Gary" "Iliana Ghemor" "Iloja of Prim" 
+				Jasad "Jil Orra" "Joret Dal" Kamar Kattell Kell Korinas "Kotan Pa'Dar" Kovat Krim Lasaran Lemec Lonar Macet Madred Makbar Marayn Marratt Mavek Mekor Memad 
+				Mila Nador "Nanpart Malor" "Natima Lang" Ocett "P cont." Parmak Parn Pirak Porania Preloc Prenar Ranor "Raymond Boone" Rekelen Revok Rugal Rusot Russol Seltan 
+				Seska Seskal Shoggoth Siana "Silaran Prin" Spumco "Stipes David" Surjak Tajor "Tavor Kell" "Tekeny Ghemor" Telak Telle Thrax "Tora Ziyal" Toran Trepar Tulet 
+				Turrel "Ulani Belor" Vorlem Vornar Yaltar Zarale 
+			}
+			first_names_female = {
+				"Aamin Marritza" Ari Asha Benil Boheeka Borven Broca Bronok Brun Cazanjian Corak "Corbin Entek" "Crell Moset" "Curry Dan" Damar Danar Darhe'el Daro Dejar 
+				Delgado Dolak Dukat Ekoor "Elim Garak" "Enabran Tain" Evek "Gilora Rejal" Goris "H cont." Hadar Hogue Hovat "Hutzel Gary" "Iliana Ghemor" "Iloja of Prim" 
+				Jasad "Jil Orra" "Joret Dal" Kamar Kattell Kell Korinas "Kotan Pa'Dar" Kovat Krim Lasaran Lemec Lonar Macet Madred Makbar Marayn Marratt Mavek Mekor Memad 
+				Mila Nador "Nanpart Malor" "Natima Lang" Ocett "P cont." Parmak Parn Pirak Porania Preloc Prenar Ranor "Raymond Boone" Rekelen Revok Rugal Rusot Russol Seltan 
+				Seska Seskal Shoggoth Siana "Silaran Prin" Spumco "Stipes David" Surjak Tajor "Tavor Kell" "Tekeny Ghemor" Telak Telle Thrax "Tora Ziyal" Toran Trepar Tulet 
+				Turrel "Ulani Belor" Vorlem Vornar Yaltar Zarale 
+			}
+			second_names = {}
+			regnal_first_names_male = {
+				"Aamin Marritza" Ari Asha Benil Boheeka Borven Broca Bronok Brun Cazanjian Corak "Corbin Entek" "Crell Moset" "Curry Dan" Damar Danar Darhe'el Daro Dejar 
+				Delgado Dolak Dukat Ekoor "Elim Garak" "Enabran Tain" Evek "Gilora Rejal" Goris "H cont." Hadar Hogue Hovat "Hutzel Gary" "Iliana Ghemor" "Iloja of Prim" 
+				Jasad "Jil Orra" "Joret Dal" Kamar Kattell Kell Korinas "Kotan Pa'Dar" Kovat Krim Lasaran Lemec Lonar Macet Madred Makbar Marayn Marratt Mavek Mekor Memad 
+				Mila Nador "Nanpart Malor" "Natima Lang" Ocett "P cont." Parmak Parn Pirak Porania Preloc Prenar Ranor "Raymond Boone" Rekelen Revok Rugal Rusot Russol Seltan 
+				Seska Seskal Shoggoth Siana "Silaran Prin" Spumco "Stipes David" Surjak Tajor "Tavor Kell" "Tekeny Ghemor" Telak Telle Thrax "Tora Ziyal" Toran Trepar Tulet 
+				Turrel "Ulani Belor" Vorlem Vornar Yaltar Zarale 
+			}
+			regnal_first_names_female = {
+				"Aamin Marritza" Ari Asha Benil Boheeka Borven Broca Bronok Brun Cazanjian Corak "Corbin Entek" "Crell Moset" "Curry Dan" Damar Danar Darhe'el Daro Dejar 
+				Delgado Dolak Dukat Ekoor "Elim Garak" "Enabran Tain" Evek "Gilora Rejal" Goris "H cont." Hadar Hogue Hovat "Hutzel Gary" "Iliana Ghemor" "Iloja of Prim" 
+				Jasad "Jil Orra" "Joret Dal" Kamar Kattell Kell Korinas "Kotan Pa'Dar" Kovat Krim Lasaran Lemec Lonar Macet Madred Makbar Marayn Marratt Mavek Mekor Memad 
+				Mila Nador "Nanpart Malor" "Natima Lang" Ocett "P cont." Parmak Parn Pirak Porania Preloc Prenar Ranor "Raymond Boone" Rekelen Revok Rugal Rusot Russol Seltan 
+				Seska Seskal Shoggoth Siana "Silaran Prin" Spumco "Stipes David" Surjak Tajor "Tavor Kell" "Tekeny Ghemor" Telak Telle Thrax "Tora Ziyal" Toran Trepar Tulet 
+				Turrel "Ulani Belor" Vorlem Vornar Yaltar Zarale 
+			}
+			regnal_second_names = {}
+		}
+	}
+}

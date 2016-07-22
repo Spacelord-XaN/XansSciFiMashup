@@ -24,10 +24,10 @@
  personality_xan_st_federation_desc:0 "The united federation of planets stands for science, trade and cultural exchange between all races."
  
  personality_xan_st_darkEldar:0 "Sadistic slavers."
- personality_xan_st_darkEldar_desc:0 "They gor for piracy, torture and slavery."
+ personality_xan_st_darkEldar_desc:0 "They go for piracy, torture and slavery."
  
  personality_xan_st_eldar:0 "Ancient isolationists."
- personality_xan_st_eldar_desc:0 "The eldars hight times are over. They just want to protect what they have."
+ personality_xan_st_eldar_desc:0 "The eldars high times are over. They just want to protect what they have."
  
  personality_xan_st_chaos:0 "Chaos."
  personality_xan_st_chaos_desc:0 "There is no peace among the stars, only an eternity of carnage and slaughter and the laughter of thirsting gods."
@@ -55,6 +55,7 @@
  name_list_xan_sw_newRepublic:0 "SW New Republic"
  name_list_xan_st_borg:0 "ST Borg"
  name_list_xan_st_cardassian:0 "ST Cardassian"
+ name_list_xan_st_klingon:0 "ST Klingon"
  name_list_xan_w4_chaos:0 "W40k Chaos"
  name_list_xan_w4_darkEldar:0 "W40k Dark Eldar"
  name_list_xan_w4_eldar:0 "W40k Eldar"
