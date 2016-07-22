@@ -53,6 +53,7 @@
 ####################
  name_list_xan_sw_empire:0 "SW Empire"
  name_list_xan_sw_newRepublic:0 "SW New Republic"
+ name_list_xan_st_borg:0 "ST Borg"
  name_list_xan_w4_chaos:0 "W40k Chaos"
  name_list_xan_w4_darkEldar:0 "W40k Dark Eldar"
  name_list_xan_w4_eldar:0 "W40k Eldar"
