@@ -1,5 +1,155 @@
 ﻿#========================================
-# Warhammer 40k
+# Chaos
+#========================================
+xan_w4_chaos = {
+	randomized = no
+
+	ship_names = {
+		generic = {
+			"Aeternum Dread" "Anarchic Vendetta" "Carrion Squadron" "Covenant of Blood" Damnators Deathbane Deathblade Deathskull "Despicable Ecstasy" Doombringer 
+			Doomfire Dreadclaw Excessive Exterminators Fearmongers Fellclaws "Heathen Promise" Heldrake Hellbringer "Inculpators of Harok" Inferno "Infidus Diabolus" 
+			"Initiate of Skalathrax" "Khorne's Disciples" Killfrenzy "Lost Souls" Monstrous Pestilaan "Piercing Nova" Plagueclaw Pugatos Relatiators Soulless "Steel Fang" 
+			Swiftdeath "Unclean Ravagers" Unforgivable "Unholy Dominion" "Wanton Desecration"
+		}
+		corvette = {
+			"Chaos Eternus" Contagion Darkblood "Heartless Destroyer" "Hecate Hellfire" Horrific Injustice "Malignus Maximus" Warmaker
+		}
+		constructor = {}
+		colonizer = {}
+		science = {}
+		destroyer = {
+			"Blood Royale" "Bloodied Sword" "Bringer of Despair" Foe-Reaper Foebane Furious
+		}
+		cruiser = {
+			Alpha "Damnations Fury" "Destiny's Hand" "Eternity of Pain" "Fortress of Agony" Incarnadine "Infidus Imperator" Longinus "Merciless Death" "Scion of Prospero" 
+			Stonebreaker "Sword of Sacrilege" "The Ninth Eye" Torment "Umbrea Insidior" "Wage of Sin"
+		}
+		battleship = {
+			"Agonising Death" Conqueror "Planet Killer" Stormbeast "Terminus Est" "The Treacherous" "Vengeful Spirit"
+		}
+		orbital_station = {}
+		mining_station = {}
+		research_station = {}
+		wormhole_station = {}
+		terraform_station = {}
+		observation_station = {}
+		outpost_station = {}
+		transport = {}
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}
+	}
+
+	fleet_names = {
+		random_names = {
+			"Alpha Legion Fleet" "Black Legion Fleet" "Death Guard Fleet" "Emperor's Children Fleet" "Iron Warriors Fleet" "Night Lords Fleet" "Thousand Sons Fleet" 
+			"Word Bearers Fleet" "World Eaters Fleet"
+		}
+		sequential_name = "%O% Chaos fleet"
+	}
+
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Chaos Cultists"
+		}
+		assault_army = {
+			sequential_name = "%O% Renegade Infantry"
+		}
+		slave_army = {
+			sequential_name = "%O% Slaves"
+		}
+		clone_army = { 
+			sequential_name = "%O% Chaos Spawns"
+		}
+		robotic_army = {
+			sequential_name = "%O% Posesed Machine spirits"
+		}
+		android_army = {
+			sequential_name = "%O% Ogryn Brutes"
+		}
+		psionic_army = { 
+			sequential_name = "%O% Chaos Sorcerers"
+		}
+		xenomorph_army = {
+			sequential_name = "%O% Flesh Hounds"
+		}
+		gene_warrior_army = {
+			sequential_name = "%O% Chaos Space Legion"
+		}
+	}
+
+	planet_names = {
+		generic = {
+			names = {
+				"Absolom Reach" Adraith Aktosha Almarit Anathrax Brigannion Bubonicus Drakaasi Eidolon "Fool's Paradise" Fyre Harmony "Hell's Teeth" 
+				Kathalon Maeleum Medrengard "M'Laar" Oliensis "Plague Planet" "Planet of the Sorcerers" Sicarus Sortiarius Temporia 
+				Torvendis "Urskas Sol Tetra" "World of Immortal Sorrows" Xana
+			}
+		}
+		pc_desert = {
+			names = {}
+		}
+		pc_arid = {
+			names = {}
+		}
+		pc_tropical = {
+			names = {}
+		}
+		pc_continental = {
+			names = {}
+		}
+		pc_gaia = {
+			names = {}
+		}
+		pc_ocean = {
+			names = {}
+		}
+		pc_tundra = {
+			names = {}
+		}
+		pc_arctic = {
+			names = {}
+		}
+	}
+
+	character_names = {
+		names1 = {
+			weight = 100
+			first_names_male = {
+				Ahmuz Ahzek Akhor'menet Amon Amurael Andraaz Araghast Arkos Arkturion Ashur-Kai Atum Bale Barban Bazrak Berossus Burias Cadaras Chengrel Corpulax Crull 
+				Davroth Devram Dhar'leth Drachmus Drecarth Dynat Eidolon Ekodas Eliphas Emmesh-Aiye Enusat Eralak Erebus Erelek Fabius Faenroc Falkus Ferrous Festardius 
+				Firaeveus Forrix Garand Gideous Halasker Hans Hekastis Hemek Herume Hodir Honsou Ignatius Iskandar Iskavan Jaghathra Jarulek Jihar Julius Kalkator Karlsen 
+				Kernax Khârn Khadeth Khrove Kol Kolvax Kor Koros Kosolax Krieg Kroeger Leyak Lheorvine Lucius Lucoryphus Madox Malcharion Malgar Maloq Manneus Marduk Mordant 
+				Mordeghai Mothac Myrath Necrosius Onoris Paristur Phocron Porphyricus Quor Roek Roghax Sargon Scabarulous Sektoth Seth Shon'tu Sindri Skchalick Skyrak Sor 
+				Talos Tarraq Telemachon Tolbek Toramino Typhus Umbragg Urkrathos Ussax Varlag Vhostok Voidheart Volupus Vykus Xyn'Goran Ygethmor Zagthean Zaraphiston Zarghan 
+				Zhorisch Zhufor Zso 
+			}
+			first_names_female = {
+				Ahmuz Ahzek Akhor'menet Amon Amurael Andraaz Araghast Arkos Arkturion Ashur-Kai Atum Bale Barban Bazrak Berossus Burias Cadaras Chengrel Corpulax Crull 
+				Davroth Devram Dhar'leth Drachmus Drecarth Dynat Eidolon Ekodas Eliphas Emmesh-Aiye Enusat Eralak Erebus Erelek Fabius Faenroc Falkus Ferrous Festardius 
+				Firaeveus Forrix Garand Gideous Halasker Hans Hekastis Hemek Herume Hodir Honsou Ignatius Iskandar Iskavan Jaghathra Jarulek Jihar Julius Kalkator Karlsen 
+				Kernax Khârn Khadeth Khrove Kol Kolvax Kor Koros Kosolax Krieg Kroeger Leyak Lheorvine Lucius Lucoryphus Madox Malcharion Malgar Maloq Manneus Marduk Mordant 
+				Mordeghai Mothac Myrath Necrosius Onoris Paristur Phocron Porphyricus Quor Roek Roghax Sargon Scabarulous Sektoth Seth Shon'tu Sindri Skchalick Skyrak Sor 
+				Talos Tarraq Telemachon Tolbek Toramino Typhus Umbragg Urkrathos Ussax Varlag Vhostok Voidheart Volupus Vykus Xyn'Goran Ygethmor Zagthean Zaraphiston Zarghan 
+				Zhorisch Zhufor Zso 
+			}
+			second_names = {
+				Temekh Ahriman Qezremah Sum Falk Drak'Shal Grendel Korda Mal Bile Kibre Ironclaw Carron Krall Kho'ren Nul Aphael Grulgor Khayon Vrax Kaesoron Voldorius Badar 
+				Phaeron Acerbus Ukris Irongrasp Kartho Drath Hex Karmain Ghulclaw Eregesh Myr Talgron Darkblood Lyras Pistonhand Skayle Sahaal 
+			}
+
+			regnal_first_names_male = {
+				Alpharius Angron Fulgrim Horus "Konrad Curze" Lorgar Magnus Mortarion Perturabo 
+			}
+			regnal_first_names_female = {
+				Alpharius Angron Fulgrim Horus "Konrad Curze" Lorgar Magnus Mortarion Perturabo 
+			}
+			regnal_second_names = {}
+		}
+	}
+}
+#========================================
+# Empire
 #========================================
 xan_w4_empire = {
 	randomized = no
@@ -201,7 +351,9 @@ xan_w4_empire = {
 		}
 	}
 }
-
+#========================================
+# Tyranid
+#========================================
 xan_w4_tyranid = {
 	randomized = no
 
