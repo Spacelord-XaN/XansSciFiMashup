@@ -15,7 +15,7 @@
  personality_xan_st_borg_desc:0 "The Borg Collective only have one target to assimilate all other species. >>Resistance is futile.<<"
  
  personality_xan_st_cardassian:0 "Militaristic Conquerors"
- personality_xan_st_cardassian_desc:0 "The Cardassion Union is continiously expanding their influence."
+ personality_xan_st_cardassian_desc:0 "The Cardassian Union is continiously expanding their influence."
  
  personality_xan_st_klingon:0 "Militaristic Conquerors"
  personality_xan_st_klingon_desc:0 "The Klingon Empire is trying to conquer all un-honorable species."
@@ -54,6 +54,7 @@
  name_list_xan_sw_empire:0 "SW Empire"
  name_list_xan_sw_newRepublic:0 "SW New Republic"
  name_list_xan_st_borg:0 "ST Borg"
+ name_list_xan_st_cardassian:0 "ST Cardassian"
  name_list_xan_w4_chaos:0 "W40k Chaos"
  name_list_xan_w4_darkEldar:0 "W40k Dark Eldar"
  name_list_xan_w4_eldar:0 "W40k Eldar"

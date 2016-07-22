@@ -60,7 +60,7 @@ xan_st_borg
 #========================================
 xan_st_cardassian
 ={
-	name_list="Human"
+	name_list="xan_st_cardassian"
 	ship_prefix="CS"
 	species_name="Cardassian"
 	species_plural="Cardassians"
