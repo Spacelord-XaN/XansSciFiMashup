@@ -908,7 +908,6 @@ xan_w4_ork = {
 		}
 	}
 
-	@todo
 	character_names = {
 		names1 = {
 			weight = 100
