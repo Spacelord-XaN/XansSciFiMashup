@@ -977,6 +977,136 @@ xan_w4_ork = {
 	}
 }
 #========================================
+# Tau
+#========================================
+xan_w4_tau = {
+	randomized = no
+
+	ship_names = {
+		generic = {
+			Barracuda Gal'leath Il'Emaar Il'Porrui Il'fannor Kass'l "Kir'la Carrier" Kir'qath Kir'shasvre Lar'shi Lar'shi'vre Manta "Nicassar Dhow" "Or'es El'leath" Orca 
+			Razorshark Remora Skether'qan "Sun Shark" "Tiger Shark" 
+		}
+		corvette = {}
+		constructor = {}
+		colonizer = {}
+		science = {}
+		destroyer = {}
+		cruiser = {}
+		battleship = {}
+		orbital_station = {}
+		mining_station = {}
+		research_station = {}
+		wormhole_station = {}
+		terraform_station = {}
+		observation_station = {}
+		outpost_station = {}
+		transport = {}
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}
+	}
+
+	fleet_names = {
+		random_names = {
+			Kor'vattra
+		}
+		sequential_name = "%O% Ethereal Fleet"
+	}
+
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Morralian Deathsworn"
+		}
+		assault_army = {
+			sequential_name = "%O% Fire Warriors"
+		}
+		slave_army = {
+			sequential_name = "%O% Slaves"
+		}
+		clone_army = { 
+			sequential_name = "%O% Galgs"
+		}
+		robotic_army = {
+			sequential_name = "%O% Ranghons"
+		}
+		android_army = {
+			sequential_name = "%O% Formosians"
+		}
+		psionic_army = { 
+			sequential_name = "%O% Nicassars"
+		}
+		xenomorph_army = {
+			sequential_name = "%O% Kroots"
+		}
+		gene_warrior_army = {
+			random_names = {}
+			sequential_name = "%O% Vespids"
+		}
+	}
+
+	planet_names = {
+		generic = {
+			names = {
+				Ag'Ni Arkunasha "Arthas Moloch" Astagor "Atari Vo" Au'taal Bork'an Cano'var Caroch Cytheria D'yanoi Dal'yth "Damocles Gulf" "Dolhouk Phel" "Eastern Fringe" 
+				Elsy'eir Es'Tau Etorras Fal'shia "Farsight Enclaves" Fi'rios Fio'vash Go'shol Govina Ho'sarn Ka'mais Ke'lshan Kor'var Ksi'm'yen Kuu'lan Lu'val Lub'grahl 
+				"Mu'gulath Bay" N'dras "Perdus Rift" Queh-quih Ral'eth Rann Sa'cea Salash'hei Salomine "Sept Symbol" Sha'draig Shau'Nesh T'au T'olku T'ros Tash'var Tau'n 
+				Tinek'la Tsua'Malor Uan'Voss Uor'la Ur-Clemait Va'yun Vas'talos Vash'ya Velk'Han Vespid Vigos Vior'la Vior'los Visse'el Yu'Kanesh 
+			}
+		}
+		pc_desert = {
+			names = {}
+		}
+		pc_arid = {
+			names = {}
+		}
+		pc_tropical = {
+			names = {}
+		}
+		pc_continental = {
+			names = {}
+		}
+		pc_gaia = {
+			names = {}
+		}
+		pc_ocean = {
+			names = {}
+		}
+		pc_tundra = {
+			names = {}
+		}
+		pc_arctic = {
+			names = {}
+		}
+	}
+
+	character_names = {
+		names1 = {
+			weight = 100
+			first_names_male = {
+				"Anghkor Prok" Calon'oi Darktide Dasir El'Jan’kai El'Lusha El'Yis'ten El'hassai Flamechild Ghovah Gorok Griahgri Harbyx Ju Kai'to'aen Kais Kesor Kor'O'Vanan 
+				"Kor'el Vess'ral" "Kor'o Gal'lo" "Kor'o Y'eldi" Nightwind Novastorm "O cont." O'Ishu'ron O'Mau'tel O'Shalas O'Shaserra O'Shi'ur O'Shien O'Shovah O'T'yra 
+				O'Ta'Sar Or'es'Ka Ortrazk Pechallai Puretide R'Alai R'myr Rennikus "Serena Erizon" "Sha Aux'Phan" Shadewalker "Shas'O M'yen" Shas'O'Asdia "Shas'la T'au Kais" 
+				Shi'Ores Sho'Aun Skychild Starstrider Valroth Vorcah Y’hol 
+			}
+			first_names_female = {
+				"Anghkor Prok" Calon'oi Darktide Dasir El'Jan’kai El'Lusha El'Yis'ten El'hassai Flamechild Ghovah Gorok Griahgri Harbyx Ju Kai'to'aen Kais Kesor Kor'O'Vanan 
+				"Kor'el Vess'ral" "Kor'o Gal'lo" "Kor'o Y'eldi" Nightwind Novastorm "O cont." O'Ishu'ron O'Mau'tel O'Shalas O'Shaserra O'Shi'ur O'Shien O'Shovah O'T'yra 
+				O'Ta'Sar Or'es'Ka Ortrazk Pechallai Puretide R'Alai R'myr Rennikus "Serena Erizon" "Sha Aux'Phan" Shadewalker "Shas'O M'yen" Shas'O'Asdia "Shas'la T'au Kais" 
+				Shi'Ores Sho'Aun Skychild Starstrider Valroth Vorcah Y’hol 
+			}
+			second_names = {}
+			regnal_first_names_male = {
+				Aun'Cho Aun'Do Aun'Fyr Aun'Ko Aun'Pau Aun'Ro'Yr Aun'Vre Aun'Wei Aun'shi Aun'taniel Aun'va "Sha Aux'Phan" Shi'Ores 
+			}
+			regnal_first_names_female = {
+				Aun'Cho Aun'Do Aun'Fyr Aun'Ko Aun'Pau Aun'Ro'Yr Aun'Vre Aun'Wei Aun'shi Aun'taniel Aun'va "Sha Aux'Phan" Shi'Ores 
+			}
+			regnal_second_names = {}
+		}
+	}
+}
+#========================================
 # Tyranid
 #========================================
 xan_w4_tyranid = {

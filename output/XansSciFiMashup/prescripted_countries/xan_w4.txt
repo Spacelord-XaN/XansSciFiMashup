@@ -332,7 +332,7 @@ xan_w4_ork
 
 xan_w4_tau
 ={
-	name_list="AVI2"
+	name_list="xan_w4_tau"
 	ship_prefix="Airship"
 	species_name="Tau"
 	species_plural="Tau"
