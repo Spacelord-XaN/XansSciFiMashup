@@ -359,7 +359,7 @@ xan_w4_eldar = {
 
 	fleet_names = {
 		random_names = {
-			"Alaitoc fleet" "Biel-tan fleet" "Iyanden fleet" Saim-Hann fleet" "Ulthwé fleet"
+			"Alaitoc fleet" "Biel-tan fleet" "Iyanden fleet" "Saim-Hann fleet" "Ulthwé fleet"
 		}
 		sequential_name = "%O% fleet"
 	}
