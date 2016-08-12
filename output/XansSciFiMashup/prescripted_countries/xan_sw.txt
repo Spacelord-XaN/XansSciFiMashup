@@ -64,7 +64,7 @@ xan_sw_newRepublic
 	species_class="MAM"
 	species_adjective="human"
 	species_bio=""
-	portrait="human"
+	portrait="xan_sw_newRepublic"
 	name="New Republic"
 	adjective="republican"
 	government="indirect_democracy"
@@ -95,7 +95,7 @@ xan_sw_newRepublic
 	ruler={
 		gender=female
 		name="Mon Mothma"
-		portrait="human_female_03"
+		portrait="xan_sw_newRepublic_ruler_00"
 		texture=0
 		hair=0
 		clothes=4
