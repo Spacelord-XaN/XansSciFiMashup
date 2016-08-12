@@ -10,7 +10,7 @@ xan_st_borg
 	species_class="ROBOT"
 	species_adjective="borg"
 	species_bio=""
-	portrait="robot1"
+	portrait="xan_st_borg"
 	name="Borg Collective"
 	adjective="borg"
 	government="despotic_hegemony"
@@ -41,7 +41,7 @@ xan_st_borg
 	ruler={
 		gender=female
 		name="Borg"
-		portrait="robot1"
+		portrait="xan_st_borg_ruler_00"
 		texture=0
 		hair=0
 		clothes=0
