@@ -67,7 +67,7 @@ xan_st_cardassian
 	species_class="REP"
 	species_adjective="cardassian"
 	species_bio=""
-	portrait="rep4"
+	portrait="xan_st_cardassian"
 	name="Cardassian Union"
 	adjective="cardassian"
 	government="military_junta"
@@ -98,7 +98,7 @@ xan_st_cardassian
 	ruler={
 		gender=male
 		name="Dukat"
-		portrait="rep4"
+		portrait="xan_st_cardassian_ruler_00"
 		texture=4
 		hair=0
 		clothes=0
