@@ -115,7 +115,7 @@ xan_w4_chaos = {
 	character_names = {
 		names1 = {
 			weight = 100
-			first_names_male = {
+			full_names = {
 				Ahmuz Ahzek Akhor'menet Amon Amurael Andraaz Araghast Arkos Arkturion Ashur-Kai Atum Bale Barban Bazrak Berossus Burias Cadaras Chengrel Corpulax Crull 
 				Davroth Devram Dhar'leth Drachmus Drecarth Dynat Eidolon Ekodas Eliphas Emmesh-Aiye Enusat Eralak Erebus Erelek Fabius Faenroc Falkus Ferrous Festardius 
 				Firaeveus Forrix Garand Gideous Halasker Hans Hekastis Hemek Herume Hodir Honsou Ignatius Iskandar Iskavan Jaghathra Jarulek Jihar Julius Kalkator Karlsen 
@@ -123,19 +123,6 @@ xan_w4_chaos = {
 				Mordeghai Mothac Myrath Necrosius Onoris Paristur Phocron Porphyricus Quor Roek Roghax Sargon Scabarulous Sektoth Seth Shon'tu Sindri Skchalick Skyrak Sor 
 				Talos Tarraq Telemachon Tolbek Toramino Typhus Umbragg Urkrathos Ussax Varlag Vhostok Voidheart Volupus Vykus Xyn'Goran Ygethmor Zagthean Zaraphiston Zarghan 
 				Zhorisch Zhufor Zso 
-			}
-			first_names_female = {
-				Ahmuz Ahzek Akhor'menet Amon Amurael Andraaz Araghast Arkos Arkturion Ashur-Kai Atum Bale Barban Bazrak Berossus Burias Cadaras Chengrel Corpulax Crull 
-				Davroth Devram Dhar'leth Drachmus Drecarth Dynat Eidolon Ekodas Eliphas Emmesh-Aiye Enusat Eralak Erebus Erelek Fabius Faenroc Falkus Ferrous Festardius 
-				Firaeveus Forrix Garand Gideous Halasker Hans Hekastis Hemek Herume Hodir Honsou Ignatius Iskandar Iskavan Jaghathra Jarulek Jihar Julius Kalkator Karlsen 
-				Kernax Khârn Khadeth Khrove Kol Kolvax Kor Koros Kosolax Krieg Kroeger Leyak Lheorvine Lucius Lucoryphus Madox Malcharion Malgar Maloq Manneus Marduk Mordant 
-				Mordeghai Mothac Myrath Necrosius Onoris Paristur Phocron Porphyricus Quor Roek Roghax Sargon Scabarulous Sektoth Seth Shon'tu Sindri Skchalick Skyrak Sor 
-				Talos Tarraq Telemachon Tolbek Toramino Typhus Umbragg Urkrathos Ussax Varlag Vhostok Voidheart Volupus Vykus Xyn'Goran Ygethmor Zagthean Zaraphiston Zarghan 
-				Zhorisch Zhufor Zso 
-			}
-			second_names = {
-				Temekh Ahriman Qezremah Sum Falk Drak'Shal Grendel Korda Mal Bile Kibre Ironclaw Carron Krall Kho'ren Nul Aphael Grulgor Khayon Vrax Kaesoron Voldorius Badar 
-				Phaeron Acerbus Ukris Irongrasp Kartho Drath Hex Karmain Ghulclaw Eregesh Myr Talgron Darkblood Lyras Pistonhand Skayle Sahaal 
 			}
 
 			regnal_first_names_male = {
@@ -293,7 +280,7 @@ xan_w4_darkEldar = {
 	character_names = {
 		names1 = {
 			weight = 100
-			first_names_male = {
+			full_names = {
 				Ar'oriaq Arhmoque Arhvhar Arhzaq Armahis Armazon Arqagrath Arqasar Arzurdiaq Arzurvhar Asdrurath Asdrusaros Asdruvhar Bahrgard Bahrurihz Bazharizar Bernukos 
 				Bernuqir Bernuryq Bhudhar Bhugrath Bhuryq Bhusath Bhutyhr Bradiaq Braeshiron Burasarith Caenbran Caenrizar Charmar Charnyr Cra'ozadiaq Cra'ozasaros Crahldros 
 				Crahlsar Crahlsyr Dazadiaq Dazaneque Dazaqir Dradros Drasarith Drazbryn Drazdazar El'urkei Erzaraes Erzaryq Ezardurin Ezkyth Eznazar Faharmahr Faharzhan 
@@ -302,16 +289,6 @@ xan_w4_darkEldar = {
 				Le'usar Le'uzon Marunahr Mezasar Mezasaros Muchteque Murihis Murikras Murizaq Or'idazar Or'izhar Oriteque Orqavor Ozusyr Tahkras Tahtahr Tezahyque Tezaryq 
 				Trazhrath Yl'araz Yranazar Yzumahr Yzuriaq Yzuvall
 			}
-			first_names_female = {
-				Aesdove Aessaer Aezodove Aezogwyss Ahlneza Ahlraesh Ar'usheque Ar'ussaer Arabrique Aradhae Arahia Ararith Arqikryss Arqimyss Arqirenn Arqitaez Ashrugahne 
-				Baehmare Baestarin Baesvelle Bahretarin Besnutihr Bezhazaehn Bhidove Bhiqore Bhragrynn Biramaque Crehnhia Crehnreaq Cri'oradhae Dehzaseqe Dehzatyhs Deraqinn 
-				Derarizora Derasyrr Dergrynn Dermohre Derresse Drehzkysse Drehztaena El'orgwyss Erazabaehra Erazaseth Ezirrihque Fehsamehra Fhatyhs Fraebrique Fraedhae 
-				Gae'envelle Griqore Grityhs Grizhael Guragahne Guraneque Gurataena Iazedeza Iazegeza Iazenyrr Iremirenne Iretaena Izeramyss Izeranahra Kaeraseqe Kahnadreos 
-				Kahnanyrr Kahnavynn Kehnamyss Laerhhira Laerhresse Laezabrique Lanumyss Lanunyrr Lanurizora Lohzagohne Lohzamirenne Lohzarihque Lohzarizora Maerorihque 
-				Meraraesh Meriseqe Mesrakryss Mesrasira Ohzakryss Orarihque Orarizora Oriqageza Oriqagwyss Orirenn Oriseos Orivelle Trezhkeo Trezhthara Ynariza Yr'adera 
-				Yr'areaq Yr'avelle Yzikeo Yzikeri Yziqore
-			}
-			second_names = {}
 
 			regnal_first_names_male = {
 				"Akhara'" Andross Asdrubael "El'uriaq" Nyos "S'aronai" Surasis Vorl Vraesque Xerathis
@@ -624,7 +601,6 @@ xan_w4_empire = {
 	character_names = {
 		names1 = {
 			weight = 100
-			#@todo male & female names are the same lists --> split them
 			first_names_male = {
 				Abdul Abdulias Abel Abriel Adrastia Aevos Ahmazzi Akkir Al-Subaai Alarbus Amaranthine Amchanduste Amelda Andreas Anko Annesh Anton Arcotholitis Argun Argus 
 				Arik Armandus Arnuldus Artemidorus Askarid Aulis Auric Axan Babu Balmorn Balthazar Barthannel Baryk Bequa Bocsh Brokur Bryce Brython Calibron Camille Capulan 
@@ -911,7 +887,7 @@ xan_w4_ork = {
 	character_names = {
 		names1 = {
 			weight = 100
-			first_names_male = {
+			full_names = {
 				'Eadcrumpa Arbuttz Arch-Arsonist "Arch-Maniac of Calverna" "Arrgard the Defiler" "Azrukk Ur Nazdakka" Baddfrag Badfragg Badlug Badrukk "Big Boss Gigagob" 
 				"Big Redd" "Big Skorcha" "Big Wattz" Biglug Blackaxe Blacklaw Blaktoof Bludcrumpa Bluddflagg Boargurr Bogga-bogga "Bogrot Bones" Bogsnik Bolgrog "Bone Stompa" 
 				Bonekraka "Borzag Khan" Brug Burzuruk Buzzgit Buzzgob "Chewgrim Klubboss" "Da Blue Mek" "Da Krimson Barun" "Da Red Gobbo" "Da Sky Shredda" "Dreg Panzeehunta" 
@@ -929,25 +905,6 @@ xan_w4_ork = {
 				"Uglurk Gitsmasha" Ugrak "Ugskraga da Mighty" Ugulhard Ungskar "Urgok the Unstoppable" "Urlakk Urg" Vargall Vorgnot "Vorhgad Bloodfang" "Wazdakka Gutsmek" 
 				Wingnutz Wugzark Zagdakka "Zodgrod Wortsnagga" 
 			}
-			first_names_female = {
-				'Eadcrumpa Arbuttz Arch-Arsonist "Arch-Maniac of Calverna" "Arrgard the Defiler" "Azrukk Ur Nazdakka" Baddfrag Badfragg Badlug Badrukk "Big Boss Gigagob" 
-				"Big Redd" "Big Skorcha" "Big Wattz" Biglug Blackaxe Blacklaw Blaktoof Bludcrumpa Bluddflagg Boargurr Bogga-bogga "Bogrot Bones" Bogsnik Bolgrog "Bone Stompa" 
-				Bonekraka "Borzag Khan" Brug Burzuruk Buzzgit Buzzgob "Chewgrim Klubboss" "Da Blue Mek" "Da Krimson Barun" "Da Red Gobbo" "Da Sky Shredda" "Dreg Panzeehunta" 
-				"Dregz Wuzghal" Drogbag Drogg Garaghak "Gargash Korbul" "Garmek Oil-Guzzler" Garskrak Garzulk "Gashrakk Da Flash" Gazbag Gazgrim "Gharag Badtoof" 
-				"Gharkul Blackfang" "Ghazghkull Mag Uruk Thraka" "Ghenghiz Grimtoof" Gitsmasha Gluttok Gobklaw Godstompa Gogard Gorbad Gorbag "Gorbag Gitburna" Gorblood 
-				Gorfang "Gorgutz 'Ead 'Unter" "Gorsnik Magash" Gorwazza Grabork Gragnatz "Grak Bigtoof" Grakka Grax Grimgutz "Grimgutz da 'Orrible" Grimshak Grimskull 
-				"Grimsnag Urk" "Grimtusk Bloodboila" Grishnak Grizgutz "Griznak Gobsmasha" Groblonik "Grog Chewtops" "Grog Ironteef" Grokksmak Groshpit Grotnaut Grotsnik 
-				Grozbok Grubnak "Grukk Face-Rippa" Gulgrog Gurgit Gutcrusha Gutgouger "Gutrak Dethhead" Gutshredda Gutstompa Hedkrakka "Hruk Teefsplinta" Humiehacka Icekrakka 
-				Irongol Irongutz Ironjaw Jazgob "Judrog Irontoof" "Kaptin Blackgit" Killdagga Killfist Killzkar Klawjaw Kodos Kogtoof "Kommander Rarguts" Kozgrob Kragga 
-				Krakskul Kroksnikz Krugg "Krunch 'Ead-stompa" Kurguz Madbrakka Magog Magrot Mahrblud Makari Makrina "Manstompa Megakilla" Mardrug Mashogg Megamek 
-				"Mogdos Gilt-Toof" Mogrok Morbad Morfangz "Morgaash Kulgraz" Morkrog "Morkrull Grimskar" "Murgor 'Undred Teef" "Nabrot Stub-fingers" "Nazdreg Ug Urdgrub" 
-				Nazgob Nekkruncha Nuddyfist Oddgit Oilguzla Orghamek Orkamungus Orkimedes "Overfiend of Octarius" Ozdakka "Raddak Bluefinga" "Razgrod Duffsnik" Razorhed 
-				Rekkfist "Rokbad Necksnapper" Rotgrub Rukrippa Skabsnik Skagrog Skarfang Skarfangz "Skargor the Despoiler" "Skargrim Ruknar" Skogrin Skorgrin Skullkrak 
-				Skullkrumpa Skullrencha Snagga-snagga Snagratoof Snagrod Snappaklaw Snikrot Spleenrippa Starsmasha Sunspitta "The Beast" Thugsnik Toofjaw Tuska Ugblitz Uggrot 
-				"Uglurk Gitsmasha" Ugrak "Ugskraga da Mighty" Ugulhard Ungskar "Urgok the Unstoppable" "Urlakk Urg" Vargall Vorgnot "Vorhgad Bloodfang" "Wazdakka Gutsmek" 
-				Wingnutz Wugzark Zagdakka "Zodgrod Wortsnagga" 
-			}
-			second_names = {}
 			regnal_first_names_male = {
 				'Eadcrumpa Arbuttz "Arch-Maniac of Calverna" "Arrgard the Defiler" Badfragg "Beast, The" "Big Skorcha" Biglug Blaktoof Bludcrumpa Bogga-bogga Bolgrog 
 				"Bone Stompa" Bonekraka Bonesmasha Brug "Buzzgob da Burna Boy" Chatak Dragnatz Garaghak "Gargash Korbul" "Garmek Oil-Guzzler" "Garshul the Destroyer" Garskrak 
@@ -1083,19 +1040,12 @@ xan_w4_tau = {
 	character_names = {
 		names1 = {
 			weight = 100
-			first_names_male = {
+			full_names = {
 				"Anghkor Prok" Calon'oi Darktide Dasir El'Jan’kai El'Lusha El'Yis'ten El'hassai Flamechild Ghovah Gorok Griahgri Harbyx Ju Kai'to'aen Kais Kesor Kor'O'Vanan 
 				"Kor'el Vess'ral" "Kor'o Gal'lo" "Kor'o Y'eldi" Nightwind Novastorm "O cont." O'Ishu'ron O'Mau'tel O'Shalas O'Shaserra O'Shi'ur O'Shien O'Shovah O'T'yra 
 				O'Ta'Sar Or'es'Ka Ortrazk Pechallai Puretide R'Alai R'myr Rennikus "Serena Erizon" "Sha Aux'Phan" Shadewalker "Shas'O M'yen" Shas'O'Asdia "Shas'la T'au Kais" 
 				Shi'Ores Sho'Aun Skychild Starstrider Valroth Vorcah Y’hol 
 			}
-			first_names_female = {
-				"Anghkor Prok" Calon'oi Darktide Dasir El'Jan’kai El'Lusha El'Yis'ten El'hassai Flamechild Ghovah Gorok Griahgri Harbyx Ju Kai'to'aen Kais Kesor Kor'O'Vanan 
-				"Kor'el Vess'ral" "Kor'o Gal'lo" "Kor'o Y'eldi" Nightwind Novastorm "O cont." O'Ishu'ron O'Mau'tel O'Shalas O'Shaserra O'Shi'ur O'Shien O'Shovah O'T'yra 
-				O'Ta'Sar Or'es'Ka Ortrazk Pechallai Puretide R'Alai R'myr Rennikus "Serena Erizon" "Sha Aux'Phan" Shadewalker "Shas'O M'yen" Shas'O'Asdia "Shas'la T'au Kais" 
-				Shi'Ores Sho'Aun Skychild Starstrider Valroth Vorcah Y’hol 
-			}
-			second_names = {}
 			regnal_first_names_male = {
 				Aun'Cho Aun'Do Aun'Fyr Aun'Ko Aun'Pau Aun'Ro'Yr Aun'Vre Aun'Wei Aun'shi Aun'taniel Aun'va "Sha Aux'Phan" Shi'Ores 
 			}
@@ -1241,13 +1191,9 @@ xan_w4_tyranid = {
 	character_names = {
 		names1 = {
 			weight = 100
-			first_names_male = {
+			full_names = {
 				Biothrope Broodlord "Dagon Overlord" Dominatrix "Doom of Malan'tai" "Hive Tyrant" Neurothropes Swarmlord Venomthrope Zoanthrope
 			}
-			first_names_female = {
-				Biothrope Broodlord "Dagon Overlord" Dominatrix "Doom of Malan'tai" Neurothropes "Norn-Queen" Swarmlord Venomthrope Zoanthrope
-			}
-			second_names = {}
 			regnal_first_names_male = {
 				"Hive Mind"
 			}

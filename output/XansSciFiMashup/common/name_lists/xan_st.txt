@@ -139,18 +139,14 @@ xan_st_borg = {
 	character_names = {
 		names1 = {
 			weight = 100
-			first_names_male = {
+			full_names = {
 				Borg
 			}
-			first_names_female = {
-				Borg
-			}
-			second_names = {}
 			regnal_first_names_male = {
-				Borg Queen
+				"Borg Queen"
 			}
 			regnal_first_names_female = {
-				Borg Queen
+				"Borg Queen"
 			}
 			regnal_second_names = {}
 		}
@@ -259,7 +255,7 @@ xan_st_cardassian = {
 	character_names = {
 		names1 = {
 			weight = 100
-			first_names_male = {
+			full_names = {
 				"Aamin Marritza" Ari Asha Benil Boheeka Borven Broca Bronok Brun Cazanjian Corak "Corbin Entek" "Crell Moset" "Curry Dan" Damar Danar Darhe'el Daro Dejar 
 				Delgado Dolak Dukat Ekoor "Elim Garak" "Enabran Tain" Evek "Gilora Rejal" Goris "H cont." Hadar Hogue Hovat "Hutzel Gary" "Iliana Ghemor" "Iloja of Prim" 
 				Jasad "Jil Orra" "Joret Dal" Kamar Kattell Kell Korinas "Kotan Pa'Dar" Kovat Krim Lasaran Lemec Lonar Macet Madred Makbar Marayn Marratt Mavek Mekor Memad 
@@ -267,15 +263,6 @@ xan_st_cardassian = {
 				Seska Seskal Shoggoth Siana "Silaran Prin" Spumco "Stipes David" Surjak Tajor "Tavor Kell" "Tekeny Ghemor" Telak Telle Thrax "Tora Ziyal" Toran Trepar Tulet 
 				Turrel "Ulani Belor" Vorlem Vornar Yaltar Zarale 
 			}
-			first_names_female = {
-				"Aamin Marritza" Ari Asha Benil Boheeka Borven Broca Bronok Brun Cazanjian Corak "Corbin Entek" "Crell Moset" "Curry Dan" Damar Danar Darhe'el Daro Dejar 
-				Delgado Dolak Dukat Ekoor "Elim Garak" "Enabran Tain" Evek "Gilora Rejal" Goris "H cont." Hadar Hogue Hovat "Hutzel Gary" "Iliana Ghemor" "Iloja of Prim" 
-				Jasad "Jil Orra" "Joret Dal" Kamar Kattell Kell Korinas "Kotan Pa'Dar" Kovat Krim Lasaran Lemec Lonar Macet Madred Makbar Marayn Marratt Mavek Mekor Memad 
-				Mila Nador "Nanpart Malor" "Natima Lang" Ocett "P cont." Parmak Parn Pirak Porania Preloc Prenar Ranor "Raymond Boone" Rekelen Revok Rugal Rusot Russol Seltan 
-				Seska Seskal Shoggoth Siana "Silaran Prin" Spumco "Stipes David" Surjak Tajor "Tavor Kell" "Tekeny Ghemor" Telak Telle Thrax "Tora Ziyal" Toran Trepar Tulet 
-				Turrel "Ulani Belor" Vorlem Vornar Yaltar Zarale 
-			}
-			second_names = {}
 			regnal_first_names_male = {
 				"Aamin Marritza" Ari Asha Benil Boheeka Borven Broca Bronok Brun Cazanjian Corak "Corbin Entek" "Crell Moset" "Curry Dan" Damar Danar Darhe'el Daro Dejar 
 				Delgado Dolak Dukat Ekoor "Elim Garak" "Enabran Tain" Evek "Gilora Rejal" Goris "H cont." Hadar Hogue Hovat "Hutzel Gary" "Iliana Ghemor" "Iloja of Prim" 
@@ -398,7 +385,7 @@ xan_st_klingon = {
 	character_names = {
 		names1 = {
 			weight = 100
-			first_names_male = {
+			full_names = {
 				A'trom "Alexander Rozhenko" Antaak "Arne Darvin" Atul Azetbur "B'Elanna Torres" B'Etor Ba'el Barak-Kadan Barot Bo'rak Bu'Kah Ch'Pok Ch'Rega Ch'Targh Chang 
 				D'Ghor Darok Dax Divok Doran Drex Duras G'Trok Gi'ral Gorkon Goroth Gowron Grilka H'Ta H'ohk Hon'Tihl Huraga Huss J'Dan Ja'rod Japar "K fortges." K'Ehleyr 
 				K'Nera K'Temang K'Temoc K'Trelan K'Vada K'Vagh K'mpec Kahlest Kahmar Kang Karana Kargan Katogh Kaybok Kee'Bhor Keedera Kerla Klaa Klaang Klag Kobor Kohlar 
@@ -407,16 +394,6 @@ xan_st_klingon = {
 				Noggra Orak Ortakin Reclaw "Reclaw II." Rurik Rynar Sarpek Shenara ShiVang Shovak Sirella Sompek Stex T'Greth T'Kar T'vis Tanas Tavana Tel'Peh Telok Thopok 
 				Toq Toral Torg Torin Tse'Dek Tumek Valkris Vekma Vixis Vorok W'mar Worf Yeto Zegov 
 			}
-			first_names_female = {
-				A'trom "Alexander Rozhenko" Antaak "Arne Darvin" Atul Azetbur "B'Elanna Torres" B'Etor Ba'el Barak-Kadan Barot Bo'rak Bu'Kah Ch'Pok Ch'Rega Ch'Targh Chang 
-				D'Ghor Darok Dax Divok Doran Drex Duras G'Trok Gi'ral Gorkon Goroth Gowron Grilka H'Ta H'ohk Hon'Tihl Huraga Huss J'Dan Ja'rod Japar "K fortges." K'Ehleyr 
-				K'Nera K'Temang K'Temoc K'Trelan K'Vada K'Vagh K'mpec Kahlest Kahmar Kang Karana Kargan Katogh Kaybok Kee'Bhor Keedera Kerla Klaa Klaang Klag Kobor Kohlar 
-				Kolos Koloth Konmel Kor Koral Korath Korax Kornan Korok Koroth Korrd Korris Kortar Koth Kozak Kras Krelik Krell Kruge Kunivas Kurak Kurn L'Kor L'Naan Laneth 
-				Larna Leskit Linkasa Lorgh Lukara Lursa "M'Kota R'Cho" M'Rek Magh Mara Marab Martok Miral "Miral Paris" Mogh Molor Morak Morath Morka Mow'ga Mur'Eq N'Garen 
-				Noggra Orak Ortakin Reclaw "Reclaw II." Rurik Rynar Sarpek Shenara ShiVang Shovak Sirella Sompek Stex T'Greth T'Kar T'vis Tanas Tavana Tel'Peh Telok Thopok 
-				Toq Toral Torg Torin Tse'Dek Tumek Valkris Vekma Vixis Vorok W'mar Worf Yeto Zegov 
-			}
-			second_names = {}
 			regnal_first_names_male = {
 				Azetbur Gorkon Gowron "K'mpec" Kahless "M'Rek" Martok "Mow'ga"
 			}

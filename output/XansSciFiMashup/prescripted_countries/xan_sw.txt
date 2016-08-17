@@ -46,6 +46,7 @@ xan_sw_empire
 		hair=0
 		clothes=0
 		ruler_title="Emperor"
+		ruler_title_female="Empress"
 	}
 	spawn_enabled=always
 	ethic="ethic_fanatic_xenophobe"
@@ -99,6 +100,7 @@ xan_sw_newRepublic
 		texture=0
 		hair=0
 		clothes=4
+		ruler_title="Chancellor"
 		ruler_title_female="Chancellor"
 	}
 	spawn_enabled=always

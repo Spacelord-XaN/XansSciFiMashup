@@ -40,12 +40,13 @@ xan_st_borg
 	}
 	ruler={
 		gender=female
-		name="Borg"
+		name="Borg Queen"
 		portrait="xan_st_borg_ruler_00"
 		texture=0
 		hair=0
 		clothes=0
-		ruler_title_female="Queen"
+		ruler_title=" "
+		ruler_title_female=" "
 	}
 	spawn_enabled=always
 	ethic="ethic_fanatic_collectivist"
@@ -103,6 +104,7 @@ xan_st_cardassian
 		hair=0
 		clothes=0
 		ruler_title="Prefect"
+		ruler_title_female="Prefect"
 	}
 	spawn_enabled=always
 	ethic="ethic_xenophobe"
@@ -215,6 +217,7 @@ xan_st_klingon
 		hair=0
 		clothes=4
 		ruler_title="Emperor"
+		ruler_title_female="Empress"
 	}
 	spawn_enabled=always
 	ethic="ethic_xenophobe"

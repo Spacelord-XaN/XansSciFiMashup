@@ -45,7 +45,8 @@ xan_w4_chaos
 		texture=3
 		hair=0
 		clothes=0
-		ruler_title_female=""
+		ruler_title="War master"
+		ruler_title_female="War master"
 	}
 	spawn_enabled=always
 	ethic="ethic_militarist"
@@ -100,7 +101,7 @@ xan_w4_darkEldar
 		texture=0
 		hair=8
 		clothes=1
-		ruler_title="Supreme Overlord"
+		ruler_title="Archon"
 		ruler_title_female="Archon"
 	}
 	spawn_enabled=always
@@ -260,12 +261,13 @@ xan_w4_necron
 		}
 	}
 	ruler={
-		gender=female
+		gender=male
 		name="Ahmontekh"
 		portrait="xan_w4_necron_ruler_00"
 		texture=0
 		hair=0
 		clothes=0
+		ruler_title="Phaeron"
 		ruler_title_female="Phaeron"
 	}
 	spawn_enabled=always
@@ -320,7 +322,7 @@ xan_w4_ork
 		hair=0
 		clothes=0
 		ruler_title="Warboss"
-		ruler_title_female="Warboss "
+		ruler_title_female="Warboss"
 	}
 	spawn_enabled=yes
 	ethic="ethic_collectivist"
@@ -375,6 +377,7 @@ xan_w4_tau
 		hair=0
 		clothes=2
 		ruler_title="Ethereal Supreme"
+		ruler_title_female="Ethereal Supreme"
 	}
 	spawn_enabled=always
 	ethic="ethic_collectivist"
