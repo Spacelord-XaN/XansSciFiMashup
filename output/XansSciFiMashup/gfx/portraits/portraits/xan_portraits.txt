@@ -2,6 +2,7 @@ portraits = {
 	xan_st_borg_ruler_00 = { texturefile = "gfx/portraits/xan_st_borg_ruler_00.dds" }
 	xan_st_cardassian_ruler_00 = { texturefile = "gfx/portraits/xan_st_cardassian_ruler_00.dds" }
 	xan_st_federation_ruler_00 = { texturefile = "gfx/portraits/xan_st_federation_ruler_00.dds" }
+	xan_st_klingon_ruler_00 = { texturefile = "gfx/portraits/xan_st_klingon_ruler_00.dds" }
 	xan_sw_empire_female_leader_00 = { texturefile = "gfx/portraits/xan_sw_empire_female_leader_00.dds" }
 	xan_sw_empire_female_leader_01 = { texturefile = "gfx/portraits/xan_sw_empire_female_leader_01.dds" }
 	xan_sw_empire_male_leader_00 = { texturefile = "gfx/portraits/xan_sw_empire_male_leader_00.dds" }
