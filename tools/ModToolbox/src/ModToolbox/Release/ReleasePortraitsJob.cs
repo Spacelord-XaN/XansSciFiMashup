@@ -1,20 +1,26 @@
-﻿using ImageMagick;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.IO;
 
 namespace ModToolbox.Release
 {
     public class ReleasePortraitsJob : Job
     {
+        private readonly bool isActive;
         private readonly string repoPath;
 
-        public ReleasePortraitsJob(IMessageConsole Console, string RepoPath) : base(Console)
+        public ReleasePortraitsJob(IMessageConsole Console, Setup Setup) : base(Console)
         {
-            this.repoPath = RepoPath;
+            this.isActive = Setup.CreatePortraits;
+            this.repoPath = Setup.RepositoryPath;
         }
 
         public override void Execute()
         {
+            if (!this.isActive)
+            {
+                return;
+            }
+
             string sourceRoot = Path.Combine(this.repoPath, "src", "gfx", "portraits");
             if (!Directory.Exists(sourceRoot))
             {

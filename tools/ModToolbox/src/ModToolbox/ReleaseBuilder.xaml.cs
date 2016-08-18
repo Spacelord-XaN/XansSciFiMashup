@@ -28,8 +28,16 @@ namespace ModToolbox
 
         private void ButtonMakeReleaseClick(object Sender, RoutedEventArgs E)
         {
+            Setup setup = new Setup();
+            setup.CopyToTarget = this.checkBoxCopy.IsChecked == true;
+            setup.CreateFlags = this.checkBoxCreateFlags.IsChecked == true;
+            setup.CreatePortraits = this.checkBoxCreatePortraits.IsChecked == true;
+            setup.InkscapePath = this.textBoxInkscapePath.Text;
+            setup.RepositoryPath = this.textBoxRepository.Text;
+            setup.TargetPath = this.textBoxTarget.Text;
+
             this.textBoxOutput.Text = string.Empty;
-            this.creator.RepositoryPath = this.textBoxRepository.Text;
+            this.creator.Setup = setup;
             this.creator.RunAsync();
         }
     }

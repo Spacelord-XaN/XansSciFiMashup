@@ -88,6 +88,7 @@
     <Compile Include="Release\ReleasePortraitsJob.cs" />
     <Compile Include="Release\ReleaseCreator.cs" />
     <Compile Include="Release\ReleaseCreatorEventArgs.cs" />
+    <Compile Include="Release\Setup.cs" />
     <Compile Include="Subtractor.xaml.cs">
       <DependentUpon>Subtractor.xaml</DependentUpon>
     </Compile>

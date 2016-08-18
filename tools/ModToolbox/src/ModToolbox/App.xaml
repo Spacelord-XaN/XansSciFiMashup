@@ -8,5 +8,14 @@
             <Setter Property="Margin" Value="3" />
             <Setter Property="MinWidth" Value="75" />
         </Style>
+        <Style TargetType="CheckBox">
+            <Setter Property="Margin" Value="3" />
+            <Setter Property="MinWidth" Value="75" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Margin" Value="3" />
+            <Setter Property="MinWidth" Value="75" />
+        </Style>
     </Application.Resources>
 </Application>

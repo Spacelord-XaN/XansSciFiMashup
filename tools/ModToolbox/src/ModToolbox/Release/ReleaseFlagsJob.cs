@@ -6,17 +6,36 @@ namespace ModToolbox.Release
 {
     public class ReleaseFlagsJob : Job
     {
+        private readonly bool isActive;
         private readonly string inkscapePath;
         private readonly string repoPath;
 
-        public ReleaseFlagsJob(IMessageConsole Console, string RepoPath, string InkscapePath) : base(Console)
+        public ReleaseFlagsJob(IMessageConsole Console, Setup Setup) : base(Console)
         {
-            this.repoPath = RepoPath;
-            this.inkscapePath = InkscapePath;
+            this.isActive = Setup.CreateFlags;
+            this.repoPath = Setup.RepositoryPath;
+            this.inkscapePath = Setup.InkscapePath;
         }
 
         public override void Execute()
         {
+            if (!this.isActive)
+            {
+                return;
+            }
+
+            if (string.IsNullOrEmpty(this.inkscapePath))
+            {
+                this.Message("InkscapePath is empty or null");
+                return;
+            }
+
+            if (!File.Exists(this.inkscapePath))
+            {
+                this.Message(string.Format("InkscapePath: {0} does not exit.", this.inkscapePath));
+                return;
+            }
+
             string sourceRoot = Path.Combine(this.repoPath, "src", "flags", "xan");
             if (!Directory.Exists(sourceRoot))
             {

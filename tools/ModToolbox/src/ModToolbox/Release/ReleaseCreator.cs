@@ -38,7 +38,7 @@ namespace ModToolbox.Release
 
         private void WorkerDoWork(object Sender, DoWorkEventArgs E)
         {
-            string path = this.RepositoryPath;
+            string path = this.Setup.RepositoryPath;
             if (string.IsNullOrEmpty(path))
             {
                 this.Message("RepositoryPath is empty or null");
@@ -54,8 +54,8 @@ namespace ModToolbox.Release
             this.Message("Starting release...");
 
             List<Job> jobs = new List<Job>();
-            jobs.Add(new ReleasePortraitsJob(this, path));
-            jobs.Add(new ReleaseFlagsJob(this, path, @"c:\Program Files\Inkscape\inkscape.exe"));
+            jobs.Add(new ReleasePortraitsJob(this, this.Setup));
+            jobs.Add(new ReleaseFlagsJob(this, this.Setup));
             //jobs.Add(new CreatePortraitList(path));
 
             foreach (Job job in jobs)
@@ -71,7 +71,7 @@ namespace ModToolbox.Release
             this.worker.ReportProgress(0, Message);
         }
 
-        public string RepositoryPath
+        public Setup Setup
         {
             get;
             set;
