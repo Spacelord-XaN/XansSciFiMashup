@@ -22,11 +22,11 @@
         <TextBlock Grid.Row="1" Text="Inkscape Path:" VerticalAlignment="Center" Margin="3" />
         <TextBox x:Name="textBoxInkscapePath" Grid.Row="1" Grid.Column="1" Text="c:\Program Files\Inkscape\inkscape.exe" />
 
-        <CheckBox x:Name="checkBoxCreateFlags" Grid.Row="1" Grid.ColumnSpan="3" Content="Create flags" />
-        <CheckBox x:Name="checkBoxCreatePortraits" Grid.Row="2" Grid.ColumnSpan="3" Content="Create portraits" />
-        <CheckBox x:Name="checkBoxCopy" Grid.Row="3" Content="Copy to target:" />
-        <TextBox x:Name="textBoxTarget" Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2" Text="d:\doc\stellatrirs.\" />
+        <CheckBox x:Name="checkBoxCreateFlags" Grid.Row="2" Grid.ColumnSpan="3" Content="Create flags" />
+        <CheckBox x:Name="checkBoxCreatePortraits" Grid.Row="3" Grid.ColumnSpan="3" Content="Create portraits" />
+        <CheckBox x:Name="checkBoxCopy" Grid.Row="4" Content="Copy to target:" />
+        <TextBox x:Name="textBoxTarget" Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" Text="d:\doc\stellatrirs.\" />
 
-        <TextBox x:Name="textBoxOutput" Grid.Row="4" Grid.ColumnSpan="3" IsReadOnly="True" VerticalScrollBarVisibility="Auto" />
+        <TextBox x:Name="textBoxOutput" Grid.Row="5" Grid.ColumnSpan="3" IsReadOnly="True" VerticalScrollBarVisibility="Auto" />
     </Grid> 
 </UserControl>

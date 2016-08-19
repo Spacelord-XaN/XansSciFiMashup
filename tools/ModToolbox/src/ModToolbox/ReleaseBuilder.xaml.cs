@@ -1,5 +1,7 @@
 ﻿using ModToolbox.Release;
 using System;
+using System.IO;
+using System.Reflection;
 using System.Windows;
 using System.Windows.Controls;
 
@@ -16,8 +18,33 @@ namespace ModToolbox
         {
             InitializeComponent();
 
+            this.textBoxInkscapePath.Text = this.SuggestInkscapePath();
+            this.textBoxRepository.Text = this.SuggestRepositoryPath();
+            this.textBoxTarget.Text = this.SuggestTargetPath();
+
             this.creator = new ReleaseCreator();
             this.creator.MessageReady += this.ReleaseCreatorMessageReady;
+        }
+
+        private string SuggestInkscapePath()
+        {
+            return @"C:\Program Files\Inkscape\inkscape.exe";
+        }
+
+        private string SuggestRepositoryPath()
+        {
+            Assembly myAssembly = Assembly.GetAssembly(typeof(ReleaseBuilder));
+            FileInfo fileInfo = new FileInfo(myAssembly.Location);
+            string path = Path.Combine(fileInfo.Directory.FullName, "..", "..", "..", "..", "..", "..");
+            path = Path.GetFullPath(path);
+            return path;
+        }
+
+        private string SuggestTargetPath()
+        {
+            string path = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            path = Path.Combine(path, "Paradox", "Stellaris", "mods");
+            return path;
         }
 
         private void ReleaseCreatorMessageReady(object Sender, ReleaseCreatorEventArgs E)
