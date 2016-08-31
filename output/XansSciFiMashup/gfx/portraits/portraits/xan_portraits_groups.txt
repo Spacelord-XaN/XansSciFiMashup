@@ -323,7 +323,59 @@ portrait_groups = {
 			}
 		}
 	}
-	
+
+	xan_w4_tyranid = {
+		#	displayed in the overview for starting game
+		default = xan_w4_tyranid_ruler_00
+		
+		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
+			add = {
+				portraits = {
+					xan_w4_tyranid_ruler_00
+				}
+			}
+		}		
+		
+		#species scope
+		species = { #generic portrait for a species
+			add = {
+				portraits = {
+					xan_w4_tyranid_ruler_00
+				}
+			}
+		}		
+		
+		#pop scope on a planet
+		pop = { #for a specific pop
+			add = {
+				portraits = {
+					xan_w4_tyranid_ruler_00
+				}
+			}
+		}
+		
+		#leader scope
+		leader = { #scientists, generals, admirals, governor
+			add = {
+				trigger = {
+					gender = male
+				}
+				portraits = {
+					xan_w4_tyranid_ruler_00
+				}
+			}
+			
+			add = {
+				trigger = {
+					gender = female
+				}
+				portraits = {
+					xan_w4_tyranid_ruler_00
+				}
+			}
+		}
+	}
+
 	#========================================
 	# Star Trek
 	#========================================

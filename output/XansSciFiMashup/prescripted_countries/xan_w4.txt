@@ -395,7 +395,7 @@ xan_w4_tyranid
 	species_class="ART"
 	species_adjective="tyranidian"
 	species_bio=""
-	portrait="art16"
+	portrait="xan_w4_tyranid"
 	name="Tyranids"
 	adjective="tyranidian"
 	government="despotic_empire"
@@ -426,7 +426,7 @@ xan_w4_tyranid
 	ruler={
 		gender=male
 		name="Hive Mind"
-		portrait="art16"
+		portrait="xan_w4_tyranid_ruler_00"
 		texture=0
 		hair=0
 		clothes=0
