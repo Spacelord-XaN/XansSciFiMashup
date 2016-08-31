@@ -43,7 +43,7 @@ namespace ModToolbox
         private string SuggestTargetPath()
         {
             string path = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
-            path = Path.Combine(path, "Paradox", "Stellaris", "mods");
+            path = Path.Combine(path, "Paradox Interactive", "Stellaris", "mod", "XansSciFiMashup");
             return path;
         }
 
