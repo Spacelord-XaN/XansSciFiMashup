@@ -124,7 +124,7 @@ xan_w4_eldar
 	species_class="MAM"
 	species_adjective="eldarian"
 	species_bio=""
-	portrait="human"
+	portrait="xan_w4_eldar"
 	name="Eldar Empire"
 	adjective="eldarian"
 	government="science_directorate"
@@ -155,7 +155,7 @@ xan_w4_eldar
 	ruler={
 		gender=female
 		name="Zinhle Skhosana"
-		portrait="human_female_04"
+		portrait="xan_w4_eldar_ruler_00"
 		texture=0
 		hair=0
 		clothes=0
