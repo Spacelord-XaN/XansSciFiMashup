@@ -341,7 +341,7 @@ xan_w4_tau
 	species_class="REP"
 	species_adjective="tau"
 	species_bio=""
-	portrait="rep1"
+	portrait="xan_w4_tau"
 	name="Tau Empire"
 	adjective="tau"
 	government="plutocratic_oligarchy"
@@ -372,7 +372,7 @@ xan_w4_tau
 	ruler={
 		gender=male
 		name="Aun'Wei"
-		portrait="rep1"
+		portrait="xan_w4_tau_ruler_00"
 		texture=1
 		hair=0
 		clothes=2

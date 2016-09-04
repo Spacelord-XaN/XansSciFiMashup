@@ -19,5 +19,6 @@ portraits = {
 	xan_w4_empire_ruler_00 = { texturefile = "gfx/portraits/xan_w4_empire_ruler_00.dds" }
 	xan_w4_necron_ruler_00 = { texturefile = "gfx/portraits/xan_w4_necron_ruler_00.dds" }
 	xan_w4_ork_ruler_00 = { texturefile = "gfx/portraits/xan_w4_ork_ruler_00.dds" }
+	xan_w4_tau_ruler_00 = { texturefile = "gfx/portraits/xan_w4_tau_ruler_00.dds" }
 	xan_w4_tyranid_ruler_00 = { texturefile = "gfx/portraits/xan_w4_tyranid_ruler_00.dds" }
 }
