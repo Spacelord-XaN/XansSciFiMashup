@@ -66,7 +66,7 @@ xan_w4_darkEldar
 	species_class="MAM"
 	species_adjective="dark eldarian"
 	species_bio=""
-	portrait="human"
+	portrait="xan_w4_darkEldar"
 	name="Dark Eldar"
 	adjective="Dark eldarian"
 	government="military_dictatorship"
@@ -97,7 +97,7 @@ xan_w4_darkEldar
 	ruler={
 		gender=male
 		name="Asdrubael Vect"
-		portrait="human_male_01"
+		portrait="xan_w4_darkEldar_ruler_00"
 		texture=0
 		hair=8
 		clothes=1
