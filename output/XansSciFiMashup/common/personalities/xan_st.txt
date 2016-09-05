@@ -28,23 +28,23 @@
 
 # NOTE: Weight is additive!
 
-#========================================
-# Star Trek
-#========================================
+#================================================================================
+# Borg
+#================================================================================
 xan_st_borg = {
 	aggressiveness = 2.0
 	trade_willingness = 0.0
 	bravery = 0.0
-	
+
 	military_spending = 1.0
 	colony_spending = 1.0
-	
+
 	alliance_acceptance = -1000
 	federation_acceptance = -1000
-	
+
 	threat_modifier = 3.0
 	friction_modifier = 3.0
-	
+
 	behaviour = {
 		conqueror = yes
 		subjugator = no
@@ -62,30 +62,32 @@ xan_st_borg = {
 		ideologue = no
 		multispecies = no
 	}
-	
+
 	allow = {
 		has_country_flag = xan_st_borg
 	}
-	
+
 	weight_modifier = {
 		weight = 100
 	}
 }
-
+#================================================================================
+# Cardassian
+#================================================================================
 xan_st_cardassian = {
 	aggressiveness = 1.5
 	trade_willingness = 0.8
 	bravery = 1.3
-	
+
 	military_spending = 1.7
 	colony_spending = 0.6
-	
+
 	alliance_acceptance = -50
 	federation_acceptance = -100
-	
+
 	threat_modifier = 1.4
 	friction_modifier = 1.7
-	
+
 	behaviour = {
 		conqueror = yes
 		subjugator = yes
@@ -103,71 +105,32 @@ xan_st_cardassian = {
 		ideologue = yes
 		multispecies = no
 	}
-	
+
 	allow = {
 		has_country_flag = xan_st_cardassian
 	}
-	
+
 	weight_modifier = {
 		weight = 100
 	}
 }
-
-xan_st_klingon = {
-	aggressiveness = 1.8
-	trade_willingness = 0.8
-	bravery = 1.8
-	
-	military_spending = 1.8
-	colony_spending = 0.6
-	
-	alliance_acceptance = -50
-	federation_acceptance = -100
-	
-	threat_modifier = 1.7
-	friction_modifier = 1.6
-	
-	behaviour = {
-		conqueror = yes
-		subjugator = yes
-		liberator = no
-		opportunist = yes
-		slaver = no
-		uplifter = yes
-		purger = no
-		infiltrator = yes
-		dominator = yes
-		robot_exploiter = no
-		robot_liberator = no
-		migrator = yes
-		propagator = yes
-		ideologue = no
-		multispecies = no
-	}
-	
-	allow = {
-		has_country_flag = xan_st_klingon
-	}
-	
-	weight_modifier = {
-		weight = 100
-	}
-}
-
+#================================================================================
+# Federation
+#================================================================================
 xan_st_federation = {
 	aggressiveness = 0.2
 	trade_willingness = 1.2
 	bravery = 1.0
-	
+
 	military_spending = 0.7
 	colony_spending = 1.7
-	
+
 	alliance_acceptance = 200
 	federation_acceptance = 200
-	
+
 	threat_modifier = 0.8
 	friction_modifier = 0.2
-	
+
 	behaviour = {
 		conqueror = no
 		subjugator = no
@@ -185,11 +148,54 @@ xan_st_federation = {
 		ideologue = no
 		multispecies = yes
 	}
-	
+
 	allow = {
 		has_country_flag = xan_st_federation
 	}
-	
+
+	weight_modifier = {
+		weight = 100
+	}
+}
+#================================================================================
+# Klingon
+#================================================================================
+xan_st_klingon = {
+	aggressiveness = 1.8
+	trade_willingness = 0.8
+	bravery = 1.8
+
+	military_spending = 1.8
+	colony_spending = 0.6
+
+	alliance_acceptance = -50
+	federation_acceptance = -100
+
+	threat_modifier = 1.7
+	friction_modifier = 1.6
+
+	behaviour = {
+		conqueror = yes
+		subjugator = yes
+		liberator = no
+		opportunist = yes
+		slaver = no
+		uplifter = yes
+		purger = no
+		infiltrator = yes
+		dominator = yes
+		robot_exploiter = no
+		robot_liberator = no
+		migrator = yes
+		propagator = yes
+		ideologue = no
+		multispecies = no
+	}
+
+	allow = {
+		has_country_flag = xan_st_klingon
+	}
+
 	weight_modifier = {
 		weight = 100
 	}
