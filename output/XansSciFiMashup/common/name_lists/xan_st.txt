@@ -284,6 +284,171 @@ xan_st_cardassian = {
 	}
 }
 #========================================
+# Federation
+#========================================
+xan_st_federation = {
+	randomized = no
+
+	ship_names = {
+		generic = {
+			Adelphi Aeon Agamemnon Ahwahnee Ajax Akagi Al-Batani "Albert Einstein" Aleo Alka-Selsior Antares Appalachia Archer Archon Arcos Ariel Aries Armstrong Atlantis 
+			"Baton Rouge" Bellerophon Berlin Biko Billings Bonaventure Bonchune Bozeman Bradbury Brattain Budapest Buran Cairo Callisto Carolina Centaur Challenger 
+			Charleston Chekov Chicago Clavyn Clement Cochrane Columbia Concord Constantinople Constellation Copernicus Cortéz "Crazy Horse" Crockett Curry D'hjty Defiant 
+			Denver Destiny Discovery Donovan Drake Eagle "Elmer Fudd" Emden Endeavour Entente Enterprise Equicon Equinox Essex Excalibur Excelsior Exeter Farragut 
+			Fearless Firebrand Fleming Franklin Fredrickson G'Mat Galaxy Gander Gandhi Ganges Garuda Gettysburg Goddard Gorkon Gremlin Grissom Hathaway Havana 
+			"Heart of Gold" Helin Hemingway Hera Hermes Hispaniola Honshu Hood Horatio Horizon Hornet Huron Intrepid "James Fenimore Cooper" Jenolan "John F. Kennedy" 
+			"John Muir" Kearsarge Kelvin "Kobayashi Maru" Kongo Korolev Kyushu LaSalle Lakota Lalo Lantree Leeds Lexington Liberator Livingston Madison Magellan Majestic 
+			Malinche Malone Maryland "Matte Fringe" "Max Planck" Mekong Melbourne Merrimac Min'ow Minnow Monitor Muleskinner Musashi Mustang Nash Nautilus "Niels Bohr" 
+			Nightwing Nobel Noble "Non Sequitur" Northridge Nova Oberth Odyssey Okinawa Olympia "Omaha Nebraska" Orinoco Pasteur Pathfinder Pegasus Petersen Philadelphia 
+			Phoenix Portland Potemkin Princeton Prokofiev Prometheus Proxima Ptolemy Pueblo "Puget Sound" "Raging Queen" Raman Relativity Reliant Renegade Republic 
+			Repulse Revere "Rhode Island" "Rio Grande" "Robert Louis Stevenson" Roosevelt Rubicon Rutledge "Sao Paulo" Sarajevo Saratoga Sarek Scovil Seaquest Seaview 
+			Sentinel Shenandoah Shepard "Shiku Maru" ShirKahr Silversides Sitak Springfield Stargazer Strata Suleiman Sutherland Syracuse T'Kumbra Tecumseh "Thomas Paine" 
+			"Tian Nan Men" Ticonderoga Titan Tolstoy Tombaugh "Tranquility Base" Trieste Tripoli Truman Tsiolkovsky Tycho Ulysses Unicorn Valdemar Valiant "Valley Forge" 
+			Venture Veracruz Victory Volga Voyager Wellington Whorfin Wyoming Yamaguchi Yamato "Yangtzee Kiang" Yeager Yellowstone Yorktown Yosemite Yukon Zapata Zhukov 
+		}
+		corvette = {}
+		constructor = {}
+		colonizer = {}
+		science = {}
+		destroyer = {}
+		cruiser = {}
+		battleship = {}
+		orbital_station = {}
+		mining_station = {}
+		research_station = {}
+		wormhole_station = {}
+		terraform_station = {}
+		observation_station = {}
+		outpost_station = {}
+		transport = {}
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}
+	}
+
+	fleet_names = {
+		random_names = {}
+		sequential_name = "%O% Fleet"
+	}
+
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Defense Army"
+		}
+		assault_army = {
+			sequential_name = "%O% Warriors"
+		}
+		slave_army = {
+			sequential_name = "%O% Slaves"
+		}
+		clone_army = { 
+			sequential_name = "%O% Clone Amry"
+		}
+		robotic_army = {
+			sequential_name = "%O% Robots"
+		}
+		android_army = {
+			sequential_name = "%O% Androids"
+		}
+		psionic_army = { 
+			sequential_name = "%O% Psionic Army"
+		}
+		xenomorph_army = {
+			sequential_name = "%O% Xenomorphs"
+		}
+		gene_warrior_army = {
+			sequential_name = "%O% Gene Warriors"
+		}
+	}
+
+	planet_names = {
+		generic = {
+			names = {
+				Ajilon Alpha "Alpha Centauri" "Alpha Proxima" Andoria Archer Ardana Arvada Babel Benzar Betazed Bolarus Caldos Castal Cestus Coltar Coridan Danula Decos Delta 
+				"Delta Rana" Dorath Elba Erde Fillandia Galen "Gamma Hydra" Gault Inferna Ivor Jouret Kessik Khefka Ktaris Mantilles "Minos Korva" Norpin Penthara Qualor Risa 
+				Setlik Styris Tellar Trill Volan Vulkan 
+			}
+		}
+		pc_desert = {
+			names = {}
+		}
+		pc_arid = {
+			names = {}
+		}
+		pc_tropical = {
+			names = {}
+		}
+		pc_continental = {
+			names = {}
+		}
+		pc_gaia = {
+			names = {}
+		}
+		pc_ocean = {
+			names = {}
+		}
+		pc_tundra = {
+			names = {}
+		}
+		pc_arctic = {
+			names = {}
+		}
+	}
+
+	character_names = {
+		names1 = {
+			weight = 100
+			full_names = {
+				Aaron Abdon Alans Albert Alden "Alynna Nechayev" "Alyssa Ogawa" Amaro Amasov "Anaanda Ziff" "Angela Martine" "Ann Mullhall" "Anne Nored" "April Anaya" 
+				"Aquiel Uhnari" "Areel Shaw" Arex Argyle "Arlene Galway" "Arthur Coleman" Ashmore Ayala "B'Elanna Torres" "B.G. Robinson" Ballard "Barbara Covington" Barnaby 
+				Barnhart Barstow Bartel Bates Beach Bell "Benjamin Finney" "Benjamin Lafayette Sisko" "Benjamin Maxwell" Bennet Bennett Berkeley "Beverly Crusher" Bilecki 
+				Bill Blackwood Bob "Bob Blackman" Boma Boq'ta Boyce Brackett Branch Brand Branson Brenner Brent Brevelle Briel Brink Brooks Brossmer Brower "Bruce Maddox" 
+				"Bryce Shumar" Budrow Burke Cabot "Calvin Hudson" "Calvin Hutchinson" Carlisle Carolyn Carson Carstairs Carter Cartwright Carver Casey Cavit Chakotay Chandler 
+				Chandra Chang "Chantal Zaheva" "Charlene Masters" "Charles Young" "Charlie Reynolds" Chekote Chell Cheney "Christine Chapel" "Christopher Hobson" 
+				"Christopher Pike" Chu'lak Clancy "Clark Terrell" "Claudia Craig" Cleary Coburn Collins Compton Conklin Connors Corelki Corrigan "Cortin Zweller" Costa Craig 
+				Curtis D'Amato "D. Wise" "Daniel Curry" "Daniel Kwan" Daniels "Darian Wallace" Darnell Data "Dave Bailey" Davis Davison "Dawn Velazquez" "Dawson Walking Bear" 
+				Dax DePaul DeSalle "Deanna Troi" "Demora Sulu" "Dexter Remmick" DiFalco "Dick Brownfield" Dickerson Diego "Dmitri Valtane" "Donald Varley" "Dorian Collins" 
+				"Doris Atkins" "Dorothy Chang" Duffy Durst "Ed Charnock Jr." "Edward Jellico" "Edward La Forge" Eiger "Elizabeth Braswell" "Elizabeth Dehner" Elliot 
+				"Enrique Muniz" Enwright "Erik Pressman" "Erika Benteen" Erikson "Esteban Rodriguez" Evans "Ezri Dax" Farrell Fields Finnegan Fisher Fitzgerald Fitzpatrick 
+				Foster Franklin Freeman "G. Roddenberry" Gabler Gaetano Galloway Garrison Garrovick Garth "Gary Mitchell" Gates "Geordi La Forge" Gibson Gilles Giotto Giusti 
+				Grant Green "Gregory Quinn" "H. Zimmerman" Hadley Hansen Harold Harper Harris Harrison "Harry Bernard" "Harry Brand" "Harry Kim" "Harry Morrow" "Hars Adislo" 
+				Hawk Hayes "Hector Ilario" "Helen Johansson" "Helen Noel" Hendorff "Hikaru Sulu" Hildebrant "Hoshi Sato" Hoya Humbolt "Ian Andrew Troi" Ilia Immamura 
+				"Irina Galliulin" "J. Bartlett" "J. Swift" "J.M. Colt" "J.P. Hanson" "J.T. Esteban" "Jack Crusher" Jackson "Jacques Romaine" "Jadzia Dax" James 
+				"James T. Kirk" "Jana Haines" "Janet Brooks" Janeway "Janice Lester" "Janice Rand" Janklow "Jean-Luc Picard" "Jenna D'Sora" "Jenny Delaney" "Jim Shimoda" 
+				"Joe Chess" "Joe Tormolen" "Joel Randolph" "John B. Watkins" "John Bowler" "John Farrell" "John Harriman" Johnson "Jonathan Archer" Jordan "José Dominguez" 
+				"José I. Mendez" "José Tyler" "Joseph Carey" Josephs "Joshua Albert" "Julian Bashir" Kaplan "Karen Farris" "Karen Loews" "Karen Tracy" "Karl Jaeger" 
+				"Katherine Pulaski" "Kathryn Janeway" Kellin Kelowitz Kennelly "Kenny Lin" Keogh "Kevin Riley" Komack Kopf Kosinski Krasnovsky "Kurt Bendera" Kyle Lang 
+				"Larry Matson" Latimer "Lee Kelso" "Leonard H. McCoy" Leslie "Leslie Thompson" Lewis "Lewis Zimmerman" "Lian T'Su" "Linda Larson" Lindstrom "Lisa Neeley" 
+				Lojur "Lon Suder" Lopez Lynch "Lyndsay Ballard" M'Benga M'ress "Maddy Calloway" Mallory "Manuele Atoa" "Marc Brooks" "Margaret Clark" "Mariah Henley" 
+				"Marie Kaplan" "Marika Wilkarah" "Mark Piper" "Marla Gilmore" "Marla McGivers" "Marlena Moreau" Marple "Marta Batanides" "Martha Landon" Masada Mathews 
+				"Matt Decker" "Matt Franklin" "Maxwell Burke" McCauley McKnight Mears "Megan Delaney" "Melora Pazlar" Mendon "Michael Eddington" Mike "Miles O'Brien" 
+				"Mira Romaine" Montgomery "Montgomery Scott" "Morgan Bateson" "Morgan Kelly" "Mortimer Harren" Mulcahey Murphy "Nadja Larkin" Nagel Nakamura "Nancy Randolph" 
+				Nara "Natasha Yar" "Nella Daren" "Nicholas Locarno" "Noah Lessing" Nog Nogura "Norah Satie" "Nummer Eins" O'Herlihy O'Neil O'Neill O'Shea "Orfil Quinteros" 
+				Osborne "Owen Paris" Painter Palmer "Paul Bogrow" "Paul Porter" "Pavel A. Chekov" "Paxton Reese" Pecetti Perez Perim "Pete Harkins" "Peter Preston" 
+				"Phillip Boyce" "Phillipa Louvois" Phillips Piper Pitcairn Probert "R.M. Merik" Rahda Ramart "Randi Bryce" Rawlins Rayburn "Reginald Barclay" "Richard Balder" 
+				"Richard Barnett" "Richard Castillo" "Richard Chronister" Richardson "Rick Berman" "Rick Bittle" "Riley Aldrin Shepard" "Rita Tannenbaum" Rixx Rizzo 
+				"Ro Laren" "Robert April" "Robert DeSoto" "Robert L. Comack" "Robert L. Comsol" "Robert Tomlinson" "Robert Wesley" "Robin Lefler" "Roger Lemli" 
+				"Ronald Tracey" Ross Rowe "Rudolph Ransom" Russ Ryan Saavik Sam "Sam Lavelle" "Samantha Wildman" Samno Sanchez Sanders "Sarah April" "Sarah MacDougal" Satelk 
+				Savar Selar Seska Shanti Shea Shelby "Shirley Brand" "Silva La Forge" "Simon Tarses" Singh Sitak "Sito Jaxa" Smith Solok Sonak "Sonya Gomez" Spinelli Spock 
+				Stadi "Steven Mullen" Stevens Stiles Stocker Stolzof Stone Sturgeon Styles "Susan Nicoletti" "Susanna Leijten" T'Lara T'Lor "T. Ziegler" Taggert Taitt 
+				"Tal Celes" Tamura Tankris Taurik Teller "Teresa Ross" "Tess Allenby" Thelin "Thomas Eugene Paris" "Thomas Henry" "Thomas Riker" Thule "Tim Watters" Timothy 
+				"Tina Lawton" "Tom Conley" "Tom Markel" "Tom Nellis" "Tonia Borrows" Travers "Travis Mayweather" Trillya "Tryla Scott" Tuvok Uhura "Uttan Narsu" Valeris 
+				Vargas Vinci Vorik "Walker Keel" "Walter J. Pierce" Washburn Watley Watson "Wesley Crusher" West "Willard Decker" "William Ross" "William Smillie" 
+				"William T. Riker" "William Yates" Wiloughby Wilson Worf Wyatt Xon Yosa Zahra Zakarian "Zim Brott" Zimbata 
+			}
+			regnal_first_names_male = {
+				Benjamin James "Jean-Luc" Jonathan Spock William Worf
+			}
+			regnal_first_names_female = {
+				Kathryn Kira "T'Pol"
+			}
+			regnal_second_names = {
+				Archer Janeway Kirk Nerys Picard Riker Sisko
+			}
+		}
+	}
+}
+#========================================
 # Klingon
 #========================================
 xan_st_klingon = {

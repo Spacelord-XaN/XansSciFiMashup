@@ -120,7 +120,7 @@ xan_st_cardassian
 #========================================
 xan_st_federation
 ={
-	name_list="Human2"
+	name_list="xan_st_federation"
 	ship_prefix="USS"
 	species_name="Human"
 	species_plural="Humans"
