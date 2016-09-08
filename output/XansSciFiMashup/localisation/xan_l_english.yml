@@ -1,66 +1,76 @@
-﻿l_english:
- FLAG_CATEGORY_xan:0 "XansSciFiMashup"
- 
- 
-####################
-# personality
-####################
- personality_xan_sw_empire:0 "Fanatic Xenophobe"
- personality_xan_sw_empire_desc:0 "For the Galactic Empire the human race is superior to all others. Their absolute end-target is to purge all other races from the galaxy."
+﻿############################################################################################################################################
+# common
+############################################################################################################################################
+l_english:
+FLAG_CATEGORY_xan:0 "XansSciFiMashup"
 
- personality_xan_sw_newRepublic:0 "Peaceful ideologists"
- personality_xan_sw_newRepublic_desc:0 "The new republic respects all differences between races and cultures and stands for peace and order."
- 
- personality_xan_st_borg:0 "Fanatic assimilators"
- personality_xan_st_borg_desc:0 "The Borg Collective only have one target to assimilate all other species. >>Resistance is futile.<<"
- 
- personality_xan_st_cardassian:0 "Militaristic Conquerors"
- personality_xan_st_cardassian_desc:0 "The Cardassian Union is continiously expanding their influence."
- 
- personality_xan_st_klingon:0 "Militaristic Conquerors"
- personality_xan_st_klingon_desc:0 "The Klingon Empire is trying to conquer all un-honorable species."
- 
- personality_xan_st_federation:0 "Peaceful federation builder."
- personality_xan_st_federation_desc:0 "The united federation of planets stands for science, trade and cultural exchange between all races."
- 
- personality_xan_st_darkEldar:0 "Sadistic slavers."
- personality_xan_st_darkEldar_desc:0 "They go for piracy, torture and slavery."
- 
- personality_xan_st_eldar:0 "Ancient isolationists."
- personality_xan_st_eldar_desc:0 "The eldars high times are over. They just want to protect what they have."
- 
- personality_xan_st_chaos:0 "Chaos."
- personality_xan_st_chaos_desc:0 "There is no peace among the stars, only an eternity of carnage and slaughter and the laughter of thirsting gods."
- 
- personality_xan_st_tyranid:0 "Extragalactical invaders."
- personality_xan_st_tyranid_desc:0 "The Great Devourer. Their purpose is the consumption of all forms of genetic and biological material in order to evolve and reproduce."
- 
- personality_xan_st_tau:0 "Idealistic colonizer."
- personality_xan_st_tau_desc:0 "For the tau only one thing counts, the greater good. They are willing to do nearly everthing for it."
- 
- personality_xan_st_necron:0 "Ancient purifier."
- personality_xan_st_necron_desc:0 "The necrons target is to purge the galaxy from all life."
- 
- personality_xan_st_empire:0 "Militaristic propagators."
- personality_xan_st_empire_desc:0 "They want to spread the human race all over the galaxy, not matter the costs."
- 
- personality_xan_st_ork:0 "Honorbound conquerors"
- personality_xan_st_ork_desc:0 "For the orks only one thing counts; the Waaagh!"
- 
- 
-####################
+
+############################################################################################################################################
+# personality
+############################################################################################################################################
+#-----Star Trek ----------------------------------------------------------------------------------------------------------
+personality_xan_st_borg:0 "Fanatic assimilators"
+personality_xan_st_borg_desc:0 "The Borg Collective only have one target to assimilate all other species. >>Resistance is futile.<<"
+
+personality_xan_st_cardassian:0 "Militaristic Conquerors"
+personality_xan_st_cardassian_desc:0 "The Cardassian Union is continiously expanding their influence."
+
+personality_xan_st_federation:0 "Peaceful federation builder."
+personality_xan_st_federation_desc:0 "The united federation of planets stands for science, trade and cultural exchange between all races."
+
+personality_xan_st_klingon:0 "Militaristic Conquerors"
+personality_xan_st_klingon_desc:0 "The Klingon Empire is trying to conquer all un-honorable species."
+
+#-----Star Wars ----------------------------------------------------------------------------------------------------------
+personality_xan_sw_empire:0 "Fanatic Xenophobe"
+personality_xan_sw_empire_desc:0 "For the Galactic Empire the human race is superior to all others. Their absolute end-target is to purge all other races from the galaxy."
+
+personality_xan_sw_newRepublic:0 "Peaceful ideologists"
+personality_xan_sw_newRepublic_desc:0 "The new republic respects all differences between races and cultures and stands for peace and order."
+
+#-----Warhammer 40k ------------------------------------------------------------------------------------------------------
+personality_xan_w4_darkEldar:0 "Sadistic slavers."
+personality_xan_w4_darkEldar_desc:0 "They go for piracy, torture and slavery."
+
+personality_xan_w4_eldar:0 "Ancient isolationists."
+personality_xan_w4_eldar_desc:0 "The eldars high times are over. They just want to protect what they have."
+
+personality_xan_w4_chaos:0 "Chaos."
+personality_xan_w4_chaos_desc:0 "There is no peace among the stars, only an eternity of carnage and slaughter and the laughter of thirsting gods."
+
+personality_xan_w4_tyranid:0 "Extragalactical invaders."
+personality_xan_w4_tyranid_desc:0 "The Great Devourer. Their purpose is the consumption of all forms of genetic and biological material in order to evolve and reproduce."
+
+personality_xan_w4_tau:0 "Idealistic colonizer."
+personality_xan_w4_tau_desc:0 "For the tau only one thing counts, the greater good. They are willing to do nearly everthing for it."
+
+personality_xan_w4_necron:0 "Ancient purifier."
+personality_xan_w4_necron_desc:0 "The necrons target is to purge the galaxy from all life."
+
+personality_xan_w4_empire:0 "Militaristic propagators."
+personality_xan_w4_empire_desc:0 "They want to spread the human race all over the galaxy, not matter the costs."
+
+personality_xan_w4_ork:0 "Honorbound conquerors"
+personality_xan_w4_ork_desc:0 "For the orks only one thing counts; the Waaagh!"
+
+
+############################################################################################################################################
 # name_lists
-####################
- name_list_xan_sw_empire:0 "SW Empire"
- name_list_xan_sw_newRepublic:0 "SW New Republic"
- name_list_xan_st_borg:0 "ST Borg"
- name_list_xan_st_cardassian:0 "ST Cardassian"
- name_list_xan_st_klingon:0 "ST Klingon"
- name_list_xan_w4_chaos:0 "W40k Chaos"
- name_list_xan_w4_darkEldar:0 "W40k Dark Eldar"
- name_list_xan_w4_eldar:0 "W40k Eldar"
- name_list_xan_w4_empire:0 "W40k Empire"
- name_list_xan_w4_necron:0 "W40k Necron"
- name_list_xan_w4_ork:0 "W40k Ork"
- name_list_xan_w4_tau:0 "W40k Tau"
- name_list_xan_w4_tyranid:0 "W40k Tyranid"
+############################################################################################################################################
+#-----Star Trek ----------------------------------------------------------------------------------------------------------
+name_list_xan_st_borg:0 "ST Borg"
+name_list_xan_st_cardassian:0 "ST Cardassian"
+name_list_xan_st_federation:0 "ST Federation"
+name_list_xan_st_klingon:0 "ST Klingon"
+#-----Star Wars ----------------------------------------------------------------------------------------------------------
+name_list_xan_sw_empire:0 "SW Empire"
+name_list_xan_sw_newRepublic:0 "SW New Republic"
+#-----Warhammer 40k ------------------------------------------------------------------------------------------------------
+name_list_xan_w4_chaos:0 "W40k Chaos"
+name_list_xan_w4_darkEldar:0 "W40k Dark Eldar"
+name_list_xan_w4_eldar:0 "W40k Eldar"
+name_list_xan_w4_empire:0 "W40k Empire"
+name_list_xan_w4_necron:0 "W40k Necron"
+name_list_xan_w4_ork:0 "W40k Ork"
+name_list_xan_w4_tau:0 "W40k Tau"
+name_list_xan_w4_tyranid:0 "W40k Tyranid"
