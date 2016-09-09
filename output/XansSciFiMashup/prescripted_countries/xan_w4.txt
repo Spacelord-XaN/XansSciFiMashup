@@ -163,6 +163,8 @@ xan_w4_eldar
 		texture=0
 		hair=0
 		clothes=0
+		ruler_title="Farseer"
+		ruler_title_female="Farseer"
 	}
 	spawn_enabled=always
 	ethic="ethic_individualist"
