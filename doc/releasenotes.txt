@@ -1,3 +1,33 @@
+Verison 1.5
+-Added name lists for
+---- Warhammer 40k Chaos
+---- Warhammer 40k Dark Eldar
+---- Warhammer 40k Eldar
+---- Warhammer 40k Empire
+---- Warhammer 40k Necrons
+---- Warhammer 40k Orks
+---- Warhammer 40k Tau
+---- Warhammer 40k Tyranids
+---- Star Trek Borg
+---- Star Trek Cardassian
+---- Star Trek Federation
+---- Star Trek Klingon
+-Added ruler portraits for 
+---- Warhammer 40k Chaos
+---- Warhammer 40k Dark Eldar
+---- Warhammer 40k Eldar
+---- Warhammer 40k Empire
+---- Warhammer 40k Necrons
+---- Warhammer 40k Orks
+---- Warhammer 40k Tau
+---- Warhammer 40k Tyranids
+---- Star Trek Borg
+---- Star Trek Cardassian
+---- Star Trek Federation
+---- Star Trek Klingon
+---- Star Wars New Republic
+-Small fixes
+
 Version 1.4 - fixes for Stellaris patch 1.2
 -Updated Warhammer 40k traits
 -Updated AI personalities

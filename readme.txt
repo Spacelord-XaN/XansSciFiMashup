@@ -23,8 +23,6 @@ Warhammer 40k
 +Tyranids
 
 Short-Roadmap:
--Complete name lists
--Complete Species & leader pictures
 -German translation
 -Add biography
 -Add more SF - Franchises
