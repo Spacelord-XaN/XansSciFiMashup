@@ -569,3 +569,116 @@ xan_st_klingon = {
 		}
 	}
 }
+#================================================================================
+# Romulan
+#================================================================================
+xan_st_romulan = {
+	randomized = no
+
+	ship_names = {
+		generic = {
+			@todo
+		}
+		corvette = {}
+		constructor = {}
+		colonizer = {}
+		science = {}
+		destroyer = {}
+		cruiser = {}
+		battleship = {}
+		orbital_station = {}
+		mining_station = {}
+		research_station = {}
+		wormhole_station = {}
+		terraform_station = {}
+		observation_station = {}
+		outpost_station = {}
+		transport = {}
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}
+	}
+
+	fleet_names = {
+		random_names = {}
+		sequential_name = "%O% Romulan Imperial Fleet"
+	}
+
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Defense Army"
+		}
+		assault_army = {
+			sequential_name = "%O% Warriors"
+		}
+		slave_army = {
+			sequential_name = "%O% Slaves"
+		}
+		clone_army = { 
+			sequential_name = "%O% Clone Amry"
+		}
+		robotic_army = {
+			sequential_name = "%O% Robots"
+		}
+		android_army = {
+			sequential_name = "%O% Androids"
+		}
+		psionic_army = { 
+			sequential_name = "%O% Psionic Army"
+		}
+		xenomorph_army = {
+			sequential_name = "%O% Xenomorphs"
+		}
+		gene_warrior_army = {
+			sequential_name = "%O% Gene Warriors"
+		}
+	}
+
+	planet_names = {
+		generic = {
+			names = {
+				"Bassen Rift" Benzar "Beta Hutzel" Carraya Chaltok Eden "Galorndon Core" Khitomer Nequencia Rator Remus Romii Romulus Tomed Unroth 
+			}
+		}
+		pc_desert = {
+			names = {}
+		}
+		pc_arid = {
+			names = {}
+		}
+		pc_tropical = {
+			names = {}
+		}
+		pc_continental = {
+			names = {}
+		}
+		pc_gaia = {
+			names = {}
+		}
+		pc_ocean = {
+			names = {}
+		}
+		pc_tundra = {
+			names = {}
+		}
+		pc_arctic = {
+			names = {}
+		}
+	}
+
+	character_names = {
+		names1 = {
+			weight = 100
+			full_names = {
+				@todo
+			}
+			regnal_first_names_male = {
+				@todo
+			}
+			regnal_first_names_female = {
+				@todo
+			}
+			regnal_second_names = {}
+		}
+	}
+}

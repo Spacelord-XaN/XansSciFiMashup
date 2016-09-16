@@ -227,3 +227,61 @@ xan_st_klingon
 	trait="trait_slow_learners"
 	flags = { xan_st_klingon }
 }
+#================================================================================
+# Romulan
+#================================================================================
+xan_st_romulan
+={
+	name_list="xan_st_romulan"
+	ship_prefix="IRW"
+	species_name="Romulan"
+	species_plural="Romulans"
+	species_class="MAM"
+	species_adjective="romulan"
+	species_bio=""
+	portrait="xan_st_romulan"
+	name="Romulan Star Empire"
+	adjective="romulan"
+	government="military_junta"
+	ftl=warp
+	weapon="tech_lasers_1"
+	planet_name="Romulus"
+	planet_class="pc_continental"
+	system_name="Romulan system"
+	initializer=""
+	graphical_culture="@todo"
+	city_graphical_culture="@todo"
+	empire_flag={
+		icon={
+			category="xan"
+			file="xan_st_romulan.dds"
+		}
+		background={
+			category="backgrounds"
+			file="00_solid.dds"
+		}
+		colors={
+			"@todo"
+			"null"
+			"null"
+			"null"
+		}
+	}
+	ruler={
+		gender=male
+		name="Kahless"
+		portrait="xan_st_romulan_ruler_00"
+		texture=4
+		hair=0
+		clothes=4
+		ruler_title="Emperor"
+		ruler_title_female="Empress"
+	}
+	spawn_enabled=always
+	ethic="ethic_xenophobe"
+	ethic="ethic_fanatic_militarist"
+	trait="trait_strong"
+	trait="trait_talented"
+	trait="trait_slow_learners"
+	flags = { xan_st_romulan }
+}

@@ -21,6 +21,9 @@ personality_xan_st_federation_desc:0 "The united federation of planets stands fo
 personality_xan_st_klingon:0 "Militaristic Conquerors"
 personality_xan_st_klingon_desc:0 "The Klingon Empire is trying to conquer all un-honorable species."
 
+personality_xan_st_romulan:0 "Xenophobe isolationists"
+personality_xan_st_romulan_desc:0 "The Roluman Star Empire is known for it's xenophoby and extreme secrecy."
+
 #-----Star Wars ----------------------------------------------------------------------------------------------------------
 personality_xan_sw_empire:0 "Fanatic Xenophobe"
 personality_xan_sw_empire_desc:0 "For the Galactic Empire the human race is superior to all others. Their absolute end-target is to purge all other races from the galaxy."
@@ -62,6 +65,7 @@ name_list_xan_st_borg:0 "ST Borg"
 name_list_xan_st_cardassian:0 "ST Cardassian"
 name_list_xan_st_federation:0 "ST Federation"
 name_list_xan_st_klingon:0 "ST Klingon"
+name_list_xan_st_romulan:0 "ST Romulan"
 #-----Star Wars ----------------------------------------------------------------------------------------------------------
 name_list_xan_sw_empire:0 "SW Empire"
 name_list_xan_sw_newRepublic:0 "SW New Republic"
