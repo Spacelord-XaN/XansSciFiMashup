@@ -15,7 +15,7 @@ turquoise		xan_w4_eldar
 teal			xan_st_cardassian
 dark_teal
 green
-dark_green		xan_st_borg
+dark_green		xan_st_borg, xan_st_romulan
 grey
 dark_grey		xan_w4_necron
 black

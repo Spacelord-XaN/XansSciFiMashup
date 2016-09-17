@@ -249,8 +249,8 @@ xan_st_romulan
 	planet_class="pc_continental"
 	system_name="Romulan system"
 	initializer=""
-	graphical_culture="@todo"
-	city_graphical_culture="@todo"
+	graphical_culture="avian_01"
+	city_graphical_culture="arthropoid_01"
 	empire_flag={
 		icon={
 			category="xan"
@@ -261,7 +261,7 @@ xan_st_romulan
 			file="00_solid.dds"
 		}
 		colors={
-			"@todo"
+			"dark_green"
 			"null"
 			"null"
 			"null"
@@ -269,7 +269,7 @@ xan_st_romulan
 	}
 	ruler={
 		gender=male
-		name="Kahless"
+		name="Hiren"
 		portrait="xan_st_romulan_ruler_00"
 		texture=4
 		hair=0
@@ -278,10 +278,11 @@ xan_st_romulan
 		ruler_title_female="Empress"
 	}
 	spawn_enabled=always
-	ethic="ethic_xenophobe"
-	ethic="ethic_fanatic_militarist"
-	trait="trait_strong"
-	trait="trait_talented"
-	trait="trait_slow_learners"
+	ethic="ethic_fanatic_xenophobe"
+	ethic="ethic_militarist"
+	trait="trait_solitary"
+	trait="trait_deviants"
+	trait="trait_industrious"
+	trait="trait_intelligent"
 	flags = { xan_st_romulan }
 }

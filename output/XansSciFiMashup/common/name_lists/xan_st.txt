@@ -577,7 +577,8 @@ xan_st_romulan = {
 
 	ship_names = {
 		generic = {
-			@todo
+			Aj'rmr Belak D'ridthau Decius Devoras Dividices Gasko Genorex Haakona Khazara Koderex Makar Name Narada Pi Preceptor Scimitar T'Met T'Tpalok Talvath Terix 
+			Tomal Valdore 
 		}
 		corvette = {}
 		constructor = {}
@@ -670,13 +671,15 @@ xan_st_romulan = {
 		names1 = {
 			weight = 100
 			full_names = {
-				@todo
+				"Alidar Jarok" Almak Ayel Ba'el Bochra "Caithlin Dar" Chulak Colius D'Tan Decius Donatra Frenchotte Hiren Jaron Karina "Kimara Cretak" Konsab Koval Letant 
+				Livara Lovok M'ret Mendak Merrok Mirok Movar N'Vek Nanclus Neral Nero Nevala Nijil Orum Pardek Parem Patahk Rakal Rekar Ruwon Sela Selok Setal "Simon Tarses" 
+				Sirol Suran T'Rul Taibak Tal Tal'aura Tallera Talok Taris Tebok "Telek R'Mor" Thei Tokath Tomalak Toreth Ustard Valdore Varel Velal Vrax Vreenak Xerius 
 			}
 			regnal_first_names_male = {
-				@todo
+				Hiren "Kimara Cretak" Letant M'ret Merrok Neral Pardek Shinzon Tal'aura Valdore Vrax Vreenak 
 			}
 			regnal_first_names_female = {
-				@todo
+				Hiren "Kimara Cretak" Letant M'ret Merrok Neral Pardek Shinzon Tal'aura Valdore Vrax Vreenak 
 			}
 			regnal_second_names = {}
 		}
