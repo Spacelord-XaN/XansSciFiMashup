@@ -84,6 +84,7 @@
     </Compile>
     <Compile Include="Release\IMessageConsole.cs" />
     <Compile Include="Release\Job.cs" />
+    <Compile Include="Release\ReleaseCopyToTarget.cs" />
     <Compile Include="Release\ReleaseFlagsJob.cs" />
     <Compile Include="Release\ReleasePortraitsJob.cs" />
     <Compile Include="Release\ReleaseCreator.cs" />

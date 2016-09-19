@@ -18,8 +18,6 @@ namespace ModToolbox.Release
             this.worker.RunWorkerCompleted += this.WorkerRunWorkerCompleted;
             this.worker.ProgressChanged += this.WorkerProgressChanged;
             this.worker.WorkerReportsProgress = true;
-
-            
         }
 
         public void RunAsync()
@@ -56,14 +54,15 @@ namespace ModToolbox.Release
             List<Job> jobs = new List<Job>();
             jobs.Add(new ReleasePortraitsJob(this, this.Setup));
             jobs.Add(new ReleaseFlagsJob(this, this.Setup));
-            //jobs.Add(new CreatePortraitList(path));
+            jobs.Add(new ReleaseCopyToTarget(this, this.Setup));
 
             foreach (Job job in jobs)
             {
                 job.Execute();
             }
 
-            this.Message("Release done, no erros...");
+            this.Message("");
+            this.Message("Release done.");
         }
 
         public void Message(string Message)
