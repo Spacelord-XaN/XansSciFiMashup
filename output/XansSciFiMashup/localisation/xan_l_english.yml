@@ -18,6 +18,9 @@ personality_xan_st_cardassian_desc:0 "The Cardassian Union is continiously expan
 personality_xan_st_federation:0 "Peaceful federation builder."
 personality_xan_st_federation_desc:0 "The united federation of planets stands for science, trade and cultural exchange between all races."
 
+personality_xan_st_ferengi:0 "Fanatic traders"
+personality_xan_st_ferengi_desc:0 "The ferengi alliance is only looking for profit int all possible ways."
+
 personality_xan_st_klingon:0 "Militaristic Conquerors"
 personality_xan_st_klingon_desc:0 "The Klingon Empire is trying to conquer all un-honorable species."
 
@@ -64,6 +67,7 @@ personality_xan_w4_ork_desc:0 "For the orks only one thing counts; the Waaagh!"
 name_list_xan_st_borg:0 "ST Borg"
 name_list_xan_st_cardassian:0 "ST Cardassian"
 name_list_xan_st_federation:0 "ST Federation"
+name_list_xan_st_ferengi:0 "ST Ferengi"
 name_list_xan_st_klingon:0 "ST Klingon"
 name_list_xan_st_romulan:0 "ST Romulan"
 #-----Star Wars ----------------------------------------------------------------------------------------------------------

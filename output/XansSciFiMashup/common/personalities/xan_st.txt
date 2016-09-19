@@ -158,6 +158,49 @@ xan_st_federation = {
 	}
 }
 #================================================================================
+# Ferengi
+#================================================================================
+xan_st_ferengi = {
+	aggressiveness = 0.7
+	trade_willingness = 2.5
+	bravery = 0.3
+
+	military_spending = 0.5
+	colony_spending = 1.5
+
+	alliance_acceptance = 100
+	federation_acceptance = 100
+
+	threat_modifier = 0.8
+	friction_modifier = 0.7
+
+	behaviour = {
+		conqueror = no
+		subjugator = no
+		liberator = no
+		opportunist = yes
+		slaver = yes
+		uplifter = no
+		purger = no
+		infiltrator = yes
+		dominator = no
+		robot_exploiter = yes
+		robot_liberator = no
+		migrator = yes
+		propagator = yes
+		ideologue = no
+		multispecies = no
+	}
+
+	allow = {
+		has_country_flag = xan_st_ferengi
+	}
+
+	weight_modifier = {
+		weight = 100
+	}
+}
+#================================================================================
 # Klingon
 #================================================================================
 xan_st_klingon = {
