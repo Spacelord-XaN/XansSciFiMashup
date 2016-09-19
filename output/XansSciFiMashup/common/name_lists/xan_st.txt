@@ -744,8 +744,23 @@ xan_st_romulan = {
 
 	ship_names = {
 		generic = {
-			Aj'rmr Belak D'ridthau Decius Devoras Dividices Gasko Genorex Haakona Khazara Koderex Makar Name Narada Pi Preceptor Scimitar T'Met T'Tpalok Talvath Terix 
-			Tomal Valdore 
+			Adamant Adjacian Albius Alidar Amie Antius Ar'kalid Arakkab Araram Arien Auleius "Avatar of Tomed" Avenger Averek Azmuth "Battle Helm" Battlequeen Belak 
+			"Bird of Prey" Bloodsword Bloodwing Bochral Bokra Brak'makh Cacivus Calam Cathex Cestron Chairo Chula Clania Clenos Courser Crolvius Cuirass D'Arvuk D'Trell 
+			D'daen D'dara D'delean D'dereq D'deridex D'desedex D'entin D'era D'ereq D'jarek D'kalam D'merak D'relix D'ressa D'ridthau D'seret D'stelen D'tavet D'tervek 
+			D'tharan D'vairin D'valek D'varian D'vinn D'virin Daami Decius Defender Deranas Deresus Desmus Destrix Devoras Dividices Draco Durelan Eagle Eisn Elizsen Enem 
+			Esemar Experience Fardraw "Future Fire" G'Anohok "Gal Gath'thong" Galtizh Ganelan Ganelax Gannius Gauntlet Gilidan Gladiator Glory "Glory Quest" Gorget Greave 
+			Grenax Haakona Hadargeros Harax Helve Henzu Hheirant Hiyll'aeh Hmenna "Honor Blade" "Ignus Proelium" Ila Imderia Imparatrex Impavidus "Imperatoris Accipiter" 
+			Imperix Incepteris Inclutus Indagator Infini Infinitus Intrakhu Inydar Irese Irix Irixidon J'pax Jaridix Javelin Javlek Ka'frah Ka'ja Kazar Kenek Keterix 
+			Khazara Kormoran Kormorex Korvix L'Sattak Lacrius Lahai Lattem Lhorakis Livex Llemni Loa-var Ludelvius Lykara M'sarr Macro Madail Makluan Maricus Marilon 
+			Marrus Mederem Memenda Menvutus Mereidex Meret Meron Moonhawk N'ventnar Neirrh Nexem "Night Raven" Octius Onus Orudain P'tarch Pacestius Paeso Pecassia 
+			Peligius Pellecia Petrask Pi Pilaron Pillion Pirrip Plaurullius "Praetor Pontilus" Querulbo Ra'kholh Raffish Raptor Ravon Raze "Rea's Helm" "Red Talon" Remus 
+			Reshaa'ra Rilidam Rom'drex Rovaran Rucorius S'delon S'lar S'tar S'tel S'tema S'ten S'var S'varan Sahah'lill Sakti Saneraspis Scorah Scrillius Sculex Sedunius 
+			Seganico Septral Serrola Sha'arik Shalyar Shardarr "Sharp Sword" Sia Sistius Soar Sor Soren Sulvian "Sun Falcon" Suran Suretak Surin Sutian Suttius 
+			"Swift Kill" Syrinx T'Favaron T'Laratex T'Vir T'deret T'dir T'lava T'met T'rarian T'rasus T'salvan T'seren T'velen T'vrixis T'xeren Tabodus Talon Tarlon Tdal 
+			Tekel Telbostius Tellus Terix Teverresh Theta "Thrai Kaleh" Thraisat Tomed Toravek Torelan Tovanal Tovarek Trennis Tridonius Trocus Tuttialius Uhtta V'ashan 
+			V'mendin V'nitor V'rela V'tallus V'teldam V'tirex Vadenius Valdore Vassam Vastara Vathos Vattilius Veletan Vellius Vencus Vengeance Venkar Vereleus Vicilius 
+			Victorious Vigilance Vilus Virin Visen Visidix Visis Vixal Vopputus Votantius Vrelnec Vurin "War Thorn" "Whip Hand" Wildfire Worshipper Xi Ykir Z'Rok Zdonek 
+			Zokoras 
 		}
 		corvette = {}
 		constructor = {}
