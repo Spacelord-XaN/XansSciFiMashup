@@ -33,7 +33,7 @@ xan_st_borg
 		}
 		colors={
 			"dark_green"
-			"null"
+			"dark_green"
 			"null"
 			"null"
 		}
@@ -91,7 +91,7 @@ xan_st_cardassian
 		}
 		colors={
 			"teal"
-			"null"
+			"teal"
 			"null"
 			"null"
 		}
@@ -150,7 +150,7 @@ xan_st_federation
 		}
 		colors={
 			"blue"
-			"null"
+			"blue"
 			"null"
 			"null"
 		}
@@ -204,7 +204,7 @@ xan_st_ferengi
 		}
 		colors={
 			"green"
-			"null"
+			"green"
 			"null"
 			"null"
 		}
@@ -260,7 +260,7 @@ xan_st_klingon
 		}
 		colors={
 			"burgundy"
-			"null"
+			"burgundy"
 			"null"
 			"null"
 		}
@@ -318,7 +318,7 @@ xan_st_romulan
 		}
 		colors={
 			"dark_green"
-			"null"
+			"dark_green"
 			"null"
 			"null"
 		}

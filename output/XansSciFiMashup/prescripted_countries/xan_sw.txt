@@ -33,7 +33,7 @@ xan_sw_empire
 		}
 		colors={
 			"dark_blue"
-			"null"
+			"dark_blue"
 			"null"
 			"null"
 		}
@@ -90,7 +90,7 @@ xan_sw_newRepublic
 		}
 		colors={
 			"red"
-			"null"
+			"red"
 			"null"
 			"null"
 		}

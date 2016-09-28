@@ -33,7 +33,7 @@ xan_w4_chaos
 		}
 		colors={
 			"dark_brown"
-			"null"
+			"dark_brown"
 			"null"
 			"null"
 		}
@@ -91,7 +91,7 @@ xan_w4_darkEldar
 		}
 		colors={
 			"dark_purple"
-			"null"
+			"dark_purple"
 			"null"
 			"null"
 		}
@@ -151,7 +151,7 @@ xan_w4_eldar
 		}
 		colors={
 			"turquoise"
-			"null"
+			"turquoise"
 			"null"
 			"null"
 		}
@@ -209,7 +209,7 @@ xan_w4_empire
 		}
 		colors={
 			"indigo"
-			"null"
+			"indigo"
 			"null"
 			"null"
 		}
@@ -265,7 +265,7 @@ xan_w4_necron
 		}
 		colors={
 			"dark_grey"
-			"null"
+			"dark_grey"
 			"null"
 			"null"
 		}
@@ -321,7 +321,7 @@ xan_w4_ork
 		}
 		colors={
 			"green"
-			"null"
+			"green"
 			"null"
 			"null"
 		}
@@ -378,7 +378,7 @@ xan_w4_tau
 		}
 		colors={
 			"orange"
-			"null"
+			"orange"
 			"null"
 			"null"
 		}
@@ -434,7 +434,7 @@ xan_w4_tyranid
 		}
 		colors={
 			"purple"
-			"null"
+			"purple"
 			"null"
 			"null"
 		}
