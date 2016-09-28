@@ -32,6 +32,10 @@ namespace ModToolbox.Release
 
         private void WorkerRunWorkerCompleted(object Sender, RunWorkerCompletedEventArgs E)
         {
+            if (E.Error != null)
+            {
+                this.MessageReady(this, new ReleaseCreatorEventArgs(E.Error.ToString()));
+            }
         }
 
         private void WorkerDoWork(object Sender, DoWorkEventArgs E)

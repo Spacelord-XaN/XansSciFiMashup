@@ -24,6 +24,8 @@ namespace ModToolbox.Release
 
             string sourcePath = Path.Combine(this.repositoryPath, "output");
 
+            this.RemoveFiles(this.targetPath);
+
             if (this.DirectoryCopy(sourcePath, this.targetPath))
             {
                 this.console.Message("Copied files to target path.");
@@ -31,6 +33,15 @@ namespace ModToolbox.Release
             else
             {
                 this.console.Message("Error while copying files to target path.");
+            }
+        }
+
+        private void RemoveFiles(string DestPath)
+        {
+            string modDirectory = Path.Combine(DestPath, "XansSciFiMashup");
+            if (Directory.Exists(modDirectory))
+            {
+                Directory.Delete(modDirectory, true);
             }
         }
 
