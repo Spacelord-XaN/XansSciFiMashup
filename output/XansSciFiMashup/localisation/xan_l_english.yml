@@ -35,30 +35,29 @@ personality_xan_sw_newRepublic:0 "Peaceful ideologists"
 personality_xan_sw_newRepublic_desc:0 "The new republic respects all differences between races and cultures and stands for peace and order."
 
 #-----Warhammer 40k ------------------------------------------------------------------------------------------------------
+personality_xan_w4_chaos:0 "Chaos."
+personality_xan_w4_chaos_desc:0 "There is no peace among the stars, only an eternity of carnage and slaughter and the laughter of thirsting gods."
+
 personality_xan_w4_darkEldar:0 "Sadistic slavers."
 personality_xan_w4_darkEldar_desc:0 "They go for piracy, torture and slavery."
 
 personality_xan_w4_eldar:0 "Ancient isolationists."
 personality_xan_w4_eldar_desc:0 "The eldars high times are over. They just want to protect what they have."
 
-personality_xan_w4_chaos:0 "Chaos."
-personality_xan_w4_chaos_desc:0 "There is no peace among the stars, only an eternity of carnage and slaughter and the laughter of thirsting gods."
-
-personality_xan_w4_tyranid:0 "Extragalactical invaders."
-personality_xan_w4_tyranid_desc:0 "The Great Devourer. Their purpose is the consumption of all forms of genetic and biological material in order to evolve and reproduce."
-
-personality_xan_w4_tau:0 "Idealistic colonizer."
-personality_xan_w4_tau_desc:0 "For the tau only one thing counts, the greater good. They are willing to do nearly everthing for it."
+personality_xan_w4_empire:0 "Militaristic propagators."
+personality_xan_w4_empire_desc:0 "They want to spread the human race all over the galaxy, not matter the costs."
 
 personality_xan_w4_necron:0 "Ancient purifier."
 personality_xan_w4_necron_desc:0 "The necrons target is to purge the galaxy from all life."
 
-personality_xan_w4_empire:0 "Militaristic propagators."
-personality_xan_w4_empire_desc:0 "They want to spread the human race all over the galaxy, not matter the costs."
-
 personality_xan_w4_ork:0 "Honorbound conquerors"
 personality_xan_w4_ork_desc:0 "For the orks only one thing counts; the Waaagh!"
 
+personality_xan_w4_tau:0 "Idealistic colonizer."
+personality_xan_w4_tau_desc:0 "For the tau only one thing counts, the greater good. They are willing to do nearly everthing for it."
+
+personality_xan_w4_tyranid:0 "Extragalactical invaders."
+personality_xan_w4_tyranid_desc:0 "The Great Devourer. Their purpose is the consumption of all forms of genetic and biological material in order to evolve and reproduce."
 
 ############################################################################################################################################
 # name_lists

@@ -68,7 +68,7 @@ xan_sw_empire = {
 	}
 
 	weight_modifier = {
-		weight = 100
+		weight = 1000
 	}
 }
 #================================================================================
@@ -111,6 +111,6 @@ xan_sw_newRepublic = {
 	}
 
 	weight_modifier = {
-		weight = 100
+		weight = 1000
 	}
 }

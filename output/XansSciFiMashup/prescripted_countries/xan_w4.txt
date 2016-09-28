@@ -336,7 +336,7 @@ xan_w4_ork
 		ruler_title="Warboss"
 		ruler_title_female="Warboss"
 	}
-	spawn_enabled=yes
+	spawn_enabled=always
 	ethic="ethic_collectivist"
 	ethic="ethic_fanatic_militarist"
 	trait="trait_slow_learners"
