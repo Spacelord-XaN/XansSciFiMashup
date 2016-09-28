@@ -22,7 +22,7 @@ namespace ModToolbox.Release
                 return;
             }
 
-            string sourcePath = Path.Combine(this.repositoryPath, "output", "XansSciFiMashup");
+            string sourcePath = Path.Combine(this.repositoryPath, "output");
 
             if (this.DirectoryCopy(sourcePath, this.targetPath))
             {
