@@ -4,6 +4,14 @@
 l_english:
 FLAG_CATEGORY_xan:0 "XansSciFiMashup"
 
+############################################################################################################################################
+# System initializer
+############################################################################################################################################
+xan_st_federation_system_NAME:0 "ST Sol System"
+xan_st_federation_system_DESC:0 "System modeled after Earth's solar system.\n\n$system_initializer_DESC$"
+
+xan_w4_empire_system_NAME:0 "W4 Sol System"
+xan_w4_empire_system_DESC:0 "System modeled after Earth's solar system.\n\n$system_initializer_DESC$"
 
 ############################################################################################################################################
 # personality

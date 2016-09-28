@@ -195,7 +195,7 @@ xan_w4_empire
 	planet_name="Terra"
 	planet_class="pc_continental"
 	system_name="Sol system"
-	initializer="sol_system_initializer"
+	initializer="xan_w4_empire_system"
 	graphical_culture="mammalian_01"
 	city_graphical_culture="mammalian_01"
 	empire_flag={
