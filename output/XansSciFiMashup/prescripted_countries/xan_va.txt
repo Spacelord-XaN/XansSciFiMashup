@@ -1,0 +1,57 @@
+#================================================================================
+# Skaarj
+#================================================================================
+xan_va_skaarj
+={
+	name_list="REP1"
+	ship_prefix="SS"
+	species_name="Skaarj"
+	species_plural="Skaarj"
+	species_class="REP"
+	species_adjective="Skaarj"
+	species_bio=""
+	portrait="xan_va_skaarj"
+	name="Skaarj Empire"
+	adjective="imperial"
+	government="despotic_empire"
+	ftl=hyperdrive
+	weapon="tech_lasers_1"
+	planet_name="Skrath"
+	planet_class="pc_continental"
+	system_name="Skrath System"
+	initializer=""
+	graphical_culture="reptilian_01"
+	city_graphical_culture="reptilian_01"
+	empire_flag={
+		icon={
+			category="xan"
+			file="xan_va_skaarj.dds"
+		}
+		background={
+			category="backgrounds"
+			file="00_solid.dds"
+		}
+		colors={
+			"green"
+			"green"
+			"null"
+			"null"
+		}
+	}
+	ruler={
+		gender=male
+		name="Skaarj"
+		portrait="xan_va_skaarj_ruler_00"
+		texture=0
+		hair=0
+		clothes=0
+		ruler_title="Warlord"
+		ruler_title_female="Queen"
+	}
+	spawn_enabled=always
+	ethic="ethic_xenophobe"
+	ethic="ethic_militarist"
+	ethic="ethic_spiritualist"
+	trait="trait_strong"
+	trait="trait_resilient"
+}
