@@ -1,3 +1,11 @@
+Version 1.7
+-Added Star Trek Ferengi Alliance
+-Added Skaarj Empire
+-Bugfix for save games
+-Reworked most of the portraits
+-Added special solar system initializers for empires that are in sol system
+-small fixes
+
 Version 1.6
 -Added Star Trek Romulan Empire
 

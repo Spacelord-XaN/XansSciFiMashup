@@ -12,6 +12,7 @@ Star Trek
 +Klingon Empire
 +Romulan Star Empire
 +United Federation of Plantes
++Ferengi Alliance
 
 Warhammer 40k
 +Chaos
@@ -22,6 +23,9 @@ Warhammer 40k
 +Orks
 +Tau
 +Tyranids
+
+Various:
++Skaarj Empire
 
 Short-Roadmap:
 -German translation
