@@ -363,25 +363,10 @@ portrait_groups = {
 		#leader scope
 		leader = { #scientists, generals, admirals, governor
 			add = {
-				trigger = {
-					gender = male
-				}
 				portraits = {
-					xan_sw_empire_male_leader_00
-					xan_sw_empire_male_leader_01
-					xan_sw_empire_male_leader_02
-					xan_sw_empire_male_leader_03
-					xan_sw_empire_male_leader_04
-				}
-			}
-
-			add = {
-				trigger = {
-					gender = female
-				}
-				portraits = {
-					xan_sw_empire_female_leader_00
-					xan_sw_empire_female_leader_01
+					xan_sw_empire_population_00
+					xan_sw_empire_population_01
+					xan_sw_empire_population_02
 				}
 			}
 		}
