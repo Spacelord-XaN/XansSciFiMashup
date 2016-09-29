@@ -163,6 +163,60 @@ portrait_groups = {
 		}
 	}
 	#================================================================================
+	# Ferengi
+	#================================================================================
+	xan_st_ferengi = {
+		#	displayed in the overview for starting game
+		default = xan_st_ferengi_ruler_00
+		
+		game_setup = { #will run with a limited country scope. species and government is set but the country does not actually exist
+			add = {
+				portraits = {
+					xan_st_ferengi_ruler_00
+				}
+			}
+		}
+
+		#species scope
+		species = { #generic portrait for a species
+			add = {
+				portraits = {
+					xan_st_ferengi_ruler_00
+				}
+			}
+		}
+
+		#pop scope on a planet
+		pop = { #for a specific pop
+			add = {
+				portraits = {
+					xan_st_ferengi_ruler_00
+				}
+			}
+		}
+
+		#leader scope
+		leader = { #scientists, generals, admirals, governor
+			add = {
+				trigger = {
+					gender = male
+				}
+				portraits = {
+					xan_st_ferengi_ruler_00
+				}
+			}
+
+			add = {
+				trigger = {
+					gender = female
+				}
+				portraits = {
+					xan_st_ferengi_ruler_00
+				}
+			}
+		}
+	}
+	#================================================================================
 	# Klingon
 	#================================================================================
 	xan_st_klingon = {
