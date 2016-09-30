@@ -1,0 +1,91 @@
+﻿############################################################################################################################################
+# common
+############################################################################################################################################
+l_english:
+FLAG_CATEGORY_xan:0 "XansSciFiMashup"
+
+############################################################################################################################################
+# System initializer
+############################################################################################################################################
+xan_st_federation_system_NAME:0 "ST Sol System"
+xan_st_federation_system_DESC:0 "Ein System, das dem Sonnensystem der Erde nachempfunden wurde.\n\n$system_initializer_DESC$"
+
+xan_w4_empire_system_NAME:0 "W4 Sol System"
+xan_w4_empire_system_DESC:0 "Ein System, das dem Sonnensystem der Erde nachempfunden wurde.\n\n$system_initializer_DESC$"
+
+############################################################################################################################################
+# personality
+############################################################################################################################################
+#-----Star Trek ----------------------------------------------------------------------------------------------------------
+personality_xan_st_borg:0 "Fanatische Assimilatoren"
+personality_xan_st_borg_desc:0 "Für das Borg Kollektiv gibt es nur ein Ziel: Alle anderen Spezies zu assimilieren. >>Widerstand ist zwecklos.<<"
+
+personality_xan_st_cardassian:0 "Militärische Eroberer"
+personality_xan_st_cardassian_desc:0 "Die Cardassianische Union strebt ständig danach Ihre Grenzen auszuweiten und Ihren Einfluss zu vergrößern."
+
+personality_xan_st_federation:0 "Friedfertige Föderations Gründer"
+personality_xan_st_federation_desc:0 "Die Vereinte Föderation der Planeten steht für Wissenschaft, Handel und Kulturellen Austausch basierend auf Gegenseitigem Respekt zwischen allen Völkern."
+
+personality_xan_st_ferengi:0 "Fantische Händler"
+personality_xan_st_ferengi_desc:0 "Erwerbsregel 1: Geld und Gold das mag ich sehr, und hab ich es erst von andern geb ich es nicht mehr her."
+
+personality_xan_st_klingon:0 "Militärische Eroberer"
+personality_xan_st_klingon_desc:0 " Das Klingonische Imperium strebt danach alle anderen Unehrenhaften Völker zu erobern."
+
+personality_xan_st_romulan:0 "Xenophobische Isolationisten"
+personality_xan_st_romulan_desc:0 "Das Romulanische Sternen Imperium ist bekannt für seine xenophoben Ansichten und für seine Geheimniskrämerei."
+
+#-----Star Wars ----------------------------------------------------------------------------------------------------------
+personality_xan_sw_empire:0 "Fanatisch Xenophob"
+personality_xan_sw_empire_desc:0 "Für das Galaktische Imperium ist die menschliche Rasse allen anderen überlegen. Ihr Ziel ist es alle anderen Rassen auszulöschen, oder zumindest zu versklaven."
+
+personality_xan_sw_newRepublic:0 "Friedfertige Ideologisten"
+personality_xan_sw_newRepublic_desc:0 "Die Neue Republik respektiert die Unterschiede zwischen den Völkern und Kulturen und steht für Frieden und Ordnung."
+
+#-----Warhammer 40k ------------------------------------------------------------------------------------------------------
+personality_xan_w4_chaos:0 "Chaos."
+personality_xan_w4_chaos_desc:0 "Es gibt keine Frieden in den Sternen, es gibt nur das ewige Gemetzel und Schlachten und das Lachen der durstigen Götter."
+
+personality_xan_w4_darkEldar:0 "Sadistische Sklaventreiber"
+personality_xan_w4_darkEldar_desc:0 "Die Dark Eldar lieben Piraterie, Folter und Sklaverei."
+
+personality_xan_w4_eldar:0 "Uralte Isolationisten"
+personality_xan_w4_eldar_desc:0 "Das Goldene Zeitalter der Eldar ist bereits vorüber. Sie streben einzig danach zu erhalten was Ihnen geblieben ist."
+
+personality_xan_w4_empire:0 "Militärische Ausbreiter"
+personality_xan_w4_empire_desc:0"Ihr Ziel ist es, die menschliche Rassse über die gesamte Galaxies zu verbreiten und über alle anderen zu Herrschen. Alle die im Weg stehen werden vernichtet."
+
+personality_xan_w4_necron:0 "Uralte Reiniger"
+personality_xan_w4_necron_desc:0 "Das Ziel der Necrons ist simpel: Die Galaxis von allen Leben zu befreien."
+
+personality_xan_w4_ork:0 "Eherenvolle Eroberer"
+personality_xan_w4_ork_desc:0 "Für die Orks gibt es nur eines: den WWaaagh!"
+
+personality_xan_w4_tau:0 "Idealistische Kolonisierer"
+personality_xan_w4_tau_desc:0 "Für die Tau zählt nur das Höhere Wohl. Sie sind bereit beinahe alles dafür zu tun."
+
+personality_xan_w4_tyranid:0 "Außergalaktische Invasoren"
+personality_xan_w4_tyranid_desc:0 "Der Große Verschlinger. Ihr Ziel ist der Verzehr allen Formen genetischen und biologischen Lebens und Material um sich selbst weiterzuentwicklen und reproduzieren."
+
+############################################################################################################################################
+# name_lists
+############################################################################################################################################
+#-----Star Trek ----------------------------------------------------------------------------------------------------------
+name_list_xan_st_borg:0 "ST Borg"
+name_list_xan_st_cardassian:0 "ST Cardassianisch"
+name_list_xan_st_federation:0 "ST Föderation"
+name_list_xan_st_ferengi:0 "ST Ferengi"
+name_list_xan_st_klingon:0 "ST Klingonisch"
+name_list_xan_st_romulan:0 "ST Romulanisch"
+#-----Star Wars ----------------------------------------------------------------------------------------------------------
+name_list_xan_sw_empire:0 "SW Imperial"
+name_list_xan_sw_newRepublic:0 "SW Neu - Republikanisch"
+#-----Warhammer 40k ------------------------------------------------------------------------------------------------------
+name_list_xan_w4_chaos:0 "W40k Chaotisch"
+name_list_xan_w4_darkEldar:0 "W40k Dark Eldar"
+name_list_xan_w4_eldar:0 "W40k Eldar"
+name_list_xan_w4_empire:0 "W40k Imperial"
+name_list_xan_w4_necron:0 "W40k Necron"
+name_list_xan_w4_ork:0 "W40k Ork"
+name_list_xan_w4_tau:0 "W40k Tau"
+name_list_xan_w4_tyranid:0 "W40k Tyranid"
