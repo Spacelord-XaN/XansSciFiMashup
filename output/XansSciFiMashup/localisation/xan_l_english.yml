@@ -5,6 +5,34 @@ l_english:
 FLAG_CATEGORY_xan:0 "XansSciFiMashup"
 
 ############################################################################################################################################
+# Descriptions
+############################################################################################################################################
+#-----Star Trek ----------------------------------------------------------------------------------------------------------
+EMPIRE_DESIGN_xan_st_borg_desc:0 "The Borg are a pseudo-species of cybernetic beings.\nThey are all linked together into a 'hive mind'.\n\nTheir ultimate goal ist to reach perfection through the assimiliation of all other sentient beings, technology and knowledge."
+EMPIRE_DESIGN_xan_st_cardassian_desc:0 "The cardassians are a humanoid species from the planet cardassia prime.\nThey evolved from the acient humanoids and developed a space travelling civilization.\n\nThe Cardassians are well known for their photographic memories, but also for their xenophobic tendencies."
+EMPIRE_DESIGN_xan_st_federation_desc:0 "The humans come from the planet called earth from the sol system.\n\nThey are one of the founding members of the united federation of planets. Also the starfleets headquaters is located on the planet earth."
+EMPIRE_DESIGN_xan_st_ferengi_desc:0 "@todo"
+EMPIRE_DESIGN_xan_st_klingon_desc:0 "@todo"
+EMPIRE_DESIGN_xan_st_romulan_desc:0 "@todo"
+
+#-----Star Wars ----------------------------------------------------------------------------------------------------------
+EMPIRE_DESIGN_xan_sw_empire_desc:0 "@todo"
+EMPIRE_DESIGN_xan_sw_newRepublic_desc:0 "@todo"
+
+#-----Various ------------------------------------------------------------------------------------------------------------
+EMPIRE_DESIGN_xan_va_skaarj_desc:0 "The skaarj are a reptilian like species that are organized in tribals.\nThey are known as strong and fast warriors that believe that they are superior than any other."
+
+#-----Warhammer 40k ------------------------------------------------------------------------------------------------------
+EMPIRE_DESIGN_xan_w4_chaos_desc:0 "@todo"
+EMPIRE_DESIGN_xan_w4_darkEldar_desc:0 "@todo"
+EMPIRE_DESIGN_xan_w4_eldar_desc:0 "@todo"
+EMPIRE_DESIGN_xan_w4_empire_desc:0 "@todo"
+EMPIRE_DESIGN_xan_w4_orks_desc:0 "@todo"
+EMPIRE_DESIGN_xan_w4_necron_desc:0 "@todo"
+EMPIRE_DESIGN_xan_w4_tau_desc:0 "@todo"
+EMPIRE_DESIGN_xan_w4_tyranid_desc:0 "@todo"
+
+############################################################################################################################################
 # System initializer
 ############################################################################################################################################
 xan_st_federation_system_NAME:0 "ST Sol System"
