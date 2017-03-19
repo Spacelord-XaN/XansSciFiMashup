@@ -1,3 +1,7 @@
+Version 1.8 - fixes for Stellaris 1.4
+-Updated AI personalities
+-Removed terraforming_station from name_lists
+
 Version 1.7
 -Added Star Trek Ferengi Alliance
 -Added Skaarj Empire
