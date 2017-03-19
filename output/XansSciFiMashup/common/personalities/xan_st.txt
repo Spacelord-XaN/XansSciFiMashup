@@ -10,7 +10,6 @@
 # purger -> Will they purge alien pops?
 # robot_exploiter -> Will they use robots for menial labor?
 # robot_liberator -> Will they give rights to robots?
-# migrator -> Will they want to migrate to other empires?
 # propagator -> Will they only get aggressive once boxed in?
 # ideologue -> Will they be extra-aggressive against other ethoses?
 # multispecies -> Will they give rights to aliens?
@@ -21,10 +20,22 @@
 # bravery -> Affects the chance that they will pick rivals & war targets of similar strength instead of picking on the weak
 # military_spending -> Affects mineral & energy budget that goes to navies and armies
 # colony_spending -> Affects mineral & energy budget that goes to new colonies
+# threat_modifier -> Affects how much threat is generated for this empire when others are conquered
+# threat_others_modifier -> Afffects how much threat is generated for other empires when this empire is conquered
+# friction_modifier -> Affects border friction
+
+# Ships
+# armor_ratio -> Amount of armor they should aim for on ships
+# shields_ratio -> Amount of shields they should aim for on ships
 
 ##### Diplomacy:
-# alliance_acceptance -> Added directly to chance of accepting an alliance
 # federation_acceptance -> Added directly to chance of accepting to form/join a federation
+# nap_acceptance -> Added directly to chance of accepting to form a non-aggression pact
+# migration_pact_acceptance -> Added directly to chance of accepting to form a migration pact
+# defensive_pact_acceptance -> Added directly to chance of accepting to form a defensive pact
+
+##### Diplomacy:
+# advanced_start_chance -> Likelyhood of this empire being an advanced start (higher = better chance of being one of empires selected for advanced start)
 
 # NOTE: Weight is additive!
 
@@ -39,11 +50,20 @@ xan_st_borg = {
 	military_spending = 1.0
 	colony_spending = 1.0
 
-	alliance_acceptance = -1000
 	federation_acceptance = -1000
+	nap_acceptance = -1000
+	defensive_pact_acceptance = -1000
+	migration_pact_acceptance = -1000
+
+	advanced_start_chance = 25
+
+	weapon_preferences = weapon_type_energy
+	armor_ratio = 0.5
+	shields_ratio = 0.5
 
 	threat_modifier = 3.0
-	friction_modifier = 3.0
+	threat_others_modifier = 3.0
+	friction_modifier = 1.0
 
 	behaviour = {
 		conqueror = yes
@@ -57,7 +77,6 @@ xan_st_borg = {
 		dominator = yes
 		robot_exploiter = yes
 		robot_liberator = yes
-		migrator = no
 		propagator = no
 		ideologue = no
 		multispecies = no
@@ -82,10 +101,19 @@ xan_st_cardassian = {
 	military_spending = 1.7
 	colony_spending = 0.6
 
-	alliance_acceptance = -50
-	federation_acceptance = -100
+	federation_acceptance = -50
+	nap_acceptance = -100
+	defensive_pact_acceptance = -25
+	migration_pact_acceptance = -75
+
+	advanced_start_chance = 0
+
+	weapon_preferences = weapon_type_energy
+	armor_ratio = 0.5
+	shields_ratio = 0.5
 
 	threat_modifier = 1.4
+	threat_others_modifier = 1.4
 	friction_modifier = 1.7
 
 	behaviour = {
@@ -100,7 +128,6 @@ xan_st_cardassian = {
 		dominator = yes
 		robot_exploiter = no
 		robot_liberator = no
-		migrator = no
 		propagator = yes
 		ideologue = yes
 		multispecies = no
@@ -125,10 +152,19 @@ xan_st_federation = {
 	military_spending = 0.7
 	colony_spending = 1.7
 
-	alliance_acceptance = 200
 	federation_acceptance = 200
+	nap_acceptance = 200
+	defensive_pact_acceptance = 200
+	migration_pact_acceptance = 200
+
+	advanced_start_chance = 0
+
+	weapon_preferences = weapon_type_energy
+	armor_ratio = 0.5
+	shields_ratio = 0.5
 
 	threat_modifier = 0.8
+	threat_others_modifier = 0.8
 	friction_modifier = 0.2
 
 	behaviour = {
@@ -143,7 +179,6 @@ xan_st_federation = {
 		dominator = no
 		robot_exploiter = yes
 		robot_liberator = yes
-		migrator = yes
 		propagator = no
 		ideologue = no
 		multispecies = yes
@@ -168,10 +203,19 @@ xan_st_ferengi = {
 	military_spending = 0.5
 	colony_spending = 1.5
 
-	alliance_acceptance = 100
 	federation_acceptance = 100
+	nap_acceptance = 200
+	defensive_pact_acceptance = 100
+	migration_pact_acceptance = 50
+
+	advanced_start_chance = 0
+
+	weapon_preferences = weapon_type_energy
+	armor_ratio = 0.5
+	shields_ratio = 0.5
 
 	threat_modifier = 0.8
+	threat_others_modifier = 0.8
 	friction_modifier = 0.7
 
 	behaviour = {
@@ -186,7 +230,6 @@ xan_st_ferengi = {
 		dominator = no
 		robot_exploiter = yes
 		robot_liberator = no
-		migrator = yes
 		propagator = yes
 		ideologue = no
 		multispecies = no
@@ -211,10 +254,19 @@ xan_st_klingon = {
 	military_spending = 1.8
 	colony_spending = 0.6
 
-	alliance_acceptance = -50
-	federation_acceptance = -100
+	federation_acceptance = -50
+	nap_acceptance = -50
+	defensive_pact_acceptance = -100
+	migration_pact_acceptance = -25
+
+	advanced_start_chance = 0
+
+	weapon_preferences = weapon_type_energy
+	armor_ratio = 0.5
+	shields_ratio = 0.5
 
 	threat_modifier = 1.7
+	threat_others_modifier = 1.7
 	friction_modifier = 1.6
 
 	behaviour = {
@@ -229,7 +281,6 @@ xan_st_klingon = {
 		dominator = yes
 		robot_exploiter = no
 		robot_liberator = no
-		migrator = yes
 		propagator = yes
 		ideologue = no
 		multispecies = no
@@ -254,10 +305,19 @@ xan_st_romulan = {
 	military_spending = 1.0
 	colony_spending = 1.0
 
-	alliance_acceptance = -200
-	federation_acceptance = -300
+	federation_acceptance = -200
+	nap_acceptance = -100
+	defensive_pact_acceptance = -200
+	migration_pact_acceptance = -300
+
+	advanced_start_chance = 0
+
+	weapon_preferences = weapon_type_energy
+	armor_ratio = 0.5
+	shields_ratio = 0.5
 
 	threat_modifier = 1.8
+	threat_others_modifier = 1.8
 	friction_modifier = 1.9
 
 	behaviour = {
@@ -272,7 +332,6 @@ xan_st_romulan = {
 		dominator = yes
 		robot_exploiter = no
 		robot_liberator = no
-		migrator = no
 		propagator = yes
 		ideologue = no
 		multispecies = no

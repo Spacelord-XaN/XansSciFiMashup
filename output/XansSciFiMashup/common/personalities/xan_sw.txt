@@ -10,7 +10,6 @@
 # purger -> Will they purge alien pops?
 # robot_exploiter -> Will they use robots for menial labor?
 # robot_liberator -> Will they give rights to robots?
-# migrator -> Will they want to migrate to other empires?
 # propagator -> Will they only get aggressive once boxed in?
 # ideologue -> Will they be extra-aggressive against other ethoses?
 # multispecies -> Will they give rights to aliens?
@@ -21,10 +20,22 @@
 # bravery -> Affects the chance that they will pick rivals & war targets of similar strength instead of picking on the weak
 # military_spending -> Affects mineral & energy budget that goes to navies and armies
 # colony_spending -> Affects mineral & energy budget that goes to new colonies
+# threat_modifier -> Affects how much threat is generated for this empire when others are conquered
+# threat_others_modifier -> Afffects how much threat is generated for other empires when this empire is conquered
+# friction_modifier -> Affects border friction
+
+# Ships
+# armor_ratio -> Amount of armor they should aim for on ships
+# shields_ratio -> Amount of shields they should aim for on ships
 
 ##### Diplomacy:
-# alliance_acceptance -> Added directly to chance of accepting an alliance
 # federation_acceptance -> Added directly to chance of accepting to form/join a federation
+# nap_acceptance -> Added directly to chance of accepting to form a non-aggression pact
+# migration_pact_acceptance -> Added directly to chance of accepting to form a migration pact
+# defensive_pact_acceptance -> Added directly to chance of accepting to form a defensive pact
+
+##### Diplomacy:
+# advanced_start_chance -> Likelyhood of this empire being an advanced start (higher = better chance of being one of empires selected for advanced start)
 
 # NOTE: Weight is additive!
 
@@ -39,10 +50,19 @@ xan_sw_empire = {
 	military_spending = 1.6
 	colony_spending = 0.9
 
-	alliance_acceptance = -100
-	federation_acceptance = -1000
+	federation_acceptance = -100
+	nap_acceptance = -100
+	defensive_pact_acceptance = -50
+	migration_pact_acceptance = -100
+
+	advanced_start_chance = 0
+
+	weapon_preferences = weapon_type_energy
+	armor_ratio = 0.5
+	shields_ratio = 0.5
 
 	threat_modifier = 1.2
+	threat_others_modifier = 1.2
 	friction_modifier = 1.0
 
 	behaviour = {
@@ -57,7 +77,6 @@ xan_sw_empire = {
 		dominator = yes
 		robot_exploiter = yes
 		robot_liberator = no
-		migrator = no
 		propagator = yes
 		ideologue = yes
 		multispecies = no
@@ -82,10 +101,19 @@ xan_sw_newRepublic = {
 	military_spending = 0.6
 	colony_spending = 1.5
 
-	alliance_acceptance = 100
 	federation_acceptance = 200
+	nap_acceptance = 200
+	defensive_pact_acceptance = 50
+	migration_pact_acceptance = 100
+
+	advanced_start_chance = 0
+
+	weapon_preferences = weapon_type_energy
+	armor_ratio = 0.5
+	shields_ratio = 0.5
 
 	threat_modifier = 1.1
+	threat_others_modifier = 1.1
 	friction_modifier = 0.4
 
 	behaviour = {
@@ -100,7 +128,6 @@ xan_sw_newRepublic = {
 		dominator = no
 		robot_exploiter = yes
 		robot_liberator = no
-		migrator = yes
 		propagator = yes
 		ideologue = no
 		multispecies = yes
