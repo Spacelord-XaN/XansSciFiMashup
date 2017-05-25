@@ -1,0 +1,63 @@
+#================================================================================
+# Protoss
+#================================================================================
+xan_sc_protoss
+={
+	name_list="xan_sc_protoss"
+	ship_prefix="IS"
+	species_name="Protoss"
+	species_plural="Protoss"
+	species_class="MAM"
+	species_adjective="protoss"
+	species_bio=""
+	portrait="xan_sc_protoss"
+	name="Protoss Empire"
+	adjective="imperial"
+	authority="auth_oligarchic"
+	government="gov_holy_tribunal"
+	ftl=warp
+	weapon="tech_lasers_1"
+	planet_name="Aiur"
+	planet_class="pc_continental"
+	system_name="Aiur system"
+	initializer=""
+	graphical_culture="mammalian_01"
+	city_graphical_culture="mammalian_01"
+	empire_flag={
+		icon={
+			category="xan"
+			file="xan_sc_protoss.dds"
+		}
+		background={
+			category="backgrounds"
+			file="00_solid.dds"
+		}
+		colors={
+			"dark_teal"
+			"dark_teal"
+			"null"
+			"null"
+		}
+	}
+	ruler={
+		gender=male
+		name="Kortanul"
+		portrait="xan_sc_protoss_ruler_00"
+		texture=0
+		hair=0
+		clothes=0
+		ruler_title="Head of the Conclave"
+		ruler_title_female="Head of the Conclave"
+	}
+	spawn_enabled=always
+	room="personality_erudite_explorers_room"
+	ethic="ethic_militarist"
+	ethic="ethic_spiritualist"
+	ethic="ethic_xenophobe"
+	civics={
+		civic_exalted_priesthood
+		civic_meritocracy
+	}
+	trait="trait_intelligent"
+	flags = { xan_sc_protoss }
+}

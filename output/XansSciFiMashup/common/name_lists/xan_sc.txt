@@ -1,0 +1,138 @@
+﻿#================================================================================
+# Protoss
+#================================================================================
+xan_sc_protoss = {
+	randomized = no
+
+	ship_names = {
+		generic = {
+			Aetherian Antimond Arbiter Arkship Corsair Cybros "Daelaam Ark" Danimoth Gantrithor Interceptor Interdictor Koramund "Memory of Nezin" Mirage Moratun N'rithaa 
+			Oracle Paganite Phoenix "Pride of Altaris" Purifier "Purity of Form" Qel'Ha Serenity "Shield of Aiur" "Spear of Adun" "Star relic" Tempest "Void Seeker" 
+			"Void ray" Xa'lor 
+		}
+		corvette = {}
+		constructor = {}
+		colonizer = {}
+		science = {}
+		destroyer = {}
+		cruiser = {}
+		battleship = {}
+		orbital_station = {}
+		mining_station = {}
+		research_station = {}
+		wormhole_station = {}
+		observation_station = {}
+		outpost_station = {}
+		transport = {}
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}
+	}
+
+	fleet_names = {
+		random_names = {
+			Golden Armada
+		}
+		sequential_name = "%O% Fleet"
+	}
+
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Probes"
+		}
+		assault_army = {
+			sequential_name = "%O% Zealots"
+		}
+		slave_army = {
+			sequential_name = "%O% Slaves"
+		}
+		clone_army = { 
+			sequential_name = "%O% Sentries"
+		}
+		robotic_army = {
+			sequential_name = "%O% Immortals"
+		}
+		android_army = {
+			sequential_name = "%O% Stalkers"
+		}
+		psionic_army = { 
+			sequential_name = "%O% Adepts"
+		}
+		xenomorph_army = {
+			sequential_name = "%O% Archons"
+		}
+		gene_warrior_army = {
+			random_names = {}
+			sequential_name = "%O% High templars"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				Abaddon Agria Aiur Alamar Albion Aleun "Alpha Draconis" Altara Altheon Anselm Antiga Aridas Artesia Artika Ash'Arak Ashrigo Asteria Astrid Atrias Atticus 
+				Avernus Bellum "Beta Saul" "Bhekar Ro" Boone Borea Bountiful Braken Braxis "Brokas Hur" Brontes Bukari Calus Candore Cantar Castanar Cavir Char "Chau Sara" 
+				Chiron Cirion Cruxas Dannuth "Dead Man's Rock" "Demon's Fair" Dylar Earth Eldersthine Exgelia Feronis Formicia G-2275 "Gamma Dorian" Gantris Gantuan Garxxax 
+				Gelgaris Glacius Gohbus Goldilocks "Great Bend" Grissom Grnaki Gurdlac Gyras Gystt Halcyon Haven Heimdall Helioc Helios Hydrax Icarus Ignus J'larre 
+				"Jarban Minor" Jontur Jotun Ketill Korhal Krydon LV-555 Lakius "Lerilak Crest" Lorcadia Maltair "Mar Sara" Marek Marlowe Mehlus Meinhoff Melkora Midr Miranar 
+				Mistaff Moria Nelyth Nemaka Nephor "New Folsom" "New Sydney" "New Trinidad" Nidhogg Norris "Old Faithful" "Onuru Sigma" Orna Paralta Parragos Pegasus Phaeton 
+				Pho-Rekh "Pike's Peak" "Planet Christmas" "Port Zion" Pridewater Raydin Redstone Revan Revera Reynif Roxara Saluset Samiku Sammy Scoria Seti Shakuras Shi 
+				Shiloh Sigmaris Sirocco Slayn Sonyan Sorona Sutur Swampus "Tal Qirat" TarKossia Tarsonis Tashai Taurus Tepperus Thalon Thanix Thys Timul Tiria Torus Turaxis 
+				Typhon Tyrador Uilel Uilila Ullalah Umoja Urona Vanass Vardona Veridia Vyctor Vygoire Warrant Wotan XT39323 Xil Ynoth Zanadar Zenn Zeph Zerus Zhakul Zz'gash 
+			}
+		}
+		pc_desert = {
+			names = {}
+		}
+		pc_arid = {
+			names = {}
+		}
+		pc_tropical = {
+			names = {}
+		}
+		pc_continental = {
+			names = {}
+		}
+		pc_gaia = {
+			names = {}
+		}
+		pc_ocean = {
+			names = {}
+		}
+		pc_tundra = {
+			names = {}
+		}
+		pc_arctic = {
+			names = {}
+		}
+	}
+
+	character_names = {
+		names1 = {
+			weight = 100
+			full_names = {
+				Alikka Althai Ataldis Azimar Dabiri Darakian Jarzul Kehdana Khashilar Kherenoss Khrillian Krythkal Lassatar Lyrak Malete Miratix Mohandar Naraza Pagan 
+				Raszagal Razturul Sagaya Sharas Taelus Theromos Tyrak Ulavu Ulrezaj Vorazun Xerana Xy'tal Zahan Zangakkar Zeratul Zoraya Aedus Aedus/Xerxes Alarak Aldaris 
+				Amdor Andraxxus Artanis Assmael Blackman Demioch Edullon Fenix Ji'nara Kaldalis Karass Karax Lasarra Lyrak Ma'lash Mohandar Mojo Nyon Probius Raszagal Rohana 
+				Selendis Syndrea Talandar Talis Tassadar Urun Vorazun Xerxes Zeratul Deloria Doraelus Felanis Forthum Gruu Harrum Iaalu Jhas Juras Kaeon Karax Khas Kizrath 
+				Kortanul Lasarra Mardonis Nahaan Nubas Nuun-Min Palmet Sacopo Saldrian Syndrea Taarim Tabrenus Varloris Vartanil Wa'Rak Wotarra Yaiino Ydadin Zekrath Zentheon 
+			}
+			regnal_first_names_male = {
+				Alikka Althai Ataldis Azimar Dabiri Darakian Jarzul Kehdana Khashilar Kherenoss Khrillian Krythkal Lassatar Lyrak Malete Miratix Mohandar Naraza Pagan 
+				Raszagal Razturul Sagaya Sharas Taelus Theromos Tyrak Ulavu Ulrezaj Vorazun Xerana Xy'tal Zahan Zangakkar Zeratul Zoraya Aedus Aedus/Xerxes Alarak Aldaris 
+				Amdor Andraxxus Artanis Assmael Blackman Demioch Edullon Fenix Ji'nara Kaldalis Karass Karax Lasarra Lyrak Ma'lash Mohandar Mojo Nyon Probius Raszagal Rohana 
+				Selendis Syndrea Talandar Talis Tassadar Urun Vorazun Xerxes Zeratul Deloria Doraelus Felanis Forthum Gruu Harrum Iaalu Jhas Juras Kaeon Karax Khas Kizrath 
+				Kortanul Lasarra Mardonis Nahaan Nubas Nuun-Min Palmet Sacopo Saldrian Syndrea Taarim Tabrenus Varloris Vartanil Wa'Rak Wotarra Yaiino Ydadin Zekrath Zentheon 
+			}
+			regnal_first_names_female = {
+				Alikka Althai Ataldis Azimar Dabiri Darakian Jarzul Kehdana Khashilar Kherenoss Khrillian Krythkal Lassatar Lyrak Malete Miratix Mohandar Naraza Pagan 
+				Raszagal Razturul Sagaya Sharas Taelus Theromos Tyrak Ulavu Ulrezaj Vorazun Xerana Xy'tal Zahan Zangakkar Zeratul Zoraya Aedus Aedus/Xerxes Alarak Aldaris 
+				Amdor Andraxxus Artanis Assmael Blackman Demioch Edullon Fenix Ji'nara Kaldalis Karass Karax Lasarra Lyrak Ma'lash Mohandar Mojo Nyon Probius Raszagal Rohana 
+				Selendis Syndrea Talandar Talis Tassadar Urun Vorazun Xerxes Zeratul Deloria Doraelus Felanis Forthum Gruu Harrum Iaalu Jhas Juras Kaeon Karax Khas Kizrath 
+				Kortanul Lasarra Mardonis Nahaan Nubas Nuun-Min Palmet Sacopo Saldrian Syndrea Taarim Tabrenus Varloris Vartanil Wa'Rak Wotarra Yaiino Ydadin Zekrath Zentheon 
+			}
+			regnal_second_names = {}
+		}
+	}
+}
