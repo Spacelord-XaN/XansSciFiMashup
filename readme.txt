@@ -1,6 +1,6 @@
 Currently WIP
 
-Addes the following fractions to the game, all are set to spawn always:
+Addes the following factions to the game, all are set to spawn always:
 
 Star Wars
 * Galactic Empire
