@@ -9,17 +9,17 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="256"
-   height="256"
+   width="273.06668"
+   height="273.06668"
    viewBox="0 0 256 256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="xan_w4_necron.svg"
    inkscape:export-filename="D:\dev\XansSciFiMashup\raw\flags\map\xan_w4_necron.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90"
-   shape-rendering="crispEdges">
+   style="shape-rendering:crispEdges">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -30,15 +30,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.8728585"
-     inkscape:cx="131.87345"
+     inkscape:cx="15.206868"
      inkscape:cy="142.67987"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1272"
-     inkscape:window-y="-8"
+     inkscape:window-width="1697"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="837"
      inkscape:window-maximized="1"
      units="px"
      showguides="false" />
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -74,19 +74,19 @@
        transform="matrix(0.94040749,0,0,0.94040749,7.6278413,55.085082)">
       <path
          id="path4149"
-         d="m 128.00045,803.88466 a 32.31897,32.31897 0 0 0 -32.32032,32.31836 32.31897,32.31897 0 0 0 32.32032,32.31836 32.31897,32.31897 0 0 0 32.31835,-32.31836 32.31897,32.31897 0 0 0 -32.31835,-32.31836 z m 0.53125,64.78125 0,32.2793 0,-32.2793 z m -0.53125,32.92969 a 32.31897,32.31897 0 0 0 -32.32032,32.31836 32.31897,32.31897 0 0 0 32.32032,32.32031 32.31897,32.31897 0 0 0 32.31835,-32.32031 32.31897,32.31897 0 0 0 -32.31835,-32.31836 z m 0.53125,67.07031 0,81.17379 0,-81.17379 z"
+         d="m 128.00045,803.88466 a 32.31897,32.31897 0 0 0 -32.32032,32.31836 32.31897,32.31897 0 0 0 32.32032,32.31836 32.31897,32.31897 0 0 0 32.31835,-32.31836 32.31897,32.31897 0 0 0 -32.31835,-32.31836 z m 0.53125,64.78125 v 32.2793 z m -0.53125,32.92969 a 32.31897,32.31897 0 0 0 -32.32032,32.31836 32.31897,32.31897 0 0 0 32.32032,32.32031 32.31897,32.31897 0 0 0 32.31835,-32.32031 32.31897,32.31897 0 0 0 -32.31835,-32.31836 z m 0.53125,67.07031 v 81.17379 z"
          style="opacity:0.98999999;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="cc"
          style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 97.52063,933.65259 -43.04126,0"
+         d="M 97.52063,933.65259 H 54.47937"
          id="path4163"
          inkscape:connector-curvature="0" />
       <path
          inkscape:connector-curvature="0"
          id="path4167"
-         d="m 201.52063,933.65259 -43.04126,0"
+         d="M 201.52063,933.65259 H 158.47937"
          style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:nodetypes="cc" />
       <path

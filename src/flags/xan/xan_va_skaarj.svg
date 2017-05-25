@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
+   width="136.53334"
+   height="136.53334"
    viewBox="0 0 128 128"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="xan_va_skaarj.svg"
    inkscape:export-filename="D:\dev\XansSciFiMashup\raw\flags\xan_w4_tyranid.png"
    inkscape:export-xdpi="90"
@@ -29,15 +29,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="50.363042"
+     inkscape:cx="-4.8165404"
      inkscape:cy="59.766907"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1735"
+     inkscape:window-width="1697"
      inkscape:window-height="1057"
-     inkscape:window-x="2097"
-     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-y="837"
      inkscape:window-maximized="1"
      units="px"
      showguides="false" />
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
