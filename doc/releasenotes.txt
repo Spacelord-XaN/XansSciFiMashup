@@ -13,7 +13,7 @@ Version 1.7
 Version 1.6
 -Added Star Trek Romulan Empire
 
-Verison 1.5
+Version 1.5
 -Added name lists for
 ---- Warhammer 40k Chaos
 ---- Warhammer 40k Dark Eldar
