@@ -13,7 +13,8 @@ xan_sw_empire
 	portrait="xan_sw_empire"
 	name="Galactic Empire"
 	adjective="imperial"
-	government="military_dictatorship"
+	authority="auth_imperial"
+	government="gov_star_empire"
 	ftl=hyperdrive
 	weapon="tech_lasers_1"
 	planet_name="Imperial Center"
@@ -49,8 +50,13 @@ xan_sw_empire
 		ruler_title_female="Empress"
 	}
 	spawn_enabled=always
+	room="personality_erudite_explorers_room"
 	ethic="ethic_fanatic_xenophobe"
 	ethic="ethic_militarist"
+	civics={
+		civic_aristocratic_elite
+		civic_distinguished_admiralty
+	}
 	trait="trait_strong"
 	trait="trait_resilient"
 	flags = { xan_sw_empire }
@@ -70,7 +76,8 @@ xan_sw_newRepublic
 	portrait="xan_sw_newRepublic"
 	name="New Republic"
 	adjective="republican"
-	government="indirect_democracy"
+	authority="auth_democratic"
+	government="gov_representative_democracy"
 	ftl=hyperdrive
 	weapon="tech_lasers_1"
 	planet_name="Chandrila"
@@ -106,8 +113,13 @@ xan_sw_newRepublic
 		ruler_title_female="Chancellor"
 	}
 	spawn_enabled=always
+	room="personality_decadent_hierarchy_room"
 	ethic="ethic_fanatic_xenophile"
-	ethic="ethic_pacifist"
+	ethic="ethic_egalitarian"
+	civics={
+		civic_free_haven
+		civic_parliamentary_system
+	}
 	trait="trait_adaptive"
 	trait="trait_weak"
 	trait="trait_charismatic"

@@ -11,7 +11,6 @@
 # robot_exploiter -> Will they use robots for menial labor?
 # robot_liberator -> Will they give rights to robots?
 # propagator -> Will they only get aggressive once boxed in?
-# ideologue -> Will they be extra-aggressive against other ethoses?
 # multispecies -> Will they give rights to aliens?
 
 ##### Modifiers:
@@ -78,7 +77,6 @@ xan_sw_empire = {
 		robot_exploiter = yes
 		robot_liberator = no
 		propagator = yes
-		ideologue = yes
 		multispecies = no
 	}
 
@@ -129,7 +127,6 @@ xan_sw_newRepublic = {
 		robot_exploiter = yes
 		robot_liberator = no
 		propagator = yes
-		ideologue = no
 		multispecies = yes
 	}
 

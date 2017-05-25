@@ -11,7 +11,6 @@
 # robot_exploiter -> Will they use robots for menial labor?
 # robot_liberator -> Will they give rights to robots?
 # propagator -> Will they only get aggressive once boxed in?
-# ideologue -> Will they be extra-aggressive against other ethoses?
 # multispecies -> Will they give rights to aliens?
 
 ##### Modifiers:
@@ -78,7 +77,6 @@ xan_w4_chaos = {
 		robot_exploiter = no
 		robot_liberator = no
 		propagator = no
-		ideologue = yes
 		multispecies = no
 	}
 	
@@ -129,7 +127,6 @@ xan_w4_darkEldar = {
 		robot_exploiter = no
 		robot_liberator = no
 		propagator = no
-		ideologue = yes
 		multispecies = no
 	}
 
@@ -180,7 +177,6 @@ xan_w4_eldar = {
 		robot_exploiter = no
 		robot_liberator = no
 		propagator = yes
-		ideologue = no
 		multispecies = no
 	}
 
@@ -231,7 +227,6 @@ xan_w4_empire = {
 		robot_exploiter = no
 		robot_liberator = no
 		propagator = no
-		ideologue = yes
 		multispecies = no
 	}
 
@@ -283,7 +278,6 @@ xan_w4_necron = {
 		robot_liberator = no
 		migrator = no
 		propagator = no
-		ideologue = yes
 		multispecies = no
 	}
 
@@ -334,7 +328,6 @@ xan_w4_ork = {
 		robot_exploiter = no
 		robot_liberator = no
 		propagator = no
-		ideologue = yes
 		multispecies = no
 	}
 
@@ -385,7 +378,6 @@ xan_w4_tau = {
 		robot_exploiter = no
 		robot_liberator = no
 		propagator = yes
-		ideologue = no
 		multispecies = yes
 	}
 
@@ -436,7 +428,6 @@ xan_w4_tyranid = {
 		robot_exploiter = no
 		robot_liberator = no
 		propagator = no
-		ideologue = yes
 		multispecies = no
 	}
 

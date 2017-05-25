@@ -13,7 +13,8 @@ xan_st_borg
 	portrait="xan_st_borg"
 	name="Borg Collective"
 	adjective="borg"
-	government="despotic_hegemony"
+	authority="auth_hive_mind"
+	government="gov_hive_mind"
 	ftl=warp
 	weapon="tech_lasers_1"
 	planet_name="Unimatrix One"
@@ -49,8 +50,12 @@ xan_st_borg
 		ruler_title_female=" "
 	}
 	spawn_enabled=always
-	ethic="ethic_fanatic_collectivist"
-	ethic="ethic_materialist"
+	room="personality_hive_mind_room"
+	ethic="ethic_hive_mind"
+	civics={
+		"civic_hive_natural_neural_network"
+		"civic_hive_one_mind"
+	}
 	trait="trait_quick_learners"
 	trait="trait_slow_breeders"
 	trait="trait_adaptive"
@@ -71,7 +76,8 @@ xan_st_cardassian
 	portrait="xan_st_cardassian"
 	name="Cardassian Union"
 	adjective="cardassian"
-	government="military_junta"
+	authority="auth_dictatorial"
+	government="gov_military_dictatorship"
 	ftl=warp
 	weapon="tech_lasers_1"
 	planet_name="Cardassia Prime"
@@ -107,12 +113,17 @@ xan_st_cardassian
 		ruler_title_female="Prefect"
 	}
 	spawn_enabled=always
+	room="personality_ruthless_capitalists_room"
 	ethic="ethic_xenophobe"
 	ethic="ethic_militarist"
 	ethic="ethic_materialist"
 	trait="trait_strong"
 	trait="trait_intelligent"
 	trait="trait_repugnant"
+	civics={
+		civic_police_state
+		civic_cutthroat_politics
+	}
 	flags = { xan_st_cardassian }
 }
 #================================================================================
@@ -130,7 +141,8 @@ xan_st_federation
 	portrait="xan_st_federation"
 	name="United Federation of Planets"
 	adjective="federal"
-	government="indirect_democracy"
+	authority="auth_democratic"
+	government="gov_moral_democracy"
 	ftl=warp
 	weapon="tech_lasers_1"
 	planet_name="Earth"
@@ -164,8 +176,13 @@ xan_st_federation
 		clothes=2
 	}
 	spawn_enabled=always
-	ethic="ethic_xenophile"
+	room="personality_hegemonic_imperialists_room"
+	ethic="ethic_egalitarian"
 	ethic="ethic_fanatic_pacifist"
+	civics={
+		civic_beacon_of_liberty
+		civic_idealistic_foundation
+	}
 	trait="trait_intelligent"
 	flags = { xan_st_federation }
 }
@@ -184,15 +201,16 @@ xan_st_ferengi
 	portrait="xan_st_ferengi"
 	name="Ferengi Alliance"
 	adjective="federal"
-	government="indirect_democracy"
+	authority="auth_oligarchic"
+	government="gov_megacorporation"
 	ftl=warp
 	weapon="tech_lasers_1"
 	planet_name="Ferenginar"
 	planet_class="pc_continental"
 	system_name="Ferenginar system"
 	initializer=""
-	graphical_culture="@todo"
-	city_graphical_culture="@todo"
+	graphical_culture="mammalian_01"
+	city_graphical_culture="arthropoid_01"
 	empire_flag={
 		icon={
 			category="xan"
@@ -220,8 +238,12 @@ xan_st_ferengi
 		ruler_title_female="Grand Nagus"
 	}
 	spawn_enabled=always
-	ethic="ethic_xenophile"
-	ethic="ethic_fanatic_pacifist"
+	ethic="ethic_authoritarian"
+	ethic="ethic_fanatic_materialist"
+	civics={
+		civic_corporate_dominion
+		civic_efficient_bureaucracy
+	}
 	trait="trait_intelligent"
 	flags = { xan_st_ferengi }
 }
@@ -240,7 +262,8 @@ xan_st_klingon
 	portrait="xan_st_klingon"
 	name="Klingon Empire"
 	adjective="klingon"
-	government="military_junta"
+	authority="auth_dictatorial"
+	government="gov_martial_dictatorship"
 	ftl=warp
 	weapon="tech_lasers_1"
 	planet_name="Qo'noS"
@@ -276,8 +299,13 @@ xan_st_klingon
 		ruler_title_female="Empress"
 	}
 	spawn_enabled=always
-	ethic="ethic_xenophobe"
+	room="personality_honorbound_warriors_room"
+	ethic="ethic_authoritarian"
 	ethic="ethic_fanatic_militarist"
+	civics={
+		civic_distinguished_admiralty
+		civic_warrior_culture
+	}
 	trait="trait_strong"
 	trait="trait_talented"
 	trait="trait_slow_learners"
@@ -298,7 +326,8 @@ xan_st_romulan
 	portrait="xan_st_romulan"
 	name="Romulan Star Empire"
 	adjective="romulan"
-	government="military_junta"
+	authority="auth_dictatorial"
+	government="gov_military_dictatorship"
 	ftl=warp
 	weapon="tech_lasers_1"
 	planet_name="Romulus"
@@ -334,8 +363,13 @@ xan_st_romulan
 		ruler_title_female="Empress"
 	}
 	spawn_enabled=always
+	room="personality_democratic_crusaders_room"
 	ethic="ethic_fanatic_xenophobe"
 	ethic="ethic_militarist"
+	civics={
+		civic_cutthroat_politics
+		civic_nationalistic_zeal
+	}
 	trait="trait_solitary"
 	trait="trait_deviants"
 	trait="trait_industrious"

@@ -11,7 +11,6 @@
 # robot_exploiter -> Will they use robots for menial labor?
 # robot_liberator -> Will they give rights to robots?
 # propagator -> Will they only get aggressive once boxed in?
-# ideologue -> Will they be extra-aggressive against other ethoses?
 # multispecies -> Will they give rights to aliens?
 
 ##### Modifiers:
@@ -78,7 +77,6 @@ xan_st_borg = {
 		robot_exploiter = yes
 		robot_liberator = yes
 		propagator = no
-		ideologue = no
 		multispecies = no
 	}
 
@@ -129,7 +127,6 @@ xan_st_cardassian = {
 		robot_exploiter = no
 		robot_liberator = no
 		propagator = yes
-		ideologue = yes
 		multispecies = no
 	}
 
@@ -180,7 +177,6 @@ xan_st_federation = {
 		robot_exploiter = yes
 		robot_liberator = yes
 		propagator = no
-		ideologue = no
 		multispecies = yes
 	}
 
@@ -231,7 +227,6 @@ xan_st_ferengi = {
 		robot_exploiter = yes
 		robot_liberator = no
 		propagator = yes
-		ideologue = no
 		multispecies = no
 	}
 
@@ -282,7 +277,6 @@ xan_st_klingon = {
 		robot_exploiter = no
 		robot_liberator = no
 		propagator = yes
-		ideologue = no
 		multispecies = no
 	}
 
@@ -333,7 +327,6 @@ xan_st_romulan = {
 		robot_exploiter = no
 		robot_liberator = no
 		propagator = yes
-		ideologue = no
 		multispecies = no
 	}
 

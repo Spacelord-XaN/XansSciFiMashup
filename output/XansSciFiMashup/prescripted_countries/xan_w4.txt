@@ -13,7 +13,8 @@ xan_w4_chaos
 	portrait="xan_w4_chaos"
 	name="Chaos"
 	adjective="chaotic"
-	government="divine_mandate"
+	authority="auth_imperial"
+	government="gov_blood_court"
 	ftl=warp
 	weapon="tech_missiles_1"
 	planet_name="Eye of Terror"
@@ -49,8 +50,13 @@ xan_w4_chaos
 		ruler_title_female="War master"
 	}
 	spawn_enabled=always
+	room="personality_fanatic_purifier_room"
 	ethic="ethic_militarist"
-	ethic="ethic_fanatic_spiritualist"
+	ethic="ethic_fanatic_xenophobe"
+	civics={
+		civic_fanatic_purifiers
+		civic_warrior_culture
+	}
 	trait="trait_strong"
 	trait="trait_repugnant"
 	trait="trait_adaptive"
@@ -71,7 +77,8 @@ xan_w4_darkEldar
 	portrait="xan_w4_darkEldar"
 	name="Dark Eldar"
 	adjective="Dark eldarian"
-	government="military_dictatorship"
+	authority="auth_imperial"
+	government="gov_martial_empire"
 	ftl=wormhole
 	weapon="tech_lasers_1"
 	planet_name="Commorragh"
@@ -107,9 +114,14 @@ xan_w4_darkEldar
 		ruler_title_female="Archon"
 	}
 	spawn_enabled=always
-	ethic="ethic_collectivist"
+	room="personality_honorbound_warriors_room"
+	ethic="ethic_authoritarian"
 	ethic="ethic_militarist"
 	ethic="ethic_materialist"
+	civics={
+		civic_slaver_guilds
+		civic_warrior_culture
+	}
 	trait="trait_decadent"
 	trait="trait_nomadic"
 	trait="trait_strong"
@@ -131,7 +143,8 @@ xan_w4_eldar
 	portrait="xan_w4_eldar"
 	name="Eldar Empire"
 	adjective="eldarian"
-	government="science_directorate"
+	authority="auth_oligarchic"
+	government="gov_military_junta"
 	ftl=wormhole
 	weapon="tech_lasers_1"
 	planet_name="Belial IV"
@@ -167,8 +180,14 @@ xan_w4_eldar
 		ruler_title_female="Farseer"
 	}
 	spawn_enabled=always
-	ethic="ethic_individualist"
-	ethic="ethic_fanatic_materialist"
+	room="personality_harmonious_hierarchy_room"
+	ethic="ethic_militarist"
+	ethic="ethic_spiritualist"
+	ethic="ethic_xenophobe"
+	civics={
+		civic_meritocracy
+		civic_nationalistic_zeal
+	}
 	trait="trait_enduring"
 	trait="trait_sedentary"
 	trait="trait_intelligent"
@@ -189,7 +208,8 @@ xan_w4_empire
 	portrait="xan_w4_empire"
 	name="Imperium of Man"
 	adjective="imperial"
-	government="military_dictatorship"
+	authority="auth_imperial"
+	government="gov_divine_empire"
 	ftl=warp
 	weapon="tech_missiles_1"
 	planet_name="Terra"
@@ -225,8 +245,14 @@ xan_w4_empire
 		ruler_title_female=" "
 	}
 	spawn_enabled=always
-	ethic="ethic_fanatic_xenophobe"
+	room="personality_xenophobic_isolationists_room"
+	ethic="ethic_authoritarian"
 	ethic="ethic_militarist"
+	ethic="ethic_spiritualist"
+	civics={
+		civic_aristocratic_elite
+		civic_imperial_cult
+	}
 	trait="trait_industrious"
 	flags = { xan_w4_empire }
 }
@@ -245,7 +271,8 @@ xan_w4_necron
 	portrait="xan_w4_necron"
 	name="Necron"
 	adjective="necron"
-	government="divine_mandate"
+	authority="auth_dictatorial"
+	government="gov_purity_order"
 	ftl=warp
 	weapon="tech_lasers_1"
 	planet_name="Hollow Sun"
@@ -281,8 +308,13 @@ xan_w4_necron
 		ruler_title_female="Phaeron"
 	}
 	spawn_enabled=always
-	ethic="ethic_militarist"
-	ethic="ethic_fanatic_spiritualist"
+	room="personality_metalheads_room"
+	ethic="ethic_fanatic_xenophobe"
+	ethic="ethic_spiritualist"
+	civics={
+		civic_fanatic_purifiers
+		civic_functional_architecture
+	}
 	trait="trait_adaptive"
 	flags = { xan_w4_necron }
 }
@@ -301,7 +333,8 @@ xan_w4_ork
 	portrait="xan_w4_ork"
 	name="Ork Empire"
 	adjective="orkish"
-	government="military_dictatorship"
+	authority="auth_dictatorial"
+	government="gov_martial_dictatorship"
 	ftl=warp
 	weapon="tech_lasers_1"
 	planet_name="Ullanor"
@@ -337,8 +370,13 @@ xan_w4_ork
 		ruler_title_female="Warboss"
 	}
 	spawn_enabled=always
-	ethic="ethic_collectivist"
+	room="personality_fanatic_purifier_room"
+	ethic="ethic_authoritarian"
 	ethic="ethic_fanatic_militarist"
+	civics={
+		civic_mining_guilds
+		civic_warrior_culture
+	}
 	trait="trait_slow_learners"
 	trait="trait_very_strong"
 	flags = { xan_w4_ork }
@@ -358,7 +396,8 @@ xan_w4_tau
 	portrait="xan_w4_tau"
 	name="Tau Empire"
 	adjective="tau"
-	government="plutocratic_oligarchy"
+	authority="auth_oligarchic"
+	government="gov_science_directorate"
 	ftl=warp
 	weapon="tech_lasers_1"
 	planet_name="T'au"
@@ -394,8 +433,14 @@ xan_w4_tau
 		ruler_title_female="Ethereal Supreme"
 	}
 	spawn_enabled=always
-	ethic="ethic_collectivist"
-	ethic="ethic_fanatic_xenophile"
+	room="personality_migrating_flock_room"
+	ethic="ethic_egalitarian"
+	ethic="ethic_materialist"
+	ethic="ethic_xenophile"
+	civics={
+		civic_syncretic_evolution
+		civic_technocracy
+	}
 	trait="trait_conformists"
 	flags = { xan_w4_tau }
 }
@@ -414,7 +459,8 @@ xan_w4_tyranid
 	portrait="xan_w4_tyranid"
 	name="Tyranids"
 	adjective="tyranidian"
-	government="despotic_empire"
+	authority="auth_hive_mind"
+	government="gov_hive_mind"
 	ftl=warp
 	weapon="tech_mass_drivers_1"
 	planet_name="Tyran"
@@ -450,8 +496,12 @@ xan_w4_tyranid
 		ruler_title_female=" "
 	}
 	spawn_enabled=always
-	ethic="ethic_fanatic_collectivist"
-	ethic="ethic_xenophobe"
+	room="personality_hive_mind_room"
+	ethic="ethic_hive_mind"
+	civics={
+		civic_hive_pooled_knowledge
+		civic_hive_devouring_swarm
+	}
 	trait="trait_rapid_breeders"
 	trait="trait_adaptive"
 	trait="trait_repugnant"

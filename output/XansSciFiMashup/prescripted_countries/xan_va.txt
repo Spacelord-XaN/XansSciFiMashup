@@ -13,7 +13,8 @@ xan_va_skaarj
 	portrait="xan_va_skaarj"
 	name="Skaarj Empire"
 	adjective="imperial"
-	government="despotic_empire"
+	authority="auth_imperial"
+	government="gov_martial_empire"
 	ftl=hyperdrive
 	weapon="tech_lasers_1"
 	planet_name="Skrath"
@@ -49,9 +50,14 @@ xan_va_skaarj
 		ruler_title_female="Queen"
 	}
 	spawn_enabled=always
+	room="personality_slaving_despots_room"
 	ethic="ethic_xenophobe"
 	ethic="ethic_militarist"
-	ethic="ethic_spiritualist"
+	ethic="ethic_authoritarian"
+	civics={
+		civic_slaver_guilds
+		civic_warrior_culture
+	}
 	trait="trait_strong"
 	trait="trait_resilient"
 }

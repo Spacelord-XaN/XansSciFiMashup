@@ -1,0 +1,142 @@
+authority="..."
+	auth_democratic
+	auth_oligarchic
+	auth_dictatorial
+	auth_imperial
+	auth_hive_mind
+
+
+government="..."
+	gov_assembly_of_clans
+	gov_blood_court
+	gov_celestial_empire
+	gov_citizen_republic
+	gov_citizen_stratocracy
+	gov_constitutional_dictatorship
+	gov_despotic_empire
+	gov_despotic_hegemony
+	gov_direct_democracy
+	gov_divine_empire
+	gov_enlightened_dictatorship
+	gov_enlightened_monarchy
+	gov_executive_committee
+	gov_hive_mind
+	gov_holy_tribunal
+	gov_illuminated_autocracy
+	gov_irenic_bureaucracy
+	gov_irenic_dictatorship
+	gov_irenic_monarchy
+	gov_martial_dictatorship
+	gov_martial_empire
+	gov_megacorporation
+	gov_military_commissariat
+	gov_military_dictatorship
+	gov_military_junta
+	gov_moral_democracy
+	gov_plutocratic_oligarchy
+	gov_purification_committee
+	gov_purity_assembly
+	gov_purity_order
+	gov_rational_consensus
+	gov_representative_democracy
+	gov_science_directorate
+	gov_star_empire
+	gov_technocratic_dictatorship
+	gov_theocratic_dictatorship
+	gov_theocratic_monarchy
+	gov_theocratic_oligarchy
+	gov_theocratic_republic
+	gov_totalitarian_regime
+	gov_war_council
+
+	gov_stagnant_ascendancy
+	gov_awakened_ascendancy
+	gov_tribal_society
+	gov_feudal_realms
+	gov_fragmented_nation_states
+	gov_curator_enclave
+	gov_trader_enclave
+	gov_artist_enclave
+	gov_military_order
+	gov_machine_consciousness
+
+
+ethic="..."
+	ethic_authoritarian
+	ethic_egalitarian
+	ethic_fanatic_authoritarian
+	ethic_fanatic_egalitarian
+	ethic_fanatic_materialist
+	ethic_fanatic_militarist
+	ethic_fanatic_pacifist
+	ethic_fanatic_spiritualist
+	ethic_fanatic_xenophile
+	ethic_fanatic_xenophobe
+	ethic_hive_mind
+	ethic_materialist
+	ethic_militarist
+	ethic_pacifist
+	ethic_spiritualist
+	ethic_xenophile
+	ethic_xenophobe
+
+
+civics={
+	".."
+	".."
+}
+	civic_agrarian_idyll
+	civic_aristocratic_elite
+	civic_beacon_of_liberty
+	civic_citizen_service
+	civic_corporate_dominion
+	civic_cutthroat_politics
+	civic_distinguished_admiralty
+	civic_efficient_bureaucracy
+	civic_environmentalist
+	civic_exalted_priesthood
+	civic_fanatic_purifiers
+	civic_free_haven
+	civic_functional_architecture
+	civic_idealistic_foundation
+	civic_imperial_cult
+	civic_inwards_perfection
+	civic_mechanists
+	civic_meritocracy
+	civic_mining_guilds
+	civic_nationalistic_zeal
+	civic_parliamentary_system
+	civic_philosopher_king
+	civic_police_state
+	civic_shadow_council
+	civic_slaver_guilds
+	civic_syncretic_evolution
+	civic_technocracy
+	civic_warrior_culture
+
+
+	civic_lethargic_leadership
+	civic_empire_in_decline
+	civic_revanchist_fervor
+	civic_ancient_caches_of_technology
+	civic_secret_of_fire
+	civic_the_wheel
+	civic_landed_nobility
+	civic_flat_world_theory
+	civic_increasing_urbanization
+	civic_atmospheric_pollution
+	civic_ancient_preservers
+	civic_trading_conglomerate
+	civic_artist_collective
+	civic_military_order
+	civic_machine_consciousness
+	civic_hive_subspace_ephapse
+	civic_hive_natural_neural_network
+	civic_hive_ascetic
+	civic_hive_one_mind
+	civic_hive_divided_attention
+	civic_hive_strength_of_legions
+	civic_hive_subsumed_will
+	civic_hive_pooled_knowledge
+	civic_hive_devouring_swarm
+ 
