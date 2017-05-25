@@ -1,4 +1,4 @@
-name="Xan's SciFi Mashup"
+﻿name="Xan's SciFi Mashup"
 path="mod/XansSciFiMashup"
 tags={
 	"Species"
