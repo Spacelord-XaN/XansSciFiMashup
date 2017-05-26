@@ -136,3 +136,129 @@ xan_sc_protoss = {
 		}
 	}
 }
+#================================================================================
+# Zerg
+#================================================================================
+xan_sc_zerg = {
+	randomized = no
+
+	ship_names = {
+		generic = {
+			Behemoth Leviathan
+		}
+		corvette = {}
+		constructor = {}
+		colonizer = {}
+		science = {}
+		destroyer = {}
+		cruiser = {}
+		battleship = {}
+		orbital_station = {}
+		mining_station = {}
+		research_station = {}
+		wormhole_station = {}
+		observation_station = {}
+		outpost_station = {}
+		transport = {}
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}
+	}
+
+	fleet_names = {
+		random_names = {
+			Swarm fleet
+		}
+		sequential_name = "%O% Swarm"
+	}
+
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Drones"
+		}
+		assault_army = {
+			sequential_name = "%O% Zerglings"
+		}
+		slave_army = {
+			sequential_name = "%O% Infested"
+		}
+		clone_army = { 
+			sequential_name = "%O% Hydralisks"
+		}
+		robotic_army = {
+			sequential_name = "%O% Mutalisks"
+		}
+		android_army = {
+			sequential_name = "%O% Roaches"
+		}
+		psionic_army = { 
+			sequential_name = "%O% Brutalisks"
+		}
+		xenomorph_army = {
+			sequential_name = "%O% Scourges"
+		}
+		gene_warrior_army = {
+			random_names = {}
+			sequential_name = "%O% Ultralisks"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				Abaddon Agria Aiur Alamar Albion Aleun "Alpha Draconis" Altara Altheon Anselm Antiga Aridas Artesia Artika Ash'Arak Ashrigo Asteria Astrid Atrias Atticus 
+				Avernus Bellum "Beta Saul" "Bhekar Ro" Boone Borea Bountiful Braken Braxis "Brokas Hur" Brontes Bukari Calus Candore Cantar Castanar Cavir Char "Chau Sara" 
+				Chiron Cirion Cruxas Dannuth "Dead Man's Rock" "Demon's Fair" Dylar Earth Eldersthine Exgelia Feronis Formicia G-2275 "Gamma Dorian" Gantris Gantuan Garxxax 
+				Gelgaris Glacius Gohbus Goldilocks "Great Bend" Grissom Grnaki Gurdlac Gyras Gystt Halcyon Haven Heimdall Helioc Helios Hydrax Icarus Ignus J'larre 
+				"Jarban Minor" Jontur Jotun Ketill Korhal Krydon LV-555 Lakius "Lerilak Crest" Lorcadia Maltair "Mar Sara" Marek Marlowe Mehlus Meinhoff Melkora Midr Miranar 
+				Mistaff Moria Nelyth Nemaka Nephor "New Folsom" "New Sydney" "New Trinidad" Nidhogg Norris "Old Faithful" "Onuru Sigma" Orna Paralta Parragos Pegasus Phaeton 
+				Pho-Rekh "Pike's Peak" "Planet Christmas" "Port Zion" Pridewater Raydin Redstone Revan Revera Reynif Roxara Saluset Samiku Sammy Scoria Seti Shakuras Shi 
+				Shiloh Sigmaris Sirocco Slayn Sonyan Sorona Sutur Swampus "Tal Qirat" TarKossia Tarsonis Tashai Taurus Tepperus Thalon Thanix Thys Timul Tiria Torus Turaxis 
+				Typhon Tyrador Uilel Uilila Ullalah Umoja Urona Vanass Vardona Veridia Vyctor Vygoire Warrant Wotan XT39323 Xil Ynoth Zanadar Zenn Zeph Zerus Zhakul Zz'gash 
+			}
+		}
+		pc_desert = {
+			names = {}
+		}
+		pc_arid = {
+			names = {}
+		}
+		pc_tropical = {
+			names = {}
+		}
+		pc_continental = {
+			names = {}
+		}
+		pc_gaia = {
+			names = {}
+		}
+		pc_ocean = {
+			names = {}
+		}
+		pc_tundra = {
+			names = {}
+		}
+		pc_arctic = {
+			names = {}
+		}
+	}
+
+	character_names = {
+		names1 = {
+			weight = 100
+			full_names = {
+				Aleksander "Alexei Stukov" "Atticus Carpenter" Auza "Blade Guardian" Blightbringer Brakk Brutalisk "Cardis the Destroyer" Cerebrate Dehaka "Devouring One" 
+				"Devours Children" "Eschueta the Wicked" "Frayne the Feral" "Gilson the Evil" Gorn "Hunter Killer" Kraith Leviathan "Meat Eater" "Meserole the Marauder" Morik 
+				Naktul Nargil Niadra "Old Blue" "Samir Duran" "Sarah Kerrigan" Screamer Slivan Thakras "Wise Old Torrasque" Yagdra Zagara Zargil Zergrinch Zurvan 
+			}
+			regnal_first_names_male = {
+				Overmind
+			}
+			regnal_first_names_female = {
+				Overmind
+			}
+			regnal_second_names = {}
+		}
+	}
+}

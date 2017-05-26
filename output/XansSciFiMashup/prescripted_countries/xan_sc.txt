@@ -61,3 +61,66 @@ xan_sc_protoss
 	trait="trait_intelligent"
 	flags = { xan_sc_protoss }
 }
+#================================================================================
+# Zerg
+#================================================================================
+xan_sc_zerg
+={
+	name_list="xan_sc_zerg"
+	ship_prefix="SV"
+	species_name="Zerg"
+	species_plural="Zerg"
+	species_class="MAM"
+	species_adjective="zerg"
+	species_bio=""
+	portrait="xan_sc_zerg"
+	name="Zerg Swarm"
+	adjective="zerg"
+	authority="auth_hive_mind"
+	government="gov_hive_mind"
+	ftl=warp
+	weapon="tech_missiles_1"
+	planet_name="Zerus"
+	planet_class="pc_tropical"
+	system_name="Zerus system"
+	initializer=""
+	graphical_culture="molluscoid_01"
+	city_graphical_culture="molluscoid_01"
+	empire_flag={
+		icon={
+			category="xan"
+			file="xan_sc_zerg.dds"
+		}
+		background={
+			category="backgrounds"
+			file="00_solid.dds"
+		}
+		colors={
+			"red_orange"
+			"red_orange"
+			"null"
+			"null"
+		}
+	}
+	ruler={
+		gender=male
+		name="Overmind"
+		portrait="xan_sc_zerg_ruler_00"
+		texture=0
+		hair=0
+		clothes=0
+		ruler_title=" "
+		ruler_title_female=" "
+	}
+	spawn_enabled=always
+	room="personality_hive_mind_room"
+	ethic="ethic_hive_mind"
+	civics={
+		"civic_hive_devouring_swarm"
+		"civic_hive_strength_of_legions"
+	}
+	trait="trait_repugnant"
+	trait="trait_wasteful"
+	trait="trait_extremely_adaptive"
+	flags = { xan_sc_zerg }
+}

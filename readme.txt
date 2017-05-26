@@ -24,6 +24,9 @@ Warhammer 40k
 * Tau
 * Tyranids
 
+Starcraft:
+* Protoss Empire
+
 Various:
 * Skaarj Empire
 
