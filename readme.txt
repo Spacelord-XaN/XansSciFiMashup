@@ -26,6 +26,7 @@ Warhammer 40k
 
 Starcraft:
 * Protoss Empire
+* Terran Dominion
 * Zerg Swarm
 
 Various:

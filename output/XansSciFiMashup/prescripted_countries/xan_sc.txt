@@ -61,6 +61,70 @@ xan_sc_protoss
 	trait="trait_intelligent"
 	flags = { xan_sc_protoss }
 }
+
+#================================================================================
+# Terran
+#================================================================================
+xan_sc_terran
+={
+	name_list="xan_sc_terran"
+	ship_prefix="DS"
+	species_name="Terran"
+	species_plural="Terrans"
+	species_class="MAM"
+	species_adjective="terran"
+	species_bio=""
+	portrait="xan_sc_terran"
+	name="Terran Dominion"
+	adjective="terran"
+	authority="auth_imperial"
+	government="gov_illuminated_autocracy"
+	ftl=warp
+	weapon="tech_mass_drivers_1"
+	planet_name="Korhal"
+	planet_class="pc_continental"
+	system_name="Korhal system"
+	initializer=""
+	graphical_culture="reptilian_01"
+	city_graphical_culture="mammalian_01"
+	empire_flag={
+		icon={
+			category="xan"
+			file="xan_sc_terran.dds"
+		}
+		background={
+			category="backgrounds"
+			file="00_solid.dds"
+		}
+		colors={
+			"brown"
+			"brown"
+			"null"
+			"null"
+		}
+	}
+	ruler={
+		gender=male
+		name="Arcturus Mengsk"
+		portrait="xan_sc_terran_ruler_00"
+		texture=0
+		hair=0
+		clothes=0
+		ruler_title="Emperor"
+		ruler_title_female="Empress"
+	}
+	spawn_enabled=always
+	room="personality_erudite_explorers_room"
+	ethic="ethic_authoritarian"
+	ethic="ethic_militarist"
+	ethic="ethic_materialist"
+	civics={
+		"civic_technocracy"
+		"civic_mining_guilds"
+	}
+	trait="trait_industrious"
+	flags = { xan_sc_terran }
+}
 #================================================================================
 # Zerg
 #================================================================================

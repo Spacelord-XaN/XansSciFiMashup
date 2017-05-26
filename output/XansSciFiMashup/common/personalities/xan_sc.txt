@@ -62,7 +62,7 @@ xan_st_protoss = {
 
 	threat_modifier = 1.0
 	threat_others_modifier = 3.0
-	friction_modifier = 1.0
+	friction_modifier = 3.0
 
 	behaviour = {
 		conqueror = yes
@@ -82,6 +82,56 @@ xan_st_protoss = {
 
 	allow = {
 		has_country_flag = xan_st_protoss
+	}
+
+	weight_modifier = {
+		weight = 1000
+	}
+}
+#================================================================================
+# Terran
+#================================================================================
+xan_st_terran = {
+	aggressiveness = 0.7
+	trade_willingness = 0.8
+	bravery = 1.3
+
+	military_spending = 1.2
+	colony_spending = 1.0
+
+	federation_acceptance = -200
+	nap_acceptance = -20
+	defensive_pact_acceptance = -50
+	migration_pact_acceptance = -100
+
+	advanced_start_chance = 0
+
+	weapon_preferences = weapon_type_kinetic
+	armor_ratio = 0.8
+	shields_ratio = 0.2
+
+	threat_modifier = 1.2
+	threat_others_modifier = 1.0
+	friction_modifier = 1.0
+
+	behaviour = {
+		conqueror = yes
+		subjugator = yes
+		liberator = no
+		opportunist = yes
+		slaver = no
+		uplifter = yes
+		purger = no
+		infiltrator = yes
+		dominator = no
+		robot_exploiter = yes
+		robot_liberator = no
+		propagator = yes
+		multispecies = no
+	}
+
+	allow = {
+		has_country_flag = xan_st_terran
 	}
 
 	weight_modifier = {
@@ -112,7 +162,7 @@ xan_st_zerg = {
 
 	threat_modifier = 3.0
 	threat_others_modifier = 3.0
-	friction_modifier = 1.0
+	friction_modifier = 2.0
 
 	behaviour = {
 		conqueror = yes
