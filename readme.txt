@@ -26,6 +26,7 @@ Warhammer 40k
 
 Starcraft:
 * Protoss Empire
+* Zerg Swarm
 
 Various:
 * Skaarj Empire
