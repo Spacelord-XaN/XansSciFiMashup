@@ -1,3 +1,10 @@
+Version 1.9 - The Starcraft Update
+-Updated to new government types
+-Fixed bugs
+-Added Starcraft Protoss Empire
+-Added Starcraft Terran Dominion
+-Added Starcraft Zerg Swarm
+
 Version 1.8 - fixes for Stellaris 1.4
 -Updated AI personalities
 -Removed terraforming_station from name_lists

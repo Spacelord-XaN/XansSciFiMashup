@@ -38,3 +38,6 @@ Short-Roadmap:
 * Add more SF - Franchises
 
 Please feel free to provide me some feedback so i can improve the mod experience.
+
+Source can be found here:
+https://github.com/Spacelord-XaN/XansSciFiMashup
