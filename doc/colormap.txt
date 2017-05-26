@@ -1,8 +1,8 @@
 Color-Mapping:
 dark_brown		xan_w4_chaos
-brown
+brown			xan_sc_terran
 orange			xan_w4_tau
-red_orange
+red_orange		xan_sc_zerg
 red				xan_sw_newRepublic
 burgundy		xan_st_klingon
 pink
@@ -13,7 +13,7 @@ dark_blue		xan_sw_empire
 blue			xan_st_federation
 turquoise		xan_w4_eldar
 teal			xan_st_cardassian
-dark_teal
+dark_teal		xan_sc_protoss
 green			xan_st_ferengi, xan_va_skaarj
 dark_green		xan_st_borg, xan_st_romulan
 grey

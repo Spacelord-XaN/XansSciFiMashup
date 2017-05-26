@@ -24,6 +24,11 @@ Warhammer 40k
 * Tau
 * Tyranids
 
+Starcraft:
+* Protoss Empire
+* Terran Dominion
+* Zerg Swarm
+
 Various:
 * Skaarj Empire
 

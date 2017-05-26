@@ -1,0 +1,431 @@
+﻿#================================================================================
+# Protoss
+#================================================================================
+xan_sc_protoss = {
+	randomized = no
+
+	ship_names = {
+		generic = {
+			Aetherian Antimond Arbiter Arkship Corsair Cybros "Daelaam Ark" Danimoth Gantrithor Interceptor Interdictor Koramund "Memory of Nezin" Mirage Moratun N'rithaa 
+			Oracle Paganite Phoenix "Pride of Altaris" Purifier "Purity of Form" Qel'Ha Serenity "Shield of Aiur" "Spear of Adun" "Star relic" Tempest "Void Seeker" 
+			"Void ray" Xa'lor 
+		}
+		corvette = {}
+		constructor = {}
+		colonizer = {}
+		science = {}
+		destroyer = {}
+		cruiser = {}
+		battleship = {}
+		orbital_station = {}
+		mining_station = {}
+		research_station = {}
+		wormhole_station = {}
+		observation_station = {}
+		outpost_station = {}
+		transport = {}
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}
+	}
+
+	fleet_names = {
+		random_names = {
+			Golden Armada
+		}
+		sequential_name = "%O% Fleet"
+	}
+
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Probes"
+		}
+		assault_army = {
+			sequential_name = "%O% Zealots"
+		}
+		slave_army = {
+			sequential_name = "%O% Slaves"
+		}
+		clone_army = { 
+			sequential_name = "%O% Sentries"
+		}
+		robotic_army = {
+			sequential_name = "%O% Immortals"
+		}
+		android_army = {
+			sequential_name = "%O% Stalkers"
+		}
+		psionic_army = { 
+			sequential_name = "%O% Adepts"
+		}
+		xenomorph_army = {
+			sequential_name = "%O% Archons"
+		}
+		gene_warrior_army = {
+			random_names = {}
+			sequential_name = "%O% High templars"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				Abaddon Agria Aiur Alamar Albion Aleun "Alpha Draconis" Altara Altheon Anselm Antiga Aridas Artesia Artika Ash'Arak Ashrigo Asteria Astrid Atrias Atticus 
+				Avernus Bellum "Beta Saul" "Bhekar Ro" Boone Borea Bountiful Braken Braxis "Brokas Hur" Brontes Bukari Calus Candore Cantar Castanar Cavir Char "Chau Sara" 
+				Chiron Cirion Cruxas Dannuth "Dead Man's Rock" "Demon's Fair" Dylar Earth Eldersthine Exgelia Feronis Formicia G-2275 "Gamma Dorian" Gantris Gantuan Garxxax 
+				Gelgaris Glacius Gohbus Goldilocks "Great Bend" Grissom Grnaki Gurdlac Gyras Gystt Halcyon Haven Heimdall Helioc Helios Hydrax Icarus Ignus J'larre 
+				"Jarban Minor" Jontur Jotun Ketill Korhal Krydon LV-555 Lakius "Lerilak Crest" Lorcadia Maltair "Mar Sara" Marek Marlowe Mehlus Meinhoff Melkora Midr Miranar 
+				Mistaff Moria Nelyth Nemaka Nephor "New Folsom" "New Sydney" "New Trinidad" Nidhogg Norris "Old Faithful" "Onuru Sigma" Orna Paralta Parragos Pegasus Phaeton 
+				Pho-Rekh "Pike's Peak" "Planet Christmas" "Port Zion" Pridewater Raydin Redstone Revan Revera Reynif Roxara Saluset Samiku Sammy Scoria Seti Shakuras Shi 
+				Shiloh Sigmaris Sirocco Slayn Sonyan Sorona Sutur Swampus "Tal Qirat" TarKossia Tarsonis Tashai Taurus Tepperus Thalon Thanix Thys Timul Tiria Torus Turaxis 
+				Typhon Tyrador Uilel Uilila Ullalah Umoja Urona Vanass Vardona Veridia Vyctor Vygoire Warrant Wotan XT39323 Xil Ynoth Zanadar Zenn Zeph Zerus Zhakul Zz'gash 
+			}
+		}
+		pc_desert = {
+			names = {}
+		}
+		pc_arid = {
+			names = {}
+		}
+		pc_tropical = {
+			names = {}
+		}
+		pc_continental = {
+			names = {}
+		}
+		pc_gaia = {
+			names = {}
+		}
+		pc_ocean = {
+			names = {}
+		}
+		pc_tundra = {
+			names = {}
+		}
+		pc_arctic = {
+			names = {}
+		}
+	}
+
+	character_names = {
+		names1 = {
+			weight = 100
+			full_names = {
+				Alikka Althai Ataldis Azimar Dabiri Darakian Jarzul Kehdana Khashilar Kherenoss Khrillian Krythkal Lassatar Lyrak Malete Miratix Mohandar Naraza Pagan 
+				Raszagal Razturul Sagaya Sharas Taelus Theromos Tyrak Ulavu Ulrezaj Vorazun Xerana Xy'tal Zahan Zangakkar Zeratul Zoraya Aedus Aedus/Xerxes Alarak Aldaris 
+				Amdor Andraxxus Artanis Assmael Blackman Demioch Edullon Fenix Ji'nara Kaldalis Karass Karax Lasarra Lyrak Ma'lash Mohandar Mojo Nyon Probius Raszagal Rohana 
+				Selendis Syndrea Talandar Talis Tassadar Urun Vorazun Xerxes Zeratul Deloria Doraelus Felanis Forthum Gruu Harrum Iaalu Jhas Juras Kaeon Karax Khas Kizrath 
+				Kortanul Lasarra Mardonis Nahaan Nubas Nuun-Min Palmet Sacopo Saldrian Syndrea Taarim Tabrenus Varloris Vartanil Wa'Rak Wotarra Yaiino Ydadin Zekrath Zentheon 
+			}
+			regnal_first_names_male = {
+				Alikka Althai Ataldis Azimar Dabiri Darakian Jarzul Kehdana Khashilar Kherenoss Khrillian Krythkal Lassatar Lyrak Malete Miratix Mohandar Naraza Pagan 
+				Raszagal Razturul Sagaya Sharas Taelus Theromos Tyrak Ulavu Ulrezaj Vorazun Xerana Xy'tal Zahan Zangakkar Zeratul Zoraya Aedus Aedus/Xerxes Alarak Aldaris 
+				Amdor Andraxxus Artanis Assmael Blackman Demioch Edullon Fenix Ji'nara Kaldalis Karass Karax Lasarra Lyrak Ma'lash Mohandar Mojo Nyon Probius Raszagal Rohana 
+				Selendis Syndrea Talandar Talis Tassadar Urun Vorazun Xerxes Zeratul Deloria Doraelus Felanis Forthum Gruu Harrum Iaalu Jhas Juras Kaeon Karax Khas Kizrath 
+				Kortanul Lasarra Mardonis Nahaan Nubas Nuun-Min Palmet Sacopo Saldrian Syndrea Taarim Tabrenus Varloris Vartanil Wa'Rak Wotarra Yaiino Ydadin Zekrath Zentheon 
+			}
+			regnal_first_names_female = {
+				Alikka Althai Ataldis Azimar Dabiri Darakian Jarzul Kehdana Khashilar Kherenoss Khrillian Krythkal Lassatar Lyrak Malete Miratix Mohandar Naraza Pagan 
+				Raszagal Razturul Sagaya Sharas Taelus Theromos Tyrak Ulavu Ulrezaj Vorazun Xerana Xy'tal Zahan Zangakkar Zeratul Zoraya Aedus Aedus/Xerxes Alarak Aldaris 
+				Amdor Andraxxus Artanis Assmael Blackman Demioch Edullon Fenix Ji'nara Kaldalis Karass Karax Lasarra Lyrak Ma'lash Mohandar Mojo Nyon Probius Raszagal Rohana 
+				Selendis Syndrea Talandar Talis Tassadar Urun Vorazun Xerxes Zeratul Deloria Doraelus Felanis Forthum Gruu Harrum Iaalu Jhas Juras Kaeon Karax Khas Kizrath 
+				Kortanul Lasarra Mardonis Nahaan Nubas Nuun-Min Palmet Sacopo Saldrian Syndrea Taarim Tabrenus Varloris Vartanil Wa'Rak Wotarra Yaiino Ydadin Zekrath Zentheon 
+			}
+			regnal_second_names = {}
+		}
+	}
+}
+#================================================================================
+# Terran
+#================================================================================
+xan_sc_terran = {
+	randomized = no
+
+	ship_names = {
+		generic = {
+			Aeneas Aleksander Amerigo Amphitrite Anglia Antigone Archangel Argo Assault Avenger Barge Battlecruiser Beluga Bismarck Blimp Brin "Brook's Folly" Bucephalus 
+			Cerberus Chandler Charon Circe Cormorant Cruiser Cutlass Cyrus "DF/A-19 Wraith Mk2" "Daddy's Girl" "Daisy 8" "Delta 220" Destroyer Doomhammer "Emperor's Fury" 
+			Eos "Epsilon 443" Fanfare "Fat Girl" Fury "Gamma 800" "General Lee" "Generous Profit" Gladiator Gorgon "Graceful Wing" "Gray Tiger" Griffin Griffon Grizzly 
+			"Grizzly 40" "Grizzly 95" "Gun cutter" Harper Harrison Hawk Helios Hellhound Hephaestus Herakles Hercules Homage Hoosier "Huey Long" Hurricane Hydrus Hyperion 
+			Illustrious "Iron Fist" "Iron Justice" "Jackson V" "Jackson's Revenge" "John Lomas" Jonestown "KTO 08" "Kappa 075" Kimera "Kimeran Juggernaut" "Kitty Jay" 
+			Leviathan Liberator Lightbringer "Linda Lou" Liner Loki Mammoth Medivac Medusa Meleager Merchantman Merrimack Metis Moros Nagglfar Napoleon Norad "Norad II" 
+			"Norad III" November Padraig Palatine Palomino Pasteur Patroclus Phobos "Pride of Augustgrad" "Prison ship" Privateer Puddle-jumper "Quantradyne APOD-33" 
+			Ragnorak Raven Reagan Sarengo Scimitar Scion "Shuttle 5467" "Skynyrd II" Sleepwalker "Space truck" Space-hauler Sparrowhawk "Special ops" Starcruiser 
+			Starheaper Sunset Supercarrier "Sweetie Pie" "System runner" "TF-620 Nomad" "Tac fighter" Tahoe "Tango Bravo 109" "Theodore G. Bilbo" "Thunder Child" Titan 
+			Trillium Troopship "Undertow 2" Valerian Valkyrie "Valkyrie Vixen" "Valor of Vardona" Victory Viking Wanderer Warhawk "White Star" Wraith 
+			"Wraith One Fox Three" Wyrm YA3
+		}
+		corvette = {}
+		constructor = {}
+		colonizer = {}
+		science = {}
+		destroyer = {}
+		cruiser = {}
+		battleship = {}
+		orbital_station = {}
+		mining_station = {}
+		research_station = {}
+		wormhole_station = {}
+		observation_station = {}
+		outpost_station = {}
+		transport = {}
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}
+	}
+
+	fleet_names = {
+		random_names = {
+			Dominion Fleet
+		}
+		sequential_name = "%O% Dominion Fleet"
+	}
+
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Dominion Defense Force"
+		}
+		assault_army = {
+			sequential_name = "%O% Dominion Marine Corps"
+		}
+		slave_army = {
+			sequential_name = "%O% War Pigs"
+		}
+		clone_army = { 
+			sequential_name = "%O% Hel's Angels"
+		}
+		robotic_army = {
+			sequential_name = "%O% Prometheus Company"
+		}
+		android_army = {
+			sequential_name = "%O% Stalkers"
+		}
+		psionic_army = { 
+			sequential_name = "%O% Ghosts"
+		}
+		xenomorph_army = {
+			sequential_name = "%O% Goliaths"
+		}
+		gene_warrior_army = {
+			random_names = {}
+			sequential_name = "%O% Cerberus"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				Abaddon Agria Aiur Alamar Albion Aleun "Alpha Draconis" Altara Altheon Anselm Antiga Aridas Artesia Artika Ash'Arak Ashrigo Asteria Astrid Atrias Atticus 
+				Avernus Bellum "Beta Saul" "Bhekar Ro" Boone Borea Bountiful Braken Braxis "Brokas Hur" Brontes Bukari Calus Candore Cantar Castanar Cavir Char "Chau Sara" 
+				Chiron Cirion Cruxas Dannuth "Dead Man's Rock" "Demon's Fair" Dylar Earth Eldersthine Exgelia Feronis Formicia G-2275 "Gamma Dorian" Gantris Gantuan Garxxax 
+				Gelgaris Glacius Gohbus Goldilocks "Great Bend" Grissom Grnaki Gurdlac Gyras Gystt Halcyon Haven Heimdall Helioc Helios Hydrax Icarus Ignus J'larre 
+				"Jarban Minor" Jontur Jotun Ketill Korhal Krydon LV-555 Lakius "Lerilak Crest" Lorcadia Maltair "Mar Sara" Marek Marlowe Mehlus Meinhoff Melkora Midr Miranar 
+				Mistaff Moria Nelyth Nemaka Nephor "New Folsom" "New Sydney" "New Trinidad" Nidhogg Norris "Old Faithful" "Onuru Sigma" Orna Paralta Parragos Pegasus Phaeton 
+				Pho-Rekh "Pike's Peak" "Planet Christmas" "Port Zion" Pridewater Raydin Redstone Revan Revera Reynif Roxara Saluset Samiku Sammy Scoria Seti Shakuras Shi 
+				Shiloh Sigmaris Sirocco Slayn Sonyan Sorona Sutur Swampus "Tal Qirat" TarKossia Tarsonis Tashai Taurus Tepperus Thalon Thanix Thys Timul Tiria Torus Turaxis 
+				Typhon Tyrador Uilel Uilila Ullalah Umoja Urona Vanass Vardona Veridia Vyctor Vygoire Warrant Wotan XT39323 Xil Ynoth Zanadar Zenn Zeph Zerus Zhakul Zz'gash 
+			}
+		}
+		pc_desert = {
+			names = {}
+		}
+		pc_arid = {
+			names = {}
+		}
+		pc_tropical = {
+			names = {}
+		}
+		pc_continental = {
+			names = {}
+		}
+		pc_gaia = {
+			names = {}
+		}
+		pc_ocean = {
+			names = {}
+		}
+		pc_tundra = {
+			names = {}
+		}
+		pc_arctic = {
+			names = {}
+		}
+	}
+
+	character_names = {
+		names1 = {
+			weight = 100
+			full_names = {
+				"Aal Cistler" "Aaren Ruth" "Aaron Keebler" "Aaron Parkinson" "Abraham Kachinsky" "Abraham Vanh" Addams "Adrian Scott" "Ailin Pasteur" "Aios Karnage" 
+				"Alan Johnson" "Alan Schezar" Albee "Alden Moss" "Alisa Verdon" "Alissa LeFlore" "Amanda Haley" "Amelie Tygore" "Andrea Tygore" "Angus Mengsk" Ansel 
+				"Antonia Tygore" Archangel Archer "Arco Bousquette" "Ardo Melnikov" Armstrong "Arturro Calabas" "Augustus Mengsk" "Ava Holt" "Axel Enroses" Ayla "Baleog Grym" 
+				Bartlett Bayton "Bazio Thurgood" "Beacon Jak" Beele Bekkins "Bella Terra" "Benjamin Slater" Benz Berry "Bess Kusinis" "Bian Ari" "Bill Bousquette" "Billy Bob" 
+				"Billy Tallman" Birch "Black Morgan" Blake Blodgett Bolshev Boskk Bourmus "Brachyan Treicher" "Brad Champlain" Braden Braxton "Breg Shaw" Brody "Bud Morris" 
+				Buzan Callins "Carolina Davis" "Caston Gage" "Cerberus Firebat" "Chantal de Vries" "Charlie Vane" Charn Chen "Chewitel Wsoro" Cione "Clara Terra" Cole 
+				"Cole Hickson" "Colin Phash" "Colton Miersma" "Constantino Terra" "Corbin Phash" "Cornelius Brubaker" Cortez Cranston "Crazy Bob" "Cyb Roche" "DJ Atmosphere" 
+				"Daniel Rothfuss" "Dannion Kortter" "Dario Cerulli" Dave "Dave Warner" "David Jones" "Dax Damen" "Dean Mozian" Delme "Delta Emblock" "Dennis Staton" Devlin 
+				Dirthiss "Dium Flecc" Dodds "Dolly Juarez" "Donny Vermillion" "Doran Routhe" Dorian Dorinda "Dorothy Mengsk" Drake Drakken "Drew Roder" Dunsil "Ed Smith" 
+				"Eddie Rimes" "Egon Stetmann" "El Kang the Quixotic" Eli "Emily Swallow" "Emmett Tygore" "Erik Snabb" "Errol Bennet" "Esmerelda Ndoci" "Eugene Malik" Evans 
+				"Ewan Welke" "Ezekiel Daun" "Fenius Hassad" "Fetu Koura-Abi" "Forest Keel" "Francis McCauly" "Frederick Thompson" "Fredrica Wallis" "Gabriel Staton" Garr 
+				Garrick "Garth Duke" "Genna Xann" "Geoff Shane" "Gerhardt van Rijn" "Glenn McAaron" Godard Gorgon "Graven Hill" Grayson Greedo "Gregory Duke" "Gregory Raj" 
+				Grom "Gui Montag" Gustav "Gwen Maxwell" Haddawy "Hailey Falco" Hale "Hanna Saul" Hannah "Harper Utley" Harris Harry Haskins Hassan Hathaway Hazmi 
+				"Helek Branamoor" "Helena DuGalle" Hendrix Henisall "Henry Warfield" Hesken Hopper "Horace Warfield" Hughes "Humbert H." Huntley Hutchins Hyperion 
+				"Iliac Weston" Irmscher "Isaac White" Ivan Jace "Jack Frost" "Jacob Kang" Jake "Jake Ramsey" "James Danther" Jasper Jenkins "Jenn the Vivacious" Jennifer 
+				"Jenson Archimedes" "Jerys Hart" "Jim Smith" Jimmy "Jimmy Jo Jameson" "Jin-ho Lim" "Jo Muncey" Johan "John Andrews" Johnny Johnson "Jonathan Marlow" 
+				"Jonathan Rogers" Jorgensen "Joseph Reynolds" "Joss Brogan" Jouvert "Juliana Pasteur" "K. Marin" Kandis "Katherine Mengsk" Keith Kejora "Kell Daws" Ken 
+				"Kenneth Cole Horner" Kilbourne Kimera Kobayashi Kort "Kyla Velassi" "Kyrie Snabb" "L. H. Smith" "Laura Hodsan" LeFleur "Lee Treicher" Lexa "Liam Griffud" 
+				Lila "Lio Travski" "Lisa Bennet" "Lisa Cain" Loki Lom Lon "Louise DuPre" "Lynn-Ann Bousquette" "Maddie Wilson" Magellan "Malcolm Kelerchian" Malkovich 
+				Malmsteen Manic "Marc Drumar" Marciniak "Marcus Wright" "Marduke Saul" "Maren Ayers" "Maria Thalasses" "Marius Blackwood" Martens Martin "Mary Lou" 
+				"Matthew Murdoch" "Max Herai" "Max Redimus" "Max Speer" Maxwell Mazor Mel "Mena Eston" "Merdith Jernic" "Michael Liberty" Miles Milner "Milo Kusinis" Miloshek 
+				Mitchell "Morgan Calabas" Morrigan Morrison Morrow "Nancy Wyndham" Nguyen "Nick Carpenter" "Norman Goodfellow" "Norris Bailey" "Norwood Doakes" "Octavia Bren" 
+				Odin "Olaf Kraftig" "One Eye McAlester" Oscar Osgood "Oswald Connor" "Ottmar Drenthe" "Ozmel Dodds" "Pamela Foster" Park Patel Paulson Peter "Peter Wells" 
+				"Philbin Gonsales" Plunder Polek Precht Prescott "Ralph Smith" Randall Raynolds Razek "Rebecca Schafer" "Reddell Quinton" "Redell Quinton" Reigel 
+				"Remy Harris" "Rexx Perry" "Rhett Shearon" "Richard Walker" "Riley Bullhorn" "Rin Shearon" Rindge Rita "Robert Maury" "Roberto Lamas" "Rockham Kusinis" 
+				"Rodney Oseen" "Ron Volt" "Ronald Jackson" "Rosa Morales" "Rudy Russell" Rufi Ruxby "Ryk Kydd" Sage Sally "Sam Lassiter" "Samir Duran" Sammy "Samuel Lords" 
+				"Sandra Loew" "Santa Claus" Saunders Sawn Sera Serj "Serl Gentry" "Shae Warfield" "Sherman Jack" Shila Shoberg "Sif Snabb" Singh Slate "Sol Kervock" Sousa 
+				"Space Pirate" Spanneti Sparks Steiglitz Stoltzfus Stone "Stortand Varg" Strong "T-Bone Smalls" "Talen Ayers" "Talise Cogan" "Tara Bennet" "Ternas Shan" 
+				"Theodore Pierce" "Thomas Dufay" "Tim Hawthorne" "Todd Coyle" "Tom Kazansky" "Travis Orran" Trent "Trevor Jacobs" Tseng Tsuname "Turfa Dei" Twitch Twohy 
+				"Tyco Eiche" "Ula Isarki" "Ulani Tirano" "Ulli Trey" "Ulysses Hargrove" "Unholy Tara" "Uraj Al'Kural" "Uran Golenko" "Usagi Hidalgo" "Vallen Wolfe" 
+				"Vera Langridge" "Vigo Czark" Vik "Virgil Caine" Vrain "Walden Briggs" Warhawk Warren "Warren Held" Watkins Wenders "Winlaleah Martine" Wolfe Wotan Wynn Wynne 
+				Xanthos "Yakov Iliev" "Zeb Terra" "Zeke Turner" Zeus Zimmerman 
+			}
+			regnal_first_names_male = {
+				Alexei Arcturus Edmund Gabriel Gerard Jim Matt Rory Tychus Valerian
+			}
+			regnal_first_names_female = {
+				Sarah Ariel Nova
+			}
+			regnal_second_names = {
+				Stukov Duke Tosh DuGalle Raynor Horner Swann Findlay Mengsk Kerrigan Hanson Terra 
+			}
+		}
+	}
+}
+#================================================================================
+# Zerg
+#================================================================================
+xan_sc_zerg = {
+	randomized = no
+
+	ship_names = {
+		generic = {
+			Behemoth Leviathan
+		}
+		corvette = {}
+		constructor = {}
+		colonizer = {}
+		science = {}
+		destroyer = {}
+		cruiser = {}
+		battleship = {}
+		orbital_station = {}
+		mining_station = {}
+		research_station = {}
+		wormhole_station = {}
+		observation_station = {}
+		outpost_station = {}
+		transport = {}
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}
+	}
+
+	fleet_names = {
+		random_names = {
+			Swarm fleet
+		}
+		sequential_name = "%O% Swarm"
+	}
+
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Drones"
+		}
+		assault_army = {
+			sequential_name = "%O% Zerglings"
+		}
+		slave_army = {
+			sequential_name = "%O% Infested"
+		}
+		clone_army = { 
+			sequential_name = "%O% Hydralisks"
+		}
+		robotic_army = {
+			sequential_name = "%O% Mutalisks"
+		}
+		android_army = {
+			sequential_name = "%O% Roaches"
+		}
+		psionic_army = { 
+			sequential_name = "%O% Brutalisks"
+		}
+		xenomorph_army = {
+			sequential_name = "%O% Scourges"
+		}
+		gene_warrior_army = {
+			random_names = {}
+			sequential_name = "%O% Ultralisks"
+		}
+	}
+
+	planet_names = {
+
+		generic = {
+			names = {
+				Abaddon Agria Aiur Alamar Albion Aleun "Alpha Draconis" Altara Altheon Anselm Antiga Aridas Artesia Artika Ash'Arak Ashrigo Asteria Astrid Atrias Atticus 
+				Avernus Bellum "Beta Saul" "Bhekar Ro" Boone Borea Bountiful Braken Braxis "Brokas Hur" Brontes Bukari Calus Candore Cantar Castanar Cavir Char "Chau Sara" 
+				Chiron Cirion Cruxas Dannuth "Dead Man's Rock" "Demon's Fair" Dylar Earth Eldersthine Exgelia Feronis Formicia G-2275 "Gamma Dorian" Gantris Gantuan Garxxax 
+				Gelgaris Glacius Gohbus Goldilocks "Great Bend" Grissom Grnaki Gurdlac Gyras Gystt Halcyon Haven Heimdall Helioc Helios Hydrax Icarus Ignus J'larre 
+				"Jarban Minor" Jontur Jotun Ketill Korhal Krydon LV-555 Lakius "Lerilak Crest" Lorcadia Maltair "Mar Sara" Marek Marlowe Mehlus Meinhoff Melkora Midr Miranar 
+				Mistaff Moria Nelyth Nemaka Nephor "New Folsom" "New Sydney" "New Trinidad" Nidhogg Norris "Old Faithful" "Onuru Sigma" Orna Paralta Parragos Pegasus Phaeton 
+				Pho-Rekh "Pike's Peak" "Planet Christmas" "Port Zion" Pridewater Raydin Redstone Revan Revera Reynif Roxara Saluset Samiku Sammy Scoria Seti Shakuras Shi 
+				Shiloh Sigmaris Sirocco Slayn Sonyan Sorona Sutur Swampus "Tal Qirat" TarKossia Tarsonis Tashai Taurus Tepperus Thalon Thanix Thys Timul Tiria Torus Turaxis 
+				Typhon Tyrador Uilel Uilila Ullalah Umoja Urona Vanass Vardona Veridia Vyctor Vygoire Warrant Wotan XT39323 Xil Ynoth Zanadar Zenn Zeph Zerus Zhakul Zz'gash 
+			}
+		}
+		pc_desert = {
+			names = {}
+		}
+		pc_arid = {
+			names = {}
+		}
+		pc_tropical = {
+			names = {}
+		}
+		pc_continental = {
+			names = {}
+		}
+		pc_gaia = {
+			names = {}
+		}
+		pc_ocean = {
+			names = {}
+		}
+		pc_tundra = {
+			names = {}
+		}
+		pc_arctic = {
+			names = {}
+		}
+	}
+
+	character_names = {
+		names1 = {
+			weight = 100
+			full_names = {
+				Aleksander "Alexei Stukov" "Atticus Carpenter" Auza "Blade Guardian" Blightbringer Brakk Brutalisk "Cardis the Destroyer" Cerebrate Dehaka "Devouring One" 
+				"Devours Children" "Eschueta the Wicked" "Frayne the Feral" "Gilson the Evil" Gorn "Hunter Killer" Kraith Leviathan "Meat Eater" "Meserole the Marauder" Morik 
+				Naktul Nargil Niadra "Old Blue" "Samir Duran" "Sarah Kerrigan" Screamer Slivan Thakras "Wise Old Torrasque" Yagdra Zagara Zargil Zergrinch Zurvan 
+			}
+			regnal_first_names_male = {
+				Overmind
+			}
+			regnal_first_names_female = {
+				Overmind
+			}
+			regnal_second_names = {}
+		}
+	}
+}
