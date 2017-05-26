@@ -7,6 +7,10 @@ FLAG_CATEGORY_xan:0 "XansSciFiMashup"
 ############################################################################################################################################
 # Descriptions
 ############################################################################################################################################
+#-----Starcraft ----------------------------------------------------------------------------------------------------------
+EMPIRE_DESIGN_xan_sc_protoss_desc:0 "@todo"
+EMPIRE_DESIGN_xan_sc_terran_desc:0 "@todo"
+EMPIRE_DESIGN_xan_sc_zerg_desc:0 "@todo"
 #-----Star Trek ----------------------------------------------------------------------------------------------------------
 EMPIRE_DESIGN_xan_st_borg_desc:0 "The Borg are a pseudo-species of cybernetic beings.\nThey are all linked together into a 'hive mind'.\n\nTheir ultimate goal ist to reach perfection through the assimiliation of all other sentient beings, technology and knowledge."
 EMPIRE_DESIGN_xan_st_cardassian_desc:0 "The cardassians are a humanoid species from the planet cardassia prime.\nThey evolved from the acient humanoids and developed a space travelling civilization.\n\nThe Cardassians are well known for their photographic memories, but also for their xenophobic tendencies."
@@ -44,6 +48,15 @@ xan_w4_empire_system_DESC:0 "System modeled after Earth's solar system.\n\n$syst
 ############################################################################################################################################
 # personality
 ############################################################################################################################################
+#-----Starcraft ----------------------------------------------------------------------------------------------------------
+personality_xan_sc_protoss:0 "@todo"
+personality_xan_sc_protoss_desc:0 "@todo"
+
+personality_xan_sc_terran:0 "@todo"
+personality_xan_sc_terran_desc:0 "@todo"
+
+personality_xan_sc_zerg:0 "@todo"
+personality_xan_sc_zerg_desc:0 "@todo"
 #-----Star Trek ----------------------------------------------------------------------------------------------------------
 personality_xan_st_borg:0 "Fanatic assimilators"
 personality_xan_st_borg_desc:0 "The Borg Collective only have one target to assimilate all other species. >>Resistance is futile.<<"
@@ -98,6 +111,10 @@ personality_xan_w4_tyranid_desc:0 "The Great Devourer. Their purpose is the cons
 ############################################################################################################################################
 # name_lists
 ############################################################################################################################################
+#-----Starcraft ----------------------------------------------------------------------------------------------------------
+name_list_xan_sc_protoss:0 "SC Protoss"
+name_list_xan_sc_terran:0 "SC Terran"
+name_list_xan_sc_zerg:0 "SC Zerg"
 #-----Star Trek ----------------------------------------------------------------------------------------------------------
 name_list_xan_st_borg:0 "ST Borg"
 name_list_xan_st_cardassian:0 "ST Cardassian"

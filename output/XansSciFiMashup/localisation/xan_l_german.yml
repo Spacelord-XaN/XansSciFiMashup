@@ -7,6 +7,10 @@ FLAG_CATEGORY_xan:0 "XansSciFiMashup"
 ############################################################################################################################################
 # Descriptions
 ############################################################################################################################################
+#-----Starcraft ----------------------------------------------------------------------------------------------------------
+EMPIRE_DESIGN_xan_sc_protoss_desc:0 "@todo"
+EMPIRE_DESIGN_xan_sc_terran_desc:0 "@todo"
+EMPIRE_DESIGN_xan_sc_zerg_desc:0 "@todo"
 #-----Star Trek ----------------------------------------------------------------------------------------------------------
 EMPIRE_DESIGN_xan_st_borg_desc:0 "Die Borg sind eine pseudo-Spezies bestehend aus kybernetische Wesen.\nSie stehen alle miteinander in Verbindung und bilden das sogenannte kollektive Bewusstsein.\n\nIhr einziges und ultimatives Ziel besteht in der Assimilation anderer fühlender Wesen, Technologie und Wissen um so schlussendlich 'perfektion' zu erreichen."
 EMPIRE_DESIGN_xan_st_cardassian_desc:0 "Die Cardassianer sind eine humanoide Spezies vom Planeten Cardassia Prime.\nSie entwickleten sich von den Urhumanoiden zu einer Weltraumfahrenden Zivilisation.\n\nDie Cardassianer sind bekannt für ihr fotographisches Gedächtnis, jedoch auch für ihre xenophobische Tendenzen."
@@ -44,6 +48,15 @@ xan_w4_empire_system_DESC:0 "Ein System, das dem Sonnensystem der Erde nachempfu
 ############################################################################################################################################
 # personality
 ############################################################################################################################################
+#-----Starcraft ----------------------------------------------------------------------------------------------------------
+personality_xan_sc_protoss:0 "@todo"
+personality_xan_sc_protoss_desc:0 "@todo"
+
+personality_xan_sc_terran:0 "@todo"
+personality_xan_sc_terran_desc:0 "@todo"
+
+personality_xan_sc_zerg:0 "@todo"
+personality_xan_sc_zerg_desc:0 "@todo"
 #-----Star Trek ----------------------------------------------------------------------------------------------------------
 personality_xan_st_borg:0 "Fanatische Assimilatoren"
 personality_xan_st_borg_desc:0 "Für das Borg Kollektiv gibt es nur ein Ziel: Alle anderen Spezies zu assimilieren. >>Widerstand ist zwecklos.<<"
@@ -98,6 +111,10 @@ personality_xan_w4_tyranid_desc:0 "Der Große Verschlinger. Ihr Ziel ist der Ver
 ############################################################################################################################################
 # name_lists
 ############################################################################################################################################
+#-----Starcraft ----------------------------------------------------------------------------------------------------------
+name_list_xan_sc_protoss:0 "SC Protoss"
+name_list_xan_sc_terran:0 "SC Terranisch"
+name_list_xan_sc_zerg:0 "SC Zerg"
 #-----Star Trek ----------------------------------------------------------------------------------------------------------
 name_list_xan_st_borg:0 "ST Borg"
 name_list_xan_st_cardassian:0 "ST Cardassianisch"
