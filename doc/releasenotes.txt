@@ -1,3 +1,6 @@
+Version 2.0
+-Changed borg species class to MAM
+
 Version 1.9 - The Starcraft Update
 -Updated to new government types
 -Fixed bugs

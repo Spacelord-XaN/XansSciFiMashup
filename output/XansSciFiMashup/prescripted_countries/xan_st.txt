@@ -7,7 +7,7 @@ xan_st_borg
 	ship_prefix="BS"
 	species_name="Borg"
 	species_plural="Borg"
-	species_class="ROBOT"
+	species_class="MAM"
 	species_adjective="borg"
 	species_bio=""
 	portrait="xan_st_borg"
