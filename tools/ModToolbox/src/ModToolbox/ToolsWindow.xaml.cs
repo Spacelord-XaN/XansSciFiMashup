@@ -1,4 +1,5 @@
-﻿using System.Windows;
+﻿using System.Reflection;
+using System.Windows;
 
 namespace ModToolbox
 {
@@ -10,6 +11,10 @@ namespace ModToolbox
         public ToolsWindow()
         {
             InitializeComponent();
+
+            Assembly assembly = Assembly.GetAssembly(typeof(ToolsWindow));
+            AssemblyFileVersionAttribute versionAttribute = assembly.GetCustomAttribute<AssemblyFileVersionAttribute>();
+            this.Title += versionAttribute.Version;
         }
     }
 }
