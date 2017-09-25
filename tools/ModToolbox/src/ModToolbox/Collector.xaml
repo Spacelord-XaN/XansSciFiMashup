@@ -14,7 +14,7 @@
             <Button x:Name="buttonClear" Content="Clear" Click="ButtonClearClick" />
         </StackPanel>
 
-        <TextBox x:Name="textBoxResult" Grid.Row="1" IsReadOnly="True" VerticalScrollBarVisibility="Auto" TextWrapping="Wrap" />
+        <TextBox x:Name="textBoxResult" Grid.Row="1" VerticalScrollBarVisibility="Auto" TextWrapping="Wrap" />
 
         <Button x:Name="buttonCopyResultToClipboard" Grid.Row="2" Content="Copy result to Clipboard" Click="ButtonCopyResultToClipboardClick" />
     </Grid>

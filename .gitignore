@@ -3,3 +3,4 @@ tools/ModToolbox/src/ModToolbox/bin
 tools/ModToolbox/src/ModToolbox/obj
 zeuch
 *.suo
+*.vs
