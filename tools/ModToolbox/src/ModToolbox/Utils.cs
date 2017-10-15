@@ -2,12 +2,34 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Reflection;
 using System.Text;
 
 namespace ModToolbox
 {
     public static class Utils
     {
+        public static string SuggestInkscapePath()
+        {
+            return @"C:\Program Files\Inkscape\inkscape.exe";
+        }
+
+        public static string SuggestRepositoryPath()
+        {
+            Assembly myAssembly = Assembly.GetAssembly(typeof(Utils));
+            FileInfo fileInfo = new FileInfo(myAssembly.Location);
+            string path = Path.Combine(fileInfo.Directory.FullName, "..", "..", "..", "..", "..", "..");
+            path = Path.GetFullPath(path);
+            return path;
+        }
+
+        public static string SuggestTargetPath()
+        {
+            string path = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+            path = Path.Combine(path, "Paradox Interactive", "Stellaris", "mod");
+            return path;
+        }
+
         public static void ImageMagickPngToDds(string InputFile, string OutputFile)
         {
             byte[] data;

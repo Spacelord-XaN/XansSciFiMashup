@@ -1,4 +1,6 @@
-﻿using System.Reflection;
+﻿using ModToolbox.Stellaris;
+using System.Collections.Generic;
+using System.Reflection;
 using System.Windows;
 
 namespace ModToolbox

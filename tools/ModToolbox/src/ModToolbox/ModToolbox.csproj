@@ -92,11 +92,21 @@
     <Compile Include="Release\ReleaseCreator.cs" />
     <Compile Include="Release\ReleaseCreatorEventArgs.cs" />
     <Compile Include="Release\Setup.cs" />
+    <Compile Include="Stellaris\CommentNode.cs" />
+    <Compile Include="Stellaris\EmpireFileUpgrader.cs" />
+    <Compile Include="Stellaris\KeyValueNode.cs" />
+    <Compile Include="Stellaris\NodeDeserializer.cs" />
+    <Compile Include="Stellaris\NodeBase.cs" />
+    <Compile Include="Stellaris\NodeSerializer.cs" />
+    <Compile Include="Stellaris\ValueNode.cs" />
     <Compile Include="Subtractor.xaml.cs">
       <DependentUpon>Subtractor.xaml</DependentUpon>
     </Compile>
     <Compile Include="ToolsWindow.xaml.cs">
       <DependentUpon>ToolsWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Upgrader.xaml.cs">
+      <DependentUpon>Upgrader.xaml</DependentUpon>
     </Compile>
     <Compile Include="Utils.cs" />
     <Page Include="Backformatter.xaml">
@@ -135,6 +145,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Upgrader.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -160,6 +174,7 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
     <AppDesigner Include="Properties\" />
+    <Compile Include="Stellaris\ExtensionMethods.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

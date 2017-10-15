@@ -22,6 +22,9 @@
         <TabItem Header="NameSplitter">
             <local:NameSplitter />
         </TabItem>
+        <TabItem Header="Upgrader">
+            <local:Upgrader />
+        </TabItem>
         <TabItem Header="ReleaseCreator">
             <local:ReleaseBuilder />
         </TabItem>
