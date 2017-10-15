@@ -238,6 +238,7 @@ xan_st_ferengi
 		ruler_title_female="Grand Nagus"
 	}
 	spawn_enabled=always
+	room="default_room"
 	ethic="ethic_authoritarian"
 	ethic="ethic_fanatic_materialist"
 	civics={
