@@ -1,127 +1,137 @@
 #================================================================================
-# Empire
+# Galactic Empire
 #================================================================================
-xan_sw_empire
-={
-	name_list="xan_sw_empire"
-	ship_prefix="IS"
-	species_name="Imperial citizen"
-	species_plural="Imperial citizens"
-	species_class="MAM"
-	species_adjective="imperial"
-	species_bio=""
-	portrait="xan_sw_empire"
+xan_sw_empire={
 	name="Galactic Empire"
-	adjective="imperial"
-	authority="auth_imperial"
-	government="gov_star_empire"
+	ship_prefix=IS
+	species={
+		class=MAM
+		portrait=xan_sw_empire
+		name="Imperial citizen"
+		plural="Imperial citizens"
+		adjective=imperial
+		species_bio=""
+		name_list=xan_sw_empire
+		trait=trait_strong
+		trait=trait_resilient
+	}
+	adjective=imperial
+	authority=auth_imperial
+	government=gov_star_empire
 	ftl=hyperdrive
-	weapon="tech_lasers_1"
+	weapon=tech_lasers_1
 	planet_name="Imperial Center"
-	planet_class="pc_continental"
+	planet_class=pc_continental
 	system_name="Coruscant Prime"
 	initializer=""
-	graphical_culture="mammalian_01"
-	city_graphical_culture="mammalian_01"
+	graphical_culture=mammalian_01
+	city_graphical_culture=mammalian_01
 	empire_flag={
 		icon={
-			category="xan"
-			file="xan_sw_empire.dds"
+			category=xan
+			file=xan_sw_empire.dds
 		}
 		background={
-			category="backgrounds"
-			file="00_solid.dds"
+			category=backgrounds
+			file=00_solid.dds
 		}
 		colors={
-			"dark_blue"
-			"dark_blue"
-			"null"
-			"null"
+			dark_blue
+			dark_blue
+			null
+			null
 		}
 	}
 	ruler={
 		gender=male
-		name="Palpatine"
-		portrait="xan_sw_empire_ruler_00"
+		name=Palpatine
+		portrait=xan_sw_empire_ruler_00
 		texture=0
 		hair=0
 		clothes=0
-		ruler_title="Emperor"
-		ruler_title_female="Empress"
+		ruler_title=Emperor
+		ruler_title_female=Empress
 	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room=personality_erudite_explorers_room
 	spawn_enabled=always
-	room="personality_erudite_explorers_room"
-	ethic="ethic_fanatic_xenophobe"
-	ethic="ethic_militarist"
+	ethic=ethic_fanatic_xenophobe
+	ethic=ethic_militarist
 	civics={
 		civic_aristocratic_elite
 		civic_distinguished_admiralty
 	}
-	trait="trait_strong"
-	trait="trait_resilient"
-	flags = { xan_sw_empire }
+	flags={
+		xan_sw_empire
+	}
 }
 #================================================================================
 # New Republic
 #================================================================================
-xan_sw_newRepublic
-={
-	name_list="xan_sw_newRepublic"
-	ship_prefix="NRS"
-	species_name="Human"
-	species_plural="Humans"
-	species_class="MAM"
-	species_adjective="human"
-	species_bio=""
-	portrait="xan_sw_newRepublic"
+xan_sw_newRepublic={
 	name="New Republic"
-	adjective="republican"
-	authority="auth_democratic"
-	government="gov_representative_democracy"
+	ship_prefix=NRS
+	species={
+		class=MAM
+		portrait=xan_sw_newRepublic
+		name=Human
+		plural=Humans
+		adjective=human
+		species_bio=""
+		name_list=xan_sw_newRepublic
+		trait=trait_adaptive
+		trait=trait_weak
+		trait=trait_charismatic
+	}
+	adjective=republican
+	authority=auth_democratic
+	government=gov_representative_democracy
 	ftl=hyperdrive
-	weapon="tech_lasers_1"
-	planet_name="Chandrila"
-	planet_class="pc_continental"
+	weapon=tech_lasers_1
+	planet_name=Chandrila
+	planet_class=pc_continental
 	system_name="Chandrila  System"
 	initializer=""
-	graphical_culture="mammalian_01"
-	city_graphical_culture="mammalian_01"
+	graphical_culture=mammalian_01
+	city_graphical_culture=mammalian_01
 	empire_flag={
 		icon={
-			category="xan"
-			file="xan_sw_newRepublic.dds"
+			category=xan
+			file=xan_sw_newRepublic.dds
 		}
 		background={
-			category="backgrounds"
-			file="00_solid.dds"
+			category=backgrounds
+			file=00_solid.dds
 		}
 		colors={
-			"red"
-			"red"
-			"null"
-			"null"
+			red
+			red
+			null
+			null
 		}
 	}
 	ruler={
 		gender=female
 		name="Mon Mothma"
-		portrait="xan_sw_newRepublic_ruler_00"
+		portrait=xan_sw_newRepublic_ruler_00
 		texture=0
 		hair=0
 		clothes=4
-		ruler_title="Chancellor"
-		ruler_title_female="Chancellor"
+		ruler_title=Chancellor
+		ruler_title_female=Chancellor
 	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room=personality_decadent_hierarchy_room
 	spawn_enabled=always
-	room="personality_decadent_hierarchy_room"
-	ethic="ethic_fanatic_xenophile"
-	ethic="ethic_egalitarian"
+	ethic=ethic_fanatic_xenophile
+	ethic=ethic_egalitarian
 	civics={
 		civic_free_haven
 		civic_parliamentary_system
 	}
-	trait="trait_adaptive"
-	trait="trait_weak"
-	trait="trait_charismatic"
-	flags = { xan_sw_newRepublic }
+	flags={
+		xan_sw_newRepublic
+	}
 }

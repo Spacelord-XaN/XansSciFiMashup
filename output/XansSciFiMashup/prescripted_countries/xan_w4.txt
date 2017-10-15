@@ -1,509 +1,549 @@
 #================================================================================
 # Chaos
 #================================================================================
-xan_w4_chaos
-={
-	name_list="xan_w4_chaos"
-	ship_prefix="CSS"
-	species_name="Chaos"
-	species_plural="Chaos"
-	species_class="MOL"
-	species_adjective="chaotic"
-	species_bio=""
-	portrait="xan_w4_chaos"
-	name="Chaos"
-	adjective="chaotic"
-	authority="auth_imperial"
-	government="gov_blood_court"
+xan_w4_chaos={
+	name=Chaos
+	ship_prefix=CSS
+	species={
+		class=MOL
+		portrait=xan_w4_chaos
+		name=Chaos
+		plural=Chaos
+		adjective=chaotic
+		species_bio=""
+		name_list=xan_w4_chaos
+		trait=trait_strong
+		trait=trait_repugnant
+		trait=trait_adaptive
+	}
+	adjective=chaotic
+	authority=auth_imperial
+	government=gov_blood_court
 	ftl=warp
-	weapon="tech_missiles_1"
+	weapon=tech_missiles_1
 	planet_name="Eye of Terror"
-	planet_class="pc_desert"
+	planet_class=pc_desert
 	system_name="Eye of Terror"
 	initializer=""
-	graphical_culture="mammalian_01"
-	city_graphical_culture="mammalian_01"
+	graphical_culture=mammalian_01
+	city_graphical_culture=mammalian_01
 	empire_flag={
 		icon={
-			category="xan"
-			file="xan_w4_chaos.dds"
+			category=xan
+			file=xan_w4_chaos.dds
 		}
 		background={
-			category="backgrounds"
-			file="00_solid.dds"
+			category=backgrounds
+			file=00_solid.dds
 		}
 		colors={
-			"dark_brown"
-			"dark_brown"
-			"null"
-			"null"
+			dark_brown
+			dark_brown
+			null
+			null
 		}
 	}
 	ruler={
 		gender=male
 		name="No One"
-		portrait="xan_w4_chaos_ruler_00"
+		portrait=xan_w4_chaos_ruler_00
 		texture=3
 		hair=0
 		clothes=0
 		ruler_title="War master"
 		ruler_title_female="War master"
 	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room=personality_fanatic_purifier_room
 	spawn_enabled=always
-	room="personality_fanatic_purifier_room"
-	ethic="ethic_militarist"
-	ethic="ethic_fanatic_xenophobe"
+	ethic=ethic_militarist
+	ethic=ethic_fanatic_xenophobe
 	civics={
 		civic_fanatic_purifiers
 		civic_warrior_culture
 	}
-	trait="trait_strong"
-	trait="trait_repugnant"
-	trait="trait_adaptive"
-	flags = { xan_w4_chaos }
+	flags={
+		xan_w4_chaos
+	}
 }
 #================================================================================
 # Dark Eldar
 #================================================================================
-xan_w4_darkEldar
-={
-	name_list="xan_w4_darkEldar"
-	ship_prefix="DES"
-	species_name="Dark Eldar"
-	species_plural="Dark Eldar"
-	species_class="MAM"
-	species_adjective="dark eldarian"
-	species_bio=""
-	portrait="xan_w4_darkEldar"
+xan_w4_darkEldar={
 	name="Dark Eldar"
+	ship_prefix=DES
+	species={
+		class=MAM
+		portrait=xan_w4_darkEldar
+		name="Dark Eldar"
+		plural="Dark Eldar"
+		adjective="dark eldarian"
+		species_bio=""
+		name_list=xan_w4_darkEldar
+		trait=trait_decadent
+		trait=trait_nomadic
+		trait=trait_strong
+		trait=trait_enduring
+	}
 	adjective="Dark eldarian"
-	authority="auth_imperial"
-	government="gov_martial_empire"
+	authority=auth_imperial
+	government=gov_martial_empire
 	ftl=wormhole
-	weapon="tech_lasers_1"
-	planet_name="Commorragh"
-	planet_class="pc_tundra"
-	system_name="Webway"
+	weapon=tech_lasers_1
+	planet_name=Commorragh
+	planet_class=pc_tundra
+	system_name=Webway
 	initializer=""
-	graphical_culture="avian_01"
-	city_graphical_culture="avian_01"
+	graphical_culture=avian_01
+	city_graphical_culture=avian_01
 	empire_flag={
 		icon={
-			category="xan"
-			file="xan_w4_darkEldar.dds"
+			category=xan
+			file=xan_w4_darkEldar.dds
 		}
 		background={
-			category="backgrounds"
-			file="00_solid.dds"
+			category=backgrounds
+			file=00_solid.dds
 		}
 		colors={
-			"dark_purple"
-			"dark_purple"
-			"null"
-			"null"
+			dark_purple
+			dark_purple
+			null
+			null
 		}
 	}
 	ruler={
 		gender=male
 		name="Asdrubael Vect"
-		portrait="xan_w4_darkEldar_ruler_00"
+		portrait=xan_w4_darkEldar_ruler_00
 		texture=0
 		hair=8
 		clothes=1
-		ruler_title="Archon"
-		ruler_title_female="Archon"
+		ruler_title=Archon
+		ruler_title_female=Archon
 	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room=personality_honorbound_warriors_room
 	spawn_enabled=always
-	room="personality_honorbound_warriors_room"
-	ethic="ethic_authoritarian"
-	ethic="ethic_militarist"
-	ethic="ethic_materialist"
+	ethic=ethic_authoritarian
+	ethic=ethic_militarist
+	ethic=ethic_materialist
 	civics={
 		civic_slaver_guilds
 		civic_warrior_culture
 	}
-	trait="trait_decadent"
-	trait="trait_nomadic"
-	trait="trait_strong"
-	trait="trait_enduring"
-	flags = { xan_w4_darkEldar }
+	flags={
+		xan_w4_darkEldar
+	}
 }
 #================================================================================
-# Eldar
+# Eldar Empire
 #================================================================================
-xan_w4_eldar
-={
-	name_list="xan_w4_eldar"
-	ship_prefix="ES"
-	species_name="Eldar"
-	species_plural="Eldar"
-	species_class="MAM"
-	species_adjective="eldarian"
-	species_bio=""
-	portrait="xan_w4_eldar"
+xan_w4_eldar={
 	name="Eldar Empire"
-	adjective="eldarian"
-	authority="auth_oligarchic"
-	government="gov_military_junta"
+	ship_prefix=ES
+	species={
+		class=MAM
+		portrait=xan_w4_eldar
+		name=Eldar
+		plural=Eldar
+		adjective=eldarian
+		species_bio=""
+		name_list=xan_w4_eldar
+		trait=trait_enduring
+		trait=trait_sedentary
+		trait=trait_intelligent
+	}
+	adjective=eldarian
+	authority=auth_oligarchic
+	government=gov_military_junta
 	ftl=wormhole
-	weapon="tech_lasers_1"
+	weapon=tech_lasers_1
 	planet_name="Belial IV"
-	planet_class="pc_continental"
-	system_name="Belial"
+	planet_class=pc_continental
+	system_name=Belial
 	initializer=""
-	graphical_culture="avian_01"
-	city_graphical_culture="avian_01"
+	graphical_culture=avian_01
+	city_graphical_culture=avian_01
 	empire_flag={
 		icon={
-			category="xan"
-			file="xan_w4_eldar.dds"
+			category=xan
+			file=xan_w4_eldar.dds
 		}
 		background={
-			category="backgrounds"
-			file="00_solid.dds"
+			category=backgrounds
+			file=00_solid.dds
 		}
 		colors={
-			"turquoise"
-			"turquoise"
-			"null"
-			"null"
+			turquoise
+			turquoise
+			null
+			null
 		}
 	}
 	ruler={
 		gender=female
 		name="Zinhle Skhosana"
-		portrait="xan_w4_eldar_ruler_00"
+		portrait=xan_w4_eldar_ruler_00
 		texture=0
 		hair=0
 		clothes=0
-		ruler_title="Farseer"
-		ruler_title_female="Farseer"
+		ruler_title=Farseer
+		ruler_title_female=Farseer
 	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room=personality_harmonious_hierarchy_room
 	spawn_enabled=always
-	room="personality_harmonious_hierarchy_room"
-	ethic="ethic_militarist"
-	ethic="ethic_spiritualist"
-	ethic="ethic_xenophobe"
+	ethic=ethic_militarist
+	ethic=ethic_spiritualist
+	ethic=ethic_xenophobe
 	civics={
 		civic_meritocracy
 		civic_nationalistic_zeal
 	}
-	trait="trait_enduring"
-	trait="trait_sedentary"
-	trait="trait_intelligent"
-	flags = { xan_w4_eldar }
+	flags={
+		xan_w4_eldar
+	}
 }
 #================================================================================
-# Empire
+# Imperium of Man
 #================================================================================
-xan_w4_empire
-={
-	name_list="xan_w4_empire"
-	ship_prefix="INV"
-	species_name="Human"
-	species_plural="Humans"
-	species_class="MAM"
-	species_adjective="human"
-	species_bio=""
-	portrait="xan_w4_empire"
+xan_w4_empire={
 	name="Imperium of Man"
-	adjective="imperial"
-	authority="auth_imperial"
-	government="gov_divine_empire"
+	ship_prefix=INV
+	species={
+		class=MAM
+		portrait=xan_w4_empire
+		name=Human
+		plural=Humans
+		adjective=human
+		species_bio=""
+		name_list=xan_w4_empire
+		trait=trait_industrious
+	}
+	adjective=imperial
+	authority=auth_imperial
+	government=gov_divine_empire
 	ftl=warp
-	weapon="tech_missiles_1"
-	planet_name="Terra"
-	planet_class="pc_continental"
+	weapon=tech_missiles_1
+	planet_name=Terra
+	planet_class=pc_continental
 	system_name="Sol system"
-	initializer="xan_w4_empire_system"
-	graphical_culture="mammalian_01"
-	city_graphical_culture="mammalian_01"
+	initializer=xan_w4_empire_system
+	graphical_culture=mammalian_01
+	city_graphical_culture=mammalian_01
 	empire_flag={
 		icon={
-			category="xan"
-			file="xan_w4_empire.dds"
+			category=xan
+			file=xan_w4_empire.dds
 		}
 		background={
-			category="backgrounds"
-			file="00_solid.dds"
+			category=backgrounds
+			file=00_solid.dds
 		}
 		colors={
-			"indigo"
-			"indigo"
-			"null"
-			"null"
+			indigo
+			indigo
+			null
+			null
 		}
 	}
 	ruler={
 		gender=male
 		name="Emperor of Mankind"
-		portrait="xan_w4_empire_ruler_00"
+		portrait=xan_w4_empire_ruler_00
 		texture=0
 		hair=4
 		clothes=3
 		ruler_title=" "
 		ruler_title_female=" "
 	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room=personality_xenophobic_isolationists_room
 	spawn_enabled=always
-	room="personality_xenophobic_isolationists_room"
-	ethic="ethic_authoritarian"
-	ethic="ethic_militarist"
-	ethic="ethic_spiritualist"
+	ethic=ethic_authoritarian
+	ethic=ethic_militarist
+	ethic=ethic_spiritualist
 	civics={
 		civic_aristocratic_elite
 		civic_imperial_cult
 	}
-	trait="trait_industrious"
-	flags = { xan_w4_empire }
+	flags={
+		xan_w4_empire
+	}
 }
 #================================================================================
 # Necron
 #================================================================================
-xan_w4_necron
-={
-	name_list="xan_w4_necron"
-	ship_prefix="TS"
-	species_name="Necron"
-	species_plural="Necrons"
-	species_class="ART"
-	species_adjective="necron"
-	species_bio=""
-	portrait="xan_w4_necron"
-	name="Necron"
-	adjective="necron"
-	authority="auth_dictatorial"
-	government="gov_purity_order"
+xan_w4_necron={
+	name=Necron
+	ship_prefix=TS
+	species={
+		class=ART
+		portrait=xan_w4_necron
+		name=Necron
+		plural=Necrons
+		adjective=necron
+		species_bio=""
+		name_list=xan_w4_necron
+		trait=trait_adaptive
+	}
+	adjective=necron
+	authority=auth_dictatorial
+	government=gov_purity_order
 	ftl=warp
-	weapon="tech_lasers_1"
+	weapon=tech_lasers_1
 	planet_name="Hollow Sun"
-	planet_class="pc_desert"
-	system_name="Hollow"
+	planet_class=pc_desert
+	system_name=Hollow
 	initializer=""
-	graphical_culture="arthropoid_01"
-	city_graphical_culture="mammalian_01"
+	graphical_culture=arthropoid_01
+	city_graphical_culture=mammalian_01
 	empire_flag={
 		icon={
-			category="xan"
-			file="xan_w4_necron.dds"
+			category=xan
+			file=xan_w4_necron.dds
 		}
 		background={
-			category="backgrounds"
-			file="00_solid.dds"
+			category=backgrounds
+			file=00_solid.dds
 		}
 		colors={
-			"dark_grey"
-			"dark_grey"
-			"null"
-			"null"
+			dark_grey
+			dark_grey
+			null
+			null
 		}
 	}
 	ruler={
 		gender=male
-		name="Ahmontekh"
-		portrait="xan_w4_necron_ruler_00"
+		name=Ahmontekh
+		portrait=xan_w4_necron_ruler_00
 		texture=0
 		hair=0
 		clothes=0
-		ruler_title="Phaeron"
-		ruler_title_female="Phaeron"
+		ruler_title=Phaeron
+		ruler_title_female=Phaeron
 	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room=personality_metalheads_room
 	spawn_enabled=always
-	room="personality_metalheads_room"
-	ethic="ethic_fanatic_xenophobe"
-	ethic="ethic_spiritualist"
+	ethic=ethic_fanatic_xenophobe
+	ethic=ethic_spiritualist
 	civics={
 		civic_fanatic_purifiers
 		civic_functional_architecture
 	}
-	trait="trait_adaptive"
-	flags = { xan_w4_necron }
+	flags={
+		xan_w4_necron
+	}
 }
 #================================================================================
-# Ork
+# Ork Empire
 #================================================================================
-xan_w4_ork
-={
-	name_list="xan_w4_ork"
-	ship_prefix="WS"
-	species_name="Ork"
-	species_plural="Orks"
-	species_class="REP"
-	species_adjective="orkish"
-	species_bio=""
-	portrait="xan_w4_ork"
+xan_w4_ork={
 	name="Ork Empire"
-	adjective="orkish"
-	authority="auth_dictatorial"
-	government="gov_martial_dictatorship"
+	ship_prefix=WS
+	species={
+		class=REP
+		portrait=xan_w4_ork
+		name=Ork
+		plural=Orks
+		adjective=orkish
+		species_bio=""
+		name_list=xan_w4_ork
+		trait=trait_slow_learners
+		trait=trait_very_strong
+	}
+	adjective=orkish
+	authority=auth_dictatorial
+	government=gov_martial_dictatorship
 	ftl=warp
-	weapon="tech_lasers_1"
-	planet_name="Ullanor"
-	planet_class="pc_tropical"
+	weapon=tech_lasers_1
+	planet_name=Ullanor
+	planet_class=pc_tropical
 	system_name="Ullanor system"
 	initializer=""
-	graphical_culture="reptilian_01"
-	city_graphical_culture="arthropoid_01"
+	graphical_culture=reptilian_01
+	city_graphical_culture=arthropoid_01
 	empire_flag={
 		icon={
-			category="xan"
-			file="xan_w4_ork.dds"
+			category=xan
+			file=xan_w4_ork.dds
 		}
 		background={
-			category="backgrounds"
-			file="00_solid.dds"
+			category=backgrounds
+			file=00_solid.dds
 		}
 		colors={
-			"green"
-			"green"
-			"null"
-			"null"
+			green
+			green
+			null
+			null
 		}
 	}
 	ruler={
 		gender=male
 		name=" The Beast"
-		portrait="xan_w4_ork_ruler_00"
+		portrait=xan_w4_ork_ruler_00
 		texture=1
 		hair=0
 		clothes=0
-		ruler_title="Warboss"
-		ruler_title_female="Warboss"
+		ruler_title=Warboss
+		ruler_title_female=Warboss
 	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room=personality_fanatic_purifier_room
 	spawn_enabled=always
-	room="personality_fanatic_purifier_room"
-	ethic="ethic_authoritarian"
-	ethic="ethic_fanatic_militarist"
+	ethic=ethic_authoritarian
+	ethic=ethic_fanatic_militarist
 	civics={
 		civic_mining_guilds
 		civic_warrior_culture
 	}
-	trait="trait_slow_learners"
-	trait="trait_very_strong"
-	flags = { xan_w4_ork }
+	flags={
+		xan_w4_ork
+	}
 }
 #================================================================================
-# Tau
+# Tau Empire
 #================================================================================
-xan_w4_tau
-={
-	name_list="xan_w4_tau"
-	ship_prefix="Airship"
-	species_name="Tau"
-	species_plural="Tau"
-	species_class="REP"
-	species_adjective="tau"
-	species_bio=""
-	portrait="xan_w4_tau"
+xan_w4_tau={
 	name="Tau Empire"
-	adjective="tau"
-	authority="auth_oligarchic"
-	government="gov_science_directorate"
+	ship_prefix=Airship
+	species={
+		class=REP
+		portrait=xan_w4_tau
+		name=Tau
+		plural=Tau
+		adjective=tau
+		species_bio=""
+		name_list=xan_w4_tau
+		trait=trait_conformists
+	}
+	adjective=tau
+	authority=auth_oligarchic
+	government=gov_science_directorate
 	ftl=warp
-	weapon="tech_lasers_1"
-	planet_name="T'au"
-	planet_class="pc_arid"
-	system_name="Tau"
+	weapon=tech_lasers_1
+	planet_name=T'au
+	planet_class=pc_arid
+	system_name=Tau
 	initializer=""
-	graphical_culture="arthropoid_01"
-	city_graphical_culture="reptilian_01"
+	graphical_culture=arthropoid_01
+	city_graphical_culture=reptilian_01
 	empire_flag={
 		icon={
-			category="xan"
-			file="xan_w4_tau.dds"
+			category=xan
+			file=xan_w4_tau.dds
 		}
 		background={
-			category="backgrounds"
-			file="00_solid.dds"
+			category=backgrounds
+			file=00_solid.dds
 		}
 		colors={
-			"orange"
-			"orange"
-			"null"
-			"null"
+			orange
+			orange
+			null
+			null
 		}
 	}
 	ruler={
 		gender=male
-		name="Aun'Wei"
-		portrait="xan_w4_tau_ruler_00"
+		name=Aun'Wei
+		portrait=xan_w4_tau_ruler_00
 		texture=1
 		hair=0
 		clothes=2
 		ruler_title="Ethereal Supreme"
 		ruler_title_female="Ethereal Supreme"
 	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room=personality_migrating_flock_room
 	spawn_enabled=always
-	room="personality_migrating_flock_room"
-	ethic="ethic_egalitarian"
-	ethic="ethic_materialist"
-	ethic="ethic_xenophile"
+	ethic=ethic_egalitarian
+	ethic=ethic_materialist
+	ethic=ethic_xenophile
 	civics={
 		civic_syncretic_evolution
 		civic_technocracy
 	}
-	trait="trait_conformists"
-	flags = { xan_w4_tau }
+	flags={
+		xan_w4_tau
+	}
 }
 #================================================================================
-# Tyranid
+# Tyranids
 #================================================================================
-xan_w4_tyranid
-={
-	name_list="xan_w4_tyranid"
-	ship_prefix="TYS"
-	species_name="Tyranid"
-	species_plural="Tyranids"
-	species_class="ART"
-	species_adjective="tyranidian"
-	species_bio=""
-	portrait="xan_w4_tyranid"
-	name="Tyranids"
-	adjective="tyranidian"
-	authority="auth_hive_mind"
-	government="gov_hive_mind"
+xan_w4_tyranid={
+	name=Tyranids
+	ship_prefix=TYS
+	species={
+		class=ART
+		portrait=xan_w4_tyranid
+		name=Tyranid
+		plural=Tyranids
+		adjective=tyranidian
+		species_bio=""
+		name_list=xan_w4_tyranid
+		trait=trait_rapid_breeders
+		trait=trait_adaptive
+		trait=trait_repugnant
+	}
+	adjective=tyranidian
+	authority=auth_hive_mind
+	government=gov_hive_mind
 	ftl=warp
-	weapon="tech_mass_drivers_1"
-	planet_name="Tyran"
-	planet_class="pc_desert"
-	system_name="Tyran"
+	weapon=tech_mass_drivers_1
+	planet_name=Tyran
+	planet_class=pc_desert
+	system_name=Tyran
 	initializer=""
-	graphical_culture="molluscoid_01"
-	city_graphical_culture="avian_01"
+	graphical_culture=molluscoid_01
+	city_graphical_culture=avian_01
 	empire_flag={
 		icon={
-			category="xan"
-			file="xan_w4_tyranid.dds"
+			category=xan
+			file=xan_w4_tyranid.dds
 		}
 		background={
-			category="backgrounds"
-			file="00_solid.dds"
+			category=backgrounds
+			file=00_solid.dds
 		}
 		colors={
-			"purple"
-			"purple"
-			"null"
-			"null"
+			purple
+			purple
+			null
+			null
 		}
 	}
 	ruler={
 		gender=male
 		name="Hive Mind"
-		portrait="xan_w4_tyranid_ruler_00"
+		portrait=xan_w4_tyranid_ruler_00
 		texture=0
 		hair=0
 		clothes=0
 		ruler_title=" "
 		ruler_title_female=" "
 	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room=personality_hive_mind_room
 	spawn_enabled=always
-	room="personality_hive_mind_room"
-	ethic="ethic_hive_mind"
+	ethic=ethic_hive_mind
 	civics={
 		civic_hive_pooled_knowledge
 		civic_hive_devouring_swarm
 	}
-	trait="trait_rapid_breeders"
-	trait="trait_adaptive"
-	trait="trait_repugnant"
-	flags = { xan_w4_tyranid }
+	flags={
+		xan_w4_tyranid
+	}
 }

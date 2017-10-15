@@ -1,63 +1,69 @@
 #================================================================================
-# Skaarj
+# Skaarj Empire
 #================================================================================
-xan_va_skaarj
-={
-	name_list="REP1"
-	ship_prefix="SS"
-	species_name="Skaarj"
-	species_plural="Skaarj"
-	species_class="REP"
-	species_adjective="Skaarj"
-	species_bio=""
-	portrait="xan_va_skaarj"
+xan_va_skaarj={
 	name="Skaarj Empire"
-	adjective="imperial"
-	authority="auth_imperial"
-	government="gov_martial_empire"
+	ship_prefix=SS
+	species={
+		class=REP
+		portrait=xan_va_skaarj
+		name=Skaarj
+		plural=Skaarj
+		adjective=Skaarj
+		species_bio=""
+		name_list=REP1
+		trait=trait_strong
+		trait=trait_resilient
+	}
+	adjective=imperial
+	authority=auth_imperial
+	government=gov_martial_empire
 	ftl=hyperdrive
-	weapon="tech_lasers_1"
-	planet_name="Skrath"
-	planet_class="pc_continental"
+	weapon=tech_lasers_1
+	planet_name=Skrath
+	planet_class=pc_continental
 	system_name="Skrath System"
 	initializer=""
-	graphical_culture="reptilian_01"
-	city_graphical_culture="reptilian_01"
+	graphical_culture=reptilian_01
+	city_graphical_culture=reptilian_01
 	empire_flag={
 		icon={
-			category="xan"
-			file="xan_va_skaarj.dds"
+			category=xan
+			file=xan_va_skaarj.dds
 		}
 		background={
-			category="backgrounds"
-			file="00_solid.dds"
+			category=backgrounds
+			file=00_solid.dds
 		}
 		colors={
-			"green"
-			"green"
-			"null"
-			"null"
+			green
+			green
+			null
+			null
 		}
 	}
 	ruler={
 		gender=male
-		name="Skaarj"
-		portrait="xan_va_skaarj_ruler_00"
+		name=Skaarj
+		portrait=xan_va_skaarj_ruler_00
 		texture=0
 		hair=0
 		clothes=0
-		ruler_title="Warlord"
-		ruler_title_female="Queen"
+		ruler_title=Warlord
+		ruler_title_female=Queen
 	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room=personality_slaving_despots_room
 	spawn_enabled=always
-	room="personality_slaving_despots_room"
-	ethic="ethic_xenophobe"
-	ethic="ethic_militarist"
-	ethic="ethic_authoritarian"
+	ethic=ethic_xenophobe
+	ethic=ethic_militarist
+	ethic=ethic_authoritarian
 	civics={
 		civic_slaver_guilds
 		civic_warrior_culture
 	}
-	trait="trait_strong"
-	trait="trait_resilient"
+	flags={
+		xan_va_skaarj
+	}
 }

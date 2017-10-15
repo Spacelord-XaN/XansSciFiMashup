@@ -1,379 +1,409 @@
 #================================================================================
-# Borg
+# Borg Collective
 #================================================================================
-xan_st_borg
-={
-	name_list="xan_st_borg"
-	ship_prefix="BS"
-	species_name="Borg"
-	species_plural="Borg"
-	species_class="MAM"
-	species_adjective="borg"
-	species_bio=""
-	portrait="xan_st_borg"
+xan_st_borg={
 	name="Borg Collective"
-	adjective="borg"
-	authority="auth_hive_mind"
-	government="gov_hive_mind"
+	ship_prefix=BS
+	species={
+		class=MAM
+		portrait=xan_st_borg
+		name=Borg
+		plural=Borg
+		adjective=borg
+		species_bio=""
+		name_list=xan_st_borg
+		trait=trait_quick_learners
+		trait=trait_slow_breeders
+		trait=trait_adaptive
+	}
+	adjective=borg
+	authority=auth_hive_mind
+	government=gov_hive_mind
 	ftl=warp
-	weapon="tech_lasers_1"
+	weapon=tech_lasers_1
 	planet_name="Unimatrix One"
-	planet_class="pc_arctic"
-	system_name="Unimatrix"
+	planet_class=pc_arctic
+	system_name=Unimatrix
 	initializer=""
-	graphical_culture="reptilian_01"
-	city_graphical_culture="reptilian_01"
+	graphical_culture=reptilian_01
+	city_graphical_culture=reptilian_01
 	empire_flag={
 		icon={
-			category="xan"
-			file="xan_st_borg.dds"
+			category=xan
+			file=xan_st_borg.dds
 		}
 		background={
-			category="backgrounds"
-			file="00_solid.dds"
+			category=backgrounds
+			file=00_solid.dds
 		}
 		colors={
-			"dark_green"
-			"dark_green"
-			"null"
-			"null"
+			dark_green
+			dark_green
+			null
+			null
 		}
 	}
 	ruler={
 		gender=female
 		name="Borg Queen"
-		portrait="xan_st_borg_ruler_00"
+		portrait=xan_st_borg_ruler_00
 		texture=0
 		hair=0
 		clothes=0
 		ruler_title=" "
 		ruler_title_female=" "
 	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room=personality_hive_mind_room
 	spawn_enabled=always
-	room="personality_hive_mind_room"
-	ethic="ethic_hive_mind"
+	ethic=ethic_hive_mind
 	civics={
-		"civic_hive_natural_neural_network"
-		"civic_hive_one_mind"
+		civic_hive_natural_neural_network
+		civic_hive_one_mind
 	}
-	trait="trait_quick_learners"
-	trait="trait_slow_breeders"
-	trait="trait_adaptive"
-	flags = { xan_st_borg }
+	flags={
+		xan_st_borg
+	}
 }
 #================================================================================
-# Cardassian
+# Cardassian Union
 #================================================================================
-xan_st_cardassian
-={
-	name_list="xan_st_cardassian"
-	ship_prefix="CS"
-	species_name="Cardassian"
-	species_plural="Cardassians"
-	species_class="REP"
-	species_adjective="cardassian"
-	species_bio=""
-	portrait="xan_st_cardassian"
+xan_st_cardassian={
 	name="Cardassian Union"
-	adjective="cardassian"
-	authority="auth_dictatorial"
-	government="gov_military_dictatorship"
+	ship_prefix=CS
+	species={
+		class=REP
+		portrait=xan_st_cardassian
+		name=Cardassian
+		plural=Cardassians
+		adjective=cardassian
+		species_bio=""
+		name_list=xan_st_cardassian
+		trait=trait_strong
+		trait=trait_intelligent
+		trait=trait_repugnant
+	}
+	adjective=cardassian
+	authority=auth_dictatorial
+	government=gov_military_dictatorship
 	ftl=warp
-	weapon="tech_lasers_1"
+	weapon=tech_lasers_1
 	planet_name="Cardassia Prime"
-	planet_class="pc_arid"
+	planet_class=pc_arid
 	system_name="Cardassian system"
 	initializer=""
-	graphical_culture="reptilian_01"
-	city_graphical_culture="reptilian_01"
+	graphical_culture=reptilian_01
+	city_graphical_culture=reptilian_01
 	empire_flag={
 		icon={
-			category="xan"
-			file="xan_st_cardassian.dds"
+			category=xan
+			file=xan_st_cardassian.dds
 		}
 		background={
-			category="backgrounds"
-			file="00_solid.dds"
+			category=backgrounds
+			file=00_solid.dds
 		}
 		colors={
-			"teal"
-			"teal"
-			"null"
-			"null"
+			teal
+			teal
+			null
+			null
 		}
 	}
 	ruler={
 		gender=male
-		name="Dukat"
-		portrait="xan_st_cardassian_ruler_00"
+		name=Dukat
+		portrait=xan_st_cardassian_ruler_00
 		texture=4
 		hair=0
 		clothes=0
-		ruler_title="Prefect"
-		ruler_title_female="Prefect"
+		ruler_title=Prefect
+		ruler_title_female=Prefect
 	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room=personality_ruthless_capitalists_room
 	spawn_enabled=always
-	room="personality_ruthless_capitalists_room"
-	ethic="ethic_xenophobe"
-	ethic="ethic_militarist"
-	ethic="ethic_materialist"
-	trait="trait_strong"
-	trait="trait_intelligent"
-	trait="trait_repugnant"
+	ethic=ethic_xenophobe
+	ethic=ethic_militarist
+	ethic=ethic_materialist
 	civics={
 		civic_police_state
 		civic_cutthroat_politics
 	}
-	flags = { xan_st_cardassian }
+	flags={
+		xan_st_cardassian
+	}
 }
 #================================================================================
-# Federation
+# United Federation of Planets
 #================================================================================
-xan_st_federation
-={
-	name_list="xan_st_federation"
-	ship_prefix="USS"
-	species_name="Human"
-	species_plural="Humans"
-	species_class="MAM"
-	species_adjective="human"
-	species_bio=""
-	portrait="xan_st_federation"
+xan_st_federation={
 	name="United Federation of Planets"
-	adjective="federal"
-	authority="auth_democratic"
-	government="gov_moral_democracy"
+	ship_prefix=USS
+	species={
+		class=MAM
+		portrait=xan_st_federation
+		name=Human
+		plural=Humans
+		adjective=human
+		species_bio=""
+		name_list=xan_st_federation
+		trait=trait_intelligent
+	}
+	adjective=federal
+	authority=auth_democratic
+	government=gov_moral_democracy
 	ftl=warp
-	weapon="tech_lasers_1"
-	planet_name="Earth"
-	planet_class="pc_continental"
-	system_name="Sol"
-	initializer="xan_st_federation_system"
-	graphical_culture="mammalian_01"
-	city_graphical_culture="mammalian_01"
+	weapon=tech_lasers_1
+	planet_name=Earth
+	planet_class=pc_continental
+	system_name=Sol
+	initializer=xan_st_federation_system
+	graphical_culture=mammalian_01
+	city_graphical_culture=mammalian_01
 	empire_flag={
 		icon={
-			category="xan"
-			file="xan_st_federation.dds"
+			category=xan
+			file=xan_st_federation.dds
 		}
 		background={
-			category="backgrounds"
-			file="00_solid.dds"
+			category=backgrounds
+			file=00_solid.dds
 		}
 		colors={
-			"blue"
-			"blue"
-			"null"
-			"null"
+			blue
+			blue
+			null
+			null
 		}
 	}
 	ruler={
 		gender=male
 		name="Jonathan Archer"
-		portrait="xan_st_federation_ruler_00"
+		portrait=xan_st_federation_ruler_00
 		texture=0
 		hair=5
 		clothes=2
 	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room=personality_hegemonic_imperialists_room
 	spawn_enabled=always
-	room="personality_hegemonic_imperialists_room"
-	ethic="ethic_egalitarian"
-	ethic="ethic_fanatic_pacifist"
+	ethic=ethic_egalitarian
+	ethic=ethic_fanatic_pacifist
 	civics={
 		civic_beacon_of_liberty
 		civic_idealistic_foundation
 	}
-	trait="trait_intelligent"
-	flags = { xan_st_federation }
+	flags={
+		xan_st_federation
+	}
 }
 #================================================================================
-# Ferengi
+# Ferengi Alliance
 #================================================================================
-xan_st_ferengi
-={
-	name_list="xan_st_ferengi"
-	ship_prefix="FMS"
-	species_name="Ferengi"
-	species_plural="Ferengi"
-	species_class="MAM"
-	species_adjective="ferengi"
-	species_bio=""
-	portrait="xan_st_ferengi"
+xan_st_ferengi={
 	name="Ferengi Alliance"
-	adjective="federal"
-	authority="auth_oligarchic"
-	government="gov_megacorporation"
+	ship_prefix=FMS
+	species={
+		class=MAM
+		portrait=xan_st_ferengi
+		name=Ferengi
+		plural=Ferengi
+		adjective=ferengi
+		species_bio=""
+		name_list=xan_st_ferengi
+		trait=trait_intelligent
+	}
+	adjective=federal
+	authority=auth_oligarchic
+	government=gov_megacorporation
 	ftl=warp
-	weapon="tech_lasers_1"
-	planet_name="Ferenginar"
-	planet_class="pc_continental"
+	weapon=tech_lasers_1
+	planet_name=Ferenginar
+	planet_class=pc_continental
 	system_name="Ferenginar system"
 	initializer=""
-	graphical_culture="mammalian_01"
-	city_graphical_culture="arthropoid_01"
+	graphical_culture=mammalian_01
+	city_graphical_culture=arthropoid_01
 	empire_flag={
 		icon={
-			category="xan"
-			file="xan_st_ferengi.dds"
+			category=xan
+			file=xan_st_ferengi.dds
 		}
 		background={
-			category="backgrounds"
-			file="00_solid.dds"
+			category=backgrounds
+			file=00_solid.dds
 		}
 		colors={
-			"green"
-			"green"
-			"null"
-			"null"
+			green
+			green
+			null
+			null
 		}
 	}
 	ruler={
 		gender=male
-		name="Zek"
-		portrait="xan_st_ferengi_ruler_00"
+		name=Zek
+		portrait=xan_st_ferengi_ruler_00
 		texture=0
 		hair=5
 		clothes=2
 		ruler_title="Grand Nagus"
 		ruler_title_female="Grand Nagus"
 	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room=default_room
 	spawn_enabled=always
-	room="default_room"
-	ethic="ethic_authoritarian"
-	ethic="ethic_fanatic_materialist"
+	ethic=ethic_authoritarian
+	ethic=ethic_fanatic_materialist
 	civics={
 		civic_corporate_dominion
 		civic_efficient_bureaucracy
 	}
-	trait="trait_intelligent"
-	flags = { xan_st_ferengi }
+	flags={
+		xan_st_ferengi
+	}
 }
 #================================================================================
-# Klingon
+# Klingon Empire
 #================================================================================
-xan_st_klingon
-={
-	name_list="xan_st_klingon"
-	ship_prefix="IKS"
-	species_name="Klingon"
-	species_plural="Klingons"
-	species_class="MAM"
-	species_adjective="klingon"
-	species_bio=""
-	portrait="xan_st_klingon"
+xan_st_klingon={
 	name="Klingon Empire"
-	adjective="klingon"
-	authority="auth_dictatorial"
-	government="gov_martial_dictatorship"
+	ship_prefix=IKS
+	species={
+		class=MAM
+		portrait=xan_st_klingon
+		name=Klingon
+		plural=Klingons
+		adjective=klingon
+		species_bio=""
+		name_list=xan_st_klingon
+		trait=trait_strong
+		trait=trait_talented
+		trait=trait_slow_learners
+	}
+	adjective=klingon
+	authority=auth_dictatorial
+	government=gov_martial_dictatorship
 	ftl=warp
-	weapon="tech_lasers_1"
-	planet_name="Qo'noS"
-	planet_class="pc_continental"
+	weapon=tech_lasers_1
+	planet_name=Qo'noS
+	planet_class=pc_continental
 	system_name="Qo'noS system"
 	initializer=""
-	graphical_culture="molluscoid_01"
-	city_graphical_culture="mammalian_01"
+	graphical_culture=molluscoid_01
+	city_graphical_culture=mammalian_01
 	empire_flag={
 		icon={
-			category="xan"
-			file="xan_st_klingon.dds"
+			category=xan
+			file=xan_st_klingon.dds
 		}
 		background={
-			category="backgrounds"
-			file="00_solid.dds"
+			category=backgrounds
+			file=00_solid.dds
 		}
 		colors={
-			"burgundy"
-			"burgundy"
-			"null"
-			"null"
+			burgundy
+			burgundy
+			null
+			null
 		}
 	}
 	ruler={
 		gender=male
-		name="Kahless"
-		portrait="xan_st_klingon_ruler_00"
+		name=Kahless
+		portrait=xan_st_klingon_ruler_00
 		texture=4
 		hair=0
 		clothes=4
-		ruler_title="Emperor"
-		ruler_title_female="Empress"
+		ruler_title=Emperor
+		ruler_title_female=Empress
 	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room=personality_honorbound_warriors_room
 	spawn_enabled=always
-	room="personality_honorbound_warriors_room"
-	ethic="ethic_authoritarian"
-	ethic="ethic_fanatic_militarist"
+	ethic=ethic_authoritarian
+	ethic=ethic_fanatic_militarist
 	civics={
 		civic_distinguished_admiralty
 		civic_warrior_culture
 	}
-	trait="trait_strong"
-	trait="trait_talented"
-	trait="trait_slow_learners"
-	flags = { xan_st_klingon }
+	flags={
+		xan_st_klingon
+	}
 }
 #================================================================================
-# Romulan
+# Romulan Star Empire
 #================================================================================
-xan_st_romulan
-={
-	name_list="xan_st_romulan"
-	ship_prefix="IRW"
-	species_name="Romulan"
-	species_plural="Romulans"
-	species_class="MAM"
-	species_adjective="romulan"
-	species_bio=""
-	portrait="xan_st_romulan"
+xan_st_romulan={
 	name="Romulan Star Empire"
-	adjective="romulan"
-	authority="auth_dictatorial"
-	government="gov_military_dictatorship"
+	ship_prefix=IRW
+	species={
+		class=MAM
+		portrait=xan_st_romulan
+		name=Romulan
+		plural=Romulans
+		adjective=romulan
+		species_bio=""
+		name_list=xan_st_romulan
+		trait=trait_solitary
+		trait=trait_deviants
+		trait=trait_industrious
+		trait=trait_intelligent
+	}
+	adjective=romulan
+	authority=auth_dictatorial
+	government=gov_military_dictatorship
 	ftl=warp
-	weapon="tech_lasers_1"
-	planet_name="Romulus"
-	planet_class="pc_continental"
+	weapon=tech_lasers_1
+	planet_name=Romulus
+	planet_class=pc_continental
 	system_name="Romulan system"
 	initializer=""
-	graphical_culture="avian_01"
-	city_graphical_culture="arthropoid_01"
+	graphical_culture=avian_01
+	city_graphical_culture=arthropoid_01
 	empire_flag={
 		icon={
-			category="xan"
-			file="xan_st_romulan.dds"
+			category=xan
+			file=xan_st_romulan.dds
 		}
 		background={
-			category="backgrounds"
-			file="00_solid.dds"
+			category=backgrounds
+			file=00_solid.dds
 		}
 		colors={
-			"dark_green"
-			"dark_green"
-			"null"
-			"null"
+			dark_green
+			dark_green
+			null
+			null
 		}
 	}
 	ruler={
 		gender=male
-		name="Hiren"
-		portrait="xan_st_romulan_ruler_00"
+		name=Hiren
+		portrait=xan_st_romulan_ruler_00
 		texture=4
 		hair=0
 		clothes=4
-		ruler_title="Emperor"
-		ruler_title_female="Empress"
+		ruler_title=Emperor
+		ruler_title_female=Empress
 	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room=personality_democratic_crusaders_room
 	spawn_enabled=always
-	room="personality_democratic_crusaders_room"
-	ethic="ethic_fanatic_xenophobe"
-	ethic="ethic_militarist"
+	ethic=ethic_fanatic_xenophobe
+	ethic=ethic_militarist
 	civics={
 		civic_cutthroat_politics
 		civic_nationalistic_zeal
 	}
-	trait="trait_solitary"
-	trait="trait_deviants"
-	trait="trait_industrious"
-	trait="trait_intelligent"
-	flags = { xan_st_romulan }
+	flags={
+		xan_st_romulan
+	}
 }
