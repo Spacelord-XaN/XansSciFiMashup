@@ -55,7 +55,8 @@ namespace ModToolbox.Stellaris
         public void WriteNode(ValueNode node, int indentaion = 0)
         {
             this.WriteIndentaion(indentaion);
-            if (node.Value.Contains(" ") || this.ForceValueQuotes)
+            bool quote = this.ForceValueQuotes || string.IsNullOrEmpty(node.Value) || node.Value.Contains(" ");
+            if (quote)
             {
                 this.Writer.WriteLine("\"{0}\"", node.Value);
             }
@@ -80,7 +81,8 @@ namespace ModToolbox.Stellaris
         public void WriteKeyValueNode(KeyValueNode node, int indentaion = 0)
         {
             this.WriteIndentaion(indentaion);
-            if (node.Value.Contains(" ") || this.ForceKeyValueQuotes)
+            bool quote = this.ForceKeyValueQuotes || string.IsNullOrEmpty(node.Value) || node.Value.Contains(" ");
+            if (quote)
             {
                 this.Writer.WriteLine("{0}=\"{1}\"", node.Key, node.Value);
             }

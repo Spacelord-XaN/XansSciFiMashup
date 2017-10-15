@@ -13,7 +13,7 @@ namespace ModToolbox.Stellaris
         {
             NodeBase root = this.parser.DeserializeFile(filePath);
 
-            using (StreamWriter streamWriter = new StreamWriter(filePath, false, Encoding.UTF8))
+            using (StreamWriter streamWriter = new StreamWriter(filePath, false))
             {
                 this.serializer.Writer = streamWriter;
 
@@ -73,6 +73,8 @@ namespace ModToolbox.Stellaris
             this.serializer.Writer.WriteLine("\tflags={");
             this.serializer.WriteNode(new ValueNode(old.Key), indentation + 1);
             this.serializer.Writer.WriteLine("\t}");
+
+            this.serializer.Writer.WriteLine("}");
         }
     }
 }
