@@ -148,6 +148,77 @@ xan_st_cardassian={
 	}
 }
 #================================================================================
+# Dominion
+#================================================================================
+xan_st_dominion
+={
+	name=Dominion
+	ship_prefix=DS
+	species={
+		class=MAM
+		portrait=xan_st_dominion
+		name=Changeling
+		plural=Changelings
+		adjective=changeling
+		species_bio=""
+		name_list=xan_st_dominion
+		trait=trait_strong
+		trait=trait_intelligent
+		trait=trait_repugnant
+	}
+	adjective=dominion
+	authority=auth_dictatorial
+	government=gov_military_dictatorship
+	ftl=warp
+	weapon=tech_lasers_1
+	planet_name="Founders' homeworld"
+	planet_class=pc_continental
+	system_name="Omarion Nebula"
+	initializer=""
+	graphical_culture=reptilian_01
+	city_graphical_culture=reptilian_01
+	empire_flag={
+		icon={
+			category=xan
+			file=xan_st_dominion.dds
+		}
+		background={
+			category=backgrounds
+			file=00_solid.dds
+		}
+		colors={
+			teal
+			teal
+			null
+			null
+		}
+	}
+	ruler={
+		gender=male
+		name=Dukat
+		portrait=xan_st_dominion_ruler_00
+		texture=4
+		hair=0
+		clothes=0
+		ruler_title=Prefect
+		ruler_title_female=Prefect
+	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	spawn_enabled=always
+	room=personality_ruthless_capitalists_room
+	ethic=ethic_xenophobe
+	ethic=ethic_militarist
+	ethic=ethic_materialist
+	civics={
+		civic_police_state
+		civic_cutthroat_politics
+	}
+	flags={
+		xan_st_dominion
+	}
+}
+#================================================================================
 # United Federation of Planets
 #================================================================================
 xan_st_federation={
