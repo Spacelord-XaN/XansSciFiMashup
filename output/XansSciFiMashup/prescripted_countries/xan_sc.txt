@@ -148,13 +148,14 @@ xan_sc_zerg={
 		adjective=zerg
 		species_bio=""
 		name_list=xan_sc_zerg
+		trait=trait_hive_mind
 		trait=trait_repugnant
 		trait=trait_wasteful
 		trait=trait_extremely_adaptive
 	}
 	adjective=zerg
 	authority=auth_hive_mind
-	government=gov_hive_mind
+	government=gov_devouring_swarm
 	ftl=warp
 	weapon=tech_missiles_1
 	planet_name=Zerus
@@ -193,7 +194,7 @@ xan_sc_zerg={
 	ignore_portrait_duplication=no
 	room=personality_hive_mind_room
 	spawn_enabled=always
-	ethic=ethic_hive_mind
+	ethic=ethic_gestalt_consciousness
 	civics={
 		civic_hive_devouring_swarm
 		civic_hive_strength_of_legions

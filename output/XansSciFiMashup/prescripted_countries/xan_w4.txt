@@ -232,7 +232,7 @@ xan_w4_empire={
 	planet_name=Terra
 	planet_class=pc_continental
 	system_name="Sol system"
-	initializer=xan_w4_empire_system
+	initializer=sol_system_initializer
 	graphical_culture=mammalian_01
 	city_graphical_culture=mammalian_01
 	empire_flag={
@@ -472,7 +472,7 @@ xan_w4_tau={
 	ethic=ethic_materialist
 	ethic=ethic_xenophile
 	civics={
-		civic_syncretic_evolution
+		civic_idealistic_foundation
 		civic_technocracy
 	}
 	flags={
@@ -493,13 +493,14 @@ xan_w4_tyranid={
 		adjective=tyranidian
 		species_bio=""
 		name_list=xan_w4_tyranid
+		trait=trait_hive_mind
 		trait=trait_rapid_breeders
 		trait=trait_adaptive
 		trait=trait_repugnant
 	}
 	adjective=tyranidian
 	authority=auth_hive_mind
-	government=gov_hive_mind
+	government=gov_devouring_swarm
 	ftl=warp
 	weapon=tech_mass_drivers_1
 	planet_name=Tyran
@@ -538,7 +539,7 @@ xan_w4_tyranid={
 	ignore_portrait_duplication=no
 	room=personality_hive_mind_room
 	spawn_enabled=always
-	ethic=ethic_hive_mind
+	ethic=ethic_gestalt_consciousness
 	civics={
 		civic_hive_pooled_knowledge
 		civic_hive_devouring_swarm
