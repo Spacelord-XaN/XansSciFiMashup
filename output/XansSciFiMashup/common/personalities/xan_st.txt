@@ -139,6 +139,56 @@ xan_st_cardassian = {
 	}
 }
 #================================================================================
+# Dominion
+#================================================================================
+xan_st_dominion = {
+	aggressiveness = 1.8
+	trade_willingness = 1.4
+	bravery = 0.6
+
+	military_spending = 1.3
+	colony_spending = 0.9
+
+	federation_acceptance = -1000
+	nap_acceptance = -100
+	defensive_pact_acceptance = -25
+	migration_pact_acceptance = -500
+
+	advanced_start_chance = 0
+
+	weapon_preferences = weapon_type_energy
+	armor_ratio = 0.5
+	shields_ratio = 0.5
+
+	threat_modifier = 1.2
+	threat_others_modifier = 1.9
+	friction_modifier = 2.0
+
+	behaviour = {
+		conqueror = yes
+		subjugator = yes
+		liberator = no
+		opportunist = yes
+		slaver = yes
+		uplifter = yes
+		purger = no
+		infiltrator = yes
+		dominator = yes
+		robot_exploiter = no
+		robot_liberator = no
+		propagator = yes
+		multispecies = no
+	}
+
+	allow = {
+		has_country_flag = xan_st_dominion
+	}
+
+	weight_modifier = {
+		weight = 1000
+	}
+}
+#================================================================================
 # Federation
 #================================================================================
 xan_st_federation = {

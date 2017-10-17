@@ -282,6 +282,192 @@ xan_st_cardassian = {
 	}
 }
 #================================================================================
+# Dominion @todo
+#================================================================================
+xan_st_dominion = {
+	randomized = no
+
+	ship_names = {
+		generic = {}
+		corvette = {
+			"Jem'Hadar corvette"
+		}
+		constructor = {
+			"Vorta constructor"
+		}
+		colonizer = {
+			"Vorta colonizer"
+		}
+		science = {
+			"Founder science ship"
+		}
+		destroyer = {
+			"Jem'Hadar destroyer"
+		}
+		cruiser = {
+			"Jem'Hadar cruiser"
+		}
+		battleship = {
+			"Jem'Hadar battleship"
+		}
+		orbital_station = {
+			"Dominion station"
+		}
+		mining_station = {
+			"Vorta mining station"
+		}
+		research_station = {
+			"Founder research station"
+		}
+		wormhole_station = {
+			"Vorta wormhole station"
+		}
+		observation_station = {
+			"Founder research station"
+		}
+		outpost_station = {
+			"Jem'Hadar outpost"
+		}
+		transport = {
+			"Jem'Hadar transporter"
+		}
+		military_station_small = {
+			"Small Jem'Hadar station"
+		}
+		military_station_medium = {
+			"Medium Jem'Hadar station"
+		}
+		military_station_large = {
+			"Large Jem'Hadar station"		
+		}
+	}
+
+	fleet_names = {
+		random_names = {}
+		sequential_name = "%O% Dominion fleet"
+	}
+
+	army_names = {
+		defense_army = {
+			sequential_name = "%O% Defense Jem'Hadar"
+		}
+		assault_army = {
+			sequential_name = "%O% Assault Jem'Hadar"
+		}
+		slave_army = {
+			sequential_name = "%O% Slaves"
+		}
+		clone_army = {
+			sequential_name = "%O% Clone Jem'Hadar"
+		}
+		robotic_army = {
+			sequential_name = "%O% Robots"
+		}
+		android_army = {
+			sequential_name = "%O% Androids"
+		}
+		psionic_army = {
+			sequential_name = "%O% Psionic Army"
+		}
+		xenomorph_army = {
+			sequential_name = "%O% Xenomorphs"
+		}
+		gene_warrior_army = {
+			sequential_name = "%O% Jem'Hadar elders"
+		}
+	}
+
+	planet_names = {
+		generic = {
+			names = {
+			'aucdet 10 1865-Alpha 892-IV AR-558 Aaamazzara Acamar Achrady Adarak Adelphous Adigeon Agaron Ahmedeen Ajilon Akritiri Alastria Aldea Aldebaran Aldebaron
+			Alderaan "Alfa 177" Algeron Alondra Alpha "Alpha Balder" "Alpha Braga" "Alpha Carinae" "Alpha Cygnus" "Alpha Delphi" "Alpha Eridani" "Alpha Laputa"
+			"Alpha Majoris" "Alpha Omicron" "Alpha Onias" Altair Alture Amerind Amleth Andevian Andor Andoria Andros Angel Angosia Antede Antica Antide Antos Arakis
+			Archanis Archer Ardana Argelius Argo Argona Argratha "Argus X" Ariannus Arkaria Arlington Arloff Armus Arret Arvada Aschelan Atalia Atbar Athos Atifs Atlec
+			Atrea Avenal Avery Axanar Azati B'Saari Babel Bajor Balancar Balosnee Banea Barisa Barkon Barradas Barson Barzan Beltane Benecia "Benev Selec" Benthos Benzar
+			Berengaria Bernay Bersallis Beta "Beta Agni" "Beta Antares" "Beta Aquilae" "Beta Berman" "Beta Canopus" "Beta Eminiar" "Beta Penthe" "Beta Tottoro"
+			"Beta Ursae Minor" "Beta'Elan Minor" Betazed "Beth Delta" Bezride Bilana "Blue Horizon" Bokara Bolarus Bopak Boraal Boradis Boranis Boreal Boreth Bozel Bracas
+			Braslota Brax Bre'el Breen Brekka Brentalia Bringloid Browder Bryma Burala Bynaus Caere Calder Caldik Caldonia Caldos Caleb Callinon Calondia Camor Campor
+			Camus Canopus "Canopus Major" Capella Cardassia Carema "Carinae Delta" Carraya Casperia Castal Catulla Celes Celtris Centauri "Centre Minor" Cerberus Cestus
+			"Ceti Alpha" Chalna Chaltok Chandra Chaya Cheron Cirrus Coltar Coopersworld "Cor Caroli" Corgal Coridan Corinth Corvan Cygnet "Cygnia Minor" Cytrax Dakala
+			Daled Dalvos Danula Daran Davlos Dayos Decos Dedestris Deinonychus Dekendi Delb Delinia Delios Delos "Delphi Ardu" Delta "Delta Rana" "Delta Theta" Deltaega
+			Deneb Deneva Denius Denobula Deriben Dessica Detria Devidia Devos Dimorus Dinaal Donatu Doraf Dorvan Dozaria Draken Dramia Drayan Draygo Draylax Draylon Drema
+			Dreon Dulisian Durenia "Dytallix B" Earth Eblar Eden Edos Ekos El-Adrel Elas Elba Emila Eminiar Enara Ennan Epsilon "Epsilon Ashanti" "Epsilon Canaris"
+			"Epsilon Hydra" "Epsilon Wiltz" Epsilonndi Erabus Errikang Evadne Excalbia Exo Fahleena Faralos Farius Felton Fendaus Ferenginar Ferris Fina Finnea Folnar
+			Forcas Forlat Gagarin Gaia Galador Galdonterre Galen Gallos Galor Galorda "Galorndon Core" Galvin Gamelan "Gamma Argus" "Gamma Hromi" "Gamma Hydra"
+			"Gamma Tauri" "Gamma Trianguli" Gammaertis Ganalda Garadius Garon Gaspar Gault Gedi Gema Gemaris Gemulon Genesis Ghorusda Gideon Golana Golos Gonal Goralis
+			Gothos Gravesworld H'atoria Ha'Dara Hakton Hanon Hanoran Harod Harrakis Haven Hekaras Hemikek Heva "Hispaniola Minor" Hoek "Holberg 917G" Holna Hurada Hurkos
+			Iconia Icor Ilidaria Illyria Ilyra Inavar Indri Inferna "Ingraham B" Invernia "Iota Geminorum" Iraatan Isis Itamish Ivor Iyar Janus Japori Jaros Jouret
+			Juhraya Jupiter Jura'assic Kabatris Kabrel Kaelon Kaferia Kaldra Kalla Kanda Kantare Karemma Kataan Kavaria "Kavis Alpha" Kei Kelva Kelvas Kenda Kendren
+			Kentanna Kesprytt Kessik Keto-Enol Khefka Khitomer Khosla Klaestron Klavdia Klendth "Kohl settlement" Kolarus Kora Koralis Korma Korris Kostolain
+			"Kotara Barath" Kraus Kreetassa Krios Ktaria Ktaris Kurill Kurl Kyana Kylata Kzin L-374 L-S Lactra Lamenda Landris Lappa Largo Latonaworld Lauren Lav'oti
+			Lazon Ledonia Ledos Legara Lemma Lerishi Lessek Levinius Libra Ligobis Ligon Ligos Lilliput Lissepia Loracus Loren Loval Ludovko Luria Lya Lysia M'kemas M-113
+			Maarek Mab-Bu Magus Makus Malaya Malcor Malindi Malkus Malon Manark Mantilles Manu Maranga Maravel Marcos Marcus Marejaretus Mariah Marijne Mariposa Marlonia
+			Mars Marva Matalas Mataline Matiovsky "Maxia Zeta" Mazar Meezan Megas-Tu Meldrar Meles Melina Melnos Melona Merak Merik Midos Mikah Milika Minara Minnobia
+			Minos Mintaka Miridian Mislen Mithren Mizar Moab Monac Mora Mordan Moreyworld Morikin Morska Motherlode Mudd Mudor Mundahla Myrmidon Nahmi Napinne Narendra
+			Narva Nasreldine Nausicaa Nel Nelvana Neptune Nervala Neubilia Neural "New Bajor" "New Brooklyn" "New Earth" "New Gaul" "New Halana" "New Mecca" "New Paris"
+			"New Sydney" Newulcan Nibia Nibiru Nimbus Ninipia Nivoch Norcadia Norellus Norpin Nyria Oby Oceanus Ogat Ogus Ohniaka Omega "Omega Centus" "Omega Cygni"
+			Omekla Omicron "Omicron Ceti" "Omicron Theta" Ophiucus Oran'taku Orelious Orendal Organia Orias Orion Ornara Oshionian Osinar Otar Pacifica Paksor Pandro
+			Panora Paraagan Parada Parliament Parsion "Peliar Zel" Pelleus Pentarus Pentath Penthara Pernaia Persephone Phanos Phylos Platonius Pluto Pollux Porakas
+			Portas Posell Potak Prakal Preenos Prema Procyon "Psi 2000" "Psi Epsilon" "Psi Upsilon" Pullock Pyris Pythro Qo'noS Qu'Vat "Quadra Sigma" Qualor Quarra Quatal
+			Quazulu Quinor Raatooras Rahm-Izad Rakella Rakhar Rakosa Ramatis Ramura Ranuos Rator Razna Regulak Regulus Rekag-Seronia Relva Remmil Remus "Rhymus Major"
+			Rigel Risa Rivos Rochani Romulus Ronara Rondac Rosseau Ruah Rubicun Runara Rutia Sakura Salina Salva Sarona Sarpedion Sarpeidon Sarthong Saturn Scalos Secarus
+			Sefalla "Seiji Major" "Selcundi Drema" Seldonis Selek "Sentinel Minor" "Septimis Minor" Septimus Seros Setlik "Sha Ka Ree" Shantil Sheva Shiralea
+			"Sigma Draconis" "Sigma Tama" Sigmaotia Sikaris Simperia Sirius Sirrie Sobras Solais Solarion Solosos Soltok Sothis Soukara Stakoron Stameris Straleb Styris
+			Sumiko Surata Suvin T'Lani "T'lli Beta" Tagra Tagus Takara Talax Talaxia Talos Tandar Tantalus Tanuga Tarakis Tarchannen Tarella Taresia Tarkalea Tarod Tarsas
+			Tarsus Tartaras "Tau Ceti" "Tau Cygna" Taurus "Taurus Ceti" "Tavela Minor" Teerza Telemarius Telfas Tellar Telsius Teluridian Terlina Terosa "Terra 10"
+			"Terra Nova" Tesnia Tessen Tessik Tethys Thalos Thanatos Thasus Thelka Therbia Theta "Theta Amano" "Theta Cygni" "Theta Omicron" "Theta Zibal" Thomsworld
+			Tiburon Tilonus Timor Titus Tohvun Torad Toranius Torga Torman Torna Torona Torros Totoro Tracken Trelka Trelkis Triacus Trialas Triannon Trill Trillius
+			Triskelion Troyius Turkana Tycho Tyree Tyrellia Tyrus Tyrusa Tzenketh Ufandi "Ultima Thule" Umoth Unefra Uranus Uxal Vacca Vadris Vagra Valakis Valo
+			"Valt Minor" Vanden Vandros Varala Varria Vaytan Vega Velara Velos Veloz Vendikar Vendor Ventax Venus Verdanis Verex Veridian Vico Vilmor Vissia Volan Volchok
+			Vulcan Wenselworld Wynsdey Wysanti Xanthras Xantoras "Xendi Sabu" Xerxes Xindus Yadalla Yadera Yuri Zadar Zakdorn Zalkon Zayra Zeon "Zeon Minor" "Zeta Alpha"
+			"Zeta Antaras" Zetar Zytchin
+			}
+		}
+		pc_desert = {
+			names = {}
+		}
+		pc_arid = {
+			names = {}
+		}
+		pc_tropical = {
+			names = {}
+		}
+		pc_continental = {
+			names = {}
+		}
+		pc_gaia = {
+			names = {}
+		}
+		pc_ocean = {
+			names = {}
+		}
+		pc_tundra = {
+			names = {}
+		}
+		pc_arctic = {
+			names = {}
+		}
+	}
+
+	character_names = {
+		names1 = {
+			weight = 100
+			full_names = {
+				 Krajensky Laas Lovok Martok Borath Deyos Eris Gelnon Keevan Kilana Luaran Weyoun Yelgrun "Amat'igan" "Arak'Taral" "Duran'Adar" "Goran'Agar" "Ikat'ika"
+				 "Ixtana'Rax" "Kudak'Etan" "Lamat'Ukan" "Limara'Son" "Meso'Clan" "Omet'iklan" "Remata'Klan" "Talak'talan" "Temo'Zuma" "Toman'torax" "Virak'kara" "Yak'Talon"
+			}
+			regnal_first_names_male = {
+				 Krajensky Laas Lovok Martok
+			}
+			regnal_first_names_female = {
+				 Krajensky Laas Lovok Martok
+			}
+			regnal_second_names = {}
+		}
+	}
+}
+#================================================================================
 # Federation
 #================================================================================
 xan_st_federation = {

@@ -195,13 +195,13 @@ xan_st_dominion
 	}
 	ruler={
 		gender=male
-		name=Dukat
+		name=Changeling
 		portrait=xan_st_dominion_ruler_00
 		texture=4
 		hair=0
 		clothes=0
-		ruler_title=Prefect
-		ruler_title_female=Prefect
+		ruler_title=Founder
+		ruler_title_female=Founder
 	}
 	spawn_as_fallen=no
 	ignore_portrait_duplication=no
