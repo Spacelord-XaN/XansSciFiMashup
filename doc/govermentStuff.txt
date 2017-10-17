@@ -139,4 +139,3 @@ civics={
 	civic_hive_subsumed_will
 	civic_hive_pooled_knowledge
 	civic_hive_devouring_swarm
- 

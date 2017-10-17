@@ -6,9 +6,9 @@ xan_w4_chaos = {
 
 	ship_names = {
 		generic = {
-			"Aeternum Dread" "Anarchic Vendetta" "Carrion Squadron" "Covenant of Blood" Damnators Deathbane Deathblade Deathskull "Despicable Ecstasy" Doombringer 
-			Doomfire Dreadclaw Excessive Exterminators Fearmongers Fellclaws "Heathen Promise" Heldrake Hellbringer "Inculpators of Harok" Inferno "Infidus Diabolus" 
-			"Initiate of Skalathrax" "Khorne's Disciples" Killfrenzy "Lost Souls" Monstrous Pestilaan "Piercing Nova" Plagueclaw Pugatos Relatiators Soulless "Steel Fang" 
+			"Aeternum Dread" "Anarchic Vendetta" "Carrion Squadron" "Covenant of Blood" Damnators Deathbane Deathblade Deathskull "Despicable Ecstasy" Doombringer
+			Doomfire Dreadclaw Excessive Exterminators Fearmongers Fellclaws "Heathen Promise" Heldrake Hellbringer "Inculpators of Harok" Inferno "Infidus Diabolus"
+			"Initiate of Skalathrax" "Khorne's Disciples" Killfrenzy "Lost Souls" Monstrous Pestilaan "Piercing Nova" Plagueclaw Pugatos Relatiators Soulless "Steel Fang"
 			Swiftdeath "Unclean Ravagers" Unforgivable "Unholy Dominion" "Wanton Desecration"
 		}
 		corvette = {
@@ -21,7 +21,7 @@ xan_w4_chaos = {
 			"Blood Royale" "Bloodied Sword" "Bringer of Despair" Foe-Reaper Foebane Furious
 		}
 		cruiser = {
-			Alpha "Damnations Fury" "Destiny's Hand" "Eternity of Pain" "Fortress of Agony" Incarnadine "Infidus Imperator" Longinus "Merciless Death" "Scion of Prospero" 
+			Alpha "Damnations Fury" "Destiny's Hand" "Eternity of Pain" "Fortress of Agony" Incarnadine "Infidus Imperator" Longinus "Merciless Death" "Scion of Prospero"
 			Stonebreaker "Sword of Sacrilege" "The Ninth Eye" Torment "Umbrea Insidior" "Wage of Sin"
 		}
 		battleship = {
@@ -41,7 +41,7 @@ xan_w4_chaos = {
 
 	fleet_names = {
 		random_names = {
-			"Alpha Legion Fleet" "Black Legion Fleet" "Death Guard Fleet" "Emperor's Children Fleet" "Iron Warriors Fleet" "Night Lords Fleet" "Thousand Sons Fleet" 
+			"Alpha Legion Fleet" "Black Legion Fleet" "Death Guard Fleet" "Emperor's Children Fleet" "Iron Warriors Fleet" "Night Lords Fleet" "Thousand Sons Fleet"
 			"Word Bearers Fleet" "World Eaters Fleet"
 		}
 		sequential_name = "%O% Chaos fleet"
@@ -57,7 +57,7 @@ xan_w4_chaos = {
 		slave_army = {
 			sequential_name = "%O% Slaves"
 		}
-		clone_army = { 
+		clone_army = {
 			sequential_name = "%O% Chaos Spawns"
 		}
 		robotic_army = {
@@ -66,7 +66,7 @@ xan_w4_chaos = {
 		android_army = {
 			sequential_name = "%O% Ogryn Brutes"
 		}
-		psionic_army = { 
+		psionic_army = {
 			sequential_name = "%O% Chaos Sorcerers"
 		}
 		xenomorph_army = {
@@ -80,8 +80,8 @@ xan_w4_chaos = {
 	planet_names = {
 		generic = {
 			names = {
-				"Absolom Reach" Adraith Aktosha Almarit Anathrax Brigannion Bubonicus Drakaasi Eidolon "Fool's Paradise" Fyre Harmony "Hell's Teeth" 
-				Kathalon Maeleum Medrengard "M'Laar" Oliensis "Plague Planet" "Planet of the Sorcerers" Sicarus Sortiarius Temporia 
+				"Absolom Reach" Adraith Aktosha Almarit Anathrax Brigannion Bubonicus Drakaasi Eidolon "Fool's Paradise" Fyre Harmony "Hell's Teeth"
+				Kathalon Maeleum Medrengard "M'Laar" Oliensis "Plague Planet" "Planet of the Sorcerers" Sicarus Sortiarius Temporia
 				Torvendis "Urskas Sol Tetra" "World of Immortal Sorrows" Xana
 			}
 		}
@@ -115,20 +115,20 @@ xan_w4_chaos = {
 		names1 = {
 			weight = 100
 			full_names = {
-				Ahmuz Ahzek Akhor'menet Amon Amurael Andraaz Araghast Arkos Arkturion Ashur-Kai Atum Bale Barban Bazrak Berossus Burias Cadaras Chengrel Corpulax Crull 
-				Davroth Devram Dhar'leth Drachmus Drecarth Dynat Eidolon Ekodas Eliphas Emmesh-Aiye Enusat Eralak Erebus Erelek Fabius Faenroc Falkus Ferrous Festardius 
-				Firaeveus Forrix Garand Gideous Halasker Hans Hekastis Hemek Herume Hodir Honsou Ignatius Iskandar Iskavan Jaghathra Jarulek Jihar Julius Kalkator Karlsen 
-				Kernax Khârn Khadeth Khrove Kol Kolvax Kor Koros Kosolax Krieg Kroeger Leyak Lheorvine Lucius Lucoryphus Madox Malcharion Malgar Maloq Manneus Marduk Mordant 
-				Mordeghai Mothac Myrath Necrosius Onoris Paristur Phocron Porphyricus Quor Roek Roghax Sargon Scabarulous Sektoth Seth Shon'tu Sindri Skchalick Skyrak Sor 
-				Talos Tarraq Telemachon Tolbek Toramino Typhus Umbragg Urkrathos Ussax Varlag Vhostok Voidheart Volupus Vykus Xyn'Goran Ygethmor Zagthean Zaraphiston Zarghan 
-				Zhorisch Zhufor Zso 
+				Ahmuz Ahzek Akhor'menet Amon Amurael Andraaz Araghast Arkos Arkturion Ashur-Kai Atum Bale Barban Bazrak Berossus Burias Cadaras Chengrel Corpulax Crull
+				Davroth Devram Dhar'leth Drachmus Drecarth Dynat Eidolon Ekodas Eliphas Emmesh-Aiye Enusat Eralak Erebus Erelek Fabius Faenroc Falkus Ferrous Festardius
+				Firaeveus Forrix Garand Gideous Halasker Hans Hekastis Hemek Herume Hodir Honsou Ignatius Iskandar Iskavan Jaghathra Jarulek Jihar Julius Kalkator Karlsen
+				Kernax Khârn Khadeth Khrove Kol Kolvax Kor Koros Kosolax Krieg Kroeger Leyak Lheorvine Lucius Lucoryphus Madox Malcharion Malgar Maloq Manneus Marduk Mordant
+				Mordeghai Mothac Myrath Necrosius Onoris Paristur Phocron Porphyricus Quor Roek Roghax Sargon Scabarulous Sektoth Seth Shon'tu Sindri Skchalick Skyrak Sor
+				Talos Tarraq Telemachon Tolbek Toramino Typhus Umbragg Urkrathos Ussax Varlag Vhostok Voidheart Volupus Vykus Xyn'Goran Ygethmor Zagthean Zaraphiston Zarghan
+				Zhorisch Zhufor Zso
 			}
 
 			regnal_first_names_male = {
-				Alpharius Angron Fulgrim Horus "Konrad Curze" Lorgar Magnus Mortarion Perturabo 
+				Alpharius Angron Fulgrim Horus "Konrad Curze" Lorgar Magnus Mortarion Perturabo
 			}
 			regnal_first_names_female = {
-				Alpharius Angron Fulgrim Horus "Konrad Curze" Lorgar Magnus Mortarion Perturabo 
+				Alpharius Angron Fulgrim Horus "Konrad Curze" Lorgar Magnus Mortarion Perturabo
 			}
 			regnal_second_names = {}
 		}
@@ -142,13 +142,13 @@ xan_w4_darkEldar = {
 
 	ship_names = {
 		generic = {
-			"All-Seeing Eye" "Baleful Gaze" "Black Blade" "Black Heart" "Black Myriad" "Black Sun" "Blackened Tear" "Bladed Lotus" "Blades of Desire" "Bleaksoul Brethren" 
-			"Bloodied Claw" "Bloodied Talon" "Bloody Storm" "Broken Sigil" "Burning Scale" "Children of Thorns" "Crimson Blossom" "Dark Blade" "Dark Mirror" "Dying Sun" 
-			"Emerald Talon" "Envenomed Thorn" "Falling Moon" "Fell Witch" "Fiend Ascendant" "Flayed Mask" "Flayed Skull" "Immortality Denied" Impaler "Jade Knife" 
-			"Lacerated Eye" "Last Hatred" "Lethal Guile" "Lords of Iron Thorn" "Myst Reaper" "Ninth Raptrex" "Obsidian Rose" Phoenix "Pierced Eye" "Poisoned Fang" 
-			"Poisoned Heart" "Poisoned Tongue" "Prophets of War" Raptor Raven Razorwing "Realm Eternal" "Red Blades" "Rending Talon" Severed "Severed Hope" 
-			"Severed Thought" "Shadowed Thorns" "Shattered Hand" "Shrieking Souls" "Slashed Eye" "Slaughtered Heart" Slavebringer "Splintered Word" "Stolen Conscience" 
-			"Sundered Veil" "Talon Cyriix" "Twisted Sword" "Venom Brood" "Venomed Blade" Venomyst "Void Dragon" Voidraven "Warped Kraken" "White Flames" Wraithkind 
+			"All-Seeing Eye" "Baleful Gaze" "Black Blade" "Black Heart" "Black Myriad" "Black Sun" "Blackened Tear" "Bladed Lotus" "Blades of Desire" "Bleaksoul Brethren"
+			"Bloodied Claw" "Bloodied Talon" "Bloody Storm" "Broken Sigil" "Burning Scale" "Children of Thorns" "Crimson Blossom" "Dark Blade" "Dark Mirror" "Dying Sun"
+			"Emerald Talon" "Envenomed Thorn" "Falling Moon" "Fell Witch" "Fiend Ascendant" "Flayed Mask" "Flayed Skull" "Immortality Denied" Impaler "Jade Knife"
+			"Lacerated Eye" "Last Hatred" "Lethal Guile" "Lords of Iron Thorn" "Myst Reaper" "Ninth Raptrex" "Obsidian Rose" Phoenix "Pierced Eye" "Poisoned Fang"
+			"Poisoned Heart" "Poisoned Tongue" "Prophets of War" Raptor Raven Razorwing "Realm Eternal" "Red Blades" "Rending Talon" Severed "Severed Hope"
+			"Severed Thought" "Shadowed Thorns" "Shattered Hand" "Shrieking Souls" "Slashed Eye" "Slaughtered Heart" Slavebringer "Splintered Word" "Stolen Conscience"
+			"Sundered Veil" "Talon Cyriix" "Twisted Sword" "Venom Brood" "Venomed Blade" Venomyst "Void Dragon" Voidraven "Warped Kraken" "White Flames" Wraithkind
 		}
 		corvette = {}
 		constructor = {}
@@ -175,7 +175,7 @@ xan_w4_darkEldar = {
 
 	fleet_names = {
 		random_names = {
-			"Black Heart raiders" "Bloodied Claw raiders" "Broken Sigil raiders" "Dying Sun raiders" "Falling Moon raiders" "Flayed Skull raider" "Iron Thorn raiders" 
+			"Black Heart raiders" "Bloodied Claw raiders" "Broken Sigil raiders" "Dying Sun raiders" "Falling Moon raiders" "Flayed Skull raider" "Iron Thorn raiders"
 			"Last Hatred raiders" "Obsidian Rose raiders" "Poisoned Tongue raiders" "The Severed raiders"
 		}
 		sequential_name = "%O% Raid group"
@@ -191,7 +191,7 @@ xan_w4_darkEldar = {
 		slave_army = {
 			sequential_name = "%O% Slaves"
 		}
-		clone_army = { 
+		clone_army = {
 			sequential_name = "%O% Ur-Ghuls"
 		}
 		robotic_army = {
@@ -200,7 +200,7 @@ xan_w4_darkEldar = {
 		android_army = {
 			sequential_name = "%O% Incubi"
 		}
-		psionic_army = { 
+		psionic_army = {
 			sequential_name = "%O% Archons"
 		}
 		xenomorph_army = {
@@ -214,23 +214,23 @@ xan_w4_darkEldar = {
 	planet_names = {
 		generic = {
 			names = {
-				"Absolom Reach" Accatran Acheron Aerius Agripinaa Albert Algol Almarit Amarah Anshur Antax Antioc Anvillus Anvilus Aralan Arcadia Arcetri Archaos Armageddon 
-				Artemia Aryand Ashek Atar-Median Auxilion Avalan Avellorn Badab Bakus Baraspine Barnassus Belacane Belial Beshic "Beta Cornix" "Black Reach" Brigannion Bront 
-				Cadia Caldera Canopus Carcharias Castellax Chaeroneia "Chima Lomas" Clove Columnus Constanix "Coronis Agathon" Corvus Crixos Crucible Cthonia Cyclopea 
-				Cyclopean Cyclopia Cyclothrathe Cyclotrathe "Cypra Mundi" Dantris Deimos Delaphina Derdoni Diamat Diesos Dominica Don-Croix Drachu Dusken Dynax Ephisia 
-				Estaban Esteban Falchat "Fell Core" Fenksworld "Forge Polix" Forgefane Formal Formanton "Fornax Aleph" Fornstadt "Fortis Binary" Galaspar "Gantor Terentes" 
-				Gantz "Gehenna Prime" Gethsemane Glasgow Goleonda Gorgonum Goth Graia Grammachus Greyshroud Gryphonne Gunpoint Guytoga Hadd Hamclov Harakon Hazhim Helios 
-				Hellgrace Hermetica Hesh Het Hexis "Hexium Minora" Hranx Hredrin "Hydra Cordatus" Hydraphur Hypnoth Ichar Ichorax Idumea Incaladion "Ironghast Foundry" 
-				Ironhelm Ishraq Isstvan Jago Japheth Jerulas Jupiter Kado Kai Kalvera "Kasr Partox" Khadenghast Kiavahr Kor Lakadamon Landunder Lankast Lavantia Lethe Levion 
-				Lo Lucius Lutoris M'Pandex M'khand M'kond "Magnos Omicron" Malfi Malodrax Mars Medrengard Medusa Megheim Megyre Meridian Merov Merovincha Metalica Methalor 
-				Mezoa Milhand Minea Mitra Moirae Molech Mordian Moredakka Morlond Morrigar Mpandex "Mu'gulath Bay" Mydgal Necromunda Nekkar Nonimax Nostramo "Nova Sulis" 
-				"Nova Terra" Nucon Obdurus Ohmn-Mat Omnicron Optima "Opus Macharius" Orar Orask Orbalok Ordana Orestes Orphia Orphidia Palatine Palomar Pandora Paraghast 
-				Pentos Perinetus Persepolis Phaenon Phaeton Phobos Piety Porphetus "Port Maw" Portenus Praedis Praetoria Prol Pyros Radnar Rangda Raxos Rebas Refusal Regallus 
-				Retlaxi Ryza Samech Samson Schrodinger Scintilla Sebastus Sephlagm Septius Shaehol Shardenus Shenlong Shroud "Silent Forge" Siprix Skorgulian Solemnium 
-				Solomon Spite Stalinvast Straxos Stryken Stygia Stygies "Subiaco Diablo" Sybari Synford Taira-Shodan Talasa Tancredi Tanis Targus "Taslan's Forge" Telemachus 
-				Temaxia Temperis Tephaine Terra "The Lathes" Thical Thracian Thranx Thrax Thraxia Thridia Tigrus Toil Tolkan Tolkhan Tranch Tranquilitus "Triplex Phall" 
-				Turren Ur-haven Uraniborg Urdesh Urlon Vanaheim Vanqualis Vas'talos Vaust Vaxanide Vaznagrod Venatoria Verghast Verica Vindalex "Volcanis Ultor" Volg 
-				Vorlanthus Vorsk Voss Vyaniah Xana Zhao-Arkkad Zopyrus Zosma 
+				"Absolom Reach" Accatran Acheron Aerius Agripinaa Albert Algol Almarit Amarah Anshur Antax Antioc Anvillus Anvilus Aralan Arcadia Arcetri Archaos Armageddon
+				Artemia Aryand Ashek Atar-Median Auxilion Avalan Avellorn Badab Bakus Baraspine Barnassus Belacane Belial Beshic "Beta Cornix" "Black Reach" Brigannion Bront
+				Cadia Caldera Canopus Carcharias Castellax Chaeroneia "Chima Lomas" Clove Columnus Constanix "Coronis Agathon" Corvus Crixos Crucible Cthonia Cyclopea
+				Cyclopean Cyclopia Cyclothrathe Cyclotrathe "Cypra Mundi" Dantris Deimos Delaphina Derdoni Diamat Diesos Dominica Don-Croix Drachu Dusken Dynax Ephisia
+				Estaban Esteban Falchat "Fell Core" Fenksworld "Forge Polix" Forgefane Formal Formanton "Fornax Aleph" Fornstadt "Fortis Binary" Galaspar "Gantor Terentes"
+				Gantz "Gehenna Prime" Gethsemane Glasgow Goleonda Gorgonum Goth Graia Grammachus Greyshroud Gryphonne Gunpoint Guytoga Hadd Hamclov Harakon Hazhim Helios
+				Hellgrace Hermetica Hesh Het Hexis "Hexium Minora" Hranx Hredrin "Hydra Cordatus" Hydraphur Hypnoth Ichar Ichorax Idumea Incaladion "Ironghast Foundry"
+				Ironhelm Ishraq Isstvan Jago Japheth Jerulas Jupiter Kado Kai Kalvera "Kasr Partox" Khadenghast Kiavahr Kor Lakadamon Landunder Lankast Lavantia Lethe Levion
+				Lo Lucius Lutoris M'Pandex M'khand M'kond "Magnos Omicron" Malfi Malodrax Mars Medrengard Medusa Megheim Megyre Meridian Merov Merovincha Metalica Methalor
+				Mezoa Milhand Minea Mitra Moirae Molech Mordian Moredakka Morlond Morrigar Mpandex "Mu'gulath Bay" Mydgal Necromunda Nekkar Nonimax Nostramo "Nova Sulis"
+				"Nova Terra" Nucon Obdurus Ohmn-Mat Omnicron Optima "Opus Macharius" Orar Orask Orbalok Ordana Orestes Orphia Orphidia Palatine Palomar Pandora Paraghast
+				Pentos Perinetus Persepolis Phaenon Phaeton Phobos Piety Porphetus "Port Maw" Portenus Praedis Praetoria Prol Pyros Radnar Rangda Raxos Rebas Refusal Regallus
+				Retlaxi Ryza Samech Samson Schrodinger Scintilla Sebastus Sephlagm Septius Shaehol Shardenus Shenlong Shroud "Silent Forge" Siprix Skorgulian Solemnium
+				Solomon Spite Stalinvast Straxos Stryken Stygia Stygies "Subiaco Diablo" Sybari Synford Taira-Shodan Talasa Tancredi Tanis Targus "Taslan's Forge" Telemachus
+				Temaxia Temperis Tephaine Terra "The Lathes" Thical Thracian Thranx Thrax Thraxia Thridia Tigrus Toil Tolkan Tolkhan Tranch Tranquilitus "Triplex Phall"
+				Turren Ur-haven Uraniborg Urdesh Urlon Vanaheim Vanqualis Vas'talos Vaust Vaxanide Vaznagrod Venatoria Verghast Verica Vindalex "Volcanis Ultor" Volg
+				Vorlanthus Vorsk Voss Vyaniah Xana Zhao-Arkkad Zopyrus Zosma
 			}
 		}
 		pc_desert = {
@@ -241,18 +241,18 @@ xan_w4_darkEldar = {
 		}
 		pc_tropical = {
 			names = {
-				Andronicus Avalane Belaeno Bengoli Biegel Breanna Catachan Comania Cytheria Drykeena Eireius Elnath Galavan Galmor Ghoroi Goranado Graffias Hyades I'Ycklahl 
-				Istria Kaligan Kashann Krakan Mekbuda Merga Miral Moraz Mordin Mordriana Mullis Nalibraxis Naos Nectavus Prosperon Rana Rhorsch Saganor Savrap Stalinvast 
+				Andronicus Avalane Belaeno Bengoli Biegel Breanna Catachan Comania Cytheria Drykeena Eireius Elnath Galavan Galmor Ghoroi Goranado Graffias Hyades I'Ycklahl
+				Istria Kaligan Kashann Krakan Mekbuda Merga Miral Moraz Mordin Mordriana Mullis Nalibraxis Naos Nectavus Prosperon Rana Rhorsch Saganor Savrap Stalinvast
 				Taygeta Typhon Tza-Chao Uldan Verdicon Veskepine
 			}
 		}
 		pc_continental = {
 			names = {
-				Boonhaven Candau Cassell Chiros Colcha Curwen "Cyrus Vulpa" "Danik's World" "Delta Arbuthnot" "Dinorwyc Cluster" Dreah Durer "Eden Prime" Eireius Erinia 
-				"Euthenia XX" "Galfranus V" Gehöft Gheistos Gravalax Grunald Gruss Hagia Hamooth "Hesiod's Wake" Hilarion Iax "Iesta Veracrux" Iocanthos Jouran "Jumael IV" 
-				Kataris Khai-zhan Kurkaris Malvolion "Marunda II" Masali Numinal "Orbel Quill" "Pavar V" Percipre Phagir Picus Porozh Quintarn "Rashad Prime" Regulus 
-				"Rynn's World" "Samax IV" Sameter "San Leor" "Saras VII" Sharlor Siculi Sigma-Agrius Silkava "Solshen XIX" "Sondheim V" Sovven Spectoris "Stygian Prime" 
-				Sulyvan Tarentus Tarrenhorst "Tarsis Ultra" "Tephaine Minor" "Thantus X" "The Pearl Moon" "Three Planets" Torian "Tsade II" Vallenin "Victrix Sonora" Zavarich 
+				Boonhaven Candau Cassell Chiros Colcha Curwen "Cyrus Vulpa" "Danik's World" "Delta Arbuthnot" "Dinorwyc Cluster" Dreah Durer "Eden Prime" Eireius Erinia
+				"Euthenia XX" "Galfranus V" Gehöft Gheistos Gravalax Grunald Gruss Hagia Hamooth "Hesiod's Wake" Hilarion Iax "Iesta Veracrux" Iocanthos Jouran "Jumael IV"
+				Kataris Khai-zhan Kurkaris Malvolion "Marunda II" Masali Numinal "Orbel Quill" "Pavar V" Percipre Phagir Picus Porozh Quintarn "Rashad Prime" Regulus
+				"Rynn's World" "Samax IV" Sameter "San Leor" "Saras VII" Sharlor Siculi Sigma-Agrius Silkava "Solshen XIX" "Sondheim V" Sovven Spectoris "Stygian Prime"
+				Sulyvan Tarentus Tarrenhorst "Tarsis Ultra" "Tephaine Minor" "Thantus X" "The Pearl Moon" "Three Planets" Torian "Tsade II" Vallenin "Victrix Sonora" Zavarich
 			}
 		}
 		pc_gaia = {
@@ -260,7 +260,7 @@ xan_w4_darkEldar = {
 		}
 		pc_ocean = {
 			names = {
-				Altaneum Archipelaga Brun Cremtous Duthovan Eswulus Eutoria Isla'su Ithaka Jhanna Khai-zhan Kor Kvariam Laeran Malmar Nereus Numinal Posidac Spectoris Tahnel 
+				Altaneum Archipelaga Brun Cremtous Duthovan Eswulus Eutoria Isla'su Ithaka Jhanna Khai-zhan Kor Kvariam Laeran Malmar Nereus Numinal Posidac Spectoris Tahnel
 				Talassar "The Pearl Moon" Tyrama Tyran
 			}
 		}
@@ -269,8 +269,8 @@ xan_w4_darkEldar = {
 		}
 		pc_arctic = {
 			names = {
-				Adhara Belatis Beroghast Betalis Bethalmae Chosin Cressida Delos Dheneb Furund Galathas Go'shol Heckla Holst Icensus Immir Inwit Karos Karrik Klaihn Kript 
-				Krypt Lorn Mara Mendona Numarc Posidac Pylar Schrodinger Shadrac Shroud "Simia Orichalcae" "Typhon Septimus" Valhalla Wezn Winterhome Yngirheim Zoran 
+				Adhara Belatis Beroghast Betalis Bethalmae Chosin Cressida Delos Dheneb Furund Galathas Go'shol Heckla Holst Icensus Immir Inwit Karos Karrik Klaihn Kript
+				Krypt Lorn Mara Mendona Numarc Posidac Pylar Schrodinger Shadrac Shroud "Simia Orichalcae" "Typhon Septimus" Valhalla Wezn Winterhome Yngirheim Zoran
 			}
 		}
 	}
@@ -279,12 +279,12 @@ xan_w4_darkEldar = {
 		names1 = {
 			weight = 100
 			full_names = {
-				Ar'oriaq Arhmoque Arhvhar Arhzaq Armahis Armazon Arqagrath Arqasar Arzurdiaq Arzurvhar Asdrurath Asdrusaros Asdruvhar Bahrgard Bahrurihz Bazharizar Bernukos 
-				Bernuqir Bernuryq Bhudhar Bhugrath Bhuryq Bhusath Bhutyhr Bradiaq Braeshiron Burasarith Caenbran Caenrizar Charmar Charnyr Cra'ozadiaq Cra'ozasaros Crahldros 
-				Crahlsar Crahlsyr Dazadiaq Dazaneque Dazaqir Dradros Drasarith Drazbryn Drazdazar El'urkei Erzaraes Erzaryq Ezardurin Ezkyth Eznazar Faharmahr Faharzhan 
-				Fahrdurin Fahrvan Fharstahr Ga'onstra Ga'onteque Ga'onvan Gahunazar Gahura Gahutaz Gararad Gradurin Grizakyth Grizamar Grizanazar Grizashar Id'arshar Iysshar 
-				Izenqar Izenrihz Izrazaen Kaeruin Kahrzhan Khankras Khanmass Khanmien Khanmoque Khantahr Kyradurin Kyravor Laerhmor Lahzabraq Lahzaqar Lakuzon Lazamar Lazaqar 
-				Le'usar Le'uzon Marunahr Mezasar Mezasaros Muchteque Murihis Murikras Murizaq Or'idazar Or'izhar Oriteque Orqavor Ozusyr Tahkras Tahtahr Tezahyque Tezaryq 
+				Ar'oriaq Arhmoque Arhvhar Arhzaq Armahis Armazon Arqagrath Arqasar Arzurdiaq Arzurvhar Asdrurath Asdrusaros Asdruvhar Bahrgard Bahrurihz Bazharizar Bernukos
+				Bernuqir Bernuryq Bhudhar Bhugrath Bhuryq Bhusath Bhutyhr Bradiaq Braeshiron Burasarith Caenbran Caenrizar Charmar Charnyr Cra'ozadiaq Cra'ozasaros Crahldros
+				Crahlsar Crahlsyr Dazadiaq Dazaneque Dazaqir Dradros Drasarith Drazbryn Drazdazar El'urkei Erzaraes Erzaryq Ezardurin Ezkyth Eznazar Faharmahr Faharzhan
+				Fahrdurin Fahrvan Fharstahr Ga'onstra Ga'onteque Ga'onvan Gahunazar Gahura Gahutaz Gararad Gradurin Grizakyth Grizamar Grizanazar Grizashar Id'arshar Iysshar
+				Izenqar Izenrihz Izrazaen Kaeruin Kahrzhan Khankras Khanmass Khanmien Khanmoque Khantahr Kyradurin Kyravor Laerhmor Lahzabraq Lahzaqar Lakuzon Lazamar Lazaqar
+				Le'usar Le'uzon Marunahr Mezasar Mezasaros Muchteque Murihis Murikras Murizaq Or'idazar Or'izhar Oriteque Orqavor Ozusyr Tahkras Tahtahr Tezahyque Tezaryq
 				Trazhrath Yl'araz Yranazar Yzumahr Yzuriaq Yzuvall
 			}
 
@@ -308,9 +308,9 @@ xan_w4_eldar = {
 
 	ship_names = {
 		generic = {
-			Aconite "Asuryan's Chosen" "Black Star" "Bright Claw" "Bright Star" "Celestial King" "Chariot of Mathurir" "Child of Khaine" Darkstar "Eagle Bomber" 
-			"Eliarenath's Gift" Fhianna "Flame of Asuryan" "Forge of Vaul" Hellebore Hemlock "Hemlock Wraithfighter" Naiad Nightshade Nightwing Phoenix Rethol 
-			Shadowhunter "Silent Warrior" Stardeath "Storm Chaser" "Vampire Hunter" "Vampire Raider" "Void Dragon" "Void Serpent" "Wind Runner" 
+			Aconite "Asuryan's Chosen" "Black Star" "Bright Claw" "Bright Star" "Celestial King" "Chariot of Mathurir" "Child of Khaine" Darkstar "Eagle Bomber"
+			"Eliarenath's Gift" Fhianna "Flame of Asuryan" "Forge of Vaul" Hellebore Hemlock "Hemlock Wraithfighter" Naiad Nightshade Nightwing Phoenix Rethol
+			Shadowhunter "Silent Warrior" Stardeath "Storm Chaser" "Vampire Hunter" "Vampire Raider" "Void Dragon" "Void Serpent" "Wind Runner"
 		}
 		corvette = {}
 		constructor = {}
@@ -348,7 +348,7 @@ xan_w4_eldar = {
 		slave_army = {
 			sequential_name = "%O% Slaves"
 		}
-		clone_army = { 
+		clone_army = {
 			sequential_name = "%O% Shadow Spectres"
 		}
 		robotic_army = {
@@ -357,7 +357,7 @@ xan_w4_eldar = {
 		android_army = {
 			sequential_name = "%O% Wraithguards"
 		}
-		psionic_army = { 
+		psionic_army = {
 			sequential_name = "%O% Warlocks"
 		}
 		xenomorph_army = {
@@ -371,10 +371,10 @@ xan_w4_eldar = {
 	planet_names = {
 		generic = {
 			names = {
-				Aktosha Alaitoc Altansar An-Iolsus Anaen Arach-Cyn Arach-Qin Aringhe Baran Bel-Shammon Belial Biel-tan Carnac Ctho Dorhai Eidafaeron Halathel Haranshemash 
-				Idharae Il'sariadh Il-Kaithe Ila-Manesh Ishareq Iyanden Iybraesil Iydris Kaelor Kher-Ys Kinshara Kolth'se Lileathanir Lugganath Malan'tai Menimshemash Meros 
-				"Miel Carn" Mor-rioh'i Muirgaythh Mymeara Mynathensar Nacretineï Saim-Hann Satari Selesti She'enshar Stel-Uit T'krahn Tar-Etenil Telennar Teleth-ai 
-				"The Black Library" Thuyelsa Tir-Val Tirathain Tuonoetar Ulthwé Varantha Yllen Yme-Loc Zahr-Tann Zandros Zu'lasa 
+				Aktosha Alaitoc Altansar An-Iolsus Anaen Arach-Cyn Arach-Qin Aringhe Baran Bel-Shammon Belial Biel-tan Carnac Ctho Dorhai Eidafaeron Halathel Haranshemash
+				Idharae Il'sariadh Il-Kaithe Ila-Manesh Ishareq Iyanden Iybraesil Iydris Kaelor Kher-Ys Kinshara Kolth'se Lileathanir Lugganath Malan'tai Menimshemash Meros
+				"Miel Carn" Mor-rioh'i Muirgaythh Mymeara Mynathensar Nacretineï Saim-Hann Satari Selesti She'enshar Stel-Uit T'krahn Tar-Etenil Telennar Teleth-ai
+				"The Black Library" Thuyelsa Tir-Val Tirathain Tuonoetar Ulthwé Varantha Yllen Yme-Loc Zahr-Tann Zandros Zu'lasa
 			}
 		}
 		pc_desert = {
@@ -407,37 +407,37 @@ xan_w4_eldar = {
 		names1 = {
 			weight = 100
 			first_names_male = {
-				Adrallanar Ailen Alianna Alladrios Amonther Anaya Ardyelle Arhathain Ariganna Arquellia Asurmen Aurian Auric Avele Avenelle Baharroth Bel-Annath Bethaneal 
-				Bilgaedrin Birliel Caerys Catritheyn Celachia Clyona Draech Ehriahna Ehveline Elarique Eldorath Eldrad Eliac Enimiah Envyan Erathal Evanaeroth Excellion 
-				Faeruithir Farendis Fell Fuegan Gasael Geruthain Gesbier Gesson Hekmonah Hihdrel Hilan Idranel Illandra Illanor Illic Illimitar Ilthana Inessar Invaril Iriass 
-				Irillyth Irolac Iyanna Jain Jur Kael Kaeleth-Tul Kai Kalrimon Karandras Karhaedron Karhedron Karus Kayleth Kelmon Khiraen Korhedron Korlandril Korothil 
-				Kyanorath Kyrlrir Legirion Lhykosidae Linril Macha Maireth Malenbrin Maugan Mauryon Mehlendri Narine Nestra Nimalla Nuadhu Oloriel Phoenix Prothenulh 
-				Q'sandria Rakanis Ronahn Ruterias Rynain Saetheis Silvanol Solcar Sunspear Surainan Taec Taldeer Taolis Teryen Torhaedril Trekhulir Tuaren Tyleannar Ulthos 
-				Una Valansar Vinduil Yrannae Yriel Yrn-fae Yrrthilien Yuen 
+				Adrallanar Ailen Alianna Alladrios Amonther Anaya Ardyelle Arhathain Ariganna Arquellia Asurmen Aurian Auric Avele Avenelle Baharroth Bel-Annath Bethaneal
+				Bilgaedrin Birliel Caerys Catritheyn Celachia Clyona Draech Ehriahna Ehveline Elarique Eldorath Eldrad Eliac Enimiah Envyan Erathal Evanaeroth Excellion
+				Faeruithir Farendis Fell Fuegan Gasael Geruthain Gesbier Gesson Hekmonah Hihdrel Hilan Idranel Illandra Illanor Illic Illimitar Ilthana Inessar Invaril Iriass
+				Irillyth Irolac Iyanna Jain Jur Kael Kaeleth-Tul Kai Kalrimon Karandras Karhaedron Karhedron Karus Kayleth Kelmon Khiraen Korhedron Korlandril Korothil
+				Kyanorath Kyrlrir Legirion Lhykosidae Linril Macha Maireth Malenbrin Maugan Mauryon Mehlendri Narine Nestra Nimalla Nuadhu Oloriel Phoenix Prothenulh
+				Q'sandria Rakanis Ronahn Ruterias Rynain Saetheis Silvanol Solcar Sunspear Surainan Taec Taldeer Taolis Teryen Torhaedril Trekhulir Tuaren Tyleannar Ulthos
+				Una Valansar Vinduil Yrannae Yriel Yrn-fae Yrrthilien Yuen
 			}
 			first_names_female = {
-				Adrallanar Ailen Alianna Alladrios Amonther Anaya Ardyelle Arhathain Ariganna Arquellia Asurmen Aurian Auric Avele Avenelle Baharroth Bel-Annath Bethaneal 
-				Bilgaedrin Birliel Caerys Catritheyn Celachia Clyona Draech Ehriahna Ehveline Elarique Eldorath Eldrad Eliac Enimiah Envyan Erathal Evanaeroth Excellion 
-				Faeruithir Farendis Fell Fuegan Gasael Geruthain Gesbier Gesson Hekmonah Hihdrel Hilan Idranel Illandra Illanor Illic Illimitar Ilthana Inessar Invaril Iriass 
-				Irillyth Irolac Iyanna Jain Jur Kael Kaeleth-Tul Kai Kalrimon Karandras Karhaedron Karhedron Karus Kayleth Kelmon Khiraen Korhedron Korlandril Korothil 
-				Kyanorath Kyrlrir Legirion Lhykosidae Linril Macha Maireth Malenbrin Maugan Mauryon Mehlendri Narine Nestra Nimalla Nuadhu Oloriel Phoenix Prothenulh 
-				Q'sandria Rakanis Ronahn Ruterias Rynain Saetheis Silvanol Solcar Sunspear Surainan Taec Taldeer Taolis Teryen Torhaedril Trekhulir Tuaren Tyleannar Ulthos 
-				Una Valansar Vinduil Yrannae Yriel Yrn-fae Yrrthilien Yuen 
+				Adrallanar Ailen Alianna Alladrios Amonther Anaya Ardyelle Arhathain Ariganna Arquellia Asurmen Aurian Auric Avele Avenelle Baharroth Bel-Annath Bethaneal
+				Bilgaedrin Birliel Caerys Catritheyn Celachia Clyona Draech Ehriahna Ehveline Elarique Eldorath Eldrad Eliac Enimiah Envyan Erathal Evanaeroth Excellion
+				Faeruithir Farendis Fell Fuegan Gasael Geruthain Gesbier Gesson Hekmonah Hihdrel Hilan Idranel Illandra Illanor Illic Illimitar Ilthana Inessar Invaril Iriass
+				Irillyth Irolac Iyanna Jain Jur Kael Kaeleth-Tul Kai Kalrimon Karandras Karhaedron Karhedron Karus Kayleth Kelmon Khiraen Korhedron Korlandril Korothil
+				Kyanorath Kyrlrir Legirion Lhykosidae Linril Macha Maireth Malenbrin Maugan Mauryon Mehlendri Narine Nestra Nimalla Nuadhu Oloriel Phoenix Prothenulh
+				Q'sandria Rakanis Ronahn Ruterias Rynain Saetheis Silvanol Solcar Sunspear Surainan Taec Taldeer Taolis Teryen Torhaedril Trekhulir Tuaren Tyleannar Ulthos
+				Una Valansar Vinduil Yrannae Yriel Yrn-fae Yrrthilien Yuen
 			}
 			second_names = {
-				Arienal Belphoebe Bethaneal Boldseer Brightshard Dawnslayer Eversong Fireheart Firesight Goldenheart Goldhelm Goldsight Kulcassian Longgaze Lord Mournsong 
-				Nightspear Numeriel Orphiel Ra Shadoweye Shadowwind Silvercloud Silvereye Silversoul Skystorm Starbane Stormcloud Stormwarden Swiftblade Swifteye Swiftflight 
-				Telerath Telissa Teuthlas Ulthran Voidwalker Whitetreader Winter Zar Zephyrblade 
+				Arienal Belphoebe Bethaneal Boldseer Brightshard Dawnslayer Eversong Fireheart Firesight Goldenheart Goldhelm Goldsight Kulcassian Longgaze Lord Mournsong
+				Nightspear Numeriel Orphiel Ra Shadoweye Shadowwind Silvercloud Silvereye Silversoul Skystorm Starbane Stormcloud Stormwarden Swiftblade Swifteye Swiftflight
+				Telerath Telissa Teuthlas Ulthran Voidwalker Whitetreader Winter Zar Zephyrblade
 			}
 
 			regnal_first_names_male = {
-				Asurmen Baharroth Caerys Eldrad Fuegan Idranel Illic Irillyth Iyanna Jain Karandras Kayleth Kelmon Macha Maugan Slau Taldeer Yriel 
+				Asurmen Baharroth Caerys Eldrad Fuegan Idranel Illic Irillyth Iyanna Jain Karandras Kayleth Kelmon Macha Maugan Slau Taldeer Yriel
 			}
 			regnal_first_names_female = {
-				Asurmen Baharroth Caerys Eldrad Fuegan Idranel Illic Irillyth Iyanna Jain Karandras Kayleth Kelmon Macha Maugan Slau Taldeer Yriel 
+				Asurmen Baharroth Caerys Eldrad Fuegan Idranel Illic Irillyth Iyanna Jain Karandras Kayleth Kelmon Macha Maugan Slau Taldeer Yriel
 			}
 			regnal_second_names = {
-				Arienal Dha Nightspear Ra Ulthran Zar 
+				Arienal Dha Nightspear Ra Ulthran Zar
 			}
 		}
 	}
@@ -450,35 +450,35 @@ xan_w4_empire = {
 
 	ship_names = {
 		generic = {
-			"Anarchic Vendetta" "Blood Royale" "Bloodied Sword" "Bringer of Despair" "Chaos Eternus" Contagion "Damnations Fury" Darkblood Deathbane Deathblade Deathskull 
-			"Despicable Ecstasy" Doombringer "Eternity of Pain" Excessive Foe-Reaper Foebane "Fortress of Agony" "Heartless Destroyer" "Heathen Promise" Horrific 
-			"Initiate of Skalathrax" Injustice Killfrenzy "Malignus Maximus" "Merciless Death" Monstrous Plagueclaw Soulless "Steel Fang" "Sword of Sacrilege" Torment 
-			Unforgivable "Unholy Dominion" "Wanton Desecration" Warmaker 
+			"Anarchic Vendetta" "Blood Royale" "Bloodied Sword" "Bringer of Despair" "Chaos Eternus" Contagion "Damnations Fury" Darkblood Deathbane Deathblade Deathskull
+			"Despicable Ecstasy" Doombringer "Eternity of Pain" Excessive Foe-Reaper Foebane "Fortress of Agony" "Heartless Destroyer" "Heathen Promise" Horrific
+			"Initiate of Skalathrax" Injustice Killfrenzy "Malignus Maximus" "Merciless Death" Monstrous Plagueclaw Soulless "Steel Fang" "Sword of Sacrilege" Torment
+			Unforgivable "Unholy Dominion" "Wanton Desecration" Warmaker
 		}
 		corvette = {
-			Abdiel "Ad Liberis" Advocate Archangel August "Baron Surtur" "Blue Squadron" "Cape Wrath" Cerebus "Costa Barbarus Patrol" "Divine Crusade" Forebearer Guardian 
-			Harrower Havock Leonid "Lexus Squadron" Luxor "Omega Squadron" "Patrol Group Erinyes" Purgation "Red Squadron" "Saint of Scintilla" "Sanctis Legate" 
-			"Skargul Patrol" "Strident Virtue" "Sword of Voss" Uziel Valiant Vanguard Vigilant Yermetov 
+			Abdiel "Ad Liberis" Advocate Archangel August "Baron Surtur" "Blue Squadron" "Cape Wrath" Cerebus "Costa Barbarus Patrol" "Divine Crusade" Forebearer Guardian
+			Harrower Havock Leonid "Lexus Squadron" Luxor "Omega Squadron" "Patrol Group Erinyes" Purgation "Red Squadron" "Saint of Scintilla" "Sanctis Legate"
+			"Skargul Patrol" "Strident Virtue" "Sword of Voss" Uziel Valiant Vanguard Vigilant Yermetov
 		}
 		constructor = {}
 		colonizer = {}
 		science = {}
 		destroyer = {
-			Agrippa "Archon Kort" "Blade of Drusus" "Cardinal Turin" "Depth of Fury" Dominion "Emperor's Wrath" "Ferrum Aeterna" Fortitude Goliath "Hammer of Justice" 
-			"Hammer of Thrace" "Imperial Wrath" Incendrius "Indomitus Imperious" Invincible "Iron Duke" Justicar "Lord Daros" "Lord Solar" "Lord Sylvanus" Macharius 
-			Minotaur "Pallas Imperious" Preceptor Relentless Retribution Rhadamanthine "Righteous Fury" "Sebastian Thor" "Silent Fire" "Spirit of Defiance" 
+			Agrippa "Archon Kort" "Blade of Drusus" "Cardinal Turin" "Depth of Fury" Dominion "Emperor's Wrath" "Ferrum Aeterna" Fortitude Goliath "Hammer of Justice"
+			"Hammer of Thrace" "Imperial Wrath" Incendrius "Indomitus Imperious" Invincible "Iron Duke" Justicar "Lord Daros" "Lord Solar" "Lord Sylvanus" Macharius
+			Minotaur "Pallas Imperious" Preceptor Relentless Retribution Rhadamanthine "Righteous Fury" "Sebastian Thor" "Silent Fire" "Spirit of Defiance"
 			"Sword of Orion" "Ultima Praetor" Zealous
-		}		
+		}
 		cruiser = {
-			"Cardinal Xian" "Cypra Probatii" "Ex Cathedra" "Fist of Russ" "Flame of Purity" "Guardian of Aquinas" "Hammer of Light" Imperious Jovian Kingmaker 
-			"Light of Ascension" "Marquis Lex" Niobe "Pax Imperium" "Righteous Power" "Sword of Retribution" "The Covenanter" "The Sword Infernus" Thunderchild 
+			"Cardinal Xian" "Cypra Probatii" "Ex Cathedra" "Fist of Russ" "Flame of Purity" "Guardian of Aquinas" "Hammer of Light" Imperious Jovian Kingmaker
+			"Light of Ascension" "Marquis Lex" Niobe "Pax Imperium" "Righteous Power" "Sword of Retribution" "The Covenanter" "The Sword Infernus" Thunderchild
 			"Vigilanti Eternas" "Warrior Knight"
-		}		
+		}
 		battleship = {
-			Bloodhawk "Cardinal Boras" Corax "Divine Right" "Dominus Astra" "Duke Helbrecht" Emperor Godefroy "Green Lake" "Hammer of Scaro" "His Will" Huud Immortal 
-			"Indomitable Wrath" Inflexible Invincible "Justus Dominus" "Legatus Stygies" "Lord of Light" Magnificat "Pride of Fenris" "Saint Augusta" Triumph "Vae Victis" 
-			Victory "Virtue of Helena" 
-		}		
+			Bloodhawk "Cardinal Boras" Corax "Divine Right" "Dominus Astra" "Duke Helbrecht" Emperor Godefroy "Green Lake" "Hammer of Scaro" "His Will" Huud Immortal
+			"Indomitable Wrath" Inflexible Invincible "Justus Dominus" "Legatus Stygies" "Lord of Light" Magnificat "Pride of Fenris" "Saint Augusta" Triumph "Vae Victis"
+			Victory "Virtue of Helena"
+		}
 		orbital_station = {}
 		mining_station = {}
 		research_station = {}
@@ -510,7 +510,7 @@ xan_w4_empire = {
 		slave_army = {
 			sequential_name = "%O% Slave warriors"
 		}
-		clone_army = { 
+		clone_army = {
 			sequential_name = "%O% Mutants"
 		}
 		robotic_army = {
@@ -519,7 +519,7 @@ xan_w4_empire = {
 		android_army = {
 			sequential_name = "%O% Combat Servitor Group"
 		}
-		psionic_army = { 
+		psionic_army = {
 			sequential_name = "%O% Grey Knights"
 		}
 		xenomorph_army = {
@@ -533,23 +533,23 @@ xan_w4_empire = {
 	planet_names = {
 		generic = {
 			names = {
-				"Absolom Reach" Accatran Acheron Aerius Agripinaa Albert Algol Almarit Amarah Anshur Antax Antioc Anvillus Anvilus Aralan Arcadia Arcetri Archaos Armageddon 
-				Artemia Aryand Ashek Atar-Median Auxilion Avalan Avellorn Badab Bakus Baraspine Barnassus Belacane Belial Beshic "Beta Cornix" "Black Reach" Brigannion Bront 
-				Cadia Caldera Canopus Carcharias Castellax Chaeroneia "Chima Lomas" Clove Columnus Constanix "Coronis Agathon" Corvus Crixos Crucible Cthonia Cyclopea 
-				Cyclopean Cyclopia Cyclothrathe Cyclotrathe "Cypra Mundi" Dantris Deimos Delaphina Derdoni Diamat Diesos Dominica Don-Croix Drachu Dusken Dynax Ephisia 
-				Estaban Esteban Falchat "Fell Core" Fenksworld "Forge Polix" Forgefane Formal Formanton "Fornax Aleph" Fornstadt "Fortis Binary" Galaspar "Gantor Terentes" 
-				Gantz "Gehenna Prime" Gethsemane Glasgow Goleonda Gorgonum Goth Graia Grammachus Greyshroud Gryphonne Gunpoint Guytoga Hadd Hamclov Harakon Hazhim Helios 
-				Hellgrace Hermetica Hesh Het Hexis "Hexium Minora" Hranx Hredrin "Hydra Cordatus" Hydraphur Hypnoth Ichar Ichorax Idumea Incaladion "Ironghast Foundry" 
-				Ironhelm Ishraq Isstvan Jago Japheth Jerulas Jupiter Kado Kai Kalvera "Kasr Partox" Khadenghast Kiavahr Kor Lakadamon Landunder Lankast Lavantia Lethe Levion 
-				Lo Lucius Lutoris M'Pandex M'khand M'kond "Magnos Omicron" Malfi Malodrax Mars Medrengard Medusa Megheim Megyre Meridian Merov Merovincha Metalica Methalor 
-				Mezoa Milhand Minea Mitra Moirae Molech Mordian Moredakka Morlond Morrigar Mpandex "Mu'gulath Bay" Mydgal Necromunda Nekkar Nonimax Nostramo "Nova Sulis" 
-				"Nova Terra" Nucon Obdurus Ohmn-Mat Omnicron Optima "Opus Macharius" Orar Orask Orbalok Ordana Orestes Orphia Orphidia Palatine Palomar Pandora Paraghast 
-				Pentos Perinetus Persepolis Phaenon Phaeton Phobos Piety Porphetus "Port Maw" Portenus Praedis Praetoria Prol Pyros Radnar Rangda Raxos Rebas Refusal Regallus 
-				Retlaxi Ryza Samech Samson Schrodinger Scintilla Sebastus Sephlagm Septius Shaehol Shardenus Shenlong Shroud "Silent Forge" Siprix Skorgulian Solemnium 
-				Solomon Spite Stalinvast Straxos Stryken Stygia Stygies "Subiaco Diablo" Sybari Synford Taira-Shodan Talasa Tancredi Tanis Targus "Taslan's Forge" Telemachus 
-				Temaxia Temperis Tephaine Terra "The Lathes" Thical Thracian Thranx Thrax Thraxia Thridia Tigrus Toil Tolkan Tolkhan Tranch Tranquilitus "Triplex Phall" 
-				Turren Ur-haven Uraniborg Urdesh Urlon Vanaheim Vanqualis Vas'talos Vaust Vaxanide Vaznagrod Venatoria Verghast Verica Vindalex "Volcanis Ultor" Volg 
-				Vorlanthus Vorsk Voss Vyaniah Xana Zhao-Arkkad Zopyrus Zosma 
+				"Absolom Reach" Accatran Acheron Aerius Agripinaa Albert Algol Almarit Amarah Anshur Antax Antioc Anvillus Anvilus Aralan Arcadia Arcetri Archaos Armageddon
+				Artemia Aryand Ashek Atar-Median Auxilion Avalan Avellorn Badab Bakus Baraspine Barnassus Belacane Belial Beshic "Beta Cornix" "Black Reach" Brigannion Bront
+				Cadia Caldera Canopus Carcharias Castellax Chaeroneia "Chima Lomas" Clove Columnus Constanix "Coronis Agathon" Corvus Crixos Crucible Cthonia Cyclopea
+				Cyclopean Cyclopia Cyclothrathe Cyclotrathe "Cypra Mundi" Dantris Deimos Delaphina Derdoni Diamat Diesos Dominica Don-Croix Drachu Dusken Dynax Ephisia
+				Estaban Esteban Falchat "Fell Core" Fenksworld "Forge Polix" Forgefane Formal Formanton "Fornax Aleph" Fornstadt "Fortis Binary" Galaspar "Gantor Terentes"
+				Gantz "Gehenna Prime" Gethsemane Glasgow Goleonda Gorgonum Goth Graia Grammachus Greyshroud Gryphonne Gunpoint Guytoga Hadd Hamclov Harakon Hazhim Helios
+				Hellgrace Hermetica Hesh Het Hexis "Hexium Minora" Hranx Hredrin "Hydra Cordatus" Hydraphur Hypnoth Ichar Ichorax Idumea Incaladion "Ironghast Foundry"
+				Ironhelm Ishraq Isstvan Jago Japheth Jerulas Jupiter Kado Kai Kalvera "Kasr Partox" Khadenghast Kiavahr Kor Lakadamon Landunder Lankast Lavantia Lethe Levion
+				Lo Lucius Lutoris M'Pandex M'khand M'kond "Magnos Omicron" Malfi Malodrax Mars Medrengard Medusa Megheim Megyre Meridian Merov Merovincha Metalica Methalor
+				Mezoa Milhand Minea Mitra Moirae Molech Mordian Moredakka Morlond Morrigar Mpandex "Mu'gulath Bay" Mydgal Necromunda Nekkar Nonimax Nostramo "Nova Sulis"
+				"Nova Terra" Nucon Obdurus Ohmn-Mat Omnicron Optima "Opus Macharius" Orar Orask Orbalok Ordana Orestes Orphia Orphidia Palatine Palomar Pandora Paraghast
+				Pentos Perinetus Persepolis Phaenon Phaeton Phobos Piety Porphetus "Port Maw" Portenus Praedis Praetoria Prol Pyros Radnar Rangda Raxos Rebas Refusal Regallus
+				Retlaxi Ryza Samech Samson Schrodinger Scintilla Sebastus Sephlagm Septius Shaehol Shardenus Shenlong Shroud "Silent Forge" Siprix Skorgulian Solemnium
+				Solomon Spite Stalinvast Straxos Stryken Stygia Stygies "Subiaco Diablo" Sybari Synford Taira-Shodan Talasa Tancredi Tanis Targus "Taslan's Forge" Telemachus
+				Temaxia Temperis Tephaine Terra "The Lathes" Thical Thracian Thranx Thrax Thraxia Thridia Tigrus Toil Tolkan Tolkhan Tranch Tranquilitus "Triplex Phall"
+				Turren Ur-haven Uraniborg Urdesh Urlon Vanaheim Vanqualis Vas'talos Vaust Vaxanide Vaznagrod Venatoria Verghast Verica Vindalex "Volcanis Ultor" Volg
+				Vorlanthus Vorsk Voss Vyaniah Xana Zhao-Arkkad Zopyrus Zosma
 			}
 		}
 		pc_desert = {
@@ -560,18 +560,18 @@ xan_w4_empire = {
 		}
 		pc_tropical = {
 			names = {
-				Andronicus Avalane Belaeno Bengoli Biegel Breanna Catachan Comania Cytheria Drykeena Eireius Elnath Galavan Galmor Ghoroi Goranado Graffias Hyades I'Ycklahl 
-				Istria Kaligan Kashann Krakan Mekbuda Merga Miral Moraz Mordin Mordriana Mullis Nalibraxis Naos Nectavus Prosperon Rana Rhorsch Saganor Savrap Stalinvast 
+				Andronicus Avalane Belaeno Bengoli Biegel Breanna Catachan Comania Cytheria Drykeena Eireius Elnath Galavan Galmor Ghoroi Goranado Graffias Hyades I'Ycklahl
+				Istria Kaligan Kashann Krakan Mekbuda Merga Miral Moraz Mordin Mordriana Mullis Nalibraxis Naos Nectavus Prosperon Rana Rhorsch Saganor Savrap Stalinvast
 				Taygeta Typhon Tza-Chao Uldan Verdicon Veskepine
 			}
 		}
 		pc_continental = {
 			names = {
-				Boonhaven Candau Cassell Chiros Colcha Curwen "Cyrus Vulpa" "Danik's World" "Delta Arbuthnot" "Dinorwyc Cluster" Dreah Durer "Eden Prime" Eireius Erinia 
-				"Euthenia XX" "Galfranus V" Gehöft Gheistos Gravalax Grunald Gruss Hagia Hamooth "Hesiod's Wake" Hilarion Iax "Iesta Veracrux" Iocanthos Jouran "Jumael IV" 
-				Kataris Khai-zhan Kurkaris Malvolion "Marunda II" Masali Numinal "Orbel Quill" "Pavar V" Percipre Phagir Picus Porozh Quintarn "Rashad Prime" Regulus 
-				"Rynn's World" "Samax IV" Sameter "San Leor" "Saras VII" Sharlor Siculi Sigma-Agrius Silkava "Solshen XIX" "Sondheim V" Sovven Spectoris "Stygian Prime" 
-				Sulyvan Tarentus Tarrenhorst "Tarsis Ultra" "Tephaine Minor" "Thantus X" "The Pearl Moon" "Three Planets" Torian "Tsade II" Vallenin "Victrix Sonora" Zavarich 
+				Boonhaven Candau Cassell Chiros Colcha Curwen "Cyrus Vulpa" "Danik's World" "Delta Arbuthnot" "Dinorwyc Cluster" Dreah Durer "Eden Prime" Eireius Erinia
+				"Euthenia XX" "Galfranus V" Gehöft Gheistos Gravalax Grunald Gruss Hagia Hamooth "Hesiod's Wake" Hilarion Iax "Iesta Veracrux" Iocanthos Jouran "Jumael IV"
+				Kataris Khai-zhan Kurkaris Malvolion "Marunda II" Masali Numinal "Orbel Quill" "Pavar V" Percipre Phagir Picus Porozh Quintarn "Rashad Prime" Regulus
+				"Rynn's World" "Samax IV" Sameter "San Leor" "Saras VII" Sharlor Siculi Sigma-Agrius Silkava "Solshen XIX" "Sondheim V" Sovven Spectoris "Stygian Prime"
+				Sulyvan Tarentus Tarrenhorst "Tarsis Ultra" "Tephaine Minor" "Thantus X" "The Pearl Moon" "Three Planets" Torian "Tsade II" Vallenin "Victrix Sonora" Zavarich
 			}
 		}
 		pc_gaia = {
@@ -579,7 +579,7 @@ xan_w4_empire = {
 		}
 		pc_ocean = {
 			names = {
-				Altaneum Archipelaga Brun Cremtous Duthovan Eswulus Eutoria Isla'su Ithaka Jhanna Khai-zhan Kor Kvariam Laeran Malmar Nereus Numinal Posidac Spectoris Tahnel 
+				Altaneum Archipelaga Brun Cremtous Duthovan Eswulus Eutoria Isla'su Ithaka Jhanna Khai-zhan Kor Kvariam Laeran Malmar Nereus Numinal Posidac Spectoris Tahnel
 				Talassar "The Pearl Moon" Tyrama Tyran
 			}
 		}
@@ -588,8 +588,8 @@ xan_w4_empire = {
 		}
 		pc_arctic = {
 			names = {
-				Adhara Belatis Beroghast Betalis Bethalmae Chosin Cressida Delos Dheneb Furund Galathas Go'shol Heckla Holst Icensus Immir Inwit Karos Karrik Klaihn Kript 
-				Krypt Lorn Mara Mendona Numarc Posidac Pylar Schrodinger Shadrac Shroud "Simia Orichalcae" "Typhon Septimus" Valhalla Wezn Winterhome Yngirheim Zoran 
+				Adhara Belatis Beroghast Betalis Bethalmae Chosin Cressida Delos Dheneb Furund Galathas Go'shol Heckla Holst Icensus Immir Inwit Karos Karrik Klaihn Kript
+				Krypt Lorn Mara Mendona Numarc Posidac Pylar Schrodinger Shadrac Shroud "Simia Orichalcae" "Typhon Septimus" Valhalla Wezn Winterhome Yngirheim Zoran
 			}
 		}
 	}
@@ -598,39 +598,39 @@ xan_w4_empire = {
 		names1 = {
 			weight = 100
 			first_names_male = {
-				Abdul Abdulias Abel Abriel Adrastia Aevos Ahmazzi Akkir Al-Subaai Alarbus Amaranthine Amchanduste Amelda Andreas Anko Annesh Anton Arcotholitis Argun Argus 
-				Arik Armandus Arnuldus Artemidorus Askarid Aulis Auric Axan Babu Balmorn Balthazar Barthannel Baryk Bequa Bocsh Brokur Bryce Brython Calibron Camille Capulan 
-				Cjester Constantine Crziel Daklorn Dalia Darius De Dejedris Derian Djanko Domeenito Dracos Dranos Drantar Dyros Edric Eldon Elena Eodraki Erasmus 
-				Erwin Euphrati Eyor Faisal Faltornus Fereyd Fierach Gaulemort Gerantius Gerhart Gerontius Gerrolt Ghankus Gherick Gilbran Gliene Globus Goldo Gregor Grevan 
-				Grimm Haedo Halovar Hargir Hasso Hawke Heironymo Hektor Helad Herman Hortensio Hurtado Iaeo Ibrahim Ignace Ilya Impervious Indijona Ipluvien Ireton Jaanyi 
-				Janni Javor Jenna Jeremiah Jeriminus Jerval Johanna Juskina Kae Kal Kalhin Kallista Kasimir Kasper Kel Klara Kleist Kotto Krewald Kromarch Kubik Kurei Kurov 
-				Kyril Lachryma Lagos Lasko Lastan Lemuel Lemuel Lenas Leonora Leukala Living Luthir Lux Maelon Magda Magnus Mahavastu Malcador Marcus Marius Maximillian 
-				Maximus Mericus Mersadie Mesring Mikal Militzia Monteryn Morben Mordred Mydos Mykola Myrcor Namira Nemo Neru Nexin Noctus Obsidian Octavius Octus Orlando 
-				Orrik Orson Ospheus Osric Ostian Otto Pella Petronella Phaeton Pherom Price Racel Rafal Randul Rasputin Retribution Rho-mu Saint Saint Salvador Sarvus 
-				Saturnalia Sebastien Simon Skar Solana Solomon Starkzahn Sumant Sun Suresya Sylas Sythran Taggarath Taryn Taurus Thygmus Tilenus Tobris Tremault Troskzer 
-				Tyana Tybalt Udin Uttam Valiance Van Vance Vendare Veriliad Vernor Vettius Viktor Volquan Vownus Vroth Walkorn White Wrath Xander Xiao Yasu Yawell Zerin 
+				Abdul Abdulias Abel Abriel Adrastia Aevos Ahmazzi Akkir Al-Subaai Alarbus Amaranthine Amchanduste Amelda Andreas Anko Annesh Anton Arcotholitis Argun Argus
+				Arik Armandus Arnuldus Artemidorus Askarid Aulis Auric Axan Babu Balmorn Balthazar Barthannel Baryk Bequa Bocsh Brokur Bryce Brython Calibron Camille Capulan
+				Cjester Constantine Crziel Daklorn Dalia Darius De Dejedris Derian Djanko Domeenito Dracos Dranos Drantar Dyros Edric Eldon Elena Eodraki Erasmus
+				Erwin Euphrati Eyor Faisal Faltornus Fereyd Fierach Gaulemort Gerantius Gerhart Gerontius Gerrolt Ghankus Gherick Gilbran Gliene Globus Goldo Gregor Grevan
+				Grimm Haedo Halovar Hargir Hasso Hawke Heironymo Hektor Helad Herman Hortensio Hurtado Iaeo Ibrahim Ignace Ilya Impervious Indijona Ipluvien Ireton Jaanyi
+				Janni Javor Jenna Jeremiah Jeriminus Jerval Johanna Juskina Kae Kal Kalhin Kallista Kasimir Kasper Kel Klara Kleist Kotto Krewald Kromarch Kubik Kurei Kurov
+				Kyril Lachryma Lagos Lasko Lastan Lemuel Lemuel Lenas Leonora Leukala Living Luthir Lux Maelon Magda Magnus Mahavastu Malcador Marcus Marius Maximillian
+				Maximus Mericus Mersadie Mesring Mikal Militzia Monteryn Morben Mordred Mydos Mykola Myrcor Namira Nemo Neru Nexin Noctus Obsidian Octavius Octus Orlando
+				Orrik Orson Ospheus Osric Ostian Otto Pella Petronella Phaeton Pherom Price Racel Rafal Randul Rasputin Retribution Rho-mu Saint Saint Salvador Sarvus
+				Saturnalia Sebastien Simon Skar Solana Solomon Starkzahn Sumant Sun Suresya Sylas Sythran Taggarath Taryn Taurus Thygmus Tilenus Tobris Tremault Troskzer
+				Tyana Tybalt Udin Uttam Valiance Van Vance Vendare Veriliad Vernor Vettius Viktor Volquan Vownus Vroth Walkorn White Wrath Xander Xiao Yasu Yawell Zerin
 			}
 			first_names_female = {
-				Abdul Abdulias Abel Abriel Adrastia Aevos Ahmazzi Akkir Al-Subaai Alarbus Amaranthine Amchanduste Amelda Andreas Anko Annesh Anton Arcotholitis Argun Argus 
-				Arik Armandus Arnuldus Artemidorus Askarid Aulis Auric Axan Babu Balmorn Balthazar Barthannel Baryk Bequa Bocsh Brokur Bryce Brython Calibron Camille Capulan 
-				Cjester Constantine Crziel Daklorn Dalia Darius De Dejedris Derian Djanko Domeenito Dracos Dranos Drantar Dyros Edric Eldon Elena Eodraki Erasmus 
-				Erwin Euphrati Eyor Faisal Faltornus Fereyd Fierach Gaulemort Gerantius Gerhart Gerontius Gerrolt Ghankus Gherick Gilbran Gliene Globus Goldo Gregor Grevan 
-				Grimm Haedo Halovar Hargir Hasso Hawke Heironymo Hektor Helad Herman Hortensio Hurtado Iaeo Ibrahim Ignace Ilya Impervious Indijona Ipluvien Ireton Jaanyi 
-				Janni Javor Jenna Jeremiah Jeriminus Jerval Johanna Juskina Kae Kal Kalhin Kallista Kasimir Kasper Kel Klara Kleist Kotto Krewald Kromarch Kubik Kurei Kurov 
-				Kyril Lachryma Lagos Lasko Lastan Lemuel Lemuel Lenas Leonora Leukala Living Luthir Lux Maelon Magda Magnus Mahavastu Malcador Marcus Marius Maximillian 
-				Maximus Mericus Mersadie Mesring Mikal Militzia Monteryn Morben Mordred Mydos Mykola Myrcor Namira Nemo Neru Nexin Noctus Obsidian Octavius Octus Orlando 
-				Orrik Orson Ospheus Osric Ostian Otto Pella Petronella Phaeton Pherom Price Racel Rafal Randul Rasputin Retribution Rho-mu Saint Saint Salvador Sarvus 
-				Saturnalia Sebastien Simon Skar Solana Solomon Starkzahn Sumant Sun Suresya Sylas Sythran Taggarath Taryn Taurus Thygmus Tilenus Tobris Tremault Troskzer 
-				Tyana Tybalt Udin Uttam Valiance Van Vance Vendare Veriliad Vernor Vettius Viktor Volquan Vownus Vroth Walkorn White Wrath Xander Xiao Yasu Yawell Zerin 
+				Abdul Abdulias Abel Abriel Adrastia Aevos Ahmazzi Akkir Al-Subaai Alarbus Amaranthine Amchanduste Amelda Andreas Anko Annesh Anton Arcotholitis Argun Argus
+				Arik Armandus Arnuldus Artemidorus Askarid Aulis Auric Axan Babu Balmorn Balthazar Barthannel Baryk Bequa Bocsh Brokur Bryce Brython Calibron Camille Capulan
+				Cjester Constantine Crziel Daklorn Dalia Darius De Dejedris Derian Djanko Domeenito Dracos Dranos Drantar Dyros Edric Eldon Elena Eodraki Erasmus
+				Erwin Euphrati Eyor Faisal Faltornus Fereyd Fierach Gaulemort Gerantius Gerhart Gerontius Gerrolt Ghankus Gherick Gilbran Gliene Globus Goldo Gregor Grevan
+				Grimm Haedo Halovar Hargir Hasso Hawke Heironymo Hektor Helad Herman Hortensio Hurtado Iaeo Ibrahim Ignace Ilya Impervious Indijona Ipluvien Ireton Jaanyi
+				Janni Javor Jenna Jeremiah Jeriminus Jerval Johanna Juskina Kae Kal Kalhin Kallista Kasimir Kasper Kel Klara Kleist Kotto Krewald Kromarch Kubik Kurei Kurov
+				Kyril Lachryma Lagos Lasko Lastan Lemuel Lemuel Lenas Leonora Leukala Living Luthir Lux Maelon Magda Magnus Mahavastu Malcador Marcus Marius Maximillian
+				Maximus Mericus Mersadie Mesring Mikal Militzia Monteryn Morben Mordred Mydos Mykola Myrcor Namira Nemo Neru Nexin Noctus Obsidian Octavius Octus Orlando
+				Orrik Orson Ospheus Osric Ostian Otto Pella Petronella Phaeton Pherom Price Racel Rafal Randul Rasputin Retribution Rho-mu Saint Saint Salvador Sarvus
+				Saturnalia Sebastien Simon Skar Solana Solomon Starkzahn Sumant Sun Suresya Sylas Sythran Taggarath Taryn Taurus Thygmus Tilenus Tobris Tremault Troskzer
+				Tyana Tybalt Udin Uttam Valiance Van Vance Vendare Veriliad Vernor Vettius Viktor Volquan Vownus Vroth Walkorn White Wrath Xander Xiao Yasu Yawell Zerin
 			}
 			second_names = {
-				31 Acharya Adamta Allegra Almighty "Ansbach Hawser" Anwar Arachnus Arkelius Bronzi Carnhide Carya Croe Cythera "De Valtos" Dedonki Degallio Delafour Derosa 
-				Dhakal Dhar Dhrost Donar Drusil Ekharth Emankon Enoch Eris Garamach Gaumon Gerstahl Gibran Giraldus "Giri Phalguni Tirtha" Goldberg Grace Hakon Hax Helfire 
-				Helmawr Heskith Honan Hume Incarnate "Ivan Gustavus" Jerico Jovian Kaede Kallimakus Karkasy Keeler Kestren Knight Kord Kourion Kranswar Krassus Krast Kulik 
-				Kulm Kynska LaBray Laan Laurentis Lee Litany "Luna Hesh Udar" MaSade "Macht Udo" Mamoud Matthias Maximal Menst Mhal Montante Nagasena "Neemagiun Veritus" 
-				Ohashi Oliton Orlandriaz Pavo Pliny "Princeps Carthagina" Pyre Quail Rabelaq Ramas Ras-Aziz Ravallion Rex Rhasc Rosarind Sabbat Sark Scard Scarvelli Scourge 
-				Sekara Semper Sha Sharaq Sharben Shivani Shonai Sichar Sindermann Slyter Sondar Stael Suzaku Taloun Taranis Telok Theren Torq Trask Trusk Tull Umboldt 
-				Urquidex Vaarak Vakonz Valerius "Van Auken" "Van Gelder" "Van Horcic" Vandis "Veremonn Goreman" Vergen Verreault Vivar "Von Darnus" Voss Vought Vuygens Warden 
+				31 Acharya Adamta Allegra Almighty "Ansbach Hawser" Anwar Arachnus Arkelius Bronzi Carnhide Carya Croe Cythera "De Valtos" Dedonki Degallio Delafour Derosa
+				Dhakal Dhar Dhrost Donar Drusil Ekharth Emankon Enoch Eris Garamach Gaumon Gerstahl Gibran Giraldus "Giri Phalguni Tirtha" Goldberg Grace Hakon Hax Helfire
+				Helmawr Heskith Honan Hume Incarnate "Ivan Gustavus" Jerico Jovian Kaede Kallimakus Karkasy Keeler Kestren Knight Kord Kourion Kranswar Krassus Krast Kulik
+				Kulm Kynska LaBray Laan Laurentis Lee Litany "Luna Hesh Udar" MaSade "Macht Udo" Mamoud Matthias Maximal Menst Mhal Montante Nagasena "Neemagiun Veritus"
+				Ohashi Oliton Orlandriaz Pavo Pliny "Princeps Carthagina" Pyre Quail Rabelaq Ramas Ras-Aziz Ravallion Rex Rhasc Rosarind Sabbat Sark Scard Scarvelli Scourge
+				Sekara Semper Sha Sharaq Sharben Shivani Shonai Sichar Sindermann Slyter Sondar Stael Suzaku Taloun Taranis Telok Theren Torq Trask Trusk Tull Umboldt
+				Urquidex Vaarak Vakonz Valerius "Van Auken" "Van Gelder" "Van Horcic" Vandis "Veremonn Goreman" Vergen Verreault Vivar "Von Darnus" Voss Vought Vuygens Warden
 				Worlin Zeck Zerbe Zhau Zhi-Meng "of Alamar" "van Meer" "van Spracht" "von Strab"
 			}
 			regnal_first_names_male = {
@@ -674,9 +674,9 @@ xan_w4_necron = {
 
 	fleet_names = {
 		random_names = {
-			"Agdagath Fleet" "Altymhor Fleet" "Arotepk Fleet" "Arrynmarok Fleet" "Atun Fleet" "Charnovokh Fleet" "Dyvanakh Fleet" "Hyrekh Fleet" "Kardenath Fleet" 
-			"Kayra Fleet" "Khansu Fleet" "Maynarkh Fleet" "Mephrit Fleet" "Nekthyst Fleet" "Nephrekh Fleet" "Nihilakh Fleet" "Novokh Fleet" "Ogdobekh Fleet" "Oltep Fleet" 
-			"Oroskh Fleet" "Oruscar Fleet" "Rytak Fleet" "Sarnekh Fleet" "Sautekh Fleet" "Sekemtar Fleet" "Shemnoch Fleet" "Suhbekhar Fleet" "Thokt Fleet" "Xonthar Fleet" 
+			"Agdagath Fleet" "Altymhor Fleet" "Arotepk Fleet" "Arrynmarok Fleet" "Atun Fleet" "Charnovokh Fleet" "Dyvanakh Fleet" "Hyrekh Fleet" "Kardenath Fleet"
+			"Kayra Fleet" "Khansu Fleet" "Maynarkh Fleet" "Mephrit Fleet" "Nekthyst Fleet" "Nephrekh Fleet" "Nihilakh Fleet" "Novokh Fleet" "Ogdobekh Fleet" "Oltep Fleet"
+			"Oroskh Fleet" "Oruscar Fleet" "Rytak Fleet" "Sarnekh Fleet" "Sautekh Fleet" "Sekemtar Fleet" "Shemnoch Fleet" "Suhbekhar Fleet" "Thokt Fleet" "Xonthar Fleet"
 		}
 		sequential_name = "%O% Tomb Fleet"
 	}
@@ -691,7 +691,7 @@ xan_w4_necron = {
 		slave_army = {
 			sequential_name = "%O% Flayed Ones"
 		}
-		clone_army = { 
+		clone_army = {
 			sequential_name = "%O% Immortas"
 		}
 		robotic_army = {
@@ -700,7 +700,7 @@ xan_w4_necron = {
 		android_army = {
 			sequential_name = "%O% Deathmarks"
 		}
-		psionic_army = { 
+		psionic_army = {
 			sequential_name = "%O% C'tan Shards"
 		}
 		xenomorph_army = {
@@ -715,11 +715,11 @@ xan_w4_necron = {
 	planet_names = {
 		generic = {
 			names = {
-				Adacore Akator Akynatos Ankekh Aryand Avarris Bardic Bellicas Berien Brogrod Cano'var Cardrim Carnac "Carrion Deep" Chandrax Cocholos Cthelmax Damnos Davatas 
-				Dhol Draven Drazak Fordris Gheden Ghelleph Gidrim Gorkamorka "Hollow Sun" Icnarus Interitus "Iori Delta Tove" Ixya Kaurava Kavardia Kinbriar Kronus Loxar 
-				"Luther Macintyre" Maedrax Mandragora Medusa Meghoshta Moebius Morrigar Morrigor Nagathar Naogeddon Nervkor Nymidae Orrak Pavonis Perdita Phaethon Primordus 
-				Pyrrhia Qyrakotosh Rithcarin Sanctarro Santos Sarkon Sarlok Schrodinger Seidon "Septimus Moore" Shemnoch "Simia Orichalcae" Solemnace Somonor Suranas Tamar 
-				Thanatos Thridia Trakonn Trantis Tyr Uttu Verdus Vorketh Zantragora Zapennec Zykorak 
+				Adacore Akator Akynatos Ankekh Aryand Avarris Bardic Bellicas Berien Brogrod Cano'var Cardrim Carnac "Carrion Deep" Chandrax Cocholos Cthelmax Damnos Davatas
+				Dhol Draven Drazak Fordris Gheden Ghelleph Gidrim Gorkamorka "Hollow Sun" Icnarus Interitus "Iori Delta Tove" Ixya Kaurava Kavardia Kinbriar Kronus Loxar
+				"Luther Macintyre" Maedrax Mandragora Medusa Meghoshta Moebius Morrigar Morrigor Nagathar Naogeddon Nervkor Nymidae Orrak Pavonis Perdita Phaethon Primordus
+				Pyrrhia Qyrakotosh Rithcarin Sanctarro Santos Sarkon Sarlok Schrodinger Seidon "Septimus Moore" Shemnoch "Simia Orichalcae" Solemnace Somonor Suranas Tamar
+				Thanatos Thridia Trakonn Trantis Tyr Uttu Verdus Vorketh Zantragora Zapennec Zykorak
 			}
 		}
 		pc_desert = {
@@ -752,23 +752,23 @@ xan_w4_necron = {
 		names1 = {
 			weight = 100
 			first_names_male = {
-				Aetehk Ahhotekh Ahmontekh Akanabekh Akanabeth Anrakyr Aramakh Atun Azderon Crimson Drizyan Galmakh Harri'apt Hasist Henghast Herald Illmahnokh Imotekh 
-				Ixatotekh Janzikh Kepakh Korovoskh Kothorahn Krispekh Maktlan Naszar Navgran Obyron Ogdovakh Orikan Osiskor Ozkan R'zhan Rahkoz Rakszan Raznaak Sarkoni Setekh 
-				Stygos Svarokh Szarekh Szaron Szeras Tahek Tarekh Thaszar Thulekh Tlazolt Toholk Tomas Trazyn Valgul Varagon Vitokh Xun'bakyr Zahndrekh Zarathusa 
+				Aetehk Ahhotekh Ahmontekh Akanabekh Akanabeth Anrakyr Aramakh Atun Azderon Crimson Drizyan Galmakh Harri'apt Hasist Henghast Herald Illmahnokh Imotekh
+				Ixatotekh Janzikh Kepakh Korovoskh Kothorahn Krispekh Maktlan Naszar Navgran Obyron Ogdovakh Orikan Osiskor Ozkan R'zhan Rahkoz Rakszan Raznaak Sarkoni Setekh
+				Stygos Svarokh Szarekh Szaron Szeras Tahek Tarekh Thaszar Thulekh Tlazolt Toholk Tomas Trazyn Valgul Varagon Vitokh Xun'bakyr Zahndrekh Zarathusa
 			}
 			first_names_female = {
-				Aetehk Ahhotekh Ahmontekh Akanabekh Akanabeth Anrakyr Aramakh Atun Azderon Crimson Drizyan Galmakh Harri'apt Hasist Henghast Herald Illmahnokh Imotekh 
-				Ixatotekh Janzikh Kepakh Korovoskh Kothorahn Krispekh Maktlan Naszar Navgran Obyron Ogdovakh Orikan Osiskor Ozkan R'zhan Rahkoz Rakszan Raznaak Sarkoni Setekh 
-				Stygos Svarokh Szarekh Szaron Szeras Tahek Tarekh Thaszar Thulekh Tlazolt Toholk Tomas Trazyn Valgul Varagon Vitokh Xun'bakyr Zahndrekh Zarathusa 
+				Aetehk Ahhotekh Ahmontekh Akanabekh Akanabeth Anrakyr Aramakh Atun Azderon Crimson Drizyan Galmakh Harri'apt Hasist Henghast Herald Illmahnokh Imotekh
+				Ixatotekh Janzikh Kepakh Korovoskh Kothorahn Krispekh Maktlan Naszar Navgran Obyron Ogdovakh Orikan Osiskor Ozkan R'zhan Rahkoz Rakszan Raznaak Sarkoni Setekh
+				Stygos Svarokh Szarekh Szaron Szeras Tahek Tarekh Thaszar Thulekh Tlazolt Toholk Tomas Trazyn Valgul Varagon Vitokh Xun'bakyr Zahndrekh Zarathusa
 			}
 			second_names = {
-				Drakvir Emperor King Kutlakh M'rrith Macabee R'drah Undying Voidbringer Zo 
+				Drakvir Emperor King Kutlakh M'rrith Macabee R'drah Undying Voidbringer Zo
 			}
 			regnal_first_names_male = {
-				Ahhotekh Ahmontekh Anrakyr Imotekh "Vargard Obyron" Orikan Szarekh "Illuminor Szeras" Trazyn "Nemesor Zahndrekh" 
+				Ahhotekh Ahmontekh Anrakyr Imotekh "Vargard Obyron" Orikan Szarekh "Illuminor Szeras" Trazyn "Nemesor Zahndrekh"
 			}
 			regnal_first_names_female = {
-				Ahhotekh Ahmontekh Anrakyr Imotekh "Vargard Obyron" Orikan Szarekh "Illuminor Szeras" Trazyn "Nemesor Zahndrekh" 
+				Ahhotekh Ahmontekh Anrakyr Imotekh "Vargard Obyron" Orikan Szarekh "Illuminor Szeras" Trazyn "Nemesor Zahndrekh"
 			}
 			regnal_second_names = {}
 		}
@@ -782,10 +782,10 @@ xan_w4_ork = {
 
 	ship_names = {
 		generic = {
-			Arbuttz Ardenuff Argluk Bigtoof Blaktoof Bloodskar Bork Butcher Chobog Dethdeala Dethrekka Dok Garaghak Gazbag Ghazghkull Gluttok Gorbad Gorbag 
-			"Gorbag's Revenge" Gorklaw Gragnatz Grax "Green Kroosade" "Green Tide" Grimgutz Grimtusk "Grimzag's Ammer" Grizgutz Groblonik Grog Grognik Grughakh Gulgrag 
-			Gutcutta Hruk Irongol Irontoof Kroolboy Makrina Megamek Nagrut Rekkfist Rukrippa Scarfist Scraghurtz Skadrek Skullkrak Slamblasta Smogbelcha Snagrod 
-			Starsmasha "The Beast" Thogza Tuska Ugblitz Ugskraga Vangrod Wazdakka Zagdakka Zanzag Zoggit "Zukov's Klaw" 
+			Arbuttz Ardenuff Argluk Bigtoof Blaktoof Bloodskar Bork Butcher Chobog Dethdeala Dethrekka Dok Garaghak Gazbag Ghazghkull Gluttok Gorbad Gorbag
+			"Gorbag's Revenge" Gorklaw Gragnatz Grax "Green Kroosade" "Green Tide" Grimgutz Grimtusk "Grimzag's Ammer" Grizgutz Groblonik Grog Grognik Grughakh Gulgrag
+			Gutcutta Hruk Irongol Irontoof Kroolboy Makrina Megamek Nagrut Rekkfist Rukrippa Scarfist Scraghurtz Skadrek Skullkrak Slamblasta Smogbelcha Snagrod
+			Starsmasha "The Beast" Thogza Tuska Ugblitz Ugskraga Vangrod Wazdakka Zagdakka Zanzag Zoggit "Zukov's Klaw"
 		}
 		corvette = {}
 		constructor = {}
@@ -823,7 +823,7 @@ xan_w4_ork = {
 		slave_army = {
 			sequential_name = "%O% Gretchins"
 		}
-		clone_army = { 
+		clone_army = {
 			sequential_name = "%O% Skarboyz"
 		}
 		robotic_army = {
@@ -832,7 +832,7 @@ xan_w4_ork = {
 		android_army = {
 			sequential_name = "%O% Painboz"
 		}
-		psionic_army = { 
+		psionic_army = {
 			sequential_name = "%O% Weirdboyz"
 		}
 		xenomorph_army = {
@@ -847,9 +847,9 @@ xan_w4_ork = {
 	planet_names = {
 		generic = {
 			names = {
-				"Atari Vo" Avitohol Baran Bork Castellax Charadon Chosin Corinth Eyrok "Garaghak's World" Garbax Ghorala Golgotha Gorkamorka Gorro Graegus "Gunza Major" 
-				"Gurgit’s Mekworld" Hekitai Huiveneras Imbrium Jagga Klostra "Koram Mote" "Lethe Eleven" Magdelene Mekslag-Ikks Moredakka Octarius Orbalok Perseus 
-				"Skumgrot's Rock" Tenebra Thantus Tigrus Tusk Ulant Ullanor "Undred-Undred Teef" Urk V'run Vorsk Xit Yurk 
+				"Atari Vo" Avitohol Baran Bork Castellax Charadon Chosin Corinth Eyrok "Garaghak's World" Garbax Ghorala Golgotha Gorkamorka Gorro Graegus "Gunza Major"
+				"Gurgit’s Mekworld" Hekitai Huiveneras Imbrium Jagga Klostra "Koram Mote" "Lethe Eleven" Magdelene Mekslag-Ikks Moredakka Octarius Orbalok Perseus
+				"Skumgrot's Rock" Tenebra Thantus Tigrus Tusk Ulant Ullanor "Undred-Undred Teef" Urk V'run Vorsk Xit Yurk
 			}
 		}
 		pc_desert = {
@@ -882,46 +882,46 @@ xan_w4_ork = {
 		names1 = {
 			weight = 100
 			full_names = {
-				'Eadcrumpa Arbuttz Arch-Arsonist "Arch-Maniac of Calverna" "Arrgard the Defiler" "Azrukk Ur Nazdakka" Baddfrag Badfragg Badlug Badrukk "Big Boss Gigagob" 
-				"Big Redd" "Big Skorcha" "Big Wattz" Biglug Blackaxe Blacklaw Blaktoof Bludcrumpa Bluddflagg Boargurr Bogga-bogga "Bogrot Bones" Bogsnik Bolgrog "Bone Stompa" 
-				Bonekraka "Borzag Khan" Brug Burzuruk Buzzgit Buzzgob "Chewgrim Klubboss" "Da Blue Mek" "Da Krimson Barun" "Da Red Gobbo" "Da Sky Shredda" "Dreg Panzeehunta" 
-				"Dregz Wuzghal" Drogbag Drogg Garaghak "Gargash Korbul" "Garmek Oil-Guzzler" Garskrak Garzulk "Gashrakk Da Flash" Gazbag Gazgrim "Gharag Badtoof" 
-				"Gharkul Blackfang" "Ghazghkull Mag Uruk Thraka" "Ghenghiz Grimtoof" Gitsmasha Gluttok Gobklaw Godstompa Gogard Gorbad Gorbag "Gorbag Gitburna" Gorblood 
-				Gorfang "Gorgutz 'Ead 'Unter" "Gorsnik Magash" Gorwazza Grabork Gragnatz "Grak Bigtoof" Grakka Grax Grimgutz "Grimgutz da 'Orrible" Grimshak Grimskull 
-				"Grimsnag Urk" "Grimtusk Bloodboila" Grishnak Grizgutz "Griznak Gobsmasha" Groblonik "Grog Chewtops" "Grog Ironteef" Grokksmak Groshpit Grotnaut Grotsnik 
-				Grozbok Grubnak "Grukk Face-Rippa" Gulgrog Gurgit Gutcrusha Gutgouger "Gutrak Dethhead" Gutshredda Gutstompa Hedkrakka "Hruk Teefsplinta" Humiehacka Icekrakka 
-				Irongol Irongutz Ironjaw Jazgob "Judrog Irontoof" "Kaptin Blackgit" Killdagga Killfist Killzkar Klawjaw Kodos Kogtoof "Kommander Rarguts" Kozgrob Kragga 
-				Krakskul Kroksnikz Krugg "Krunch 'Ead-stompa" Kurguz Madbrakka Magog Magrot Mahrblud Makari Makrina "Manstompa Megakilla" Mardrug Mashogg Megamek 
-				"Mogdos Gilt-Toof" Mogrok Morbad Morfangz "Morgaash Kulgraz" Morkrog "Morkrull Grimskar" "Murgor 'Undred Teef" "Nabrot Stub-fingers" "Nazdreg Ug Urdgrub" 
-				Nazgob Nekkruncha Nuddyfist Oddgit Oilguzla Orghamek Orkamungus Orkimedes "Overfiend of Octarius" Ozdakka "Raddak Bluefinga" "Razgrod Duffsnik" Razorhed 
-				Rekkfist "Rokbad Necksnapper" Rotgrub Rukrippa Skabsnik Skagrog Skarfang Skarfangz "Skargor the Despoiler" "Skargrim Ruknar" Skogrin Skorgrin Skullkrak 
-				Skullkrumpa Skullrencha Snagga-snagga Snagratoof Snagrod Snappaklaw Snikrot Spleenrippa Starsmasha Sunspitta "The Beast" Thugsnik Toofjaw Tuska Ugblitz Uggrot 
-				"Uglurk Gitsmasha" Ugrak "Ugskraga da Mighty" Ugulhard Ungskar "Urgok the Unstoppable" "Urlakk Urg" Vargall Vorgnot "Vorhgad Bloodfang" "Wazdakka Gutsmek" 
-				Wingnutz Wugzark Zagdakka "Zodgrod Wortsnagga" 
+				'Eadcrumpa Arbuttz Arch-Arsonist "Arch-Maniac of Calverna" "Arrgard the Defiler" "Azrukk Ur Nazdakka" Baddfrag Badfragg Badlug Badrukk "Big Boss Gigagob"
+				"Big Redd" "Big Skorcha" "Big Wattz" Biglug Blackaxe Blacklaw Blaktoof Bludcrumpa Bluddflagg Boargurr Bogga-bogga "Bogrot Bones" Bogsnik Bolgrog "Bone Stompa"
+				Bonekraka "Borzag Khan" Brug Burzuruk Buzzgit Buzzgob "Chewgrim Klubboss" "Da Blue Mek" "Da Krimson Barun" "Da Red Gobbo" "Da Sky Shredda" "Dreg Panzeehunta"
+				"Dregz Wuzghal" Drogbag Drogg Garaghak "Gargash Korbul" "Garmek Oil-Guzzler" Garskrak Garzulk "Gashrakk Da Flash" Gazbag Gazgrim "Gharag Badtoof"
+				"Gharkul Blackfang" "Ghazghkull Mag Uruk Thraka" "Ghenghiz Grimtoof" Gitsmasha Gluttok Gobklaw Godstompa Gogard Gorbad Gorbag "Gorbag Gitburna" Gorblood
+				Gorfang "Gorgutz 'Ead 'Unter" "Gorsnik Magash" Gorwazza Grabork Gragnatz "Grak Bigtoof" Grakka Grax Grimgutz "Grimgutz da 'Orrible" Grimshak Grimskull
+				"Grimsnag Urk" "Grimtusk Bloodboila" Grishnak Grizgutz "Griznak Gobsmasha" Groblonik "Grog Chewtops" "Grog Ironteef" Grokksmak Groshpit Grotnaut Grotsnik
+				Grozbok Grubnak "Grukk Face-Rippa" Gulgrog Gurgit Gutcrusha Gutgouger "Gutrak Dethhead" Gutshredda Gutstompa Hedkrakka "Hruk Teefsplinta" Humiehacka Icekrakka
+				Irongol Irongutz Ironjaw Jazgob "Judrog Irontoof" "Kaptin Blackgit" Killdagga Killfist Killzkar Klawjaw Kodos Kogtoof "Kommander Rarguts" Kozgrob Kragga
+				Krakskul Kroksnikz Krugg "Krunch 'Ead-stompa" Kurguz Madbrakka Magog Magrot Mahrblud Makari Makrina "Manstompa Megakilla" Mardrug Mashogg Megamek
+				"Mogdos Gilt-Toof" Mogrok Morbad Morfangz "Morgaash Kulgraz" Morkrog "Morkrull Grimskar" "Murgor 'Undred Teef" "Nabrot Stub-fingers" "Nazdreg Ug Urdgrub"
+				Nazgob Nekkruncha Nuddyfist Oddgit Oilguzla Orghamek Orkamungus Orkimedes "Overfiend of Octarius" Ozdakka "Raddak Bluefinga" "Razgrod Duffsnik" Razorhed
+				Rekkfist "Rokbad Necksnapper" Rotgrub Rukrippa Skabsnik Skagrog Skarfang Skarfangz "Skargor the Despoiler" "Skargrim Ruknar" Skogrin Skorgrin Skullkrak
+				Skullkrumpa Skullrencha Snagga-snagga Snagratoof Snagrod Snappaklaw Snikrot Spleenrippa Starsmasha Sunspitta "The Beast" Thugsnik Toofjaw Tuska Ugblitz Uggrot
+				"Uglurk Gitsmasha" Ugrak "Ugskraga da Mighty" Ugulhard Ungskar "Urgok the Unstoppable" "Urlakk Urg" Vargall Vorgnot "Vorhgad Bloodfang" "Wazdakka Gutsmek"
+				Wingnutz Wugzark Zagdakka "Zodgrod Wortsnagga"
 			}
 			regnal_first_names_male = {
-				'Eadcrumpa Arbuttz "Arch-Maniac of Calverna" "Arrgard the Defiler" Badfragg "Beast, The" "Big Skorcha" Biglug Blaktoof Bludcrumpa Bogga-bogga Bolgrog 
-				"Bone Stompa" Bonekraka Bonesmasha Brug "Buzzgob da Burna Boy" Chatak Dragnatz Garaghak "Gargash Korbul" "Garmek Oil-Guzzler" "Garshul the Destroyer" Garskrak 
-				"Garzulk the Faceless" Gazbag Gazgrim "Gharag Badtoof" "Gharkul Blackfang" "Ghazghkull Mag Uruk Thraka" "Ghenghiz Grimtoof" Gitzmott Gluttok Godstompa Gogard 
-				Gorbad Gorbag Gorfang "Gorgutz 'Ead 'Hunter" Gorklaw "Gorsnik Magash" Gorwazza Gorzod Gragnatz Grax "Grimgutz da 'Orrible" Grimskull "Grimsnag Urk" 
-				"Grimtusk Bloodboila" Grishnak Grizgutz Groblonik "Grog Ironteef" Grokksmak "Groshpit 'The Flayer'" Grughakh Grukk Gulgrog Gutshredda Gutstompa Hedkrakka Hruk 
-				Humiehacka Icekrakka Irongol "Judrog Irontoof" "Khorga Skroll" Killdagga Killfist Killzkar Klawjaw Kogtoof Kozgrob Krugg Madbrakka Mahrblud Morkrog 
-				"Morkrull Grimskar" "Murgor 'Undred Teef" "Nazdreg Ug Urdgrub" Nekbrekka Nuddyfist Orkamungus Ozdakka Rarguts Rekkfist Rotgrub Rukrippa Skarfang 
-				"Skargor the Despoiler" "Skargrim Ruknar" Skogrin Skullkrak Skullkrumpa Smashface Snagga-snagga Snagratoof Snagrod Snappaklaw Starsmasha Sunspitta Toofjaw 
-				Tuska Ugblitz "Uglurk Gitsmasha" "Ugskraga da Mighty" Ugulhard Ungskar "Urgok the Unstoppable" "Urkthrall Kraka" "Urlakk Urg" "Urzog Mag Kull" Vargall Vorgnot 
-				"Vorhgad Bloodfang" Wugzark Zagdakka Zanzag Zhadsnark "Zogax da Great" Zoggit Zrikgutta 
+				'Eadcrumpa Arbuttz "Arch-Maniac of Calverna" "Arrgard the Defiler" Badfragg "Beast, The" "Big Skorcha" Biglug Blaktoof Bludcrumpa Bogga-bogga Bolgrog
+				"Bone Stompa" Bonekraka Bonesmasha Brug "Buzzgob da Burna Boy" Chatak Dragnatz Garaghak "Gargash Korbul" "Garmek Oil-Guzzler" "Garshul the Destroyer" Garskrak
+				"Garzulk the Faceless" Gazbag Gazgrim "Gharag Badtoof" "Gharkul Blackfang" "Ghazghkull Mag Uruk Thraka" "Ghenghiz Grimtoof" Gitzmott Gluttok Godstompa Gogard
+				Gorbad Gorbag Gorfang "Gorgutz 'Ead 'Hunter" Gorklaw "Gorsnik Magash" Gorwazza Gorzod Gragnatz Grax "Grimgutz da 'Orrible" Grimskull "Grimsnag Urk"
+				"Grimtusk Bloodboila" Grishnak Grizgutz Groblonik "Grog Ironteef" Grokksmak "Groshpit 'The Flayer'" Grughakh Grukk Gulgrog Gutshredda Gutstompa Hedkrakka Hruk
+				Humiehacka Icekrakka Irongol "Judrog Irontoof" "Khorga Skroll" Killdagga Killfist Killzkar Klawjaw Kogtoof Kozgrob Krugg Madbrakka Mahrblud Morkrog
+				"Morkrull Grimskar" "Murgor 'Undred Teef" "Nazdreg Ug Urdgrub" Nekbrekka Nuddyfist Orkamungus Ozdakka Rarguts Rekkfist Rotgrub Rukrippa Skarfang
+				"Skargor the Despoiler" "Skargrim Ruknar" Skogrin Skullkrak Skullkrumpa Smashface Snagga-snagga Snagratoof Snagrod Snappaklaw Starsmasha Sunspitta Toofjaw
+				Tuska Ugblitz "Uglurk Gitsmasha" "Ugskraga da Mighty" Ugulhard Ungskar "Urgok the Unstoppable" "Urkthrall Kraka" "Urlakk Urg" "Urzog Mag Kull" Vargall Vorgnot
+				"Vorhgad Bloodfang" Wugzark Zagdakka Zanzag Zhadsnark "Zogax da Great" Zoggit Zrikgutta
 			}
 			regnal_first_names_female = {
-				'Eadcrumpa Arbuttz "Arch-Maniac of Calverna" "Arrgard the Defiler" Badfragg "Beast, The" "Big Skorcha" Biglug Blaktoof Bludcrumpa Bogga-bogga Bolgrog 
-				"Bone Stompa" Bonekraka Bonesmasha Brug "Buzzgob da Burna Boy" Chatak Dragnatz Garaghak "Gargash Korbul" "Garmek Oil-Guzzler" "Garshul the Destroyer" Garskrak 
-				"Garzulk the Faceless" Gazbag Gazgrim "Gharag Badtoof" "Gharkul Blackfang" "Ghazghkull Mag Uruk Thraka" "Ghenghiz Grimtoof" Gitzmott Gluttok Godstompa Gogard 
-				Gorbad Gorbag Gorfang "Gorgutz 'Ead 'Hunter" Gorklaw "Gorsnik Magash" Gorwazza Gorzod Gragnatz Grax "Grimgutz da 'Orrible" Grimskull "Grimsnag Urk" 
-				"Grimtusk Bloodboila" Grishnak Grizgutz Groblonik "Grog Ironteef" Grokksmak "Groshpit 'The Flayer'" Grughakh Grukk Gulgrog Gutshredda Gutstompa Hedkrakka Hruk 
-				Humiehacka Icekrakka Irongol "Judrog Irontoof" "Khorga Skroll" Killdagga Killfist Killzkar Klawjaw Kogtoof Kozgrob Krugg Madbrakka Mahrblud Morkrog 
-				"Morkrull Grimskar" "Murgor 'Undred Teef" "Nazdreg Ug Urdgrub" Nekbrekka Nuddyfist Orkamungus Ozdakka Rarguts Rekkfist Rotgrub Rukrippa Skarfang 
-				"Skargor the Despoiler" "Skargrim Ruknar" Skogrin Skullkrak Skullkrumpa Smashface Snagga-snagga Snagratoof Snagrod Snappaklaw Starsmasha Sunspitta Toofjaw 
-				Tuska Ugblitz "Uglurk Gitsmasha" "Ugskraga da Mighty" Ugulhard Ungskar "Urgok the Unstoppable" "Urkthrall Kraka" "Urlakk Urg" "Urzog Mag Kull" Vargall Vorgnot 
-				"Vorhgad Bloodfang" Wugzark Zagdakka Zanzag Zhadsnark "Zogax da Great" Zoggit Zrikgutta 
+				'Eadcrumpa Arbuttz "Arch-Maniac of Calverna" "Arrgard the Defiler" Badfragg "Beast, The" "Big Skorcha" Biglug Blaktoof Bludcrumpa Bogga-bogga Bolgrog
+				"Bone Stompa" Bonekraka Bonesmasha Brug "Buzzgob da Burna Boy" Chatak Dragnatz Garaghak "Gargash Korbul" "Garmek Oil-Guzzler" "Garshul the Destroyer" Garskrak
+				"Garzulk the Faceless" Gazbag Gazgrim "Gharag Badtoof" "Gharkul Blackfang" "Ghazghkull Mag Uruk Thraka" "Ghenghiz Grimtoof" Gitzmott Gluttok Godstompa Gogard
+				Gorbad Gorbag Gorfang "Gorgutz 'Ead 'Hunter" Gorklaw "Gorsnik Magash" Gorwazza Gorzod Gragnatz Grax "Grimgutz da 'Orrible" Grimskull "Grimsnag Urk"
+				"Grimtusk Bloodboila" Grishnak Grizgutz Groblonik "Grog Ironteef" Grokksmak "Groshpit 'The Flayer'" Grughakh Grukk Gulgrog Gutshredda Gutstompa Hedkrakka Hruk
+				Humiehacka Icekrakka Irongol "Judrog Irontoof" "Khorga Skroll" Killdagga Killfist Killzkar Klawjaw Kogtoof Kozgrob Krugg Madbrakka Mahrblud Morkrog
+				"Morkrull Grimskar" "Murgor 'Undred Teef" "Nazdreg Ug Urdgrub" Nekbrekka Nuddyfist Orkamungus Ozdakka Rarguts Rekkfist Rotgrub Rukrippa Skarfang
+				"Skargor the Despoiler" "Skargrim Ruknar" Skogrin Skullkrak Skullkrumpa Smashface Snagga-snagga Snagratoof Snagrod Snappaklaw Starsmasha Sunspitta Toofjaw
+				Tuska Ugblitz "Uglurk Gitsmasha" "Ugskraga da Mighty" Ugulhard Ungskar "Urgok the Unstoppable" "Urkthrall Kraka" "Urlakk Urg" "Urzog Mag Kull" Vargall Vorgnot
+				"Vorhgad Bloodfang" Wugzark Zagdakka Zanzag Zhadsnark "Zogax da Great" Zoggit Zrikgutta
 			}
 			regnal_second_names = {}
 		}
@@ -935,8 +935,8 @@ xan_w4_tau = {
 
 	ship_names = {
 		generic = {
-			Barracuda Gal'leath Il'Emaar Il'Porrui Il'fannor Kass'l "Kir'la Carrier" Kir'qath Kir'shasvre Lar'shi Lar'shi'vre Manta "Nicassar Dhow" "Or'es El'leath" Orca 
-			Razorshark Remora Skether'qan "Sun Shark" "Tiger Shark" 
+			Barracuda Gal'leath Il'Emaar Il'Porrui Il'fannor Kass'l "Kir'la Carrier" Kir'qath Kir'shasvre Lar'shi Lar'shi'vre Manta "Nicassar Dhow" "Or'es El'leath" Orca
+			Razorshark Remora Skether'qan "Sun Shark" "Tiger Shark"
 		}
 		corvette = {}
 		constructor = {}
@@ -974,7 +974,7 @@ xan_w4_tau = {
 		slave_army = {
 			sequential_name = "%O% Slaves"
 		}
-		clone_army = { 
+		clone_army = {
 			sequential_name = "%O% Galgs"
 		}
 		robotic_army = {
@@ -983,7 +983,7 @@ xan_w4_tau = {
 		android_army = {
 			sequential_name = "%O% Formosians"
 		}
-		psionic_army = { 
+		psionic_army = {
 			sequential_name = "%O% Nicassars"
 		}
 		xenomorph_army = {
@@ -998,10 +998,10 @@ xan_w4_tau = {
 	planet_names = {
 		generic = {
 			names = {
-				Ag'Ni Arkunasha "Arthas Moloch" Astagor "Atari Vo" Au'taal Bork'an Cano'var Caroch Cytheria D'yanoi Dal'yth "Damocles Gulf" "Dolhouk Phel" "Eastern Fringe" 
-				Elsy'eir Es'Tau Etorras Fal'shia "Farsight Enclaves" Fi'rios Fio'vash Go'shol Govina Ho'sarn Ka'mais Ke'lshan Kor'var Ksi'm'yen Kuu'lan Lu'val Lub'grahl 
-				"Mu'gulath Bay" N'dras "Perdus Rift" Queh-quih Ral'eth Rann Sa'cea Salash'hei Salomine "Sept Symbol" Sha'draig Shau'Nesh T'au T'olku T'ros Tash'var Tau'n 
-				Tinek'la Tsua'Malor Uan'Voss Uor'la Ur-Clemait Va'yun Vas'talos Vash'ya Velk'Han Vespid Vigos Vior'la Vior'los Visse'el Yu'Kanesh 
+				Ag'Ni Arkunasha "Arthas Moloch" Astagor "Atari Vo" Au'taal Bork'an Cano'var Caroch Cytheria D'yanoi Dal'yth "Damocles Gulf" "Dolhouk Phel" "Eastern Fringe"
+				Elsy'eir Es'Tau Etorras Fal'shia "Farsight Enclaves" Fi'rios Fio'vash Go'shol Govina Ho'sarn Ka'mais Ke'lshan Kor'var Ksi'm'yen Kuu'lan Lu'val Lub'grahl
+				"Mu'gulath Bay" N'dras "Perdus Rift" Queh-quih Ral'eth Rann Sa'cea Salash'hei Salomine "Sept Symbol" Sha'draig Shau'Nesh T'au T'olku T'ros Tash'var Tau'n
+				Tinek'la Tsua'Malor Uan'Voss Uor'la Ur-Clemait Va'yun Vas'talos Vash'ya Velk'Han Vespid Vigos Vior'la Vior'los Visse'el Yu'Kanesh
 			}
 		}
 		pc_desert = {
@@ -1034,16 +1034,16 @@ xan_w4_tau = {
 		names1 = {
 			weight = 100
 			full_names = {
-				"Anghkor Prok" Calon'oi Darktide Dasir El'Jan’kai El'Lusha El'Yis'ten El'hassai Flamechild Ghovah Gorok Griahgri Harbyx Ju Kai'to'aen Kais Kesor Kor'O'Vanan 
-				"Kor'el Vess'ral" "Kor'o Gal'lo" "Kor'o Y'eldi" Nightwind Novastorm "O cont." O'Ishu'ron O'Mau'tel O'Shalas O'Shaserra O'Shi'ur O'Shien O'Shovah O'T'yra 
-				O'Ta'Sar Or'es'Ka Ortrazk Pechallai Puretide R'Alai R'myr Rennikus "Serena Erizon" "Sha Aux'Phan" Shadewalker "Shas'O M'yen" Shas'O'Asdia "Shas'la T'au Kais" 
-				Shi'Ores Sho'Aun Skychild Starstrider Valroth Vorcah Y’hol 
+				"Anghkor Prok" Calon'oi Darktide Dasir El'Jan’kai El'Lusha El'Yis'ten El'hassai Flamechild Ghovah Gorok Griahgri Harbyx Ju Kai'to'aen Kais Kesor Kor'O'Vanan
+				"Kor'el Vess'ral" "Kor'o Gal'lo" "Kor'o Y'eldi" Nightwind Novastorm "O cont." O'Ishu'ron O'Mau'tel O'Shalas O'Shaserra O'Shi'ur O'Shien O'Shovah O'T'yra
+				O'Ta'Sar Or'es'Ka Ortrazk Pechallai Puretide R'Alai R'myr Rennikus "Serena Erizon" "Sha Aux'Phan" Shadewalker "Shas'O M'yen" Shas'O'Asdia "Shas'la T'au Kais"
+				Shi'Ores Sho'Aun Skychild Starstrider Valroth Vorcah Y’hol
 			}
 			regnal_first_names_male = {
-				Aun'Cho Aun'Do Aun'Fyr Aun'Ko Aun'Pau Aun'Ro'Yr Aun'Vre Aun'Wei Aun'shi Aun'taniel Aun'va "Sha Aux'Phan" Shi'Ores 
+				Aun'Cho Aun'Do Aun'Fyr Aun'Ko Aun'Pau Aun'Ro'Yr Aun'Vre Aun'Wei Aun'shi Aun'taniel Aun'va "Sha Aux'Phan" Shi'Ores
 			}
 			regnal_first_names_female = {
-				Aun'Cho Aun'Do Aun'Fyr Aun'Ko Aun'Pau Aun'Ro'Yr Aun'Vre Aun'Wei Aun'shi Aun'taniel Aun'va "Sha Aux'Phan" Shi'Ores 
+				Aun'Cho Aun'Do Aun'Fyr Aun'Ko Aun'Pau Aun'Ro'Yr Aun'Vre Aun'Wei Aun'shi Aun'taniel Aun'va "Sha Aux'Phan" Shi'Ores
 			}
 			regnal_second_names = {}
 		}
@@ -1089,13 +1089,13 @@ xan_w4_tyranid = {
 		transport = {
 			"Mycetic Spore" Tyrannocyte
 		}
-		military_station_small = { 
+		military_station_small = {
 			Kraken
 		}
-		military_station_medium = { 
+		military_station_medium = {
 			Kraken
 		}
-		military_station_large = { 
+		military_station_large = {
 			Kraken
 		}
 	}
@@ -1117,7 +1117,7 @@ xan_w4_tyranid = {
 		slave_army = {
 			sequential_name = "%O% Cortex Leechers"
 		}
-		clone_army = { 
+		clone_army = {
 			sequential_name = "%O% Termagants"
 		}
 		robotic_army = {
@@ -1126,7 +1126,7 @@ xan_w4_tyranid = {
 		android_army = {
 			sequential_name = "%O% Hormagaunts"
 		}
-		psionic_army = { 
+		psionic_army = {
 			sequential_name = "%O% Zoanthrope"
 		}
 		xenomorph_army = {
@@ -1141,17 +1141,17 @@ xan_w4_tyranid = {
 	planet_names = {
 		generic = {
 			names = {
-				"Adrantis Five" "Alpha Shalish" "Amun'an Morrus" "Andronicus Prime" Arcetri Arkhona Assyri Auxesia Auxilion Azoth "Barbarus Prime" Barnassus Bekrin 
-				"Belis Corona" Belissar Belphago Berien "Berien VI" "Beta Fortanis" "Bloodfall System" "Brendine II" Candau "Carrion Deep" Chemos Chondax Chordelis Cocholos 
-				Colchis "Cousteau XI" Cressida Cthonia Cyrene Dagonet Damnos "Dolumar IV" Doton "Dunen II" "Eden Prime" Eireius El'Phanor Eldritch "Emperor's Halo" Ephraeleon 
-				Erinia Eurydice Evangel "Faze V" "Fell Core" Forgefane Gehöft Gephistux Gheistos Ghorala "Goleonda IX" Gorgo Grail Grangold "Grendel's World" "Gryphonne IV" 
-				Haakonath "Hamman's World" Hesperax Holda Horestis Hurspraxia "Hydra Minoris" "Hyrus Secundus" Ichorax "Isstvan III" Ixya Jagga "Jangrille Prime" 
-				"Jonah's World" Ka'mais "Kaen IV" Kataris "Khorion IX" Khur Klybo "Krandor III" Lassiv Libethra Lilarsus Lycosidae Malodrax Malvolion "Mardun X" "Mataras IV" 
-				"Medusa V" Megyre Miral Moirae "Moloch I" "Moloch II" Morlex Morrigar Morshanna Mortain "Morwen VI" Naogeddon "Nebrus IX" Nuceria Nurth Ohmn-Mat Okassis 
-				Olympia Origo Palomar Parosa Pelucidar "Phaenon Prime" Phagir Piety Porphetus Posul Praedis-Zeta Prandium Prospero Prosperon Radnar Rapture Rebas Rhoghon 
-				Rophanon Safehold "Saint Marduk's Bane" Salem Shadowbrink Shadrac Shenlong Skopios Sleef "Sondheim V" Sotha Sovven "St. Josmane's Hope" Stalinvast 
-				"Stuum Cluster" Stygia "Subiaco Diablo" Sybari Talon Tan Tanakreg Tanis Tanith Tarrenhorst Teruxyne "Tesslan VI" Tethris Thranx Thrax Threnos Toil Toreus 
-				Tormark "Truan IX" "Truub II" "Truub III" "Tygress IV" "Typhon Primaris" Tyran Valos "Verdan II" "Verdrun IX" Victus Vigil Xin-Cyn Yorvith Yulan Zhoros 
+				"Adrantis Five" "Alpha Shalish" "Amun'an Morrus" "Andronicus Prime" Arcetri Arkhona Assyri Auxesia Auxilion Azoth "Barbarus Prime" Barnassus Bekrin
+				"Belis Corona" Belissar Belphago Berien "Berien VI" "Beta Fortanis" "Bloodfall System" "Brendine II" Candau "Carrion Deep" Chemos Chondax Chordelis Cocholos
+				Colchis "Cousteau XI" Cressida Cthonia Cyrene Dagonet Damnos "Dolumar IV" Doton "Dunen II" "Eden Prime" Eireius El'Phanor Eldritch "Emperor's Halo" Ephraeleon
+				Erinia Eurydice Evangel "Faze V" "Fell Core" Forgefane Gehöft Gephistux Gheistos Ghorala "Goleonda IX" Gorgo Grail Grangold "Grendel's World" "Gryphonne IV"
+				Haakonath "Hamman's World" Hesperax Holda Horestis Hurspraxia "Hydra Minoris" "Hyrus Secundus" Ichorax "Isstvan III" Ixya Jagga "Jangrille Prime"
+				"Jonah's World" Ka'mais "Kaen IV" Kataris "Khorion IX" Khur Klybo "Krandor III" Lassiv Libethra Lilarsus Lycosidae Malodrax Malvolion "Mardun X" "Mataras IV"
+				"Medusa V" Megyre Miral Moirae "Moloch I" "Moloch II" Morlex Morrigar Morshanna Mortain "Morwen VI" Naogeddon "Nebrus IX" Nuceria Nurth Ohmn-Mat Okassis
+				Olympia Origo Palomar Parosa Pelucidar "Phaenon Prime" Phagir Piety Porphetus Posul Praedis-Zeta Prandium Prospero Prosperon Radnar Rapture Rebas Rhoghon
+				Rophanon Safehold "Saint Marduk's Bane" Salem Shadowbrink Shadrac Shenlong Skopios Sleef "Sondheim V" Sotha Sovven "St. Josmane's Hope" Stalinvast
+				"Stuum Cluster" Stygia "Subiaco Diablo" Sybari Talon Tan Tanakreg Tanis Tanith Tarrenhorst Teruxyne "Tesslan VI" Tethris Thranx Thrax Threnos Toil Toreus
+				Tormark "Truan IX" "Truub II" "Truub III" "Tygress IV" "Typhon Primaris" Tyran Valos "Verdan II" "Verdrun IX" Victus Vigil Xin-Cyn Yorvith Yulan Zhoros
 			}
 		}
 		pc_desert = {

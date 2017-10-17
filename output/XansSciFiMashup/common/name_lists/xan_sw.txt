@@ -6,82 +6,82 @@ xan_sw_empire = {
 
 	ship_names = {
 		generic = {
-			Abolisher Abrogator Acheron Achilles Ackyuna Aculeus Adarga Adjudicator Admonitor Adventurer Adversary Aggregator Agility Agincourt Akaga Allecto Allegiance 
-			Almirante Aluma Ambition Ambitious Angrix Anjisan Anterab "Anya Karu" Apocahk "Arc Hammer" Archer Aremin Arjun "Arjun Jr." "Arkanian Dragon" Arreis Arrestor 
-			"Ars Opus" Asp Aspirant Aspiration Assertor Assiduous Astin Attaintor Attentive Audacious Auditor Avarice Avatar Azgoghk Badger "Badi Dea" Bakkun Ballista 
-			Banthar Bastinade Battalion "Battle Lance" "Battle of Yavin" Battler "Beauty of Yevetha" Bel'reen Bellicose Belligerent Benar Betar Bew'a Binder Bira 
-			"Bird of Prey" Bixby "Black Hawk" "Black Ice" Blacken Blackjack Blazen Blessings Blu "Blue Fox" "Blue Hawk" "Blue Ruin" "Blue Shuttle" Boltthrower Bombard 
-			Botani Bounty "Braxant Bonecrusher" Brazen "Burning Vengeance" Caledonia Callisto Calvary Candaserri Carnifex "Carrion Spike" Cascade Cauldron Centurion 
-			Ceptor Cerberus Certainty Chimaera Chokehold Choora Codec Coercion "Colo's Ship" Compellor Compton Condemnation Conquest Conquistador Constrainer Constrictor 
-			Contel "Core Envoy" "Corusca Fire" Counter-Puncher Courteous "Crusader's Shield" Crynyd Cudgel Dagger Daggerblade Dallust Damocles Dandi Danticore "Dar Es" 
-			Dargon Daring "Dark Star" Darkk "Death's Head" Deddite "Deep Dark" Defiant Degathem Demolisher Denunciator Destrier Detainer Deuterium Devastator Dexterous 
-			Dhoora Diadem "Digit Six" Diomede "Diputs group" Direption Dismay Disorver "Distant Wind" Divad Diviner "Docking Plt" Dominant Doneeta Dotermin Dragonfly 
-			Draklor Drakmha Drammel Dromii Ebolo Edict Eel Eichler Eidolon Eleemosynary Elusive Emancipator "Emperor's Disciple" "Emperor's Shadow" "Empire Forever" 
-			Empirical Encounter Enforcement "Enforcer One" Engager Erinnic "Errant Venture" Esorp "Ession Strike" "Eternal Wrath" Ethar Eviscerator Exactor Excalibur 
-			Expeditious Exsanguinator Exterminator "Eye of Palpatine" "Eye of the Storm" Faithless Fantome "Far Orbit" FarRun FarStar Fariso Fasan Fear Figii 
-			"Fire's Path" Fireclaw Firelance Firewind "First Edition" Fixer Flanchard "Flash Fire" Fogger Forager Forbidden Forger Fowler Freebird Freedom Freedon Fremond 
-			Fubarium "Furlo group" G'Neeznow G'nabgib Gaarni Gabi Gafra "Galactic Guardian" "Galaxy Dragon" "Galaxy Gun" "Gallant Sun" Geddawai Geedon Genue "Gilded Claw" 
-			Gnisnal Godar Gordoon Gorfan Goya "Grey Shadow" "Grey Wolf" Griphon Grotius Guardstar Halberd Halifax Harasser "Hard Liner" "Hard Shell" Harilin Harpax Harpox 
-			Harpy Harramin Harridan Harrow Harvester "Hashim group" Hate Hav Havelon Havok Helicon Hermes "High Hauler" Hilo Himner Hininbirg Horvus Hugo Huntsman 
-			Hurricane Hut Hyko Hyperion Igaka "Ill Wind" Illudium "Ilthmar's Fist" Imac Imbak Immobilizer Immortal Impeccable "Impending Doom" Impenetrable Impetuous 
-			Impounder Imputator Indictor Indiko Inflexible Inflictor Insidious Instigator Interrogator Intimidator Intractable Invader Inveterate Invictus Invidious 
-			Invincible "Ion Storm" Iridium "Iron Duke" Ironhand Jaamn Java Javelin Jev Juno Juvaini "Kabalian Cross" Kalif Kalree Kan "Kana's Steel" Kant 
-			"Kathol Protector" Kiam Kolermigon Kotiate Kraken Krieger Laantis "Lady Telura" Lagos Lambda Lament "Lance of Endor" Lawbringer Leonides Leopard Lesyta 
-			"Lianna Guard" Libom Libra Libro Lifeline Link Lokvar Longbow Lonus "Lucky Day" Ludwick Lumin Luung Magellan "Magic Dragon" Mako Malevolent Malicious 
-			Malignant Mandible Manta Manticore Marauder Marduk "Marshall Awe" "Maru Ki" Marut "Master Stroke" Mathayus Mauler Maximum Mayhem Mazur "MedStar Four" 
-			"Melnor Spear" Meniscus Mercator Mercurium Mercy Mescue Metternich Mharsup Mhath "Millennium Falcon" Minelayer Minestra Mist "Moff Weblin" Molator Monru Mssan 
-			Mule Muraat Murtceps Myrenia Nagan Nartissteu Nastion Neelie "Negra Star" Nemesis "New Star" Nexus "Nichevo group" Nigiro Nihema Nihil Nitsa Nocturnô Nomad 
-			Nomme Norvach Noshow "Novar's Bluff" Nuance Nullifier "Nuna's Twins" Obedience Objurium Observateur Odeaon Oldskep "Olrac Etnom" Omega Omicron Omlaut Onteba 
-			Optitron Oracle Oramac Orcim Oriflamme Osprey Outpost Overseer Pacho Peacehawk Penetrator Peremptory Perfect Perilous Phaldera Phalderi Phoenix Pincer 
-			"Pit Bull" "Platinum Mist" Polis Posi Pradeux "Predator's Beak" Predominant Priam "Pride of Tarlandia" "Pride of the Senate" Provocateur Prowler Punisher 
-			Purge "Purple Claw" Qork Questor "Quirt's prison ship" Rakehell "Ram's Head" Ramit Rampage Rampant "Rand Ecliptic" Rasvin Ravagor Ravn "Raygar's freighter" 
-			"Razor's Kiss" "Rebel Dream" Rebirth Recalcitrant Recondite "Red Claw" "Red Dragon" "Red Harvest" "Red Knight" "Red Shuttle" "Red Tooth" "Red Wind" 
-			Redoubtable Refugee "Regina Cayli" Relentless Reliable Reliant Reload Reluctant Remoh Render Renegade Renown "Renthal's Vigilance" Requital Respectable Resro 
-			Restrainer Resupply Resurgence Retaliation Retaliator Retsub Revelator Revenge Reyna Riesa Rimrider "Rintonne's Flame" Riptide "Rogue Shadow" Rouh Ruggert 
-			Rugin Rugle Ruthless Salliche Sardis Sarissa Sceltor Scipion Scythe Scythis Seer "Sela group" "Semqi Pefis" Sentry Serpent "Seswennan Nightcloak" 
-			"Shackles of Nizon" Shador Shadow Shakker Shamus Shark Shepherd Shieldmaiden Shotel Shurik Sicorro "Silver Bull" Singularity "Sinking Stone" Sipharium Sivaa 
-			Skirmisher Skywalker Slainte Slick Sodrab "Solar Storm" Solii Sormus Sornsen Soryi Spartiate Spectre Spite Sprinter Stalker Stallion "Star Bantha" 
-			"Star Ravager" Staraker "Steel Talon" "Stellar Halo" "Stellar Manx" "Stellar Web" Stormclaw Stormont Stormwind Straasa Strider Strikefast Subcom Suelu Suluk 
-			"Sun Crusher" Sungrass Supply Suprosa Swift "TIE Fire" Talsor Tanyay Tarken Tarquinas Tasson Tatium Taureg Teal Tegret "Tekra Point" Temerit Tenacious Tendo 
-			Termagant Terminator Terror Terrup Terry Tessera Thalassa "The Chariot" "The Miniad" "The Tone" Themor Thinin Thor Thunderflare Thyfonian Tilark Timber Timely 
-			Titania Togri "Too Late Now" Toral Toranni Torment Tormentor Torven "Tory's Catcher" Toten "Trait Luminique" Transmor Transtom Treader Trident Tridius Trigger 
-			Triumphant Tropsobor "True Justice" Truncheon Turmoil Tydirium Tymtogo Tyrannic Tyranny Tyrant U3f14 Uhuru Ull Ultima Ultimatum Ulzepdi Undauntable Upright 
-			Uranium VTR-LX Vagrant Vainglorious Val Vanquish Vehement Vendor Vensenor Victorious Victrix Vigilant Vigiliance Vindictive Viridium Visage Viscount Vo 
-			Vorknkx "Vote Snaplaunce" Vrexlir Wachtor Walker Wanderer Waq Warlover Watcher Watchtower Weema Wennis Whell Whelm "Whip Hand" Wide-Eyed Wiggins "Wolf's Claw" 
-			Wolf-Pack "World Devastator" Wrath Wunt Xamaural Xerxes Xibo Xiridium Yaai Yanov "Zaff Jendinpurg" 
+			Abolisher Abrogator Acheron Achilles Ackyuna Aculeus Adarga Adjudicator Admonitor Adventurer Adversary Aggregator Agility Agincourt Akaga Allecto Allegiance
+			Almirante Aluma Ambition Ambitious Angrix Anjisan Anterab "Anya Karu" Apocahk "Arc Hammer" Archer Aremin Arjun "Arjun Jr." "Arkanian Dragon" Arreis Arrestor
+			"Ars Opus" Asp Aspirant Aspiration Assertor Assiduous Astin Attaintor Attentive Audacious Auditor Avarice Avatar Azgoghk Badger "Badi Dea" Bakkun Ballista
+			Banthar Bastinade Battalion "Battle Lance" "Battle of Yavin" Battler "Beauty of Yevetha" Bel'reen Bellicose Belligerent Benar Betar Bew'a Binder Bira
+			"Bird of Prey" Bixby "Black Hawk" "Black Ice" Blacken Blackjack Blazen Blessings Blu "Blue Fox" "Blue Hawk" "Blue Ruin" "Blue Shuttle" Boltthrower Bombard
+			Botani Bounty "Braxant Bonecrusher" Brazen "Burning Vengeance" Caledonia Callisto Calvary Candaserri Carnifex "Carrion Spike" Cascade Cauldron Centurion
+			Ceptor Cerberus Certainty Chimaera Chokehold Choora Codec Coercion "Colo's Ship" Compellor Compton Condemnation Conquest Conquistador Constrainer Constrictor
+			Contel "Core Envoy" "Corusca Fire" Counter-Puncher Courteous "Crusader's Shield" Crynyd Cudgel Dagger Daggerblade Dallust Damocles Dandi Danticore "Dar Es"
+			Dargon Daring "Dark Star" Darkk "Death's Head" Deddite "Deep Dark" Defiant Degathem Demolisher Denunciator Destrier Detainer Deuterium Devastator Dexterous
+			Dhoora Diadem "Digit Six" Diomede "Diputs group" Direption Dismay Disorver "Distant Wind" Divad Diviner "Docking Plt" Dominant Doneeta Dotermin Dragonfly
+			Draklor Drakmha Drammel Dromii Ebolo Edict Eel Eichler Eidolon Eleemosynary Elusive Emancipator "Emperor's Disciple" "Emperor's Shadow" "Empire Forever"
+			Empirical Encounter Enforcement "Enforcer One" Engager Erinnic "Errant Venture" Esorp "Ession Strike" "Eternal Wrath" Ethar Eviscerator Exactor Excalibur
+			Expeditious Exsanguinator Exterminator "Eye of Palpatine" "Eye of the Storm" Faithless Fantome "Far Orbit" FarRun FarStar Fariso Fasan Fear Figii
+			"Fire's Path" Fireclaw Firelance Firewind "First Edition" Fixer Flanchard "Flash Fire" Fogger Forager Forbidden Forger Fowler Freebird Freedom Freedon Fremond
+			Fubarium "Furlo group" G'Neeznow G'nabgib Gaarni Gabi Gafra "Galactic Guardian" "Galaxy Dragon" "Galaxy Gun" "Gallant Sun" Geddawai Geedon Genue "Gilded Claw"
+			Gnisnal Godar Gordoon Gorfan Goya "Grey Shadow" "Grey Wolf" Griphon Grotius Guardstar Halberd Halifax Harasser "Hard Liner" "Hard Shell" Harilin Harpax Harpox
+			Harpy Harramin Harridan Harrow Harvester "Hashim group" Hate Hav Havelon Havok Helicon Hermes "High Hauler" Hilo Himner Hininbirg Horvus Hugo Huntsman
+			Hurricane Hut Hyko Hyperion Igaka "Ill Wind" Illudium "Ilthmar's Fist" Imac Imbak Immobilizer Immortal Impeccable "Impending Doom" Impenetrable Impetuous
+			Impounder Imputator Indictor Indiko Inflexible Inflictor Insidious Instigator Interrogator Intimidator Intractable Invader Inveterate Invictus Invidious
+			Invincible "Ion Storm" Iridium "Iron Duke" Ironhand Jaamn Java Javelin Jev Juno Juvaini "Kabalian Cross" Kalif Kalree Kan "Kana's Steel" Kant
+			"Kathol Protector" Kiam Kolermigon Kotiate Kraken Krieger Laantis "Lady Telura" Lagos Lambda Lament "Lance of Endor" Lawbringer Leonides Leopard Lesyta
+			"Lianna Guard" Libom Libra Libro Lifeline Link Lokvar Longbow Lonus "Lucky Day" Ludwick Lumin Luung Magellan "Magic Dragon" Mako Malevolent Malicious
+			Malignant Mandible Manta Manticore Marauder Marduk "Marshall Awe" "Maru Ki" Marut "Master Stroke" Mathayus Mauler Maximum Mayhem Mazur "MedStar Four"
+			"Melnor Spear" Meniscus Mercator Mercurium Mercy Mescue Metternich Mharsup Mhath "Millennium Falcon" Minelayer Minestra Mist "Moff Weblin" Molator Monru Mssan
+			Mule Muraat Murtceps Myrenia Nagan Nartissteu Nastion Neelie "Negra Star" Nemesis "New Star" Nexus "Nichevo group" Nigiro Nihema Nihil Nitsa Nocturnô Nomad
+			Nomme Norvach Noshow "Novar's Bluff" Nuance Nullifier "Nuna's Twins" Obedience Objurium Observateur Odeaon Oldskep "Olrac Etnom" Omega Omicron Omlaut Onteba
+			Optitron Oracle Oramac Orcim Oriflamme Osprey Outpost Overseer Pacho Peacehawk Penetrator Peremptory Perfect Perilous Phaldera Phalderi Phoenix Pincer
+			"Pit Bull" "Platinum Mist" Polis Posi Pradeux "Predator's Beak" Predominant Priam "Pride of Tarlandia" "Pride of the Senate" Provocateur Prowler Punisher
+			Purge "Purple Claw" Qork Questor "Quirt's prison ship" Rakehell "Ram's Head" Ramit Rampage Rampant "Rand Ecliptic" Rasvin Ravagor Ravn "Raygar's freighter"
+			"Razor's Kiss" "Rebel Dream" Rebirth Recalcitrant Recondite "Red Claw" "Red Dragon" "Red Harvest" "Red Knight" "Red Shuttle" "Red Tooth" "Red Wind"
+			Redoubtable Refugee "Regina Cayli" Relentless Reliable Reliant Reload Reluctant Remoh Render Renegade Renown "Renthal's Vigilance" Requital Respectable Resro
+			Restrainer Resupply Resurgence Retaliation Retaliator Retsub Revelator Revenge Reyna Riesa Rimrider "Rintonne's Flame" Riptide "Rogue Shadow" Rouh Ruggert
+			Rugin Rugle Ruthless Salliche Sardis Sarissa Sceltor Scipion Scythe Scythis Seer "Sela group" "Semqi Pefis" Sentry Serpent "Seswennan Nightcloak"
+			"Shackles of Nizon" Shador Shadow Shakker Shamus Shark Shepherd Shieldmaiden Shotel Shurik Sicorro "Silver Bull" Singularity "Sinking Stone" Sipharium Sivaa
+			Skirmisher Skywalker Slainte Slick Sodrab "Solar Storm" Solii Sormus Sornsen Soryi Spartiate Spectre Spite Sprinter Stalker Stallion "Star Bantha"
+			"Star Ravager" Staraker "Steel Talon" "Stellar Halo" "Stellar Manx" "Stellar Web" Stormclaw Stormont Stormwind Straasa Strider Strikefast Subcom Suelu Suluk
+			"Sun Crusher" Sungrass Supply Suprosa Swift "TIE Fire" Talsor Tanyay Tarken Tarquinas Tasson Tatium Taureg Teal Tegret "Tekra Point" Temerit Tenacious Tendo
+			Termagant Terminator Terror Terrup Terry Tessera Thalassa "The Chariot" "The Miniad" "The Tone" Themor Thinin Thor Thunderflare Thyfonian Tilark Timber Timely
+			Titania Togri "Too Late Now" Toral Toranni Torment Tormentor Torven "Tory's Catcher" Toten "Trait Luminique" Transmor Transtom Treader Trident Tridius Trigger
+			Triumphant Tropsobor "True Justice" Truncheon Turmoil Tydirium Tymtogo Tyrannic Tyranny Tyrant U3f14 Uhuru Ull Ultima Ultimatum Ulzepdi Undauntable Upright
+			Uranium VTR-LX Vagrant Vainglorious Val Vanquish Vehement Vendor Vensenor Victorious Victrix Vigilant Vigiliance Vindictive Viridium Visage Viscount Vo
+			Vorknkx "Vote Snaplaunce" Vrexlir Wachtor Walker Wanderer Waq Warlover Watcher Watchtower Weema Wennis Whell Whelm "Whip Hand" Wide-Eyed Wiggins "Wolf's Claw"
+			Wolf-Pack "World Devastator" Wrath Wunt Xamaural Xerxes Xibo Xiridium Yaai Yanov "Zaff Jendinpurg"
 		}
-		
+
 		corvette = {
 			Avenger Badlands Banshee Bloodsniffer Borealis Corvus Cutlass Dinko Eagle Falcon Fang Firestorm Gallant Ghost Gotal Hornet Horse Imperator James Judicator Malice
 			Raider Ranger Scorpion Shredder Spider Talon Tatoo Thrasher Tiger Viper Archon Avenger Cerebus "Dark Eye" Darkness Dragon Elite Enforcer Fang Feline Feral
 			Firestorm Furious Fury Gorgon Guardian Hunter Implacable Interceptor Lightning Lightning Malevolence Mephitis Merciless Monitor Rapier Reaper Revenant Sentinel
-			Shrike Stalwart Subjugator Thunderer Vehemence Virulence Vulture Warspite 
+			Shrike Stalwart Subjugator Thunderer Vehemence Virulence Vulture Warspite
 		}
-		
+
 		constructor = {}
 		colonizer = {}
 		science = {}
-		
+
 		destroyer = {
-			Adamant Aggressor Assessor Aurora Cerebus Claw Corrupter Crusader Dominator "Emperor's Will" "Event Horizon" Formidable Furious Gallant Garrote "Gog's cruiser" 
-			Grappler Helmsman Hunter Imperator Inexorable Interceptor Intruder "Iron Fist" Knights Luminous Panthac Peacekeeper Pestage "Phoenix Home" Protector Rampart 
+			Adamant Aggressor Assessor Aurora Cerebus Claw Corrupter Crusader Dominator "Emperor's Will" "Event Horizon" Formidable Furious Gallant Garrote "Gog's cruiser"
+			Grappler Helmsman Hunter Imperator Inexorable Interceptor Intruder "Iron Fist" Knights Luminous Panthac Peacekeeper Pestage "Phoenix Home" Protector Rampart
 			Reprisal  Scourge  Sentinel  Stalwart  Stormhawk  Subjugator  Talon  Tempest  Titan  Triumph  Vaathkree  Valiant  Valorous  Vanguard  Vendetta  Warlord  Whirlwind
 		}
-		
+
 		cruiser = {
-			Assassin Basilisk Bastion Behemoth Blackguard Blackstar Brilliant Colossus Courageous Crucible "Dark Nebula" Dauntless Decimator Desolator Discord 
-			"Dreed's Star Destroyer" Electrum Eliminator Eminence Empire Eradicator Gauntlet Glory Goliath Hammer Harbinger Havoc Herald Hound Hydra Iceheart 
-			"Idel's Star Destroyer" "Imperial Destiny" "Imperial Hazard" "Imperial Interdictor" "Imperial Protector" Imperialis Imperieuse Impervious Indomitable 
-			Inquisitor Intrepid Juggernaut Kappa Legacy Liberator Liquidator Majestic Monarch Motivator Onslaught Predator Pulsar Rage Raptor Reckoning Reliance Resolute 
-			Resolution Retribution Ripclaw Silooth Skyhook Steadfast Striker Thunder Unrepentant Valor Vector Victory Vigilance Warrior Wasp 
+			Assassin Basilisk Bastion Behemoth Blackguard Blackstar Brilliant Colossus Courageous Crucible "Dark Nebula" Dauntless Decimator Desolator Discord
+			"Dreed's Star Destroyer" Electrum Eliminator Eminence Empire Eradicator Gauntlet Glory Goliath Hammer Harbinger Havoc Herald Hound Hydra Iceheart
+			"Idel's Star Destroyer" "Imperial Destiny" "Imperial Hazard" "Imperial Interdictor" "Imperial Protector" Imperialis Imperieuse Impervious Indomitable
+			Inquisitor Intrepid Juggernaut Kappa Legacy Liberator Liquidator Majestic Monarch Motivator Onslaught Predator Pulsar Rage Raptor Reckoning Reliance Resolute
+			Resolution Retribution Ripclaw Silooth Skyhook Steadfast Striker Thunder Unrepentant Valor Vector Victory Vigilance Warrior Wasp
 
 		}
-		
+
 		battleship = {
 			Aggressor Annihilator Aramadia Conqueror Eclipse "Eclipse II" Enforcer Executioner Executor Executrix Guardian "Iron Fist" Lusankya Ravager "Royal Sovereign"
 			Sovereign Vengeance
 		}
-		
+
 		orbital_station = {}
 		mining_station = {}
 		research_station = {}
@@ -96,16 +96,16 @@ xan_sw_empire = {
 
 	fleet_names = {
 		random_names = {
-			"Arrowhead Command" "Battlegroup Orion" "Black Fleet" "Crimson Command" "Death Squadron" "Deep patrol" "Digit Squadron" "Ground Pounders" "Maw fleet" 
-			"Scourge Squadron" "Secret armada" "Shadow Hand Fleet" "Swift Wing" "Task Force Admonitor" "Task Force Vengeance" "Task Force Whirlwind" 
-			"Vengeance Battle Group" "Wyvern battle group" 
+			"Arrowhead Command" "Battlegroup Orion" "Black Fleet" "Crimson Command" "Death Squadron" "Deep patrol" "Digit Squadron" "Ground Pounders" "Maw fleet"
+			"Scourge Squadron" "Secret armada" "Shadow Hand Fleet" "Swift Wing" "Task Force Admonitor" "Task Force Vengeance" "Task Force Whirlwind"
+			"Vengeance Battle Group" "Wyvern battle group"
 
 		}
 		sequential_name = "%O% Fleet"
 	}
-	
+
 	army_names = {
-	
+
 		defense_army = {
 			sequential_name = "%O% Stormtrooper Legion"
 		}
@@ -113,31 +113,31 @@ xan_sw_empire = {
 		assault_army = {
 			sequential_name = "%O% Heavy Stormtrooper Legion"
 		}
-		
+
 		slave_army = {
 			sequential_name = "%O% Scout Trooper Legion"
 		}
-		
-		clone_army = { 
+
+		clone_army = {
 			sequential_name = "%O% Clonetrooper Legion"
 		}
-		
+
 		robotic_army = {
 			sequential_name = "%O% Battledroid Legion"
 		}
-		
+
 		android_army = {
 			sequential_name = "%O% Death Trooper Legion"
 		}
-		
-		psionic_army = { 
+
+		psionic_army = {
 			sequential_name = "%O% Dark Trooper Legion"
 		}
-		
+
 		xenomorph_army = {
 			sequential_name = "%O% Shadow Trooper Legion"
 		}
-		
+
 		gene_warrior_army = {
 			sequential_name = "%O% Storm Commando"
 		}
@@ -147,90 +147,90 @@ xan_sw_empire = {
 
 		generic = {
 			names = {
-				Abbaji Abregado-rae Abridon Absit Acherin Adoris Adras Aduba-3 Aduba-4 Adumar Aefao Af'El Agridorn Ahakista Aida Aiquin Akrit'tar Alashan "Alassa Major" 
-				Alba-16 Albecus Alderaan "Aldraig IV" "Alk'Lellish III" Almak Almania Almas Alpheridies Alsakan Altarrn "Althir III" Altora Altratonne Alzar Ammuud Amorphiia 
-				"Anarak IV" Anchoron Andara Andooweel Anemcoro "Ank Ki'Shor" "Ank Kit'aar" Ankus Annaj Anoth Ansillivog Ansion Antemeridias Antipose "Anx Minor" Anzat 
-				Aplooine Aradian Aralia Aram Arapia "Arcan IV" Argai Argazda Argoon Aris Arkanis Arkanis "Arkonne III" Arramanx "Artus Prime" Aruza Asran Asrat "Atapap I" 
-				Atrisia Atzerri Averam Averill Axion Axum Axxila "Baes Logia" Baffop Bakura Bakura-5 Balfron Balis-Baurgh Balosar Baltimn "Ban-Satir II" Bandomeer Bandonia 
-				"Bannistar Station planetoid" "Barab I" "Baradas II" Baramorra Barkhesh Baroli Barseg Bastion Belasco Belazura Belderone Bellassa Belnar "Belshar Othacuu" 
-				"Belsmuth II" "Beltrix III" Berchest Berea Bescane Besn Bespin Bethars Betolio Bettok "Bevell Three" Bextar Biivren Bilios Bimmisaari Binquaros Blyte Bnach 
-				"Bofa II" Bogden Bonadan Boonta Bordal Borosk Bosph Bothawui Boudolayz Branth "Brentaal IV" Bresnan Brigia Brintooin "Brodo Asogi" Bryexx Bryx Budpock Bundim 
-				Bunduki Byblos Caamas Caaraz Cal-Seti Calipsa Calonica Caloria Camden "Cantras Gola" Caprioril Capza Cardooine Cargamalis Carida Carnth Carratos Carsanza 
-				Cartao Cassander Castell "Cato Neimoidia" Cattamascar Cejansij Centares Cesya Chad Challon Chandaar Charis Chazwa Cheelit Chel Chibias Chorax Christophsis 
-				"Chroma Zed" Chromovon Churba Churruma "Circarpous IV" "Ciutric IV" "Clak'dor VII" "Cmaoli Di" "Colla IV" Columex "Comkin V" Commenor Cona Contruum Corann 
-				Cordes Corellia Corsin Corulag Corulag Coruscant Coruscant Corutarn "Corvis Minor III" "Corvis Minor IV" "Corvis Minor V" Council Courkrus Coyerti Coyn 
-				"Cridark II" "Criton's Point" D'vouran "Dagmar II" Dagu "Dakot Seven" Dakshee Dakuyl "Dalron Five" "Dalron IV" Daltarra Daluuj Danteel "Danton VI" Dantooine 
-				Danuta Darepp Darkknell "Darlyn Boda" "Darstell 4" "Deko Neimoidia" Delantine Delaya Dellalt Delphon Delrakkin Delrian Demar Demnadi Demophon Denevar Denon 
-				Denon Derilyn Desevro Despayre Devaron Deyer/Canon Doldur Dorin Dorlo "Dorlon II" Dorriella Dorumaa Dorvalla "Dorvalla IV" Dosuun Dreizan Dressel Drogheda 
-				Druckenwell Duinarbulon Dulathia Dura-Kahn Durkteel Duro Ebaq Ebiwaan Ebra "Ec Pand" "Eiattu 6" Eibon Elegasso Elerion Eliad Emmer "Empress Teta" Endor Endor 
-				Engira Eriadu Esseles Excarga Exodeen Fakir Falleen Farbog "Farfeld II" Farrfin Farstine Fedalle Feenix Felucia "Feriae Junction" Ferrhast "Ferros VI" Findris 
-				Firrerre Firro "Fitca Prime" Flax "Fleyars IV" Fondor Formos Foundry Freda Frego "Fremond III" Frewwil "Galidraan III" "Galleefryn II" "Galvoni III" Gamandar 
-				Gand Gandeal "Gandeid IV" "Gandle Ott" "Gandolo IV" "Gandrossi VI" Ganthel Garban "Garen IV" Gargon Garos "Garos IV" Garrthinius "Geedon V" Generis 
-				"Gerrard V" Gerrenthum "Gesaral Beta" Gilvaanen Glova Gorno Grandeel Granicus "Gravlex Med" Grizmallt "Habassa II" Hakassi Halbara Halco Haldeen Hallitron-7 
-				Handooine Hanofar Hapor Hargeeva Hethar Hiffis "Hintivan II" Hishyim Hockaleg "Hollast VII" Humbarine Hyomare Ibaar Ibanjji "Ichtor 8" Ieria "Ifmix VI" Ihopek 
-				Iktotchon Illodia "Imperial client state" Imvur "Indu San" Indupar Ingo Intuci Inysh Ithor Ixtlar Iyuta Jabiim "Jagga II" Jaminere Jatee Jazbina Jelucan 
-				Jerrilek Jomark Kabieroun Kadril Kaikielius Kal'Shebbol Kammia Kanaver Karfeddion Katraasii Kegan Kejim Kessel Kidron Kiffex Kiffu "Kile II" Killaniri 
-				Kirtarkin Koaan Kolatill Korphir "Ku'Bakai 11" "Ku'Bakai 6" "Ku'Bakai 8" Kuat Kuat Kyrouac Lafra "Lankor VI" Lantillies Lavisar "Lazerian IV" Lianna Lobaoc 
-				Lothal Lucazec Lucazec "Makem Te" Manda Mandalore Mataou "Maya Kovel" Metellos Mezeg Mindor Miser "Moog Mot VI" Motexx Mrisst Murkhana Murkhana Mutanda 
-				Muunilinst Mycroft Naboo "Nal Hutta" Naldar "Nar Hypa" Neimoidia Nessem "New Bakstre" "New Holgha" "New Plympto" "Norval II" Notak Nothoiin Nothoiin Nouane 
-				Nubia "Nulan VI" Nuswatta Nyemari Nyssa Onderon "Oon Tien" "Oorn Tchis" Oplovis "Ord Pardron" Orinda "Orion IV" Orocco Otunia "Paarin Minor" Pakuuni Palanhi 
-				Pantolomin Parshoone Pasmin Phaylenn Phelarion Phindar Pickerin Pinoora Pirik Piroket Pirol-5 Polneye "Praadost II" Procopia Qalydon Quanton Quellor Raithal 
-				Raithal Ranklinge "Raxus Prime" "Reaper's World" Rendili Rindao Riosa Risban Roon "Ropagi II" Rothana Rothana Rudrig Ruuria Ryloth Saheelindeel Sanrafsix 
-				Sembla Serenno Sernpidal Sestooine Seswenna Shalyvane Shintel Shramar "Siluria III" Sirpar Sirpar Skako "Skor II" "Sluis Van" Sluudren Sneeve Sochi Speco 
-				Spussion Stenos "Stygeon Prime" Sulon Susevfi "Sy Myrth" Tahlboor Talus "Tantive IV" "Tantive V" "Tarabba Prime" "Teh'Jar II" Tellanroaeg "Telos IV" Telti 
-				Tepasi Teth Thandruss Tharkos Thrad Tieos Tiisheraan Tikath "Tinnel IV" Tion Tirahnn Torque Tralus Trammen Trandosha Trebela Trif Trogan Trulalis Tsukkia 
-				Tynna "Uba IV" Urce Utapau Utrost "Uviuy Exen" Vaal Vactooine Vakkar Vaklin Valrar Vandor-3 Vandron Vatleria Velabri Verdanth Vetine Virujansi Voktunma 
-				Vondarc Wayland Weerden Wen'he'dinae "Wor Tandell" Wukkar Wyloff Xartun "Yaga Minor" Yalara Yalln Yarnil Yasilor Yetnis Yityl Yutusk "Zeta 0-9" 
+				Abbaji Abregado-rae Abridon Absit Acherin Adoris Adras Aduba-3 Aduba-4 Adumar Aefao Af'El Agridorn Ahakista Aida Aiquin Akrit'tar Alashan "Alassa Major"
+				Alba-16 Albecus Alderaan "Aldraig IV" "Alk'Lellish III" Almak Almania Almas Alpheridies Alsakan Altarrn "Althir III" Altora Altratonne Alzar Ammuud Amorphiia
+				"Anarak IV" Anchoron Andara Andooweel Anemcoro "Ank Ki'Shor" "Ank Kit'aar" Ankus Annaj Anoth Ansillivog Ansion Antemeridias Antipose "Anx Minor" Anzat
+				Aplooine Aradian Aralia Aram Arapia "Arcan IV" Argai Argazda Argoon Aris Arkanis Arkanis "Arkonne III" Arramanx "Artus Prime" Aruza Asran Asrat "Atapap I"
+				Atrisia Atzerri Averam Averill Axion Axum Axxila "Baes Logia" Baffop Bakura Bakura-5 Balfron Balis-Baurgh Balosar Baltimn "Ban-Satir II" Bandomeer Bandonia
+				"Bannistar Station planetoid" "Barab I" "Baradas II" Baramorra Barkhesh Baroli Barseg Bastion Belasco Belazura Belderone Bellassa Belnar "Belshar Othacuu"
+				"Belsmuth II" "Beltrix III" Berchest Berea Bescane Besn Bespin Bethars Betolio Bettok "Bevell Three" Bextar Biivren Bilios Bimmisaari Binquaros Blyte Bnach
+				"Bofa II" Bogden Bonadan Boonta Bordal Borosk Bosph Bothawui Boudolayz Branth "Brentaal IV" Bresnan Brigia Brintooin "Brodo Asogi" Bryexx Bryx Budpock Bundim
+				Bunduki Byblos Caamas Caaraz Cal-Seti Calipsa Calonica Caloria Camden "Cantras Gola" Caprioril Capza Cardooine Cargamalis Carida Carnth Carratos Carsanza
+				Cartao Cassander Castell "Cato Neimoidia" Cattamascar Cejansij Centares Cesya Chad Challon Chandaar Charis Chazwa Cheelit Chel Chibias Chorax Christophsis
+				"Chroma Zed" Chromovon Churba Churruma "Circarpous IV" "Ciutric IV" "Clak'dor VII" "Cmaoli Di" "Colla IV" Columex "Comkin V" Commenor Cona Contruum Corann
+				Cordes Corellia Corsin Corulag Corulag Coruscant Coruscant Corutarn "Corvis Minor III" "Corvis Minor IV" "Corvis Minor V" Council Courkrus Coyerti Coyn
+				"Cridark II" "Criton's Point" D'vouran "Dagmar II" Dagu "Dakot Seven" Dakshee Dakuyl "Dalron Five" "Dalron IV" Daltarra Daluuj Danteel "Danton VI" Dantooine
+				Danuta Darepp Darkknell "Darlyn Boda" "Darstell 4" "Deko Neimoidia" Delantine Delaya Dellalt Delphon Delrakkin Delrian Demar Demnadi Demophon Denevar Denon
+				Denon Derilyn Desevro Despayre Devaron Deyer/Canon Doldur Dorin Dorlo "Dorlon II" Dorriella Dorumaa Dorvalla "Dorvalla IV" Dosuun Dreizan Dressel Drogheda
+				Druckenwell Duinarbulon Dulathia Dura-Kahn Durkteel Duro Ebaq Ebiwaan Ebra "Ec Pand" "Eiattu 6" Eibon Elegasso Elerion Eliad Emmer "Empress Teta" Endor Endor
+				Engira Eriadu Esseles Excarga Exodeen Fakir Falleen Farbog "Farfeld II" Farrfin Farstine Fedalle Feenix Felucia "Feriae Junction" Ferrhast "Ferros VI" Findris
+				Firrerre Firro "Fitca Prime" Flax "Fleyars IV" Fondor Formos Foundry Freda Frego "Fremond III" Frewwil "Galidraan III" "Galleefryn II" "Galvoni III" Gamandar
+				Gand Gandeal "Gandeid IV" "Gandle Ott" "Gandolo IV" "Gandrossi VI" Ganthel Garban "Garen IV" Gargon Garos "Garos IV" Garrthinius "Geedon V" Generis
+				"Gerrard V" Gerrenthum "Gesaral Beta" Gilvaanen Glova Gorno Grandeel Granicus "Gravlex Med" Grizmallt "Habassa II" Hakassi Halbara Halco Haldeen Hallitron-7
+				Handooine Hanofar Hapor Hargeeva Hethar Hiffis "Hintivan II" Hishyim Hockaleg "Hollast VII" Humbarine Hyomare Ibaar Ibanjji "Ichtor 8" Ieria "Ifmix VI" Ihopek
+				Iktotchon Illodia "Imperial client state" Imvur "Indu San" Indupar Ingo Intuci Inysh Ithor Ixtlar Iyuta Jabiim "Jagga II" Jaminere Jatee Jazbina Jelucan
+				Jerrilek Jomark Kabieroun Kadril Kaikielius Kal'Shebbol Kammia Kanaver Karfeddion Katraasii Kegan Kejim Kessel Kidron Kiffex Kiffu "Kile II" Killaniri
+				Kirtarkin Koaan Kolatill Korphir "Ku'Bakai 11" "Ku'Bakai 6" "Ku'Bakai 8" Kuat Kuat Kyrouac Lafra "Lankor VI" Lantillies Lavisar "Lazerian IV" Lianna Lobaoc
+				Lothal Lucazec Lucazec "Makem Te" Manda Mandalore Mataou "Maya Kovel" Metellos Mezeg Mindor Miser "Moog Mot VI" Motexx Mrisst Murkhana Murkhana Mutanda
+				Muunilinst Mycroft Naboo "Nal Hutta" Naldar "Nar Hypa" Neimoidia Nessem "New Bakstre" "New Holgha" "New Plympto" "Norval II" Notak Nothoiin Nothoiin Nouane
+				Nubia "Nulan VI" Nuswatta Nyemari Nyssa Onderon "Oon Tien" "Oorn Tchis" Oplovis "Ord Pardron" Orinda "Orion IV" Orocco Otunia "Paarin Minor" Pakuuni Palanhi
+				Pantolomin Parshoone Pasmin Phaylenn Phelarion Phindar Pickerin Pinoora Pirik Piroket Pirol-5 Polneye "Praadost II" Procopia Qalydon Quanton Quellor Raithal
+				Raithal Ranklinge "Raxus Prime" "Reaper's World" Rendili Rindao Riosa Risban Roon "Ropagi II" Rothana Rothana Rudrig Ruuria Ryloth Saheelindeel Sanrafsix
+				Sembla Serenno Sernpidal Sestooine Seswenna Shalyvane Shintel Shramar "Siluria III" Sirpar Sirpar Skako "Skor II" "Sluis Van" Sluudren Sneeve Sochi Speco
+				Spussion Stenos "Stygeon Prime" Sulon Susevfi "Sy Myrth" Tahlboor Talus "Tantive IV" "Tantive V" "Tarabba Prime" "Teh'Jar II" Tellanroaeg "Telos IV" Telti
+				Tepasi Teth Thandruss Tharkos Thrad Tieos Tiisheraan Tikath "Tinnel IV" Tion Tirahnn Torque Tralus Trammen Trandosha Trebela Trif Trogan Trulalis Tsukkia
+				Tynna "Uba IV" Urce Utapau Utrost "Uviuy Exen" Vaal Vactooine Vakkar Vaklin Valrar Vandor-3 Vandron Vatleria Velabri Verdanth Vetine Virujansi Voktunma
+				Vondarc Wayland Weerden Wen'he'dinae "Wor Tandell" Wukkar Wyloff Xartun "Yaga Minor" Yalara Yalln Yarnil Yasilor Yetnis Yityl Yutusk "Zeta 0-9"
 			}
 		}
-		
+
 		pc_desert = {
 			names = {
-				Aargonar Allyuen Ambria Argavat Aridus Askaj Baros Beheboth Bpfassh Byss "Delari Prime" Elom Filve Gacerian Geonosis Halm "Kalist VI" Kamar Kampe N'zoth 
+				Aargonar Allyuen Ambria Argavat Aridus Askaj Baros Beheboth Bpfassh Byss "Delari Prime" Elom Filve Gacerian Geonosis Halm "Kalist VI" Kamar Kampe N'zoth
 				"Odik II" Ponemah "Sevarcos II" Sriluur Tatooine Zirulast
 			}
 		}
-		
+
 		pc_arid = {
 			names = {
 				"Aeten II" Alabash Haariden Lok Mustafar RZ7-6113-23 Riflor Sarapin Shu-Torun "Taspir III" Torize Vaathkree
 			}
 		}
-		
+
 		pc_tropical = {
 			names = {
 				Argovia Ergeshui "Gap Nine" Gentes Imdaar Lotide Mijos Mimban Najiba "Nim Drovis"
 			}
 		}
-		
+
 		pc_continental = {
 			names = {
-				Agamar Agriworld-2079 Aldivy Angratha Anobis Barnaba Biitu Broest Brolsam Celanon Chandrila Cilpar "Draenell's Point" Fallowan Garqi Kinyen "Liinade III" 
+				Agamar Agriworld-2079 Aldivy Angratha Anobis Barnaba Biitu Broest Brolsam Celanon Chandrila Cilpar "Draenell's Point" Fallowan Garqi Kinyen "Liinade III"
 				M'haeli Moorja Nadiem "Nez Peron" Ruan Sacorria Ukio Zerm
 			}
 		}
-		
+
 		pc_gaia = {
 			names = {}
 		}
-		
+
 		pc_ocean = {
 			names = {
-				"Aguarl 3" Alluuvia Anantapar Ando Aquaris Aquella Baraboo Bengat "Bestine IV" Corlass Dubrillion F'tral Fresia Illarreen Issor "Mon Cala" Selonia Sesid Spira 
+				"Aguarl 3" Alluuvia Anantapar Ando Aquaris Aquella Baraboo Bengat "Bestine IV" Corlass Dubrillion F'tral Fresia Illarreen Issor "Mon Cala" Selonia Sesid Spira
 				Varn Vaynai Woostri
 			}
 		}
-		
+
 		pc_tundra = {
 			names = {
-				Alvorine Amarin Arzid Aztubek Barnaba Batorine Bavva Bethal Binaros "Cantros 7" Cilpar Columus Dar'Or Dathomir Dennaskar Drall Gamorr Halmad Krant Kubindi 
+				Alvorine Amarin Arzid Aztubek Barnaba Batorine Bavva Bethal Binaros "Cantros 7" Cilpar Columus Dar'Or Dathomir Dennaskar Drall Gamorr Halmad Krant Kubindi
 				Lankashiir Lowick Malastare Moltok "Nilash III" Shar'Ack Tarsa Vryssa "Vurdon Ka" Wakeelmui Xagobah
 			}
 		}
-		
+
 		pc_arctic = {
 			names = {
-				"Akuria II" "Alzoc III" "Ando Prime" Anteevy Arkania Belsavis Burcana "Cadomai Prime" Crondre "Edan II" Eloggi "Eredenn Prime" Fest Garnib Hoth Ilum 
+				"Akuria II" "Alzoc III" "Ando Prime" Anteevy Arkania Belsavis Burcana "Cadomai Prime" Crondre "Edan II" Eloggi "Eredenn Prime" Fest Garnib Hoth Ilum
 				Obroa-skai Orto "Rhen Var" Syned Tantra Toola
 			}
 		}
@@ -240,25 +240,25 @@ xan_sw_empire = {
 		names1 = {
 			weight = 100
 			first_names_male = {
-				Aden Adol Adrick Alin Alph Amminius Amniva Amos Anarine Anbow Appleton Arbmab Arhul Arlo Armitage Auddo BO-661 Bailie Barcel Barlow Beez Bek Bosun Brant Burra 
-				Caleb Cartariun Ceth Chak Chall Clough DS-20-7 DS-24-2 DX-13-6 Dalven Davaire Defeen Demelza Dorn Droman Drummond Dunan Emil Errad Everik Exov Farin Farlie 
-				Frex GD-40-3 GG-15-7 GJ-49-8 GT-643 Garek Geg Gerdy Gins Graedler Gravin Gregor Grell Grot Gullee HJ-377 Haanen Hagark Harburik Harm Haymir Imsatad Ivhin 
-				JH-101 JX-11-5 Jad Jankar Jeb Jeres KD-121 Karn Kenkirk Kilnstrider Kinnel Kisoyt Koyo Kunn LX-466 LX-613 Liam Liam Liegeus Linds Luhin MM-92-9 Madrix Mak-o 
-				Marmor Massimo Maximilian Montage Mozo Okto Oxixo PJ-39-2 Parshoone Peert Pepise Pofko Porrak Prat Prisk QQ-463 Raev Raine Rel Rogen Rohd Roxard Ruwan Salin 
-				Sargon Sivar Snool Snopell Solcar Stecker Stromgald Strulka Sulamar TK-217 TK-555 TK-577 TR-522 Tabor Tag Taison Tanner Tantor Tenric Terkuss Thaffe Thul Tix 
-				Tseebo Unidentified Unidentified Unidentified Unidentified Vastin Velso Vinzel Vraker Vreel Vurly Waywa Wholding Wister Wrenga Wulf ZD-10-9 Zhanks 
+				Aden Adol Adrick Alin Alph Amminius Amniva Amos Anarine Anbow Appleton Arbmab Arhul Arlo Armitage Auddo BO-661 Bailie Barcel Barlow Beez Bek Bosun Brant Burra
+				Caleb Cartariun Ceth Chak Chall Clough DS-20-7 DS-24-2 DX-13-6 Dalven Davaire Defeen Demelza Dorn Droman Drummond Dunan Emil Errad Everik Exov Farin Farlie
+				Frex GD-40-3 GG-15-7 GJ-49-8 GT-643 Garek Geg Gerdy Gins Graedler Gravin Gregor Grell Grot Gullee HJ-377 Haanen Hagark Harburik Harm Haymir Imsatad Ivhin
+				JH-101 JX-11-5 Jad Jankar Jeb Jeres KD-121 Karn Kenkirk Kilnstrider Kinnel Kisoyt Koyo Kunn LX-466 LX-613 Liam Liam Liegeus Linds Luhin MM-92-9 Madrix Mak-o
+				Marmor Massimo Maximilian Montage Mozo Okto Oxixo PJ-39-2 Parshoone Peert Pepise Pofko Porrak Prat Prisk QQ-463 Raev Raine Rel Rogen Rohd Roxard Ruwan Salin
+				Sargon Sivar Snool Snopell Solcar Stecker Stromgald Strulka Sulamar TK-217 TK-555 TK-577 TR-522 Tabor Tag Taison Tanner Tantor Tenric Terkuss Thaffe Thul Tix
+				Tseebo Unidentified Unidentified Unidentified Unidentified Vastin Velso Vinzel Vraker Vreel Vurly Waywa Wholding Wister Wrenga Wulf ZD-10-9 Zhanks
 			}
 			first_names_female = {
-				Anya Ashii Chan Ciena Dhara Eve HX-138 Illorus Ingah Marska Meren Miki Perla Reann Sabine Sali Salia Sena Shei Sinya Siva Suarl Syal Tasha Tepha 
+				Anya Ashii Chan Ciena Dhara Eve HX-138 Illorus Ingah Marska Meren Miki Perla Reann Sabine Sali Salia Sena Shei Sinya Siva Suarl Syal Tasha Tepha
 			}
 			second_names = {
-				"Antilles Fel" Attal Bean Bekan Bentin Bondog Brytok Byrne Caglio Colmar Crace Darone Deboora Deradal Dienbel Dondarvan Durasha Fain Felean Fybot Getelles 
-				Ginzork Glek Goodner Gostervek Granley Hansor Harnus Harra Harsi Haylon Jayme Jinnor Jixton Junara Kelpit Kith-Vys Knolar Korra Krist Kuroosh Kyrell Laike 
-				Leonis Lister Lithal Mantid Maris Mintori Moridon Muloha Nermani Orde Pakkallo "Par Ell" Persi Rabor Rad Razar Ree Rendundi Rholar Rogaren Seitaron Shedoon 
-				Siefel Silvoi Slamen Slokay Smail Soliger Stone Tagge Tamazarian Tokai Tolann Tolas Tomvig Valanti Vansyn Vorn Vox Waurie Winger Winthazen Wren Yarrow 
+				"Antilles Fel" Attal Bean Bekan Bentin Bondog Brytok Byrne Caglio Colmar Crace Darone Deboora Deradal Dienbel Dondarvan Durasha Fain Felean Fybot Getelles
+				Ginzork Glek Goodner Gostervek Granley Hansor Harnus Harra Harsi Haylon Jayme Jinnor Jixton Junara Kelpit Kith-Vys Knolar Korra Krist Kuroosh Kyrell Laike
+				Leonis Lister Lithal Mantid Maris Mintori Moridon Muloha Nermani Orde Pakkallo "Par Ell" Persi Rabor Rad Razar Ree Rendundi Rholar Rogaren Seitaron Shedoon
+				Siefel Silvoi Slamen Slokay Smail Soliger Stone Tagge Tamazarian Tokai Tolann Tolas Tomvig Valanti Vansyn Vorn Vox Waurie Winger Winthazen Wren Yarrow
 			}
 			regnal_first_names_male = {
-				Afsheen Ambris Anakin Ardus Argon Bartam Bertroff Danetta Demetrius Dunhausen Dureya Firmus Gann Gerald Ishin-Il-Raz Josef Kendal Kintaro Kohl Lynch Martio 
+				Afsheen Ambris Anakin Ardus Argon Bartam Bertroff Danetta Demetrius Dunhausen Dureya Firmus Gann Gerald Ishin-Il-Raz Josef Kendal Kintaro Kohl Lynch Martio
 				Miltin Muzzer Nial Nigel Nox Octavian Osvald Peccati Ravik Rufaan Tanniel Tharil Thistleborn Thrawn Trachta Traeda Wilhuff Wilkadon Zsinj
 			}
 			regnal_first_names_female = {
@@ -279,51 +279,51 @@ xan_sw_newRepublic = {
 
 	ship_names = {
 		generic = {
-			AA-589 Aboukir Adamant "Adder's Bite" Ahazi Alamania Alderaan Alert Allegiance Allegiant Amerce "Ammuud Swooper" Anlage "Antares Six" Ast'ria Astrolabe 
-			Backstab "Bail Organa" Ballarat Banshee Bastion "Battle Dog" "Battle Horn" "Battle of Yavin" "Beledeen II" "Bespin Bandit" "Best Chance" Binder "Blind Mynock" 
-			Boash'ua Boldheart "Booty Full" Borleias "Bright Nebula" Brilliant Buick Byrt Calamari "Celestial Dancer" Champion Chandrila "Chandrila Moon" Chimaera 
-			Constrictor Corona Corulag "Corusca Fire" "Corusca Rainbow" "Courage of Sullust" Courane Crynyd D-89 "Danni Quee's corvette" Dantooine "Daunted Gypsy" 
-			Decisive Defiance Defiance Devonian "Dewback's Burden" Direption Dodonna Dominant "Doran Star" Dragonsnake "Eclipse Rider" "Elegos A'Kla" Emancipator Endor 
-			Endor Endor Endurance Equity Eridain "Errant Venture" "Ession Strike" Etherhawk Evanrue "Far Thunder" Farlight FarStar Fireater "First Citizen" Floren Folna 
-			"Fond Memory" Forbidden Foresight Fowler Freedom "Freedom of Sullust" "Freedom's Fury" "Freighter PBY-1457" Fulminant G-021 "Galactic Voyager" Gallant Garfin 
-			Garland Glorious "Gol Storn" Guardian Harbinger Harrier "Heart of Artorias" "High Hauler" "Hold 'Em" "Home One" "Home One" "Hoopster's Prank" Hope 
-			"Hutt's Ambition" "Hyperspace Marauder" Illustrious Imperious Impervious Independence Indomitable Intrepid Intrepid IX-26 IX-44F "Jade Shadow" Jantol 
-			"Jedi Dreamer" "Jennie Lee" Juliupper Justice Justice Katana Kauri KE-40409 Kettemoor Krakana "Lady Luck" Larkhess Liberator Liberty "Liberty Star" 
-			"Lightning Rod" "Lost Hope" "Lucan's Nightmare" "Lucky Star" Lunatic Lusankya "Luudrian Star" Lycoming Mandjur Mantooine Marauder Maria Mediator Meridian 
-			"Merisee Hope" "Merry Miner" Messenger "Millennium Falcon" "Millennium Falcon" "Millennium Falsehood" "Mimban Cloudrider" Mirrorbright Modaran "Moldy Crow" 
-			"Mon Adapyne" "Mon Casima" "Mon Delindo" "Mon Karren" "Mon Mothma" "Mon Remonda" "Mon Valle" Monarch Monitor Moonshadow "Mother's Valkyrie" Mrlsst Muvon 
-			"Muvon II" Nagwa Naritus Narra Nartissteu "New Hope" "No Luck Required" "Nomad City" Northstar Nova "NRSS Founder" Obi-Wan Oculus Orthavan Ossifrage 
-			PaleShadow Peacemaker Pelagia Peregrine "Phaeda's Hope" Poesy Polaron Pran "Pride of Eiattu" "Pride of Honor" "Pride of Selonia" "Pride of Thela" Protector 
-			Pulsar "Pulsar Skate" Quenfis Ralroost "Raven's Claw" "Rebel Dream" "Rebel Star" "Rebels' Pride" "Reckless Abandon" "Record Time" "Red Feathers" 
-			"Red Gauntlet" Regulator Rejuvenator "Remember Alderaan" Reprieve Reptavian Repulse Resistance Rieekan Rover Rover Ryloth Salamander "Salvager Three" 
-			"Seeker Cub" Segue Selonia "Selonian Fire" Shield "Shooting Star" "Shuttle 37" Sibwarra Skyhook Soothfast Sovereign "Speed Queen" "Spirit of Mindor" SQ/one 
-			Stalwart Starfaring "Starhook Ten" "Starlight Intruder" "Starline Warrior" Starpoint Starsider Startide Steadfast Steadfast "Steady Lady" "Stellar Sentinel" 
-			Stendaff Sullust "Sun Crusher" Sungrass "Swift Liberty" "Taanab Sunrise" "Talon 1" "Tamar's Folly" Tampion Tatooine Tedevium Thackery Thpffftht Thunderbolt 
-			Thunderchild Thunderhead Thurse "Tiatkin's starship" Trenchant Trickster Triumph "Tyrant's Bane" "Ugly Truth" Valiant Vanguard Venture Vigilant Vindicator 
-			Viscount Voidrunner Volant "Wait a Minute" Wanderhome Warder Warrior Wayfarer Webley "Welling's Revenge" Werra "Whip Hand" "White Dwarf" "Wolf's Claw" 
-			"World Devastator" Yakez Yald Yavaris Yavin "Yavin's Caprice" "Yellow Rover" 
+			AA-589 Aboukir Adamant "Adder's Bite" Ahazi Alamania Alderaan Alert Allegiance Allegiant Amerce "Ammuud Swooper" Anlage "Antares Six" Ast'ria Astrolabe
+			Backstab "Bail Organa" Ballarat Banshee Bastion "Battle Dog" "Battle Horn" "Battle of Yavin" "Beledeen II" "Bespin Bandit" "Best Chance" Binder "Blind Mynock"
+			Boash'ua Boldheart "Booty Full" Borleias "Bright Nebula" Brilliant Buick Byrt Calamari "Celestial Dancer" Champion Chandrila "Chandrila Moon" Chimaera
+			Constrictor Corona Corulag "Corusca Fire" "Corusca Rainbow" "Courage of Sullust" Courane Crynyd D-89 "Danni Quee's corvette" Dantooine "Daunted Gypsy"
+			Decisive Defiance Defiance Devonian "Dewback's Burden" Direption Dodonna Dominant "Doran Star" Dragonsnake "Eclipse Rider" "Elegos A'Kla" Emancipator Endor
+			Endor Endor Endurance Equity Eridain "Errant Venture" "Ession Strike" Etherhawk Evanrue "Far Thunder" Farlight FarStar Fireater "First Citizen" Floren Folna
+			"Fond Memory" Forbidden Foresight Fowler Freedom "Freedom of Sullust" "Freedom's Fury" "Freighter PBY-1457" Fulminant G-021 "Galactic Voyager" Gallant Garfin
+			Garland Glorious "Gol Storn" Guardian Harbinger Harrier "Heart of Artorias" "High Hauler" "Hold 'Em" "Home One" "Home One" "Hoopster's Prank" Hope
+			"Hutt's Ambition" "Hyperspace Marauder" Illustrious Imperious Impervious Independence Indomitable Intrepid Intrepid IX-26 IX-44F "Jade Shadow" Jantol
+			"Jedi Dreamer" "Jennie Lee" Juliupper Justice Justice Katana Kauri KE-40409 Kettemoor Krakana "Lady Luck" Larkhess Liberator Liberty "Liberty Star"
+			"Lightning Rod" "Lost Hope" "Lucan's Nightmare" "Lucky Star" Lunatic Lusankya "Luudrian Star" Lycoming Mandjur Mantooine Marauder Maria Mediator Meridian
+			"Merisee Hope" "Merry Miner" Messenger "Millennium Falcon" "Millennium Falcon" "Millennium Falsehood" "Mimban Cloudrider" Mirrorbright Modaran "Moldy Crow"
+			"Mon Adapyne" "Mon Casima" "Mon Delindo" "Mon Karren" "Mon Mothma" "Mon Remonda" "Mon Valle" Monarch Monitor Moonshadow "Mother's Valkyrie" Mrlsst Muvon
+			"Muvon II" Nagwa Naritus Narra Nartissteu "New Hope" "No Luck Required" "Nomad City" Northstar Nova "NRSS Founder" Obi-Wan Oculus Orthavan Ossifrage
+			PaleShadow Peacemaker Pelagia Peregrine "Phaeda's Hope" Poesy Polaron Pran "Pride of Eiattu" "Pride of Honor" "Pride of Selonia" "Pride of Thela" Protector
+			Pulsar "Pulsar Skate" Quenfis Ralroost "Raven's Claw" "Rebel Dream" "Rebel Star" "Rebels' Pride" "Reckless Abandon" "Record Time" "Red Feathers"
+			"Red Gauntlet" Regulator Rejuvenator "Remember Alderaan" Reprieve Reptavian Repulse Resistance Rieekan Rover Rover Ryloth Salamander "Salvager Three"
+			"Seeker Cub" Segue Selonia "Selonian Fire" Shield "Shooting Star" "Shuttle 37" Sibwarra Skyhook Soothfast Sovereign "Speed Queen" "Spirit of Mindor" SQ/one
+			Stalwart Starfaring "Starhook Ten" "Starlight Intruder" "Starline Warrior" Starpoint Starsider Startide Steadfast Steadfast "Steady Lady" "Stellar Sentinel"
+			Stendaff Sullust "Sun Crusher" Sungrass "Swift Liberty" "Taanab Sunrise" "Talon 1" "Tamar's Folly" Tampion Tatooine Tedevium Thackery Thpffftht Thunderbolt
+			Thunderchild Thunderhead Thurse "Tiatkin's starship" Trenchant Trickster Triumph "Tyrant's Bane" "Ugly Truth" Valiant Vanguard Venture Vigilant Vindicator
+			Viscount Voidrunner Volant "Wait a Minute" Wanderhome Warder Warrior Wayfarer Webley "Welling's Revenge" Werra "Whip Hand" "White Dwarf" "Wolf's Claw"
+			"World Devastator" Yakez Yald Yavaris Yavin "Yavin's Caprice" "Yellow Rover"
 		}
-		
+
 		corvette = {
 			Sullustan
 		}
-		
+
 		constructor = {}
 		colonizer = {}
 		science = {}
-		
+
 		destroyer = {
-			"Haven Jace" "High Haven" Lancer "Lunar Tide" "Mother Sea" Paleo Resolve Unsung "Victory at Endor" 
+			"Haven Jace" "High Haven" Lancer "Lunar Tide" "Mother Sea" Paleo Resolve Unsung "Victory at Endor"
 		}
-		
+
 		cruiser = {
-			Adamantine Borealis Caelus Corbantis Dauntless Empyrean "Ithor Lady" Mercy "Nebula Chaser" Phalanx Republic "Yavin's Glory" 
+			Adamantine Borealis Caelus Corbantis Dauntless Empyrean "Ithor Lady" Mercy "Nebula Chaser" Phalanx Republic "Yavin's Glory"
 		}
-		
+
 		battleship = {
-			Imperious Monitor Nova Pelagia Steadfast Vindicator Volant 
+			Imperious Monitor Nova Pelagia Steadfast Vindicator Volant
 		}
-		
+
 		orbital_station = {}
 		mining_station = {}
 		research_station = {}
@@ -343,9 +343,9 @@ xan_sw_newRepublic = {
 		}
 		sequential_name = "%O% Defense Fleet"
 	}
-	
+
 	army_names = {
-	
+
 		defense_army = {
 			sequential_name = "%O% Security Force"
 		}
@@ -353,31 +353,31 @@ xan_sw_newRepublic = {
 		assault_army = {
 			sequential_name = "%O% New Republic Marines"
 		}
-		
+
 		slave_army = {
 			sequential_name = "%O% New Republic Troopers"
 		}
-		
-		clone_army = { 
+
+		clone_army = {
 			sequential_name = "%O% Eclipse Team"
 		}
-		
+
 		robotic_army = {
 			sequential_name = "%O% Droid Forces"
 		}
-		
+
 		android_army = {
 			sequential_name = "%O% Android Forces"
 		}
-		
-		psionic_army = { 
+
+		psionic_army = {
 			sequential_name = "%O% Jedi Company"
 		}
-		
+
 		xenomorph_army = {
 			sequential_name = "%O% Special Forces"
 		}
-		
+
 		gene_warrior_army = {
 			sequential_name = "%O% Republican Guard"
 		}
@@ -387,66 +387,66 @@ xan_sw_newRepublic = {
 
 		generic = {
 			names = {
-				Adumar Af'El Akiva "Algara II" Alland Alsakan Amorphiia Anaxes Anemcoro Anoth Ansillivog Antemeridias Antipose "Anx Minor" "Aris V" Arkanis Artorias 
-				"Artus Prime" Asmall Axum Babali Bakura Bakura-5 Balmorra Bandomeer "Barab I" Barkhesh Baroli Beauchen Belderone Belnar Bendone Berchest Bespin Bessimir 
-				"Bhuna Sound" Bilios Bimmisaari Blyte Bosch Bothawui Boudolayz "Bovo Yagen" "Brentaal IV" Budpock Caamas Calipsa Caloria Candovant "Cantras Gola" Caprioril 
-				Cargamalis "Carosi XII" Cassander Castell "Cato Neimoidia" Cejansij Cesya Chardaan Chazwa Christophsis "Chroma Zed" Churba "Circarpous IV" "Clak'dor IV" 
-				"Clak'dor VII" Commenor Comra Cona Contruum Corellia Corfai Coriallis Corsin Cortina Corulag Coruscant Cujicor Dantooine Danuta Darepp "Deko Neimoidia" Delaya 
-				Delrian Denon Derilyn Diamal Dorin Drannik Draukyze Dressel Druckenwell Dulathia Duro Durren Ebaq Edatha "Eislomi III" "Empress Teta" Eriadu Esseles Excarga 
-				Exodeen Farrfin Fedalle Felucia "Feriae Junction" Firrerre Fodurant Fondor Galaan Galantos Ganath Gantho Garban Gargon "Garos IV" Glova Grizmallt Hakassi 
-				Halco Halpat Hanoon Hapes Hast Hevurion "Hollast VII" "Hosnian Prime" Hyomare Ibaar Iktotchon Illodia Ithor Ixtlar Jumus "K'vath 5" Karfeddion Kessel Kidron 
-				"Koru Neimoidia" "Ku'Bakai 11" "Ku'Bakai 6" "Ku'Bakai 8" Kuat Lafra Lantillies Llewebum Lobaoc Lonera "Maya Kovel" Metellos "Mirrin Prime" Neimoidia 
-				"New Bakstre" "New Holgha" "New Plympto" "Norval II" Nubia Onderon "Ord Pardron" Orinda Ossus Pakuuni "Paqwepor Major" Polneye Praesitlyn Procopia 
-				"Qalita Prime" "Raxus Prime" Rendili Rhinnal Riosa Roon Rudrig Ruuria Sanrafsix Sernpidal Shalyvane "Siluria III" Skako "Sluis Van" Spussion Sullust Susevfi 
-				"Sy Myrth" Talfaglio Talus Taris Tralus Trandosha Ubardia Uyter Vandor-3 Wayland Wukkar Xartun Xoemefel "Yavin Prime" 
+				Adumar Af'El Akiva "Algara II" Alland Alsakan Amorphiia Anaxes Anemcoro Anoth Ansillivog Antemeridias Antipose "Anx Minor" "Aris V" Arkanis Artorias
+				"Artus Prime" Asmall Axum Babali Bakura Bakura-5 Balmorra Bandomeer "Barab I" Barkhesh Baroli Beauchen Belderone Belnar Bendone Berchest Bespin Bessimir
+				"Bhuna Sound" Bilios Bimmisaari Blyte Bosch Bothawui Boudolayz "Bovo Yagen" "Brentaal IV" Budpock Caamas Calipsa Caloria Candovant "Cantras Gola" Caprioril
+				Cargamalis "Carosi XII" Cassander Castell "Cato Neimoidia" Cejansij Cesya Chardaan Chazwa Christophsis "Chroma Zed" Churba "Circarpous IV" "Clak'dor IV"
+				"Clak'dor VII" Commenor Comra Cona Contruum Corellia Corfai Coriallis Corsin Cortina Corulag Coruscant Cujicor Dantooine Danuta Darepp "Deko Neimoidia" Delaya
+				Delrian Denon Derilyn Diamal Dorin Drannik Draukyze Dressel Druckenwell Dulathia Duro Durren Ebaq Edatha "Eislomi III" "Empress Teta" Eriadu Esseles Excarga
+				Exodeen Farrfin Fedalle Felucia "Feriae Junction" Firrerre Fodurant Fondor Galaan Galantos Ganath Gantho Garban Gargon "Garos IV" Glova Grizmallt Hakassi
+				Halco Halpat Hanoon Hapes Hast Hevurion "Hollast VII" "Hosnian Prime" Hyomare Ibaar Iktotchon Illodia Ithor Ixtlar Jumus "K'vath 5" Karfeddion Kessel Kidron
+				"Koru Neimoidia" "Ku'Bakai 11" "Ku'Bakai 6" "Ku'Bakai 8" Kuat Lafra Lantillies Llewebum Lobaoc Lonera "Maya Kovel" Metellos "Mirrin Prime" Neimoidia
+				"New Bakstre" "New Holgha" "New Plympto" "Norval II" Nubia Onderon "Ord Pardron" Orinda Ossus Pakuuni "Paqwepor Major" Polneye Praesitlyn Procopia
+				"Qalita Prime" "Raxus Prime" Rendili Rhinnal Riosa Roon Rudrig Ruuria Sanrafsix Sernpidal Shalyvane "Siluria III" Skako "Sluis Van" Spussion Sullust Susevfi
+				"Sy Myrth" Talfaglio Talus Taris Tralus Trandosha Ubardia Uyter Vandor-3 Wayland Wukkar Xartun Xoemefel "Yavin Prime"
 			}
 		}
-		
+
 		pc_desert = {
 			names = {
-				Askaj Baros Beheboth Bpfassh Byss Corbos "Daxam IV" "Delari Prime" Elom Filve Geonosis Tammar Tatooine 
+				Askaj Baros Beheboth Bpfassh Byss Corbos "Daxam IV" "Delari Prime" Elom Filve Geonosis Tammar Tatooine
 			}
 		}
-		
+
 		pc_arid = {
 			names = {
 				Fala Vaathkree
 			}
 		}
-		
+
 		pc_tropical = {
 			names = {
 				Dagobah Mijos Mimban Nim Drovis
 			}
 		}
-		
+
 		pc_continental = {
 			names = {
-				Agamar Anobis Biitu Broest Chandrila Cilpar Garqi Kinyen "Liinade III" M'haeli Ruan Sacorria Ukio 
+				Agamar Anobis Biitu Broest Chandrila Cilpar Garqi Kinyen "Liinade III" M'haeli Ruan Sacorria Ukio
 			}
 		}
-		
+
 		pc_gaia = {
 			names = {
 				Aargau Abregado-rae Naboo
 			}
 		}
-		
+
 		pc_ocean = {
 			names = {
-				Ando Baraboo "Bestine IV" Champala "Da Soocha" Dornea Dubrillion Selonia Varn Woostri 
+				Ando Baraboo "Bestine IV" Champala "Da Soocha" Dornea Dubrillion Selonia Varn Woostri
 			}
 		}
-		
+
 		pc_tundra = {
 			names = {
-				Alvorine Arbra "Cantros 7" Cilpar Dathomir Drall Fedje Gamorr Krant Kubindi Malastare "Nilash III" "Vurdon Ka" 
+				Alvorine Arbra "Cantros 7" Cilpar Dathomir Drall Fedje Gamorr Krant Kubindi Malastare "Nilash III" "Vurdon Ka"
 			}
 		}
-		
+
 		pc_arctic = {
 			names = {
-				"Ando Prime" Belovia Burcana Crondre Eloggi Garnib Hoth Orto "Rhen Var" Toola 
+				"Ando Prime" Belovia Burcana Crondre Eloggi Garnib Hoth Orto "Rhen Var" Toola
 			}
 		}
 	}
@@ -456,60 +456,60 @@ xan_sw_newRepublic = {
 		names1 = {
 			weight = 100
 			first_names_male = {
-				Able Abso Adon Adonar Ahk-laht Akimbo Alben Alku Andren Andur Antone Ardal Arhul Ariq Arkhan Arleil Arvel Attichitcuk Avery Ayx Baco Bahb Bail Bail Balderik 
-				Ballifore Barney Batral Baze Beak Becker Ben Benbul Bendlar Benthar Berkelium Berryl Bey Bey Biggs Bink Biv Blainekie Blim Blox Bodhi Bolpuhr Boo Boom Booster 
-				Bornan Borsk Borvo Braylen Bren Brentin Brin Bron Buran Burellion Busurra Cakhmaim Callus Caluan Card Carib Carith Carlist Cassian Cermack Ch Ch Chalmer Chaz 
-				Chel Cherioer  Chirpa Chirrut Cobb Cole Cooper Corask Cord Corvan Creed Crix Croy Dab Daiv Dak Dann Dannen Daron Darryn Davish Daw Daye Dayvid 
-				Deckland Deen Deflector Del Deltura Den Denid Derek Dero Detien Devon Dex Dictio Diric Dobrow Dodger Donn Dorsk Dorsk Dorsk Dracos Drenn Droma Drun Dunari 
-				Durne Ebrihim Ekelarc Ello Ellos Emon Eneb Envoy Erisson Evram Falton Fandar Fanty Faron Fez Fordwyn Francis Fru Fugo Gaav Gabrial Gadren Galin Ganner 
-				Gantoris Garek Garello Garin Garm Garul Garv Garve Garven Gebnerret Gharakh Gibbon Gil Ginbotham Gno Gorbek Grael Granit Grease Greglik Grel Grisserno Grizz 
-				Grondorn Groznik Grugosh Gunman Guro Gwann Haanen Hamman Han Hanos Harl Hast Havet Hazram Heedon Herafin Herosk Hindred Hirog Hivrekh Hkaeli Hostis Hovarb 
-				Hric Huggtar Idu Ikka Iolo Iuaway Jaden Jahn Jahren Jan Jan Janek Janu Jax Jeeval Jek Jenssar Jerrod Jez Jom Jon Jono Jop Jorel Jorin Jotil Jun Jurfel 
-				KTR-44875 Kade Kalast Kalbrac Kar Kare Kearn-sa Keir Kelbis Kelly Kelthizar Ken Kentara Kes Khabarakh Kichiir Knezex Koll Kormund Kornell Korsu Koth Kral 
-				Kraygeen Krudar Krystick Kylbar Lamorrack Lancer Lando Lavek Leaft Ledaney Leger Liat Lindy Lobot Lofryyhn Lokmarcha Lol Lon Lon Lonno Lor Lorn Lowbacca Luke 
-				Lutin Machel Magir Mak Malan Malkor Mander Manuel Marka Markre Marruc Marse Matt Max Maximian Meck Merak Meysen Micha Mika Mikka Miko Mikos Modon Mole Momaw 
-				Mordak Moris Mors Motamba Mu Muna Muran Muuurgh N-3PO Nemenov Ni-Ke-Vanz Nichos Nien Nij Nolan Ob Okko Oll Orgadomo Orion Oro Orrimaarko Palejo Peter Philap 
-				Phoedris Piret Plif Poe Pol Pollo Praaelon Pter Pucumir Rabutz Rade Rahuhl Rai-Kalei Ral Ralera Rallo Ransolm Raol Raymus Raynar Renkov Retter Rhan Rif Rigard 
-				Rik Rinto Ris Robbe Robet Roger Roja Rolanda Romba Rorworr Rory Rosco Rosh Roviden Rox Sabmin Saff Sarrah Saun Schardak Sehn Septaas Seyyerin Shabba Shirka 
-				Siro Skorg Sloan Smikes Soth Sova Streen Swisi Sybegh Syirlabradawk Tabric Tag Talon Tam Tamaron Tanass Tanus Tardi Tark Tarkazza Tarn Tarrek Tauran Tav Tav 
-				Taver Tavoy Tellulon Tem Temmin Temo Tendau Teng Tennelt Tereb Terno Tesar Tessus Tev Teva Tewn Tex Thane Thaum The The Thel Threkin Throm Timi Tisilan 
-				Tisocco Tlicl Toalar Tokkat Tolokai Tomer Toro Trask Tresk Trol Tuz Tyko Tyler Unidentified Unidentified Unidentified Unidentified Unidentified Unidentified 
-				Unidentified Untos Unut Utric Valin Var Veedo Vendri Venner Vermilion Vestin Victor Vil Villian Voleyy Volk Voren Vors Walex Wedge Wella Wesk Wicket Wicket 
-				Willer Worrumba Woyiq Wurth Xbrr-Zinngogg Yabeley Yarda Yassat Ydor Yeeru Yendor Yerlad Yolan Zak Zathras Zaz Zekk Zev Zevulon Zhir Zilnor Zyix 
+				Able Abso Adon Adonar Ahk-laht Akimbo Alben Alku Andren Andur Antone Ardal Arhul Ariq Arkhan Arleil Arvel Attichitcuk Avery Ayx Baco Bahb Bail Bail Balderik
+				Ballifore Barney Batral Baze Beak Becker Ben Benbul Bendlar Benthar Berkelium Berryl Bey Bey Biggs Bink Biv Blainekie Blim Blox Bodhi Bolpuhr Boo Boom Booster
+				Bornan Borsk Borvo Braylen Bren Brentin Brin Bron Buran Burellion Busurra Cakhmaim Callus Caluan Card Carib Carith Carlist Cassian Cermack Ch Ch Chalmer Chaz
+				Chel Cherioer  Chirpa Chirrut Cobb Cole Cooper Corask Cord Corvan Creed Crix Croy Dab Daiv Dak Dann Dannen Daron Darryn Davish Daw Daye Dayvid
+				Deckland Deen Deflector Del Deltura Den Denid Derek Dero Detien Devon Dex Dictio Diric Dobrow Dodger Donn Dorsk Dorsk Dorsk Dracos Drenn Droma Drun Dunari
+				Durne Ebrihim Ekelarc Ello Ellos Emon Eneb Envoy Erisson Evram Falton Fandar Fanty Faron Fez Fordwyn Francis Fru Fugo Gaav Gabrial Gadren Galin Ganner
+				Gantoris Garek Garello Garin Garm Garul Garv Garve Garven Gebnerret Gharakh Gibbon Gil Ginbotham Gno Gorbek Grael Granit Grease Greglik Grel Grisserno Grizz
+				Grondorn Groznik Grugosh Gunman Guro Gwann Haanen Hamman Han Hanos Harl Hast Havet Hazram Heedon Herafin Herosk Hindred Hirog Hivrekh Hkaeli Hostis Hovarb
+				Hric Huggtar Idu Ikka Iolo Iuaway Jaden Jahn Jahren Jan Jan Janek Janu Jax Jeeval Jek Jenssar Jerrod Jez Jom Jon Jono Jop Jorel Jorin Jotil Jun Jurfel
+				KTR-44875 Kade Kalast Kalbrac Kar Kare Kearn-sa Keir Kelbis Kelly Kelthizar Ken Kentara Kes Khabarakh Kichiir Knezex Koll Kormund Kornell Korsu Koth Kral
+				Kraygeen Krudar Krystick Kylbar Lamorrack Lancer Lando Lavek Leaft Ledaney Leger Liat Lindy Lobot Lofryyhn Lokmarcha Lol Lon Lon Lonno Lor Lorn Lowbacca Luke
+				Lutin Machel Magir Mak Malan Malkor Mander Manuel Marka Markre Marruc Marse Matt Max Maximian Meck Merak Meysen Micha Mika Mikka Miko Mikos Modon Mole Momaw
+				Mordak Moris Mors Motamba Mu Muna Muran Muuurgh N-3PO Nemenov Ni-Ke-Vanz Nichos Nien Nij Nolan Ob Okko Oll Orgadomo Orion Oro Orrimaarko Palejo Peter Philap
+				Phoedris Piret Plif Poe Pol Pollo Praaelon Pter Pucumir Rabutz Rade Rahuhl Rai-Kalei Ral Ralera Rallo Ransolm Raol Raymus Raynar Renkov Retter Rhan Rif Rigard
+				Rik Rinto Ris Robbe Robet Roger Roja Rolanda Romba Rorworr Rory Rosco Rosh Roviden Rox Sabmin Saff Sarrah Saun Schardak Sehn Septaas Seyyerin Shabba Shirka
+				Siro Skorg Sloan Smikes Soth Sova Streen Swisi Sybegh Syirlabradawk Tabric Tag Talon Tam Tamaron Tanass Tanus Tardi Tark Tarkazza Tarn Tarrek Tauran Tav Tav
+				Taver Tavoy Tellulon Tem Temmin Temo Tendau Teng Tennelt Tereb Terno Tesar Tessus Tev Teva Tewn Tex Thane Thaum The The Thel Threkin Throm Timi Tisilan
+				Tisocco Tlicl Toalar Tokkat Tolokai Tomer Toro Trask Tresk Trol Tuz Tyko Tyler Unidentified Unidentified Unidentified Unidentified Unidentified Unidentified
+				Unidentified Untos Unut Utric Valin Var Veedo Vendri Venner Vermilion Vestin Victor Vil Villian Voleyy Volk Voren Vors Walex Wedge Wella Wesk Wicket Wicket
+				Willer Worrumba Woyiq Wurth Xbrr-Zinngogg Yabeley Yarda Yassat Ydor Yeeru Yendor Yerlad Yolan Zak Zathras Zaz Zekk Zev Zevulon Zhir Zilnor Zyix
 			}
 			first_names_female = {
-				Abbela Adery Ahleazah Aimi Alowi Alya Ananda Artis Aryn Astina Augwynne Aurin Auxi Baela Bela Brand Brindy Cala Carhla Celida Chessa Cindy Coleet Corla Cray 
-				Crislyn Daeshara'cor Dania Danni Dathnaeya Dawn Dera Dex Dina Doman Dosmit Drase Droxie Duriet Dusque Eelysa Ela Elea Elibet Eppie Evaan Everi Fae Finn Fionna 
-				Flaenella Fren Gaeriel Gamine Gara Ghia Gina Greer Harter Henrietya Hylo Ileris Iona Iona Irenez Ivey Jade Javul Jem Jen Jennica Jfe Jin-Rio Jyn Jysella Kalyn 
-				Kanta Karé Kar Katarra Kath Kaysil Kea Kella Kendy Ketrian Kidi Kim Kima Kira Kirana Klin-Fa Kopri Korr Krasov Larisselle Leda Leia Leona Lesle Lieda Lohgarra 
-				Lusa Lynia Lyric Madurrin Maglenna Mala Mallatobuck Mantrony Mara Mari Marna Maydla Meewalh Merinda Mici Midget Milessa Mina Mirax Mon Mon Mora Mother Mrrov 
-				Mygo Myoris Naia Nakari Napvansa Needia Neena Niak Niriian Nofre Nomi Norra Numa Nura Octa Olia Oponni Platt Pooja Praleena Raleigh Raxa Rekara Renia Rianna 
-				Rillao Rixen Roach Roskin Sakas Salis Samona Sanna Sannah Sapphire Sasha Saska Selnia Selnia Semmac Sena Sena Seren Shada Shae Shandria Shannon Shara Shondra 
-				Siennrha Sila Silver Silya Stabris Swilja Syal Syayna Tahiri Talia Tash Tawn Tawss Teela Tekli Tenel Teneniel Tenga Tereez Teria Terri The Thrynni Tian Tinian 
-				Tionne Travia Tresina Trezya Trillia Ulaha Una Unidentified Valantya Verena Vula Wialu Wiley Zari Zenn 
+				Abbela Adery Ahleazah Aimi Alowi Alya Ananda Artis Aryn Astina Augwynne Aurin Auxi Baela Bela Brand Brindy Cala Carhla Celida Chessa Cindy Coleet Corla Cray
+				Crislyn Daeshara'cor Dania Danni Dathnaeya Dawn Dera Dex Dina Doman Dosmit Drase Droxie Duriet Dusque Eelysa Ela Elea Elibet Eppie Evaan Everi Fae Finn Fionna
+				Flaenella Fren Gaeriel Gamine Gara Ghia Gina Greer Harter Henrietya Hylo Ileris Iona Iona Irenez Ivey Jade Javul Jem Jen Jennica Jfe Jin-Rio Jyn Jysella Kalyn
+				Kanta Karé Kar Katarra Kath Kaysil Kea Kella Kendy Ketrian Kidi Kim Kima Kira Kirana Klin-Fa Kopri Korr Krasov Larisselle Leda Leia Leona Lesle Lieda Lohgarra
+				Lusa Lynia Lyric Madurrin Maglenna Mala Mallatobuck Mantrony Mara Mari Marna Maydla Meewalh Merinda Mici Midget Milessa Mina Mirax Mon Mon Mora Mother Mrrov
+				Mygo Myoris Naia Nakari Napvansa Needia Neena Niak Niriian Nofre Nomi Norra Numa Nura Octa Olia Oponni Platt Pooja Praleena Raleigh Raxa Rekara Renia Rianna
+				Rillao Rixen Roach Roskin Sakas Salis Samona Sanna Sannah Sapphire Sasha Saska Selnia Selnia Semmac Sena Sena Seren Shada Shae Shandria Shannon Shara Shondra
+				Siennrha Sila Silver Silya Stabris Swilja Syal Syayna Tahiri Talia Tash Tawn Tawss Teela Tekli Tenel Teneniel Tenga Tereez Teria Terri The Thrynni Tian Tinian
+				Tionne Travia Tresina Trezya Trillia Ulaha Una Unidentified Valantya Verena Vula Wialu Wiley Zari Zenn
 			}
 			second_names = {
-				"Ab Lon" Abya Aden Ajax Akabi Akarias Aldrete Aleri Alessie Altronel Andor Andreya Andrissus Antilles Arana Argdran Arkanian Arranda Asty Atanna Axlon Aymeric 
-				Azur-Jamin Azzameen "Bal far" Bangel "Bar Binks" Barell Baroule Barzon Bastra "Bel Iblis" Belden Beruss Bess Bey Biel Bien Biktor Binn Blissex Bodhrik Borsil 
-				Bos Both-Hanz Breil-lya Brem-tu Bren Brila Burs Bygar Cairnwick Calrissian Captison Captor Carper Casterfo Chalis Chan Charn Chatrunis Cheklev Chiffonage 
-				Chivkyrie Choko Churhee Chyler Clines Contessa Crosear Crynyd D'ukal Dalhney Dameron Dance Dann Darklighter Darkmere Darpen Darr Darven Dav Davit Dawn DeMain 
-				DeRalm Debble Deboora Dekven Del Delline Dellox Denive Derlin Deso Devist Devvol "Dhori Tolas" Di Din Dionisio Divini Djo Dodonna Dohhenty Dokura Dorat Dray 
-				Dreis "Dro Thul" Dromath Drugah Durmak Durn Dwyce Ecls Ematt Erelen Erso Evon Fardreamer Farnmir Fask Felean Fenn Fennro Fey-lya Figg Fintz Flannis Flask 
-				Flatt Fontin Fox Frix Fuller Fyre Gandan Gesul Gi Gillmunn Godalhi Greenley Griek Gron Gulek Hailbrock Hantaq Hara Harbright Harns Hatha Hextrophon Horm Horn 
-				"Hral Piksoar" "Human Rebel" Hunter "I'att Azur-Jamin" Idele Ij Im-nel "Imperial defector" Irana Itoklo "Jade Skywalker" Jameson Javik Jin Joanson "Ka Djo" 
-				Kaarz Kabor Kaileel Kalena Kalg Kalonia Kamiroz Kand Karl Karne Karrde Kayson Kelen Kendy Kennede Keyn Khaa Khaddor Kinnik Kira Kit-pay Klivian Kore Korr Kott 
-				Kovings Krail "Kray Korbin" Kultosi Kun Kyrell Kyss "KzztGial Ackbar" L'hnnar L-varren Lamoran Leedee "Leikvold Midanyl" Leith Lewis Lifehold Lightmoon Lin 
-				Linnix Liprus Lobi Loessin "Lore Wexley" Loro Loto Lourdas Lucan Lucian Luunim Maccabe Madine Makina Makk Malvarra Marr Matl Medjev Melan Melor Merkon Metonae 
-				Midanyl Mingla Mistflier Mitsun Molard Moll Moonrunner Moonskimmer Moonsong Moroni Mothma Muse Na-al Naberrie Nadon Namir Nanb Nandon Narek Nartal Narthrup 
-				Nazith Nelprin Nenei Nereno Niemeh Nightstalker Nimm Noerr Nostler Nu Nunb Nurook "O Shaunessy" Odom Odrion Okeefe Oldsong Orcel Ordo Organa Otauna Paca 
-				Pakkallo Par Pendower Penin Petikkin Petothel Pierce Planchet Poista Polikex Poll Pomt Poot Poquot "Por Ral" Porew Porkins "Prestor Organa" Preyssola Pring 
-				Quee Ræh Rajana Ralter Ramis Rand Rar Rawl Ray "Rebel gunrunner" Rebo Reede Reekeene Reglia Reshad Retter Rhysode Rieekan Ripfire Rommo Ross Rotramel Rusper 
-				Rustill Rystra Sair Salfur "San Tekka" Sandov Santage Saren Schous Sebatyne Sella Sembian Senesca Seros Shabandar Shahar Sherrol Shessaun Shooter Shrial Shyre 
-				Simito Sinn Skidder Skinto Skish Skywalker Slen-da Sniffer SoBilles Sol Solo Solum Solusar Song Sonnel Soren Sortuli Spijek Stern Stiels Storm Stramm Streev 
-				"Sullustan Rebel" Sunber T-ihar Taanfaar Tadavv Talon Talor Talos Talstin Taranu Teft Terrik "Terrik Horn" Teyflah Thanas Thrylle Thryss Thul Thyte Ti 
-				"Tik kla" Tinall Tinero Tipn Tiree Tiwosh Tiy Tolavor Tolis Torrence Trel Trigg Trillili Truchong Tsayv Tugrina Vae Vandale Vander Vaocan Varatha Vastor Veers 
-				Veila Verlaine Vermillion Verwood Vibrion Vokkoli Voorhorian Voorson Vordu "W. Warrick" Waller Wessiri Wexley Whisper Wince Winnis Winstel Worner 
-				"Wystri Warrick" "Yalom Yalom" Yeasson Yekkiv Yellan Yong Ysanna Zanedi Zuma 
+				"Ab Lon" Abya Aden Ajax Akabi Akarias Aldrete Aleri Alessie Altronel Andor Andreya Andrissus Antilles Arana Argdran Arkanian Arranda Asty Atanna Axlon Aymeric
+				Azur-Jamin Azzameen "Bal far" Bangel "Bar Binks" Barell Baroule Barzon Bastra "Bel Iblis" Belden Beruss Bess Bey Biel Bien Biktor Binn Blissex Bodhrik Borsil
+				Bos Both-Hanz Breil-lya Brem-tu Bren Brila Burs Bygar Cairnwick Calrissian Captison Captor Carper Casterfo Chalis Chan Charn Chatrunis Cheklev Chiffonage
+				Chivkyrie Choko Churhee Chyler Clines Contessa Crosear Crynyd D'ukal Dalhney Dameron Dance Dann Darklighter Darkmere Darpen Darr Darven Dav Davit Dawn DeMain
+				DeRalm Debble Deboora Dekven Del Delline Dellox Denive Derlin Deso Devist Devvol "Dhori Tolas" Di Din Dionisio Divini Djo Dodonna Dohhenty Dokura Dorat Dray
+				Dreis "Dro Thul" Dromath Drugah Durmak Durn Dwyce Ecls Ematt Erelen Erso Evon Fardreamer Farnmir Fask Felean Fenn Fennro Fey-lya Figg Fintz Flannis Flask
+				Flatt Fontin Fox Frix Fuller Fyre Gandan Gesul Gi Gillmunn Godalhi Greenley Griek Gron Gulek Hailbrock Hantaq Hara Harbright Harns Hatha Hextrophon Horm Horn
+				"Hral Piksoar" "Human Rebel" Hunter "I'att Azur-Jamin" Idele Ij Im-nel "Imperial defector" Irana Itoklo "Jade Skywalker" Jameson Javik Jin Joanson "Ka Djo"
+				Kaarz Kabor Kaileel Kalena Kalg Kalonia Kamiroz Kand Karl Karne Karrde Kayson Kelen Kendy Kennede Keyn Khaa Khaddor Kinnik Kira Kit-pay Klivian Kore Korr Kott
+				Kovings Krail "Kray Korbin" Kultosi Kun Kyrell Kyss "KzztGial Ackbar" L'hnnar L-varren Lamoran Leedee "Leikvold Midanyl" Leith Lewis Lifehold Lightmoon Lin
+				Linnix Liprus Lobi Loessin "Lore Wexley" Loro Loto Lourdas Lucan Lucian Luunim Maccabe Madine Makina Makk Malvarra Marr Matl Medjev Melan Melor Merkon Metonae
+				Midanyl Mingla Mistflier Mitsun Molard Moll Moonrunner Moonskimmer Moonsong Moroni Mothma Muse Na-al Naberrie Nadon Namir Nanb Nandon Narek Nartal Narthrup
+				Nazith Nelprin Nenei Nereno Niemeh Nightstalker Nimm Noerr Nostler Nu Nunb Nurook "O Shaunessy" Odom Odrion Okeefe Oldsong Orcel Ordo Organa Otauna Paca
+				Pakkallo Par Pendower Penin Petikkin Petothel Pierce Planchet Poista Polikex Poll Pomt Poot Poquot "Por Ral" Porew Porkins "Prestor Organa" Preyssola Pring
+				Quee Ræh Rajana Ralter Ramis Rand Rar Rawl Ray "Rebel gunrunner" Rebo Reede Reekeene Reglia Reshad Retter Rhysode Rieekan Ripfire Rommo Ross Rotramel Rusper
+				Rustill Rystra Sair Salfur "San Tekka" Sandov Santage Saren Schous Sebatyne Sella Sembian Senesca Seros Shabandar Shahar Sherrol Shessaun Shooter Shrial Shyre
+				Simito Sinn Skidder Skinto Skish Skywalker Slen-da Sniffer SoBilles Sol Solo Solum Solusar Song Sonnel Soren Sortuli Spijek Stern Stiels Storm Stramm Streev
+				"Sullustan Rebel" Sunber T-ihar Taanfaar Tadavv Talon Talor Talos Talstin Taranu Teft Terrik "Terrik Horn" Teyflah Thanas Thrylle Thryss Thul Thyte Ti
+				"Tik kla" Tinall Tinero Tipn Tiree Tiwosh Tiy Tolavor Tolis Torrence Trel Trigg Trillili Truchong Tsayv Tugrina Vae Vandale Vander Vaocan Varatha Vastor Veers
+				Veila Verlaine Vermillion Verwood Vibrion Vokkoli Voorhorian Voorson Vordu "W. Warrick" Waller Wessiri Wexley Whisper Wince Winnis Winstel Worner
+				"Wystri Warrick" "Yalom Yalom" Yeasson Yekkiv Yellan Yong Ysanna Zanedi Zuma
 			}
 			regnal_first_names_male = {
 				Chewbacca Gial Han Lando Luke Obi-Wan Yoda

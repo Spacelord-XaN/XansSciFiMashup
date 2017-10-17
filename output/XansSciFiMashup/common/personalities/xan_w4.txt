@@ -45,15 +45,15 @@ xan_w4_chaos = {
 	aggressiveness = 1.9
 	trade_willingness = 0.0
 	bravery = 0.0
-	
+
 	military_spending = 1.7
 	colony_spending = 0.6
-	
+
 	federation_acceptance = -1000
 	nap_acceptance = -1000
 	defensive_pact_acceptance = -1000
 	migration_pact_acceptance = -1000
-	
+
 	advanced_start_chance = 0
 
 	weapon_preferences = weapon_type_explosive
@@ -63,7 +63,7 @@ xan_w4_chaos = {
 	threat_modifier = 1.8
 	threat_others_modifier = 1.8
 	friction_modifier = 1.1
-	
+
 	behaviour = {
 		conqueror = yes
 		subjugator = no
@@ -79,11 +79,11 @@ xan_w4_chaos = {
 		propagator = no
 		multispecies = no
 	}
-	
+
 	allow = {
 		has_country_flag = xan_w4_chaos
 	}
-	
+
 	weight_modifier = {
 		weight = 1000
 	}
@@ -241,7 +241,7 @@ xan_w4_empire = {
 #================================================================================
 # Necron
 #================================================================================
-xan_w4_necron = { 
+xan_w4_necron = {
 	aggressiveness = 2.5
 	trade_willingness = 0.0
 	bravery = 0.6
@@ -255,7 +255,7 @@ xan_w4_necron = {
 	migration_pact_acceptance = -1000
 
 	advanced_start_chance = 25
-	
+
 	weapon_preferences = weapon_type_kinetic
 	armor_ratio = 1.0
 	shields_ratio = 0.5

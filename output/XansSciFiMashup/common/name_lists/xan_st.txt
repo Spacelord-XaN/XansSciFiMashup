@@ -42,7 +42,7 @@ xan_st_borg = {
 		slave_army = {
 			sequential_name = "%O% Slaves"
 		}
-		clone_army = { 
+		clone_army = {
 			sequential_name = "%O% Clones"
 		}
 		robotic_army = {
@@ -51,7 +51,7 @@ xan_st_borg = {
 		android_army = {
 			sequential_name = "%O% Androids"
 		}
-		psionic_army = { 
+		psionic_army = {
 			sequential_name = "%O% Psionic Drones"
 		}
 		xenomorph_army = {
@@ -65,48 +65,48 @@ xan_st_borg = {
 	planet_names = {
 		generic = {
 			names = {
-				'aucdet 10 1865-Alpha 892-IV AR-558 Aaamazzara Acamar Achrady Adarak Adelphous Adigeon Agaron Ahmedeen Ajilon Akritiri Alastria Aldea Aldebaran Aldebaron 
-				Alderaan "Alfa 177" Algeron Alondra Alpha "Alpha Balder" "Alpha Braga" "Alpha Carinae" "Alpha Cygnus" "Alpha Delphi" "Alpha Eridani" "Alpha Laputa" 
-				"Alpha Majoris" "Alpha Omicron" "Alpha Onias" Altair Alture Amerind Amleth Andevian Andor Andoria Andros Angel Angosia Antede Antica Antide Antos Arakis 
-				Archanis Archer Ardana Argelius Argo Argona Argratha "Argus X" Ariannus Arkaria Arlington Arloff Armus Arret Arvada Aschelan Atalia Atbar Athos Atifs Atlec 
-				Atrea Avenal Avery Axanar Azati B'Saari Babel Bajor Balancar Balosnee Banea Barisa Barkon Barradas Barson Barzan Beltane Benecia "Benev Selec" Benthos Benzar 
-				Berengaria Bernay Bersallis Beta "Beta Agni" "Beta Antares" "Beta Aquilae" "Beta Berman" "Beta Canopus" "Beta Eminiar" "Beta Penthe" "Beta Tottoro" 
-				"Beta Ursae Minor" "Beta'Elan Minor" Betazed "Beth Delta" Bezride Bilana "Blue Horizon" Bokara Bolarus Bopak Boraal Boradis Boranis Boreal Boreth Bozel Bracas 
-				Braslota Brax Bre'el Breen Brekka Brentalia Bringloid Browder Bryma Burala Bynaus Caere Calder Caldik Caldonia Caldos Caleb Callinon Calondia Camor Campor 
-				Camus Canopus "Canopus Major" Capella Cardassia Carema "Carinae Delta" Carraya Casperia Castal Catulla Celes Celtris Centauri "Centre Minor" Cerberus Cestus 
-				"Ceti Alpha" Chalna Chaltok Chandra Chaya Cheron Cirrus Coltar Coopersworld "Cor Caroli" Corgal Coridan Corinth Corvan Cygnet "Cygnia Minor" Cytrax Dakala 
-				Daled Dalvos Danula Daran Davlos Dayos Decos Dedestris Deinonychus Dekendi Delb Delinia Delios Delos "Delphi Ardu" Delta "Delta Rana" "Delta Theta" Deltaega 
-				Deneb Deneva Denius Denobula Deriben Dessica Detria Devidia Devos Dimorus Dinaal Donatu Doraf Dorvan Dozaria Draken Dramia Drayan Draygo Draylax Draylon Drema 
-				Dreon Dulisian Durenia "Dytallix B" Earth Eblar Eden Edos Ekos El-Adrel Elas Elba Emila Eminiar Enara Ennan Epsilon "Epsilon Ashanti" "Epsilon Canaris" 
-				"Epsilon Hydra" "Epsilon Wiltz" Epsilonndi Erabus Errikang Evadne Excalbia Exo Fahleena Faralos Farius Felton Fendaus Ferenginar Ferris Fina Finnea Folnar 
-				Forcas Forlat Gagarin Gaia Galador Galdonterre Galen Gallos Galor Galorda "Galorndon Core" Galvin Gamelan "Gamma Argus" "Gamma Hromi" "Gamma Hydra" 
-				"Gamma Tauri" "Gamma Trianguli" Gammaertis Ganalda Garadius Garon Gaspar Gault Gedi Gema Gemaris Gemulon Genesis Ghorusda Gideon Golana Golos Gonal Goralis 
-				Gothos Gravesworld H'atoria Ha'Dara Hakton Hanon Hanoran Harod Harrakis Haven Hekaras Hemikek Heva "Hispaniola Minor" Hoek "Holberg 917G" Holna Hurada Hurkos 
-				Iconia Icor Ilidaria Illyria Ilyra Inavar Indri Inferna "Ingraham B" Invernia "Iota Geminorum" Iraatan Isis Itamish Ivor Iyar Janus Japori Jaros Jouret 
-				Juhraya Jupiter Jura'assic Kabatris Kabrel Kaelon Kaferia Kaldra Kalla Kanda Kantare Karemma Kataan Kavaria "Kavis Alpha" Kei Kelva Kelvas Kenda Kendren 
-				Kentanna Kesprytt Kessik Keto-Enol Khefka Khitomer Khosla Klaestron Klavdia Klendth "Kohl settlement" Kolarus Kora Koralis Korma Korris Kostolain 
-				"Kotara Barath" Kraus Kreetassa Krios Ktaria Ktaris Kurill Kurl Kyana Kylata Kzin L-374 L-S Lactra Lamenda Landris Lappa Largo Latonaworld Lauren Lav'oti 
-				Lazon Ledonia Ledos Legara Lemma Lerishi Lessek Levinius Libra Ligobis Ligon Ligos Lilliput Lissepia Loracus Loren Loval Ludovko Luria Lya Lysia M'kemas M-113 
-				Maarek Mab-Bu Magus Makus Malaya Malcor Malindi Malkus Malon Manark Mantilles Manu Maranga Maravel Marcos Marcus Marejaretus Mariah Marijne Mariposa Marlonia 
-				Mars Marva Matalas Mataline Matiovsky "Maxia Zeta" Mazar Meezan Megas-Tu Meldrar Meles Melina Melnos Melona Merak Merik Midos Mikah Milika Minara Minnobia 
-				Minos Mintaka Miridian Mislen Mithren Mizar Moab Monac Mora Mordan Moreyworld Morikin Morska Motherlode Mudd Mudor Mundahla Myrmidon Nahmi Napinne Narendra 
-				Narva Nasreldine Nausicaa Nel Nelvana Neptune Nervala Neubilia Neural "New Bajor" "New Brooklyn" "New Earth" "New Gaul" "New Halana" "New Mecca" "New Paris" 
-				"New Sydney" Newulcan Nibia Nibiru Nimbus Ninipia Nivoch Norcadia Norellus Norpin Nyria Oby Oceanus Ogat Ogus Ohniaka Omega "Omega Centus" "Omega Cygni" 
-				Omekla Omicron "Omicron Ceti" "Omicron Theta" Ophiucus Oran'taku Orelious Orendal Organia Orias Orion Ornara Oshionian Osinar Otar Pacifica Paksor Pandro 
-				Panora Paraagan Parada Parliament Parsion "Peliar Zel" Pelleus Pentarus Pentath Penthara Pernaia Persephone Phanos Phylos Platonius Pluto Pollux Porakas 
-				Portas Posell Potak Prakal Preenos Prema Procyon "Psi 2000" "Psi Epsilon" "Psi Upsilon" Pullock Pyris Pythro Qo'noS Qu'Vat "Quadra Sigma" Qualor Quarra Quatal 
-				Quazulu Quinor Raatooras Rahm-Izad Rakella Rakhar Rakosa Ramatis Ramura Ranuos Rator Razna Regulak Regulus Rekag-Seronia Relva Remmil Remus "Rhymus Major" 
-				Rigel Risa Rivos Rochani Romulus Ronara Rondac Rosseau Ruah Rubicun Runara Rutia Sakura Salina Salva Sarona Sarpedion Sarpeidon Sarthong Saturn Scalos Secarus 
-				Sefalla "Seiji Major" "Selcundi Drema" Seldonis Selek "Sentinel Minor" "Septimis Minor" Septimus Seros Setlik "Sha Ka Ree" Shantil Sheva Shiralea 
-				"Sigma Draconis" "Sigma Tama" Sigmaotia Sikaris Simperia Sirius Sirrie Sobras Solais Solarion Solosos Soltok Sothis Soukara Stakoron Stameris Straleb Styris 
-				Sumiko Surata Suvin T'Lani "T'lli Beta" Tagra Tagus Takara Talax Talaxia Talos Tandar Tantalus Tanuga Tarakis Tarchannen Tarella Taresia Tarkalea Tarod Tarsas 
-				Tarsus Tartaras "Tau Ceti" "Tau Cygna" Taurus "Taurus Ceti" "Tavela Minor" Teerza Telemarius Telfas Tellar Telsius Teluridian Terlina Terosa "Terra 10" 
-				"Terra Nova" Tesnia Tessen Tessik Tethys Thalos Thanatos Thasus Thelka Therbia Theta "Theta Amano" "Theta Cygni" "Theta Omicron" "Theta Zibal" Thomsworld 
-				Tiburon Tilonus Timor Titus Tohvun Torad Toranius Torga Torman Torna Torona Torros Totoro Tracken Trelka Trelkis Triacus Trialas Triannon Trill Trillius 
-				Triskelion Troyius Turkana Tycho Tyree Tyrellia Tyrus Tyrusa Tzenketh Ufandi "Ultima Thule" Umoth Unefra Uranus Uxal Vacca Vadris Vagra Valakis Valo 
-				"Valt Minor" Vanden Vandros Varala Varria Vaytan Vega Velara Velos Veloz Vendikar Vendor Ventax Venus Verdanis Verex Veridian Vico Vilmor Vissia Volan Volchok 
-				Vulcan Wenselworld Wynsdey Wysanti Xanthras Xantoras "Xendi Sabu" Xerxes Xindus Yadalla Yadera Yuri Zadar Zakdorn Zalkon Zayra Zeon "Zeon Minor" "Zeta Alpha" 
-				"Zeta Antaras" Zetar Zytchin 
+				'aucdet 10 1865-Alpha 892-IV AR-558 Aaamazzara Acamar Achrady Adarak Adelphous Adigeon Agaron Ahmedeen Ajilon Akritiri Alastria Aldea Aldebaran Aldebaron
+				Alderaan "Alfa 177" Algeron Alondra Alpha "Alpha Balder" "Alpha Braga" "Alpha Carinae" "Alpha Cygnus" "Alpha Delphi" "Alpha Eridani" "Alpha Laputa"
+				"Alpha Majoris" "Alpha Omicron" "Alpha Onias" Altair Alture Amerind Amleth Andevian Andor Andoria Andros Angel Angosia Antede Antica Antide Antos Arakis
+				Archanis Archer Ardana Argelius Argo Argona Argratha "Argus X" Ariannus Arkaria Arlington Arloff Armus Arret Arvada Aschelan Atalia Atbar Athos Atifs Atlec
+				Atrea Avenal Avery Axanar Azati B'Saari Babel Bajor Balancar Balosnee Banea Barisa Barkon Barradas Barson Barzan Beltane Benecia "Benev Selec" Benthos Benzar
+				Berengaria Bernay Bersallis Beta "Beta Agni" "Beta Antares" "Beta Aquilae" "Beta Berman" "Beta Canopus" "Beta Eminiar" "Beta Penthe" "Beta Tottoro"
+				"Beta Ursae Minor" "Beta'Elan Minor" Betazed "Beth Delta" Bezride Bilana "Blue Horizon" Bokara Bolarus Bopak Boraal Boradis Boranis Boreal Boreth Bozel Bracas
+				Braslota Brax Bre'el Breen Brekka Brentalia Bringloid Browder Bryma Burala Bynaus Caere Calder Caldik Caldonia Caldos Caleb Callinon Calondia Camor Campor
+				Camus Canopus "Canopus Major" Capella Cardassia Carema "Carinae Delta" Carraya Casperia Castal Catulla Celes Celtris Centauri "Centre Minor" Cerberus Cestus
+				"Ceti Alpha" Chalna Chaltok Chandra Chaya Cheron Cirrus Coltar Coopersworld "Cor Caroli" Corgal Coridan Corinth Corvan Cygnet "Cygnia Minor" Cytrax Dakala
+				Daled Dalvos Danula Daran Davlos Dayos Decos Dedestris Deinonychus Dekendi Delb Delinia Delios Delos "Delphi Ardu" Delta "Delta Rana" "Delta Theta" Deltaega
+				Deneb Deneva Denius Denobula Deriben Dessica Detria Devidia Devos Dimorus Dinaal Donatu Doraf Dorvan Dozaria Draken Dramia Drayan Draygo Draylax Draylon Drema
+				Dreon Dulisian Durenia "Dytallix B" Earth Eblar Eden Edos Ekos El-Adrel Elas Elba Emila Eminiar Enara Ennan Epsilon "Epsilon Ashanti" "Epsilon Canaris"
+				"Epsilon Hydra" "Epsilon Wiltz" Epsilonndi Erabus Errikang Evadne Excalbia Exo Fahleena Faralos Farius Felton Fendaus Ferenginar Ferris Fina Finnea Folnar
+				Forcas Forlat Gagarin Gaia Galador Galdonterre Galen Gallos Galor Galorda "Galorndon Core" Galvin Gamelan "Gamma Argus" "Gamma Hromi" "Gamma Hydra"
+				"Gamma Tauri" "Gamma Trianguli" Gammaertis Ganalda Garadius Garon Gaspar Gault Gedi Gema Gemaris Gemulon Genesis Ghorusda Gideon Golana Golos Gonal Goralis
+				Gothos Gravesworld H'atoria Ha'Dara Hakton Hanon Hanoran Harod Harrakis Haven Hekaras Hemikek Heva "Hispaniola Minor" Hoek "Holberg 917G" Holna Hurada Hurkos
+				Iconia Icor Ilidaria Illyria Ilyra Inavar Indri Inferna "Ingraham B" Invernia "Iota Geminorum" Iraatan Isis Itamish Ivor Iyar Janus Japori Jaros Jouret
+				Juhraya Jupiter Jura'assic Kabatris Kabrel Kaelon Kaferia Kaldra Kalla Kanda Kantare Karemma Kataan Kavaria "Kavis Alpha" Kei Kelva Kelvas Kenda Kendren
+				Kentanna Kesprytt Kessik Keto-Enol Khefka Khitomer Khosla Klaestron Klavdia Klendth "Kohl settlement" Kolarus Kora Koralis Korma Korris Kostolain
+				"Kotara Barath" Kraus Kreetassa Krios Ktaria Ktaris Kurill Kurl Kyana Kylata Kzin L-374 L-S Lactra Lamenda Landris Lappa Largo Latonaworld Lauren Lav'oti
+				Lazon Ledonia Ledos Legara Lemma Lerishi Lessek Levinius Libra Ligobis Ligon Ligos Lilliput Lissepia Loracus Loren Loval Ludovko Luria Lya Lysia M'kemas M-113
+				Maarek Mab-Bu Magus Makus Malaya Malcor Malindi Malkus Malon Manark Mantilles Manu Maranga Maravel Marcos Marcus Marejaretus Mariah Marijne Mariposa Marlonia
+				Mars Marva Matalas Mataline Matiovsky "Maxia Zeta" Mazar Meezan Megas-Tu Meldrar Meles Melina Melnos Melona Merak Merik Midos Mikah Milika Minara Minnobia
+				Minos Mintaka Miridian Mislen Mithren Mizar Moab Monac Mora Mordan Moreyworld Morikin Morska Motherlode Mudd Mudor Mundahla Myrmidon Nahmi Napinne Narendra
+				Narva Nasreldine Nausicaa Nel Nelvana Neptune Nervala Neubilia Neural "New Bajor" "New Brooklyn" "New Earth" "New Gaul" "New Halana" "New Mecca" "New Paris"
+				"New Sydney" Newulcan Nibia Nibiru Nimbus Ninipia Nivoch Norcadia Norellus Norpin Nyria Oby Oceanus Ogat Ogus Ohniaka Omega "Omega Centus" "Omega Cygni"
+				Omekla Omicron "Omicron Ceti" "Omicron Theta" Ophiucus Oran'taku Orelious Orendal Organia Orias Orion Ornara Oshionian Osinar Otar Pacifica Paksor Pandro
+				Panora Paraagan Parada Parliament Parsion "Peliar Zel" Pelleus Pentarus Pentath Penthara Pernaia Persephone Phanos Phylos Platonius Pluto Pollux Porakas
+				Portas Posell Potak Prakal Preenos Prema Procyon "Psi 2000" "Psi Epsilon" "Psi Upsilon" Pullock Pyris Pythro Qo'noS Qu'Vat "Quadra Sigma" Qualor Quarra Quatal
+				Quazulu Quinor Raatooras Rahm-Izad Rakella Rakhar Rakosa Ramatis Ramura Ranuos Rator Razna Regulak Regulus Rekag-Seronia Relva Remmil Remus "Rhymus Major"
+				Rigel Risa Rivos Rochani Romulus Ronara Rondac Rosseau Ruah Rubicun Runara Rutia Sakura Salina Salva Sarona Sarpedion Sarpeidon Sarthong Saturn Scalos Secarus
+				Sefalla "Seiji Major" "Selcundi Drema" Seldonis Selek "Sentinel Minor" "Septimis Minor" Septimus Seros Setlik "Sha Ka Ree" Shantil Sheva Shiralea
+				"Sigma Draconis" "Sigma Tama" Sigmaotia Sikaris Simperia Sirius Sirrie Sobras Solais Solarion Solosos Soltok Sothis Soukara Stakoron Stameris Straleb Styris
+				Sumiko Surata Suvin T'Lani "T'lli Beta" Tagra Tagus Takara Talax Talaxia Talos Tandar Tantalus Tanuga Tarakis Tarchannen Tarella Taresia Tarkalea Tarod Tarsas
+				Tarsus Tartaras "Tau Ceti" "Tau Cygna" Taurus "Taurus Ceti" "Tavela Minor" Teerza Telemarius Telfas Tellar Telsius Teluridian Terlina Terosa "Terra 10"
+				"Terra Nova" Tesnia Tessen Tessik Tethys Thalos Thanatos Thasus Thelka Therbia Theta "Theta Amano" "Theta Cygni" "Theta Omicron" "Theta Zibal" Thomsworld
+				Tiburon Tilonus Timor Titus Tohvun Torad Toranius Torga Torman Torna Torona Torros Totoro Tracken Trelka Trelkis Triacus Trialas Triannon Trill Trillius
+				Triskelion Troyius Turkana Tycho Tyree Tyrellia Tyrus Tyrusa Tzenketh Ufandi "Ultima Thule" Umoth Unefra Uranus Uxal Vacca Vadris Vagra Valakis Valo
+				"Valt Minor" Vanden Vandros Varala Varria Vaytan Vega Velara Velos Veloz Vendikar Vendor Ventax Venus Verdanis Verex Veridian Vico Vilmor Vissia Volan Volchok
+				Vulcan Wenselworld Wynsdey Wysanti Xanthras Xantoras "Xendi Sabu" Xerxes Xindus Yadalla Yadera Yuri Zadar Zakdorn Zalkon Zayra Zeon "Zeon Minor" "Zeta Alpha"
+				"Zeta Antaras" Zetar Zytchin
 			}
 		}
 		pc_desert = {
@@ -159,7 +159,7 @@ xan_st_cardassian = {
 
 	ship_names = {
 		generic = {
-			Aldara Antares Barkano Bok'Nor Galor Groumall Hideki Keldon Koranak Kornaire Kraxon Prakesh Rabol Ravinok Reklar Trager Vetar 
+			Aldara Antares Barkano Bok'Nor Galor Groumall Hideki Keldon Koranak Kornaire Kraxon Prakesh Rabol Ravinok Reklar Trager Vetar
 		}
 		corvette = {}
 		constructor = {}
@@ -197,7 +197,7 @@ xan_st_cardassian = {
 		slave_army = {
 			sequential_name = "%O% Slaves"
 		}
-		clone_army = { 
+		clone_army = {
 			sequential_name = "%O% Clone Amry"
 		}
 		robotic_army = {
@@ -206,7 +206,7 @@ xan_st_cardassian = {
 		android_army = {
 			sequential_name = "%O% Androids"
 		}
-		psionic_army = { 
+		psionic_army = {
 			sequential_name = "%O% Psionic Army"
 		}
 		xenomorph_army = {
@@ -220,8 +220,8 @@ xan_st_cardassian = {
 	planet_names = {
 		generic = {
 			names = {
-				AR-558 Adarak Amleth Arawath Aschelan Atbar Avenal Bajor Cardassia Celtris Chin'toka Felton Goralis Kelvas Kora Korma Lazon Loval Monac Omekla Orias Pentath 
-				Pullock Quinor Rakal Regulak Rondac Sarpedion Septimus Sheva Simperia Soukara Torros Trelka Unefra Vanden Velos 
+				AR-558 Adarak Amleth Arawath Aschelan Atbar Avenal Bajor Cardassia Celtris Chin'toka Felton Goralis Kelvas Kora Korma Lazon Loval Monac Omekla Orias Pentath
+				Pullock Quinor Rakal Regulak Rondac Sarpedion Septimus Sheva Simperia Soukara Torros Trelka Unefra Vanden Velos
 			}
 		}
 		pc_desert = {
@@ -254,28 +254,28 @@ xan_st_cardassian = {
 		names1 = {
 			weight = 100
 			full_names = {
-				"Aamin Marritza" Ari Asha Benil Boheeka Borven Broca Bronok Brun Cazanjian Corak "Corbin Entek" "Crell Moset" "Curry Dan" Damar Danar Darhe'el Daro Dejar 
-				Delgado Dolak Dukat Ekoor "Elim Garak" "Enabran Tain" Evek "Gilora Rejal" Goris "H cont." Hadar Hogue Hovat "Hutzel Gary" "Iliana Ghemor" "Iloja of Prim" 
-				Jasad "Jil Orra" "Joret Dal" Kamar Kattell Kell Korinas "Kotan Pa'Dar" Kovat Krim Lasaran Lemec Lonar Macet Madred Makbar Marayn Marratt Mavek Mekor Memad 
-				Mila Nador "Nanpart Malor" "Natima Lang" Ocett "P cont." Parmak Parn Pirak Porania Preloc Prenar Ranor "Raymond Boone" Rekelen Revok Rugal Rusot Russol Seltan 
-				Seska Seskal Shoggoth Siana "Silaran Prin" Spumco "Stipes David" Surjak Tajor "Tavor Kell" "Tekeny Ghemor" Telak Telle Thrax "Tora Ziyal" Toran Trepar Tulet 
-				Turrel "Ulani Belor" Vorlem Vornar Yaltar Zarale 
+				"Aamin Marritza" Ari Asha Benil Boheeka Borven Broca Bronok Brun Cazanjian Corak "Corbin Entek" "Crell Moset" "Curry Dan" Damar Danar Darhe'el Daro Dejar
+				Delgado Dolak Dukat Ekoor "Elim Garak" "Enabran Tain" Evek "Gilora Rejal" Goris "H cont." Hadar Hogue Hovat "Hutzel Gary" "Iliana Ghemor" "Iloja of Prim"
+				Jasad "Jil Orra" "Joret Dal" Kamar Kattell Kell Korinas "Kotan Pa'Dar" Kovat Krim Lasaran Lemec Lonar Macet Madred Makbar Marayn Marratt Mavek Mekor Memad
+				Mila Nador "Nanpart Malor" "Natima Lang" Ocett "P cont." Parmak Parn Pirak Porania Preloc Prenar Ranor "Raymond Boone" Rekelen Revok Rugal Rusot Russol Seltan
+				Seska Seskal Shoggoth Siana "Silaran Prin" Spumco "Stipes David" Surjak Tajor "Tavor Kell" "Tekeny Ghemor" Telak Telle Thrax "Tora Ziyal" Toran Trepar Tulet
+				Turrel "Ulani Belor" Vorlem Vornar Yaltar Zarale
 			}
 			regnal_first_names_male = {
-				"Aamin Marritza" Ari Asha Benil Boheeka Borven Broca Bronok Brun Cazanjian Corak "Corbin Entek" "Crell Moset" "Curry Dan" Damar Danar Darhe'el Daro Dejar 
-				Delgado Dolak Dukat Ekoor "Elim Garak" "Enabran Tain" Evek "Gilora Rejal" Goris "H cont." Hadar Hogue Hovat "Hutzel Gary" "Iliana Ghemor" "Iloja of Prim" 
-				Jasad "Jil Orra" "Joret Dal" Kamar Kattell Kell Korinas "Kotan Pa'Dar" Kovat Krim Lasaran Lemec Lonar Macet Madred Makbar Marayn Marratt Mavek Mekor Memad 
-				Mila Nador "Nanpart Malor" "Natima Lang" Ocett "P cont." Parmak Parn Pirak Porania Preloc Prenar Ranor "Raymond Boone" Rekelen Revok Rugal Rusot Russol Seltan 
-				Seska Seskal Shoggoth Siana "Silaran Prin" Spumco "Stipes David" Surjak Tajor "Tavor Kell" "Tekeny Ghemor" Telak Telle Thrax "Tora Ziyal" Toran Trepar Tulet 
-				Turrel "Ulani Belor" Vorlem Vornar Yaltar Zarale 
+				"Aamin Marritza" Ari Asha Benil Boheeka Borven Broca Bronok Brun Cazanjian Corak "Corbin Entek" "Crell Moset" "Curry Dan" Damar Danar Darhe'el Daro Dejar
+				Delgado Dolak Dukat Ekoor "Elim Garak" "Enabran Tain" Evek "Gilora Rejal" Goris "H cont." Hadar Hogue Hovat "Hutzel Gary" "Iliana Ghemor" "Iloja of Prim"
+				Jasad "Jil Orra" "Joret Dal" Kamar Kattell Kell Korinas "Kotan Pa'Dar" Kovat Krim Lasaran Lemec Lonar Macet Madred Makbar Marayn Marratt Mavek Mekor Memad
+				Mila Nador "Nanpart Malor" "Natima Lang" Ocett "P cont." Parmak Parn Pirak Porania Preloc Prenar Ranor "Raymond Boone" Rekelen Revok Rugal Rusot Russol Seltan
+				Seska Seskal Shoggoth Siana "Silaran Prin" Spumco "Stipes David" Surjak Tajor "Tavor Kell" "Tekeny Ghemor" Telak Telle Thrax "Tora Ziyal" Toran Trepar Tulet
+				Turrel "Ulani Belor" Vorlem Vornar Yaltar Zarale
 			}
 			regnal_first_names_female = {
-				"Aamin Marritza" Ari Asha Benil Boheeka Borven Broca Bronok Brun Cazanjian Corak "Corbin Entek" "Crell Moset" "Curry Dan" Damar Danar Darhe'el Daro Dejar 
-				Delgado Dolak Dukat Ekoor "Elim Garak" "Enabran Tain" Evek "Gilora Rejal" Goris "H cont." Hadar Hogue Hovat "Hutzel Gary" "Iliana Ghemor" "Iloja of Prim" 
-				Jasad "Jil Orra" "Joret Dal" Kamar Kattell Kell Korinas "Kotan Pa'Dar" Kovat Krim Lasaran Lemec Lonar Macet Madred Makbar Marayn Marratt Mavek Mekor Memad 
-				Mila Nador "Nanpart Malor" "Natima Lang" Ocett "P cont." Parmak Parn Pirak Porania Preloc Prenar Ranor "Raymond Boone" Rekelen Revok Rugal Rusot Russol Seltan 
-				Seska Seskal Shoggoth Siana "Silaran Prin" Spumco "Stipes David" Surjak Tajor "Tavor Kell" "Tekeny Ghemor" Telak Telle Thrax "Tora Ziyal" Toran Trepar Tulet 
-				Turrel "Ulani Belor" Vorlem Vornar Yaltar Zarale 
+				"Aamin Marritza" Ari Asha Benil Boheeka Borven Broca Bronok Brun Cazanjian Corak "Corbin Entek" "Crell Moset" "Curry Dan" Damar Danar Darhe'el Daro Dejar
+				Delgado Dolak Dukat Ekoor "Elim Garak" "Enabran Tain" Evek "Gilora Rejal" Goris "H cont." Hadar Hogue Hovat "Hutzel Gary" "Iliana Ghemor" "Iloja of Prim"
+				Jasad "Jil Orra" "Joret Dal" Kamar Kattell Kell Korinas "Kotan Pa'Dar" Kovat Krim Lasaran Lemec Lonar Macet Madred Makbar Marayn Marratt Mavek Mekor Memad
+				Mila Nador "Nanpart Malor" "Natima Lang" Ocett "P cont." Parmak Parn Pirak Porania Preloc Prenar Ranor "Raymond Boone" Rekelen Revok Rugal Rusot Russol Seltan
+				Seska Seskal Shoggoth Siana "Silaran Prin" Spumco "Stipes David" Surjak Tajor "Tavor Kell" "Tekeny Ghemor" Telak Telle Thrax "Tora Ziyal" Toran Trepar Tulet
+				Turrel "Ulani Belor" Vorlem Vornar Yaltar Zarale
 			}
 			regnal_second_names = {}
 		}
@@ -338,7 +338,7 @@ xan_st_dominion = {
 			"Medium Jem'Hadar station"
 		}
 		military_station_large = {
-			"Large Jem'Hadar station"		
+			"Large Jem'Hadar station"
 		}
 	}
 
@@ -475,20 +475,20 @@ xan_st_federation = {
 
 	ship_names = {
 		generic = {
-			Adelphi Aeon Agamemnon Ahwahnee Ajax Akagi Al-Batani "Albert Einstein" Aleo Alka-Selsior Antares Appalachia Archer Archon Arcos Ariel Aries Armstrong Atlantis 
-			"Baton Rouge" Bellerophon Berlin Biko Billings Bonaventure Bonchune Bozeman Bradbury Brattain Budapest Buran Cairo Callisto Carolina Centaur Challenger 
-			Charleston Chekov Chicago Clavyn Clement Cochrane Columbia Concord Constantinople Constellation Copernicus Cortéz "Crazy Horse" Crockett Curry D'hjty Defiant 
-			Denver Destiny Discovery Donovan Drake Eagle "Elmer Fudd" Emden Endeavour Entente Enterprise Equicon Equinox Essex Excalibur Excelsior Exeter Farragut 
-			Fearless Firebrand Fleming Franklin Fredrickson G'Mat Galaxy Gander Gandhi Ganges Garuda Gettysburg Goddard Gorkon Gremlin Grissom Hathaway Havana 
-			"Heart of Gold" Helin Hemingway Hera Hermes Hispaniola Honshu Hood Horatio Horizon Hornet Huron Intrepid "James Fenimore Cooper" Jenolan "John F. Kennedy" 
-			"John Muir" Kearsarge Kelvin "Kobayashi Maru" Kongo Korolev Kyushu LaSalle Lakota Lalo Lantree Leeds Lexington Liberator Livingston Madison Magellan Majestic 
-			Malinche Malone Maryland "Matte Fringe" "Max Planck" Mekong Melbourne Merrimac Min'ow Minnow Monitor Muleskinner Musashi Mustang Nash Nautilus "Niels Bohr" 
-			Nightwing Nobel Noble "Non Sequitur" Northridge Nova Oberth Odyssey Okinawa Olympia "Omaha Nebraska" Orinoco Pasteur Pathfinder Pegasus Petersen Philadelphia 
-			Phoenix Portland Potemkin Princeton Prokofiev Prometheus Proxima Ptolemy Pueblo "Puget Sound" "Raging Queen" Raman Relativity Reliant Renegade Republic 
-			Repulse Revere "Rhode Island" "Rio Grande" "Robert Louis Stevenson" Roosevelt Rubicon Rutledge "Sao Paulo" Sarajevo Saratoga Sarek Scovil Seaquest Seaview 
-			Sentinel Shenandoah Shepard "Shiku Maru" ShirKahr Silversides Sitak Springfield Stargazer Strata Suleiman Sutherland Syracuse T'Kumbra Tecumseh "Thomas Paine" 
-			"Tian Nan Men" Ticonderoga Titan Tolstoy Tombaugh "Tranquility Base" Trieste Tripoli Truman Tsiolkovsky Tycho Ulysses Unicorn Valdemar Valiant "Valley Forge" 
-			Venture Veracruz Victory Volga Voyager Wellington Whorfin Wyoming Yamaguchi Yamato "Yangtzee Kiang" Yeager Yellowstone Yorktown Yosemite Yukon Zapata Zhukov 
+			Adelphi Aeon Agamemnon Ahwahnee Ajax Akagi Al-Batani "Albert Einstein" Aleo Alka-Selsior Antares Appalachia Archer Archon Arcos Ariel Aries Armstrong Atlantis
+			"Baton Rouge" Bellerophon Berlin Biko Billings Bonaventure Bonchune Bozeman Bradbury Brattain Budapest Buran Cairo Callisto Carolina Centaur Challenger
+			Charleston Chekov Chicago Clavyn Clement Cochrane Columbia Concord Constantinople Constellation Copernicus Cortéz "Crazy Horse" Crockett Curry D'hjty Defiant
+			Denver Destiny Discovery Donovan Drake Eagle "Elmer Fudd" Emden Endeavour Entente Enterprise Equicon Equinox Essex Excalibur Excelsior Exeter Farragut
+			Fearless Firebrand Fleming Franklin Fredrickson G'Mat Galaxy Gander Gandhi Ganges Garuda Gettysburg Goddard Gorkon Gremlin Grissom Hathaway Havana
+			"Heart of Gold" Helin Hemingway Hera Hermes Hispaniola Honshu Hood Horatio Horizon Hornet Huron Intrepid "James Fenimore Cooper" Jenolan "John F. Kennedy"
+			"John Muir" Kearsarge Kelvin "Kobayashi Maru" Kongo Korolev Kyushu LaSalle Lakota Lalo Lantree Leeds Lexington Liberator Livingston Madison Magellan Majestic
+			Malinche Malone Maryland "Matte Fringe" "Max Planck" Mekong Melbourne Merrimac Min'ow Minnow Monitor Muleskinner Musashi Mustang Nash Nautilus "Niels Bohr"
+			Nightwing Nobel Noble "Non Sequitur" Northridge Nova Oberth Odyssey Okinawa Olympia "Omaha Nebraska" Orinoco Pasteur Pathfinder Pegasus Petersen Philadelphia
+			Phoenix Portland Potemkin Princeton Prokofiev Prometheus Proxima Ptolemy Pueblo "Puget Sound" "Raging Queen" Raman Relativity Reliant Renegade Republic
+			Repulse Revere "Rhode Island" "Rio Grande" "Robert Louis Stevenson" Roosevelt Rubicon Rutledge "Sao Paulo" Sarajevo Saratoga Sarek Scovil Seaquest Seaview
+			Sentinel Shenandoah Shepard "Shiku Maru" ShirKahr Silversides Sitak Springfield Stargazer Strata Suleiman Sutherland Syracuse T'Kumbra Tecumseh "Thomas Paine"
+			"Tian Nan Men" Ticonderoga Titan Tolstoy Tombaugh "Tranquility Base" Trieste Tripoli Truman Tsiolkovsky Tycho Ulysses Unicorn Valdemar Valiant "Valley Forge"
+			Venture Veracruz Victory Volga Voyager Wellington Whorfin Wyoming Yamaguchi Yamato "Yangtzee Kiang" Yeager Yellowstone Yorktown Yosemite Yukon Zapata Zhukov
 		}
 		corvette = {}
 		constructor = {}
@@ -524,7 +524,7 @@ xan_st_federation = {
 		slave_army = {
 			sequential_name = "%O% Slaves"
 		}
-		clone_army = { 
+		clone_army = {
 			sequential_name = "%O% Clone Amry"
 		}
 		robotic_army = {
@@ -533,7 +533,7 @@ xan_st_federation = {
 		android_army = {
 			sequential_name = "%O% Androids"
 		}
-		psionic_army = { 
+		psionic_army = {
 			sequential_name = "%O% Psionic Army"
 		}
 		xenomorph_army = {
@@ -547,9 +547,9 @@ xan_st_federation = {
 	planet_names = {
 		generic = {
 			names = {
-				Ajilon Alpha "Alpha Centauri" "Alpha Proxima" Andoria Archer Ardana Arvada Babel Benzar Betazed Bolarus Caldos Castal Cestus Coltar Coridan Danula Decos Delta 
-				"Delta Rana" Dorath Elba Erde Fillandia Galen "Gamma Hydra" Gault Inferna Ivor Jouret Kessik Khefka Ktaris Mantilles "Minos Korva" Norpin Penthara Qualor Risa 
-				Setlik Styris Tellar Trill Volan Vulkan 
+				Ajilon Alpha "Alpha Centauri" "Alpha Proxima" Andoria Archer Ardana Arvada Babel Benzar Betazed Bolarus Caldos Castal Cestus Coltar Coridan Danula Decos Delta
+				"Delta Rana" Dorath Elba Erde Fillandia Galen "Gamma Hydra" Gault Inferna Ivor Jouret Kessik Khefka Ktaris Mantilles "Minos Korva" Norpin Penthara Qualor Risa
+				Setlik Styris Tellar Trill Volan Vulkan
 			}
 		}
 		pc_desert = {
@@ -582,42 +582,42 @@ xan_st_federation = {
 		names1 = {
 			weight = 100
 			full_names = {
-				Aaron Abdon Alans Albert Alden "Alynna Nechayev" "Alyssa Ogawa" Amaro Amasov "Anaanda Ziff" "Angela Martine" "Ann Mullhall" "Anne Nored" "April Anaya" 
-				"Aquiel Uhnari" "Areel Shaw" Arex Argyle "Arlene Galway" "Arthur Coleman" Ashmore Ayala "B'Elanna Torres" "B.G. Robinson" Ballard "Barbara Covington" Barnaby 
-				Barnhart Barstow Bartel Bates Beach Bell "Benjamin Finney" "Benjamin Lafayette Sisko" "Benjamin Maxwell" Bennet Bennett Berkeley "Beverly Crusher" Bilecki 
-				Bill Blackwood Bob "Bob Blackman" Boma Boq'ta Boyce Brackett Branch Brand Branson Brenner Brent Brevelle Briel Brink Brooks Brossmer Brower "Bruce Maddox" 
-				"Bryce Shumar" Budrow Burke Cabot "Calvin Hudson" "Calvin Hutchinson" Carlisle Carolyn Carson Carstairs Carter Cartwright Carver Casey Cavit Chakotay Chandler 
-				Chandra Chang "Chantal Zaheva" "Charlene Masters" "Charles Young" "Charlie Reynolds" Chekote Chell Cheney "Christine Chapel" "Christopher Hobson" 
-				"Christopher Pike" Chu'lak Clancy "Clark Terrell" "Claudia Craig" Cleary Coburn Collins Compton Conklin Connors Corelki Corrigan "Cortin Zweller" Costa Craig 
-				Curtis D'Amato "D. Wise" "Daniel Curry" "Daniel Kwan" Daniels "Darian Wallace" Darnell Data "Dave Bailey" Davis Davison "Dawn Velazquez" "Dawson Walking Bear" 
-				Dax DePaul DeSalle "Deanna Troi" "Demora Sulu" "Dexter Remmick" DiFalco "Dick Brownfield" Dickerson Diego "Dmitri Valtane" "Donald Varley" "Dorian Collins" 
-				"Doris Atkins" "Dorothy Chang" Duffy Durst "Ed Charnock Jr." "Edward Jellico" "Edward La Forge" Eiger "Elizabeth Braswell" "Elizabeth Dehner" Elliot 
-				"Enrique Muniz" Enwright "Erik Pressman" "Erika Benteen" Erikson "Esteban Rodriguez" Evans "Ezri Dax" Farrell Fields Finnegan Fisher Fitzgerald Fitzpatrick 
-				Foster Franklin Freeman "G. Roddenberry" Gabler Gaetano Galloway Garrison Garrovick Garth "Gary Mitchell" Gates "Geordi La Forge" Gibson Gilles Giotto Giusti 
-				Grant Green "Gregory Quinn" "H. Zimmerman" Hadley Hansen Harold Harper Harris Harrison "Harry Bernard" "Harry Brand" "Harry Kim" "Harry Morrow" "Hars Adislo" 
-				Hawk Hayes "Hector Ilario" "Helen Johansson" "Helen Noel" Hendorff "Hikaru Sulu" Hildebrant "Hoshi Sato" Hoya Humbolt "Ian Andrew Troi" Ilia Immamura 
-				"Irina Galliulin" "J. Bartlett" "J. Swift" "J.M. Colt" "J.P. Hanson" "J.T. Esteban" "Jack Crusher" Jackson "Jacques Romaine" "Jadzia Dax" James 
-				"James T. Kirk" "Jana Haines" "Janet Brooks" Janeway "Janice Lester" "Janice Rand" Janklow "Jean-Luc Picard" "Jenna D'Sora" "Jenny Delaney" "Jim Shimoda" 
-				"Joe Chess" "Joe Tormolen" "Joel Randolph" "John B. Watkins" "John Bowler" "John Farrell" "John Harriman" Johnson "Jonathan Archer" Jordan "José Dominguez" 
-				"José I. Mendez" "José Tyler" "Joseph Carey" Josephs "Joshua Albert" "Julian Bashir" Kaplan "Karen Farris" "Karen Loews" "Karen Tracy" "Karl Jaeger" 
-				"Katherine Pulaski" "Kathryn Janeway" Kellin Kelowitz Kennelly "Kenny Lin" Keogh "Kevin Riley" Komack Kopf Kosinski Krasnovsky "Kurt Bendera" Kyle Lang 
-				"Larry Matson" Latimer "Lee Kelso" "Leonard H. McCoy" Leslie "Leslie Thompson" Lewis "Lewis Zimmerman" "Lian T'Su" "Linda Larson" Lindstrom "Lisa Neeley" 
-				Lojur "Lon Suder" Lopez Lynch "Lyndsay Ballard" M'Benga M'ress "Maddy Calloway" Mallory "Manuele Atoa" "Marc Brooks" "Margaret Clark" "Mariah Henley" 
-				"Marie Kaplan" "Marika Wilkarah" "Mark Piper" "Marla Gilmore" "Marla McGivers" "Marlena Moreau" Marple "Marta Batanides" "Martha Landon" Masada Mathews 
-				"Matt Decker" "Matt Franklin" "Maxwell Burke" McCauley McKnight Mears "Megan Delaney" "Melora Pazlar" Mendon "Michael Eddington" Mike "Miles O'Brien" 
-				"Mira Romaine" Montgomery "Montgomery Scott" "Morgan Bateson" "Morgan Kelly" "Mortimer Harren" Mulcahey Murphy "Nadja Larkin" Nagel Nakamura "Nancy Randolph" 
-				Nara "Natasha Yar" "Nella Daren" "Nicholas Locarno" "Noah Lessing" Nog Nogura "Norah Satie" "Nummer Eins" O'Herlihy O'Neil O'Neill O'Shea "Orfil Quinteros" 
-				Osborne "Owen Paris" Painter Palmer "Paul Bogrow" "Paul Porter" "Pavel A. Chekov" "Paxton Reese" Pecetti Perez Perim "Pete Harkins" "Peter Preston" 
-				"Phillip Boyce" "Phillipa Louvois" Phillips Piper Pitcairn Probert "R.M. Merik" Rahda Ramart "Randi Bryce" Rawlins Rayburn "Reginald Barclay" "Richard Balder" 
-				"Richard Barnett" "Richard Castillo" "Richard Chronister" Richardson "Rick Berman" "Rick Bittle" "Riley Aldrin Shepard" "Rita Tannenbaum" Rixx Rizzo 
-				"Ro Laren" "Robert April" "Robert DeSoto" "Robert L. Comack" "Robert L. Comsol" "Robert Tomlinson" "Robert Wesley" "Robin Lefler" "Roger Lemli" 
-				"Ronald Tracey" Ross Rowe "Rudolph Ransom" Russ Ryan Saavik Sam "Sam Lavelle" "Samantha Wildman" Samno Sanchez Sanders "Sarah April" "Sarah MacDougal" Satelk 
-				Savar Selar Seska Shanti Shea Shelby "Shirley Brand" "Silva La Forge" "Simon Tarses" Singh Sitak "Sito Jaxa" Smith Solok Sonak "Sonya Gomez" Spinelli Spock 
-				Stadi "Steven Mullen" Stevens Stiles Stocker Stolzof Stone Sturgeon Styles "Susan Nicoletti" "Susanna Leijten" T'Lara T'Lor "T. Ziegler" Taggert Taitt 
-				"Tal Celes" Tamura Tankris Taurik Teller "Teresa Ross" "Tess Allenby" Thelin "Thomas Eugene Paris" "Thomas Henry" "Thomas Riker" Thule "Tim Watters" Timothy 
-				"Tina Lawton" "Tom Conley" "Tom Markel" "Tom Nellis" "Tonia Borrows" Travers "Travis Mayweather" Trillya "Tryla Scott" Tuvok Uhura "Uttan Narsu" Valeris 
-				Vargas Vinci Vorik "Walker Keel" "Walter J. Pierce" Washburn Watley Watson "Wesley Crusher" West "Willard Decker" "William Ross" "William Smillie" 
-				"William T. Riker" "William Yates" Wiloughby Wilson Worf Wyatt Xon Yosa Zahra Zakarian "Zim Brott" Zimbata 
+				Aaron Abdon Alans Albert Alden "Alynna Nechayev" "Alyssa Ogawa" Amaro Amasov "Anaanda Ziff" "Angela Martine" "Ann Mullhall" "Anne Nored" "April Anaya"
+				"Aquiel Uhnari" "Areel Shaw" Arex Argyle "Arlene Galway" "Arthur Coleman" Ashmore Ayala "B'Elanna Torres" "B.G. Robinson" Ballard "Barbara Covington" Barnaby
+				Barnhart Barstow Bartel Bates Beach Bell "Benjamin Finney" "Benjamin Lafayette Sisko" "Benjamin Maxwell" Bennet Bennett Berkeley "Beverly Crusher" Bilecki
+				Bill Blackwood Bob "Bob Blackman" Boma Boq'ta Boyce Brackett Branch Brand Branson Brenner Brent Brevelle Briel Brink Brooks Brossmer Brower "Bruce Maddox"
+				"Bryce Shumar" Budrow Burke Cabot "Calvin Hudson" "Calvin Hutchinson" Carlisle Carolyn Carson Carstairs Carter Cartwright Carver Casey Cavit Chakotay Chandler
+				Chandra Chang "Chantal Zaheva" "Charlene Masters" "Charles Young" "Charlie Reynolds" Chekote Chell Cheney "Christine Chapel" "Christopher Hobson"
+				"Christopher Pike" Chu'lak Clancy "Clark Terrell" "Claudia Craig" Cleary Coburn Collins Compton Conklin Connors Corelki Corrigan "Cortin Zweller" Costa Craig
+				Curtis D'Amato "D. Wise" "Daniel Curry" "Daniel Kwan" Daniels "Darian Wallace" Darnell Data "Dave Bailey" Davis Davison "Dawn Velazquez" "Dawson Walking Bear"
+				Dax DePaul DeSalle "Deanna Troi" "Demora Sulu" "Dexter Remmick" DiFalco "Dick Brownfield" Dickerson Diego "Dmitri Valtane" "Donald Varley" "Dorian Collins"
+				"Doris Atkins" "Dorothy Chang" Duffy Durst "Ed Charnock Jr." "Edward Jellico" "Edward La Forge" Eiger "Elizabeth Braswell" "Elizabeth Dehner" Elliot
+				"Enrique Muniz" Enwright "Erik Pressman" "Erika Benteen" Erikson "Esteban Rodriguez" Evans "Ezri Dax" Farrell Fields Finnegan Fisher Fitzgerald Fitzpatrick
+				Foster Franklin Freeman "G. Roddenberry" Gabler Gaetano Galloway Garrison Garrovick Garth "Gary Mitchell" Gates "Geordi La Forge" Gibson Gilles Giotto Giusti
+				Grant Green "Gregory Quinn" "H. Zimmerman" Hadley Hansen Harold Harper Harris Harrison "Harry Bernard" "Harry Brand" "Harry Kim" "Harry Morrow" "Hars Adislo"
+				Hawk Hayes "Hector Ilario" "Helen Johansson" "Helen Noel" Hendorff "Hikaru Sulu" Hildebrant "Hoshi Sato" Hoya Humbolt "Ian Andrew Troi" Ilia Immamura
+				"Irina Galliulin" "J. Bartlett" "J. Swift" "J.M. Colt" "J.P. Hanson" "J.T. Esteban" "Jack Crusher" Jackson "Jacques Romaine" "Jadzia Dax" James
+				"James T. Kirk" "Jana Haines" "Janet Brooks" Janeway "Janice Lester" "Janice Rand" Janklow "Jean-Luc Picard" "Jenna D'Sora" "Jenny Delaney" "Jim Shimoda"
+				"Joe Chess" "Joe Tormolen" "Joel Randolph" "John B. Watkins" "John Bowler" "John Farrell" "John Harriman" Johnson "Jonathan Archer" Jordan "José Dominguez"
+				"José I. Mendez" "José Tyler" "Joseph Carey" Josephs "Joshua Albert" "Julian Bashir" Kaplan "Karen Farris" "Karen Loews" "Karen Tracy" "Karl Jaeger"
+				"Katherine Pulaski" "Kathryn Janeway" Kellin Kelowitz Kennelly "Kenny Lin" Keogh "Kevin Riley" Komack Kopf Kosinski Krasnovsky "Kurt Bendera" Kyle Lang
+				"Larry Matson" Latimer "Lee Kelso" "Leonard H. McCoy" Leslie "Leslie Thompson" Lewis "Lewis Zimmerman" "Lian T'Su" "Linda Larson" Lindstrom "Lisa Neeley"
+				Lojur "Lon Suder" Lopez Lynch "Lyndsay Ballard" M'Benga M'ress "Maddy Calloway" Mallory "Manuele Atoa" "Marc Brooks" "Margaret Clark" "Mariah Henley"
+				"Marie Kaplan" "Marika Wilkarah" "Mark Piper" "Marla Gilmore" "Marla McGivers" "Marlena Moreau" Marple "Marta Batanides" "Martha Landon" Masada Mathews
+				"Matt Decker" "Matt Franklin" "Maxwell Burke" McCauley McKnight Mears "Megan Delaney" "Melora Pazlar" Mendon "Michael Eddington" Mike "Miles O'Brien"
+				"Mira Romaine" Montgomery "Montgomery Scott" "Morgan Bateson" "Morgan Kelly" "Mortimer Harren" Mulcahey Murphy "Nadja Larkin" Nagel Nakamura "Nancy Randolph"
+				Nara "Natasha Yar" "Nella Daren" "Nicholas Locarno" "Noah Lessing" Nog Nogura "Norah Satie" "Nummer Eins" O'Herlihy O'Neil O'Neill O'Shea "Orfil Quinteros"
+				Osborne "Owen Paris" Painter Palmer "Paul Bogrow" "Paul Porter" "Pavel A. Chekov" "Paxton Reese" Pecetti Perez Perim "Pete Harkins" "Peter Preston"
+				"Phillip Boyce" "Phillipa Louvois" Phillips Piper Pitcairn Probert "R.M. Merik" Rahda Ramart "Randi Bryce" Rawlins Rayburn "Reginald Barclay" "Richard Balder"
+				"Richard Barnett" "Richard Castillo" "Richard Chronister" Richardson "Rick Berman" "Rick Bittle" "Riley Aldrin Shepard" "Rita Tannenbaum" Rixx Rizzo
+				"Ro Laren" "Robert April" "Robert DeSoto" "Robert L. Comack" "Robert L. Comsol" "Robert Tomlinson" "Robert Wesley" "Robin Lefler" "Roger Lemli"
+				"Ronald Tracey" Ross Rowe "Rudolph Ransom" Russ Ryan Saavik Sam "Sam Lavelle" "Samantha Wildman" Samno Sanchez Sanders "Sarah April" "Sarah MacDougal" Satelk
+				Savar Selar Seska Shanti Shea Shelby "Shirley Brand" "Silva La Forge" "Simon Tarses" Singh Sitak "Sito Jaxa" Smith Solok Sonak "Sonya Gomez" Spinelli Spock
+				Stadi "Steven Mullen" Stevens Stiles Stocker Stolzof Stone Sturgeon Styles "Susan Nicoletti" "Susanna Leijten" T'Lara T'Lor "T. Ziegler" Taggert Taitt
+				"Tal Celes" Tamura Tankris Taurik Teller "Teresa Ross" "Tess Allenby" Thelin "Thomas Eugene Paris" "Thomas Henry" "Thomas Riker" Thule "Tim Watters" Timothy
+				"Tina Lawton" "Tom Conley" "Tom Markel" "Tom Nellis" "Tonia Borrows" Travers "Travis Mayweather" Trillya "Tryla Scott" Tuvok Uhura "Uttan Narsu" Valeris
+				Vargas Vinci Vorik "Walker Keel" "Walter J. Pierce" Washburn Watley Watson "Wesley Crusher" West "Willard Decker" "William Ross" "William Smillie"
+				"William T. Riker" "William Yates" Wiloughby Wilson Worf Wyatt Xon Yosa Zahra Zakarian "Zim Brott" Zimbata
 			}
 			regnal_first_names_male = {
 				Benjamin James "Jean-Luc" Jonathan Spock William Worf
@@ -639,14 +639,14 @@ xan_st_ferengi = {
 
 	ship_names = {
 		generic = {
-			Abundance Acquisition Actuary Adeel Affidavit Affluence Allotment Alltier Amortize Andrion Annex Annuity Appraiser Arbitrage Arbitration Aroon-6845 Arrears 
-			Asin Assay Assessor "Audit's Spoils" Auditor Avarice Avonia "Barzan Explorer" Bestan Bokira Bovris-3 Braktel Capitalist Cas-Muvna Cas-Vegga Cerendost Chulebas 
-			Cimmakral Client Commerce Commission Company Compound Contrarian Contribution Cr Crell D'kora Dajesswimax Dalion Deyer Domu Dussooron Edja Garvan Geldonero 
-			"Golden Handshake" Hakmeguluta Hartan Himpos-480 Hnandil-7 Idjos-Mian Igen Karfidamar Karluk Keechvar Kekron Kimel-Mirom Korr Kraalor Kramora Krannek Krayton 
-			Krayvis Kreechta Kyrasam "Latinum Queen" "Leveraged Buyout" Masti-Skaden Merchant Merger Mes-Vatra Minolbranyn Moorii Mroola-Ran Mroxor Muntol Nam-Breth Nandi 
-			Napibame-12 Neelin-4 Negotiator Nerrak Notary Ob-Strori Oetalgolor Ondik Perko-368 Preekon Qartum "Quark's Treasure" Rard-Pis Rariromia "Rational Profit" 
-			Ribrut SS Baroness Salia Salvu-Eten Sapte "Seventy-Fifth Rule" "Shadow's Folly" Soodii Tadinia Tampanium Tenyt Tinnarr Togram "Treasure of Zix" Usotroo 
-			Varkart Venture Vulpecula Warale Wealth Windfall Yag-Dhul Zarlax Zedavaton 
+			Abundance Acquisition Actuary Adeel Affidavit Affluence Allotment Alltier Amortize Andrion Annex Annuity Appraiser Arbitrage Arbitration Aroon-6845 Arrears
+			Asin Assay Assessor "Audit's Spoils" Auditor Avarice Avonia "Barzan Explorer" Bestan Bokira Bovris-3 Braktel Capitalist Cas-Muvna Cas-Vegga Cerendost Chulebas
+			Cimmakral Client Commerce Commission Company Compound Contrarian Contribution Cr Crell D'kora Dajesswimax Dalion Deyer Domu Dussooron Edja Garvan Geldonero
+			"Golden Handshake" Hakmeguluta Hartan Himpos-480 Hnandil-7 Idjos-Mian Igen Karfidamar Karluk Keechvar Kekron Kimel-Mirom Korr Kraalor Kramora Krannek Krayton
+			Krayvis Kreechta Kyrasam "Latinum Queen" "Leveraged Buyout" Masti-Skaden Merchant Merger Mes-Vatra Minolbranyn Moorii Mroola-Ran Mroxor Muntol Nam-Breth Nandi
+			Napibame-12 Neelin-4 Negotiator Nerrak Notary Ob-Strori Oetalgolor Ondik Perko-368 Preekon Qartum "Quark's Treasure" Rard-Pis Rariromia "Rational Profit"
+			Ribrut SS Baroness Salia Salvu-Eten Sapte "Seventy-Fifth Rule" "Shadow's Folly" Soodii Tadinia Tampanium Tenyt Tinnarr Togram "Treasure of Zix" Usotroo
+			Varkart Venture Vulpecula Warale Wealth Windfall Yag-Dhul Zarlax Zedavaton
 		}
 		corvette = {}
 		constructor = {}
@@ -682,7 +682,7 @@ xan_st_ferengi = {
 		slave_army = {
 			sequential_name = "%O% Slaves"
 		}
-		clone_army = { 
+		clone_army = {
 			sequential_name = "%O% Clone Amry"
 		}
 		robotic_army = {
@@ -691,7 +691,7 @@ xan_st_ferengi = {
 		android_army = {
 			sequential_name = "%O% Androids"
 		}
-		psionic_army = { 
+		psionic_army = {
 			sequential_name = "%O% Psionic Army"
 		}
 		xenomorph_army = {
@@ -705,48 +705,48 @@ xan_st_ferengi = {
 	planet_names = {
 		generic = {
 			names = {
-				'aucdet 10 1865-Alpha 892-IV AR-558 Aaamazzara Acamar Achrady Adarak Adelphous Adigeon Agaron Ahmedeen Ajilon Akritiri Alastria Aldea Aldebaran Aldebaron 
-				Alderaan "Alfa 177" Algeron Alondra Alpha "Alpha Balder" "Alpha Braga" "Alpha Carinae" "Alpha Cygnus" "Alpha Delphi" "Alpha Eridani" "Alpha Laputa" 
-				"Alpha Majoris" "Alpha Omicron" "Alpha Onias" Altair Alture Amerind Amleth Andevian Andor Andoria Andros Angel Angosia Antede Antica Antide Antos Arakis 
-				Archanis Archer Ardana Argelius Argo Argona Argratha "Argus X" Ariannus Arkaria Arlington Arloff Armus Arret Arvada Aschelan Atalia Atbar Athos Atifs Atlec 
-				Atrea Avenal Avery Axanar Azati B'Saari Babel Bajor Balancar Balosnee Banea Barisa Barkon Barradas Barson Barzan Beltane Benecia "Benev Selec" Benthos Benzar 
-				Berengaria Bernay Bersallis Beta "Beta Agni" "Beta Antares" "Beta Aquilae" "Beta Berman" "Beta Canopus" "Beta Eminiar" "Beta Penthe" "Beta Tottoro" 
-				"Beta Ursae Minor" "Beta'Elan Minor" Betazed "Beth Delta" Bezride Bilana "Blue Horizon" Bokara Bolarus Bopak Boraal Boradis Boranis Boreal Boreth Bozel Bracas 
-				Braslota Brax Bre'el Breen Brekka Brentalia Bringloid Browder Bryma Burala Bynaus Caere Calder Caldik Caldonia Caldos Caleb Callinon Calondia Camor Campor 
-				Camus Canopus "Canopus Major" Capella Cardassia Carema "Carinae Delta" Carraya Casperia Castal Catulla Celes Celtris Centauri "Centre Minor" Cerberus Cestus 
-				"Ceti Alpha" Chalna Chaltok Chandra Chaya Cheron Cirrus Coltar Coopersworld "Cor Caroli" Corgal Coridan Corinth Corvan Cygnet "Cygnia Minor" Cytrax Dakala 
-				Daled Dalvos Danula Daran Davlos Dayos Decos Dedestris Deinonychus Dekendi Delb Delinia Delios Delos "Delphi Ardu" Delta "Delta Rana" "Delta Theta" Deltaega 
-				Deneb Deneva Denius Denobula Deriben Dessica Detria Devidia Devos Dimorus Dinaal Donatu Doraf Dorvan Dozaria Draken Dramia Drayan Draygo Draylax Draylon Drema 
-				Dreon Dulisian Durenia "Dytallix B" Earth Eblar Eden Edos Ekos El-Adrel Elas Elba Emila Eminiar Enara Ennan Epsilon "Epsilon Ashanti" "Epsilon Canaris" 
-				"Epsilon Hydra" "Epsilon Wiltz" Epsilonndi Erabus Errikang Evadne Excalbia Exo Fahleena Faralos Farius Felton Fendaus Ferenginar Ferris Fina Finnea Folnar 
-				Forcas Forlat Gagarin Gaia Galador Galdonterre Galen Gallos Galor Galorda "Galorndon Core" Galvin Gamelan "Gamma Argus" "Gamma Hromi" "Gamma Hydra" 
-				"Gamma Tauri" "Gamma Trianguli" Gammaertis Ganalda Garadius Garon Gaspar Gault Gedi Gema Gemaris Gemulon Genesis Ghorusda Gideon Golana Golos Gonal Goralis 
-				Gothos Gravesworld H'atoria Ha'Dara Hakton Hanon Hanoran Harod Harrakis Haven Hekaras Hemikek Heva "Hispaniola Minor" Hoek "Holberg 917G" Holna Hurada Hurkos 
-				Iconia Icor Ilidaria Illyria Ilyra Inavar Indri Inferna "Ingraham B" Invernia "Iota Geminorum" Iraatan Isis Itamish Ivor Iyar Janus Japori Jaros Jouret 
-				Juhraya Jupiter Jura'assic Kabatris Kabrel Kaelon Kaferia Kaldra Kalla Kanda Kantare Karemma Kataan Kavaria "Kavis Alpha" Kei Kelva Kelvas Kenda Kendren 
-				Kentanna Kesprytt Kessik Keto-Enol Khefka Khitomer Khosla Klaestron Klavdia Klendth "Kohl settlement" Kolarus Kora Koralis Korma Korris Kostolain 
-				"Kotara Barath" Kraus Kreetassa Krios Ktaria Ktaris Kurill Kurl Kyana Kylata Kzin L-374 L-S Lactra Lamenda Landris Lappa Largo Latonaworld Lauren Lav'oti 
-				Lazon Ledonia Ledos Legara Lemma Lerishi Lessek Levinius Libra Ligobis Ligon Ligos Lilliput Lissepia Loracus Loren Loval Ludovko Luria Lya Lysia M'kemas M-113 
-				Maarek Mab-Bu Magus Makus Malaya Malcor Malindi Malkus Malon Manark Mantilles Manu Maranga Maravel Marcos Marcus Marejaretus Mariah Marijne Mariposa Marlonia 
-				Mars Marva Matalas Mataline Matiovsky "Maxia Zeta" Mazar Meezan Megas-Tu Meldrar Meles Melina Melnos Melona Merak Merik Midos Mikah Milika Minara Minnobia 
-				Minos Mintaka Miridian Mislen Mithren Mizar Moab Monac Mora Mordan Moreyworld Morikin Morska Motherlode Mudd Mudor Mundahla Myrmidon Nahmi Napinne Narendra 
-				Narva Nasreldine Nausicaa Nel Nelvana Neptune Nervala Neubilia Neural "New Bajor" "New Brooklyn" "New Earth" "New Gaul" "New Halana" "New Mecca" "New Paris" 
-				"New Sydney" Newulcan Nibia Nibiru Nimbus Ninipia Nivoch Norcadia Norellus Norpin Nyria Oby Oceanus Ogat Ogus Ohniaka Omega "Omega Centus" "Omega Cygni" 
-				Omekla Omicron "Omicron Ceti" "Omicron Theta" Ophiucus Oran'taku Orelious Orendal Organia Orias Orion Ornara Oshionian Osinar Otar Pacifica Paksor Pandro 
-				Panora Paraagan Parada Parliament Parsion "Peliar Zel" Pelleus Pentarus Pentath Penthara Pernaia Persephone Phanos Phylos Platonius Pluto Pollux Porakas 
-				Portas Posell Potak Prakal Preenos Prema Procyon "Psi 2000" "Psi Epsilon" "Psi Upsilon" Pullock Pyris Pythro Qo'noS Qu'Vat "Quadra Sigma" Qualor Quarra Quatal 
-				Quazulu Quinor Raatooras Rahm-Izad Rakella Rakhar Rakosa Ramatis Ramura Ranuos Rator Razna Regulak Regulus Rekag-Seronia Relva Remmil Remus "Rhymus Major" 
-				Rigel Risa Rivos Rochani Romulus Ronara Rondac Rosseau Ruah Rubicun Runara Rutia Sakura Salina Salva Sarona Sarpedion Sarpeidon Sarthong Saturn Scalos Secarus 
-				Sefalla "Seiji Major" "Selcundi Drema" Seldonis Selek "Sentinel Minor" "Septimis Minor" Septimus Seros Setlik "Sha Ka Ree" Shantil Sheva Shiralea 
-				"Sigma Draconis" "Sigma Tama" Sigmaotia Sikaris Simperia Sirius Sirrie Sobras Solais Solarion Solosos Soltok Sothis Soukara Stakoron Stameris Straleb Styris 
-				Sumiko Surata Suvin T'Lani "T'lli Beta" Tagra Tagus Takara Talax Talaxia Talos Tandar Tantalus Tanuga Tarakis Tarchannen Tarella Taresia Tarkalea Tarod Tarsas 
-				Tarsus Tartaras "Tau Ceti" "Tau Cygna" Taurus "Taurus Ceti" "Tavela Minor" Teerza Telemarius Telfas Tellar Telsius Teluridian Terlina Terosa "Terra 10" 
-				"Terra Nova" Tesnia Tessen Tessik Tethys Thalos Thanatos Thasus Thelka Therbia Theta "Theta Amano" "Theta Cygni" "Theta Omicron" "Theta Zibal" Thomsworld 
-				Tiburon Tilonus Timor Titus Tohvun Torad Toranius Torga Torman Torna Torona Torros Totoro Tracken Trelka Trelkis Triacus Trialas Triannon Trill Trillius 
-				Triskelion Troyius Turkana Tycho Tyree Tyrellia Tyrus Tyrusa Tzenketh Ufandi "Ultima Thule" Umoth Unefra Uranus Uxal Vacca Vadris Vagra Valakis Valo 
-				"Valt Minor" Vanden Vandros Varala Varria Vaytan Vega Velara Velos Veloz Vendikar Vendor Ventax Venus Verdanis Verex Veridian Vico Vilmor Vissia Volan Volchok 
-				Vulcan Wenselworld Wynsdey Wysanti Xanthras Xantoras "Xendi Sabu" Xerxes Xindus Yadalla Yadera Yuri Zadar Zakdorn Zalkon Zayra Zeon "Zeon Minor" "Zeta Alpha" 
-				"Zeta Antaras" Zetar Zytchin 
+				'aucdet 10 1865-Alpha 892-IV AR-558 Aaamazzara Acamar Achrady Adarak Adelphous Adigeon Agaron Ahmedeen Ajilon Akritiri Alastria Aldea Aldebaran Aldebaron
+				Alderaan "Alfa 177" Algeron Alondra Alpha "Alpha Balder" "Alpha Braga" "Alpha Carinae" "Alpha Cygnus" "Alpha Delphi" "Alpha Eridani" "Alpha Laputa"
+				"Alpha Majoris" "Alpha Omicron" "Alpha Onias" Altair Alture Amerind Amleth Andevian Andor Andoria Andros Angel Angosia Antede Antica Antide Antos Arakis
+				Archanis Archer Ardana Argelius Argo Argona Argratha "Argus X" Ariannus Arkaria Arlington Arloff Armus Arret Arvada Aschelan Atalia Atbar Athos Atifs Atlec
+				Atrea Avenal Avery Axanar Azati B'Saari Babel Bajor Balancar Balosnee Banea Barisa Barkon Barradas Barson Barzan Beltane Benecia "Benev Selec" Benthos Benzar
+				Berengaria Bernay Bersallis Beta "Beta Agni" "Beta Antares" "Beta Aquilae" "Beta Berman" "Beta Canopus" "Beta Eminiar" "Beta Penthe" "Beta Tottoro"
+				"Beta Ursae Minor" "Beta'Elan Minor" Betazed "Beth Delta" Bezride Bilana "Blue Horizon" Bokara Bolarus Bopak Boraal Boradis Boranis Boreal Boreth Bozel Bracas
+				Braslota Brax Bre'el Breen Brekka Brentalia Bringloid Browder Bryma Burala Bynaus Caere Calder Caldik Caldonia Caldos Caleb Callinon Calondia Camor Campor
+				Camus Canopus "Canopus Major" Capella Cardassia Carema "Carinae Delta" Carraya Casperia Castal Catulla Celes Celtris Centauri "Centre Minor" Cerberus Cestus
+				"Ceti Alpha" Chalna Chaltok Chandra Chaya Cheron Cirrus Coltar Coopersworld "Cor Caroli" Corgal Coridan Corinth Corvan Cygnet "Cygnia Minor" Cytrax Dakala
+				Daled Dalvos Danula Daran Davlos Dayos Decos Dedestris Deinonychus Dekendi Delb Delinia Delios Delos "Delphi Ardu" Delta "Delta Rana" "Delta Theta" Deltaega
+				Deneb Deneva Denius Denobula Deriben Dessica Detria Devidia Devos Dimorus Dinaal Donatu Doraf Dorvan Dozaria Draken Dramia Drayan Draygo Draylax Draylon Drema
+				Dreon Dulisian Durenia "Dytallix B" Earth Eblar Eden Edos Ekos El-Adrel Elas Elba Emila Eminiar Enara Ennan Epsilon "Epsilon Ashanti" "Epsilon Canaris"
+				"Epsilon Hydra" "Epsilon Wiltz" Epsilonndi Erabus Errikang Evadne Excalbia Exo Fahleena Faralos Farius Felton Fendaus Ferenginar Ferris Fina Finnea Folnar
+				Forcas Forlat Gagarin Gaia Galador Galdonterre Galen Gallos Galor Galorda "Galorndon Core" Galvin Gamelan "Gamma Argus" "Gamma Hromi" "Gamma Hydra"
+				"Gamma Tauri" "Gamma Trianguli" Gammaertis Ganalda Garadius Garon Gaspar Gault Gedi Gema Gemaris Gemulon Genesis Ghorusda Gideon Golana Golos Gonal Goralis
+				Gothos Gravesworld H'atoria Ha'Dara Hakton Hanon Hanoran Harod Harrakis Haven Hekaras Hemikek Heva "Hispaniola Minor" Hoek "Holberg 917G" Holna Hurada Hurkos
+				Iconia Icor Ilidaria Illyria Ilyra Inavar Indri Inferna "Ingraham B" Invernia "Iota Geminorum" Iraatan Isis Itamish Ivor Iyar Janus Japori Jaros Jouret
+				Juhraya Jupiter Jura'assic Kabatris Kabrel Kaelon Kaferia Kaldra Kalla Kanda Kantare Karemma Kataan Kavaria "Kavis Alpha" Kei Kelva Kelvas Kenda Kendren
+				Kentanna Kesprytt Kessik Keto-Enol Khefka Khitomer Khosla Klaestron Klavdia Klendth "Kohl settlement" Kolarus Kora Koralis Korma Korris Kostolain
+				"Kotara Barath" Kraus Kreetassa Krios Ktaria Ktaris Kurill Kurl Kyana Kylata Kzin L-374 L-S Lactra Lamenda Landris Lappa Largo Latonaworld Lauren Lav'oti
+				Lazon Ledonia Ledos Legara Lemma Lerishi Lessek Levinius Libra Ligobis Ligon Ligos Lilliput Lissepia Loracus Loren Loval Ludovko Luria Lya Lysia M'kemas M-113
+				Maarek Mab-Bu Magus Makus Malaya Malcor Malindi Malkus Malon Manark Mantilles Manu Maranga Maravel Marcos Marcus Marejaretus Mariah Marijne Mariposa Marlonia
+				Mars Marva Matalas Mataline Matiovsky "Maxia Zeta" Mazar Meezan Megas-Tu Meldrar Meles Melina Melnos Melona Merak Merik Midos Mikah Milika Minara Minnobia
+				Minos Mintaka Miridian Mislen Mithren Mizar Moab Monac Mora Mordan Moreyworld Morikin Morska Motherlode Mudd Mudor Mundahla Myrmidon Nahmi Napinne Narendra
+				Narva Nasreldine Nausicaa Nel Nelvana Neptune Nervala Neubilia Neural "New Bajor" "New Brooklyn" "New Earth" "New Gaul" "New Halana" "New Mecca" "New Paris"
+				"New Sydney" Newulcan Nibia Nibiru Nimbus Ninipia Nivoch Norcadia Norellus Norpin Nyria Oby Oceanus Ogat Ogus Ohniaka Omega "Omega Centus" "Omega Cygni"
+				Omekla Omicron "Omicron Ceti" "Omicron Theta" Ophiucus Oran'taku Orelious Orendal Organia Orias Orion Ornara Oshionian Osinar Otar Pacifica Paksor Pandro
+				Panora Paraagan Parada Parliament Parsion "Peliar Zel" Pelleus Pentarus Pentath Penthara Pernaia Persephone Phanos Phylos Platonius Pluto Pollux Porakas
+				Portas Posell Potak Prakal Preenos Prema Procyon "Psi 2000" "Psi Epsilon" "Psi Upsilon" Pullock Pyris Pythro Qo'noS Qu'Vat "Quadra Sigma" Qualor Quarra Quatal
+				Quazulu Quinor Raatooras Rahm-Izad Rakella Rakhar Rakosa Ramatis Ramura Ranuos Rator Razna Regulak Regulus Rekag-Seronia Relva Remmil Remus "Rhymus Major"
+				Rigel Risa Rivos Rochani Romulus Ronara Rondac Rosseau Ruah Rubicun Runara Rutia Sakura Salina Salva Sarona Sarpedion Sarpeidon Sarthong Saturn Scalos Secarus
+				Sefalla "Seiji Major" "Selcundi Drema" Seldonis Selek "Sentinel Minor" "Septimis Minor" Septimus Seros Setlik "Sha Ka Ree" Shantil Sheva Shiralea
+				"Sigma Draconis" "Sigma Tama" Sigmaotia Sikaris Simperia Sirius Sirrie Sobras Solais Solarion Solosos Soltok Sothis Soukara Stakoron Stameris Straleb Styris
+				Sumiko Surata Suvin T'Lani "T'lli Beta" Tagra Tagus Takara Talax Talaxia Talos Tandar Tantalus Tanuga Tarakis Tarchannen Tarella Taresia Tarkalea Tarod Tarsas
+				Tarsus Tartaras "Tau Ceti" "Tau Cygna" Taurus "Taurus Ceti" "Tavela Minor" Teerza Telemarius Telfas Tellar Telsius Teluridian Terlina Terosa "Terra 10"
+				"Terra Nova" Tesnia Tessen Tessik Tethys Thalos Thanatos Thasus Thelka Therbia Theta "Theta Amano" "Theta Cygni" "Theta Omicron" "Theta Zibal" Thomsworld
+				Tiburon Tilonus Timor Titus Tohvun Torad Toranius Torga Torman Torna Torona Torros Totoro Tracken Trelka Trelkis Triacus Trialas Triannon Trill Trillius
+				Triskelion Troyius Turkana Tycho Tyree Tyrellia Tyrus Tyrusa Tzenketh Ufandi "Ultima Thule" Umoth Unefra Uranus Uxal Vacca Vadris Vagra Valakis Valo
+				"Valt Minor" Vanden Vandros Varala Varria Vaytan Vega Velara Velos Veloz Vendikar Vendor Ventax Venus Verdanis Verex Veridian Vico Vilmor Vissia Volan Volchok
+				Vulcan Wenselworld Wynsdey Wysanti Xanthras Xantoras "Xendi Sabu" Xerxes Xindus Yadalla Yadera Yuri Zadar Zakdorn Zalkon Zayra Zeon "Zeon Minor" "Zeta Alpha"
+				"Zeta Antaras" Zetar Zytchin
 			}
 		}
 		pc_desert = {
@@ -779,19 +779,19 @@ xan_st_ferengi = {
 		names1 = {
 			weight = 100
 			full_names = {
-				Aramut Balt Base Bena Bijon Bikk Bindu Blemin Blork Blout Blud Bok Bokat Bractor Brak Bralik Broc Broik Brolok Brund Brunt Chek Chig Chram Deleg Delka Derro 
-				Dirf Dorl Drak Drayan Drek Drik Duwain Dverl Fing Flax Flem Flus Flynk Fog Fram Frek Frin Frinx Frool Gaila Gant Garjak Gart Gash Gek Geln Gimba Gint Glat 
-				Glav Glint Goem Goff "Gormie Gormatop" Gorp Gral Greb Grek Greko Grimp Gweemo Hadron Hecko Helk Idris Igel Ilka Ishka Iskel Jalia Joq Jubbletta Kain Kayron 
-				Kazago Keldar Klarn Kono Koob Krax Krem Lant Leck Lenk Letek Lifax Lig Liph Logi Lonz Lorp "Mad Zook" Marna Martok Mawk Mecko Meelo Mench Migg Milch Mirt Mok 
-				Mox Moxon Myynagi Nart Nava Neek Nilva Nix Nog Obe Oblat Oblatis Oblix Ogger Olix Omag Orpax Parilka Pel Pharh Plegg Pluboi Posck Prak Prinadora Promp Qaris 
-				Quark Quoop Rableg Radny Rank Rauplop Reyga Rogi Rom Shmenge Sluggo Smeet Sner Solok Sorv Sovak Squeeb Squim Stol Stoonk "Stumpy Strope" Tarken Torf Tran Trog 
-				Trop Twim Untz Vastator Vinx Vol Vorp Voshma Vung Vurp Wagga Yinkee Yomgro Yost Zek Zemel Zhrel Zind Zoid Zot 
+				Aramut Balt Base Bena Bijon Bikk Bindu Blemin Blork Blout Blud Bok Bokat Bractor Brak Bralik Broc Broik Brolok Brund Brunt Chek Chig Chram Deleg Delka Derro
+				Dirf Dorl Drak Drayan Drek Drik Duwain Dverl Fing Flax Flem Flus Flynk Fog Fram Frek Frin Frinx Frool Gaila Gant Garjak Gart Gash Gek Geln Gimba Gint Glat
+				Glav Glint Goem Goff "Gormie Gormatop" Gorp Gral Greb Grek Greko Grimp Gweemo Hadron Hecko Helk Idris Igel Ilka Ishka Iskel Jalia Joq Jubbletta Kain Kayron
+				Kazago Keldar Klarn Kono Koob Krax Krem Lant Leck Lenk Letek Lifax Lig Liph Logi Lonz Lorp "Mad Zook" Marna Martok Mawk Mecko Meelo Mench Migg Milch Mirt Mok
+				Mox Moxon Myynagi Nart Nava Neek Nilva Nix Nog Obe Oblat Oblatis Oblix Ogger Olix Omag Orpax Parilka Pel Pharh Plegg Pluboi Posck Prak Prinadora Promp Qaris
+				Quark Quoop Rableg Radny Rank Rauplop Reyga Rogi Rom Shmenge Sluggo Smeet Sner Solok Sorv Sovak Squeeb Squim Stol Stoonk "Stumpy Strope" Tarken Torf Tran Trog
+				Trop Twim Untz Vastator Vinx Vol Vorp Voshma Vung Vurp Wagga Yinkee Yomgro Yost Zek Zemel Zhrel Zind Zoid Zot
 			}
 			regnal_first_names_male = {
-				Brolok Drik Frek Gint Lifax Oblat Oblatis Quark Rom Smeet Twim "Untz the Invisible" Yost Zek Zind 
+				Brolok Drik Frek Gint Lifax Oblat Oblatis Quark Rom Smeet Twim "Untz the Invisible" Yost Zek Zind
 			}
 			regnal_first_names_female = {
-				Brolok Drik Frek Gint Lifax Oblat Oblatis Quark Rom Smeet Twim "Untz the Invisible" Yost Zek Zind 
+				Brolok Drik Frek Gint Lifax Oblat Oblatis Quark Rom Smeet Twim "Untz the Invisible" Yost Zek Zind
 			}
 			regnal_second_names = {}
 		}
@@ -805,9 +805,9 @@ xan_st_klingon = {
 
 	ship_names = {
 		generic = {
-			Amar B'Moth Bortas Buruk Ch'Tang Chang's Drovana "Duras sisters'" Duras' Fek'lhr Gr'oth Hegh'ta Hor'Cha K'Nera's K'Temang's K'Vada's K'mpec Kang's Ki'tang 
-			Klaa's Klothos Kohlar's Koraga Korinar "Kronos One" Kruge's Kuri's M'Char Maht-H'a Malik's Malpara Negh'Var Ning'tao Orantho P'Rang Pagh Par'tok Qu'Vat 
-			Rotarran Slivin Somraw T'Acog T'Ong Toh'Kaht Ursva Vor'nak Vorn Vorok's Y'tem Ya'Vang 
+			Amar B'Moth Bortas Buruk Ch'Tang Chang's Drovana "Duras sisters'" Duras' Fek'lhr Gr'oth Hegh'ta Hor'Cha K'Nera's K'Temang's K'Vada's K'mpec Kang's Ki'tang
+			Klaa's Klothos Kohlar's Koraga Korinar "Kronos One" Kruge's Kuri's M'Char Maht-H'a Malik's Malpara Negh'Var Ning'tao Orantho P'Rang Pagh Par'tok Qu'Vat
+			Rotarran Slivin Somraw T'Acog T'Ong Toh'Kaht Ursva Vor'nak Vorn Vorok's Y'tem Ya'Vang
 		}
 		corvette = {}
 		constructor = {}
@@ -843,7 +843,7 @@ xan_st_klingon = {
 		slave_army = {
 			sequential_name = "%O% Slaves"
 		}
-		clone_army = { 
+		clone_army = {
 			sequential_name = "%O% Clone Amry"
 		}
 		robotic_army = {
@@ -852,7 +852,7 @@ xan_st_klingon = {
 		android_army = {
 			sequential_name = "%O% Androids"
 		}
-		psionic_army = { 
+		psionic_army = {
 			sequential_name = "%O% Psionic Army"
 		}
 		xenomorph_army = {
@@ -866,7 +866,7 @@ xan_st_klingon = {
 	planet_names = {
 		generic = {
 			names = {
-				Archanis Boreth H'atoria Khitomer Krios Maranga Morska N'Vak Narendra Organia Praxis Qo'noS Qu'Vat Raatooras "Rura Penthe" Ty'Gokor 
+				Archanis Boreth H'atoria Khitomer Krios Maranga Morska N'Vak Narendra Organia Praxis Qo'noS Qu'Vat Raatooras "Rura Penthe" Ty'Gokor
 			}
 		}
 		pc_desert = {
@@ -899,13 +899,13 @@ xan_st_klingon = {
 		names1 = {
 			weight = 100
 			full_names = {
-				A'trom "Alexander Rozhenko" Antaak "Arne Darvin" Atul Azetbur "B'Elanna Torres" B'Etor Ba'el Barak-Kadan Barot Bo'rak Bu'Kah Ch'Pok Ch'Rega Ch'Targh Chang 
-				D'Ghor Darok Dax Divok Doran Drex Duras G'Trok Gi'ral Gorkon Goroth Gowron Grilka H'Ta H'ohk Hon'Tihl Huraga Huss J'Dan Ja'rod Japar "K fortges." K'Ehleyr 
-				K'Nera K'Temang K'Temoc K'Trelan K'Vada K'Vagh K'mpec Kahlest Kahmar Kang Karana Kargan Katogh Kaybok Kee'Bhor Keedera Kerla Klaa Klaang Klag Kobor Kohlar 
-				Kolos Koloth Konmel Kor Koral Korath Korax Kornan Korok Koroth Korrd Korris Kortar Koth Kozak Kras Krelik Krell Kruge Kunivas Kurak Kurn L'Kor L'Naan Laneth 
-				Larna Leskit Linkasa Lorgh Lukara Lursa "M'Kota R'Cho" M'Rek Magh Mara Marab Martok Miral "Miral Paris" Mogh Molor Morak Morath Morka Mow'ga Mur'Eq N'Garen 
-				Noggra Orak Ortakin Reclaw "Reclaw II." Rurik Rynar Sarpek Shenara ShiVang Shovak Sirella Sompek Stex T'Greth T'Kar T'vis Tanas Tavana Tel'Peh Telok Thopok 
-				Toq Toral Torg Torin Tse'Dek Tumek Valkris Vekma Vixis Vorok W'mar Worf Yeto Zegov 
+				A'trom "Alexander Rozhenko" Antaak "Arne Darvin" Atul Azetbur "B'Elanna Torres" B'Etor Ba'el Barak-Kadan Barot Bo'rak Bu'Kah Ch'Pok Ch'Rega Ch'Targh Chang
+				D'Ghor Darok Dax Divok Doran Drex Duras G'Trok Gi'ral Gorkon Goroth Gowron Grilka H'Ta H'ohk Hon'Tihl Huraga Huss J'Dan Ja'rod Japar "K fortges." K'Ehleyr
+				K'Nera K'Temang K'Temoc K'Trelan K'Vada K'Vagh K'mpec Kahlest Kahmar Kang Karana Kargan Katogh Kaybok Kee'Bhor Keedera Kerla Klaa Klaang Klag Kobor Kohlar
+				Kolos Koloth Konmel Kor Koral Korath Korax Kornan Korok Koroth Korrd Korris Kortar Koth Kozak Kras Krelik Krell Kruge Kunivas Kurak Kurn L'Kor L'Naan Laneth
+				Larna Leskit Linkasa Lorgh Lukara Lursa "M'Kota R'Cho" M'Rek Magh Mara Marab Martok Miral "Miral Paris" Mogh Molor Morak Morath Morka Mow'ga Mur'Eq N'Garen
+				Noggra Orak Ortakin Reclaw "Reclaw II." Rurik Rynar Sarpek Shenara ShiVang Shovak Sirella Sompek Stex T'Greth T'Kar T'vis Tanas Tavana Tel'Peh Telok Thopok
+				Toq Toral Torg Torin Tse'Dek Tumek Valkris Vekma Vixis Vorok W'mar Worf Yeto Zegov
 			}
 			regnal_first_names_male = {
 				Azetbur Gorkon Gowron "K'mpec" Kahless "M'Rek" Martok "Mow'ga"
@@ -925,23 +925,23 @@ xan_st_romulan = {
 
 	ship_names = {
 		generic = {
-			Adamant Adjacian Albius Alidar Amie Antius Ar'kalid Arakkab Araram Arien Auleius "Avatar of Tomed" Avenger Averek Azmuth "Battle Helm" Battlequeen Belak 
-			"Bird of Prey" Bloodsword Bloodwing Bochral Bokra Brak'makh Cacivus Calam Cathex Cestron Chairo Chula Clania Clenos Courser Crolvius Cuirass D'Arvuk D'Trell 
-			D'daen D'dara D'delean D'dereq D'deridex D'desedex D'entin D'era D'ereq D'jarek D'kalam D'merak D'relix D'ressa D'ridthau D'seret D'stelen D'tavet D'tervek 
-			D'tharan D'vairin D'valek D'varian D'vinn D'virin Daami Decius Defender Deranas Deresus Desmus Destrix Devoras Dividices Draco Durelan Eagle Eisn Elizsen Enem 
-			Esemar Experience Fardraw "Future Fire" G'Anohok "Gal Gath'thong" Galtizh Ganelan Ganelax Gannius Gauntlet Gilidan Gladiator Glory "Glory Quest" Gorget Greave 
-			Grenax Haakona Hadargeros Harax Helve Henzu Hheirant Hiyll'aeh Hmenna "Honor Blade" "Ignus Proelium" Ila Imderia Imparatrex Impavidus "Imperatoris Accipiter" 
-			Imperix Incepteris Inclutus Indagator Infini Infinitus Intrakhu Inydar Irese Irix Irixidon J'pax Jaridix Javelin Javlek Ka'frah Ka'ja Kazar Kenek Keterix 
-			Khazara Kormoran Kormorex Korvix L'Sattak Lacrius Lahai Lattem Lhorakis Livex Llemni Loa-var Ludelvius Lykara M'sarr Macro Madail Makluan Maricus Marilon 
-			Marrus Mederem Memenda Menvutus Mereidex Meret Meron Moonhawk N'ventnar Neirrh Nexem "Night Raven" Octius Onus Orudain P'tarch Pacestius Paeso Pecassia 
-			Peligius Pellecia Petrask Pi Pilaron Pillion Pirrip Plaurullius "Praetor Pontilus" Querulbo Ra'kholh Raffish Raptor Ravon Raze "Rea's Helm" "Red Talon" Remus 
-			Reshaa'ra Rilidam Rom'drex Rovaran Rucorius S'delon S'lar S'tar S'tel S'tema S'ten S'var S'varan Sahah'lill Sakti Saneraspis Scorah Scrillius Sculex Sedunius 
-			Seganico Septral Serrola Sha'arik Shalyar Shardarr "Sharp Sword" Sia Sistius Soar Sor Soren Sulvian "Sun Falcon" Suran Suretak Surin Sutian Suttius 
-			"Swift Kill" Syrinx T'Favaron T'Laratex T'Vir T'deret T'dir T'lava T'met T'rarian T'rasus T'salvan T'seren T'velen T'vrixis T'xeren Tabodus Talon Tarlon Tdal 
-			Tekel Telbostius Tellus Terix Teverresh Theta "Thrai Kaleh" Thraisat Tomed Toravek Torelan Tovanal Tovarek Trennis Tridonius Trocus Tuttialius Uhtta V'ashan 
-			V'mendin V'nitor V'rela V'tallus V'teldam V'tirex Vadenius Valdore Vassam Vastara Vathos Vattilius Veletan Vellius Vencus Vengeance Venkar Vereleus Vicilius 
-			Victorious Vigilance Vilus Virin Visen Visidix Visis Vixal Vopputus Votantius Vrelnec Vurin "War Thorn" "Whip Hand" Wildfire Worshipper Xi Ykir Z'Rok Zdonek 
-			Zokoras 
+			Adamant Adjacian Albius Alidar Amie Antius Ar'kalid Arakkab Araram Arien Auleius "Avatar of Tomed" Avenger Averek Azmuth "Battle Helm" Battlequeen Belak
+			"Bird of Prey" Bloodsword Bloodwing Bochral Bokra Brak'makh Cacivus Calam Cathex Cestron Chairo Chula Clania Clenos Courser Crolvius Cuirass D'Arvuk D'Trell
+			D'daen D'dara D'delean D'dereq D'deridex D'desedex D'entin D'era D'ereq D'jarek D'kalam D'merak D'relix D'ressa D'ridthau D'seret D'stelen D'tavet D'tervek
+			D'tharan D'vairin D'valek D'varian D'vinn D'virin Daami Decius Defender Deranas Deresus Desmus Destrix Devoras Dividices Draco Durelan Eagle Eisn Elizsen Enem
+			Esemar Experience Fardraw "Future Fire" G'Anohok "Gal Gath'thong" Galtizh Ganelan Ganelax Gannius Gauntlet Gilidan Gladiator Glory "Glory Quest" Gorget Greave
+			Grenax Haakona Hadargeros Harax Helve Henzu Hheirant Hiyll'aeh Hmenna "Honor Blade" "Ignus Proelium" Ila Imderia Imparatrex Impavidus "Imperatoris Accipiter"
+			Imperix Incepteris Inclutus Indagator Infini Infinitus Intrakhu Inydar Irese Irix Irixidon J'pax Jaridix Javelin Javlek Ka'frah Ka'ja Kazar Kenek Keterix
+			Khazara Kormoran Kormorex Korvix L'Sattak Lacrius Lahai Lattem Lhorakis Livex Llemni Loa-var Ludelvius Lykara M'sarr Macro Madail Makluan Maricus Marilon
+			Marrus Mederem Memenda Menvutus Mereidex Meret Meron Moonhawk N'ventnar Neirrh Nexem "Night Raven" Octius Onus Orudain P'tarch Pacestius Paeso Pecassia
+			Peligius Pellecia Petrask Pi Pilaron Pillion Pirrip Plaurullius "Praetor Pontilus" Querulbo Ra'kholh Raffish Raptor Ravon Raze "Rea's Helm" "Red Talon" Remus
+			Reshaa'ra Rilidam Rom'drex Rovaran Rucorius S'delon S'lar S'tar S'tel S'tema S'ten S'var S'varan Sahah'lill Sakti Saneraspis Scorah Scrillius Sculex Sedunius
+			Seganico Septral Serrola Sha'arik Shalyar Shardarr "Sharp Sword" Sia Sistius Soar Sor Soren Sulvian "Sun Falcon" Suran Suretak Surin Sutian Suttius
+			"Swift Kill" Syrinx T'Favaron T'Laratex T'Vir T'deret T'dir T'lava T'met T'rarian T'rasus T'salvan T'seren T'velen T'vrixis T'xeren Tabodus Talon Tarlon Tdal
+			Tekel Telbostius Tellus Terix Teverresh Theta "Thrai Kaleh" Thraisat Tomed Toravek Torelan Tovanal Tovarek Trennis Tridonius Trocus Tuttialius Uhtta V'ashan
+			V'mendin V'nitor V'rela V'tallus V'teldam V'tirex Vadenius Valdore Vassam Vastara Vathos Vattilius Veletan Vellius Vencus Vengeance Venkar Vereleus Vicilius
+			Victorious Vigilance Vilus Virin Visen Visidix Visis Vixal Vopputus Votantius Vrelnec Vurin "War Thorn" "Whip Hand" Wildfire Worshipper Xi Ykir Z'Rok Zdonek
+			Zokoras
 		}
 		corvette = {}
 		constructor = {}
@@ -977,7 +977,7 @@ xan_st_romulan = {
 		slave_army = {
 			sequential_name = "%O% Slaves"
 		}
-		clone_army = { 
+		clone_army = {
 			sequential_name = "%O% Clone Amry"
 		}
 		robotic_army = {
@@ -986,7 +986,7 @@ xan_st_romulan = {
 		android_army = {
 			sequential_name = "%O% Androids"
 		}
-		psionic_army = { 
+		psionic_army = {
 			sequential_name = "%O% Psionic Army"
 		}
 		xenomorph_army = {
@@ -1000,7 +1000,7 @@ xan_st_romulan = {
 	planet_names = {
 		generic = {
 			names = {
-				"Bassen Rift" Benzar "Beta Hutzel" Carraya Chaltok Eden "Galorndon Core" Khitomer Nequencia Rator Remus Romii Romulus Tomed Unroth 
+				"Bassen Rift" Benzar "Beta Hutzel" Carraya Chaltok Eden "Galorndon Core" Khitomer Nequencia Rator Remus Romii Romulus Tomed Unroth
 			}
 		}
 		pc_desert = {
@@ -1033,15 +1033,15 @@ xan_st_romulan = {
 		names1 = {
 			weight = 100
 			full_names = {
-				"Alidar Jarok" Almak Ayel Ba'el Bochra "Caithlin Dar" Chulak Colius D'Tan Decius Donatra Frenchotte Hiren Jaron Karina "Kimara Cretak" Konsab Koval Letant 
-				Livara Lovok M'ret Mendak Merrok Mirok Movar N'Vek Nanclus Neral Nero Nevala Nijil Orum Pardek Parem Patahk Rakal Rekar Ruwon Sela Selok Setal "Simon Tarses" 
-				Sirol Suran T'Rul Taibak Tal Tal'aura Tallera Talok Taris Tebok "Telek R'Mor" Thei Tokath Tomalak Toreth Ustard Valdore Varel Velal Vrax Vreenak Xerius 
+				"Alidar Jarok" Almak Ayel Ba'el Bochra "Caithlin Dar" Chulak Colius D'Tan Decius Donatra Frenchotte Hiren Jaron Karina "Kimara Cretak" Konsab Koval Letant
+				Livara Lovok M'ret Mendak Merrok Mirok Movar N'Vek Nanclus Neral Nero Nevala Nijil Orum Pardek Parem Patahk Rakal Rekar Ruwon Sela Selok Setal "Simon Tarses"
+				Sirol Suran T'Rul Taibak Tal Tal'aura Tallera Talok Taris Tebok "Telek R'Mor" Thei Tokath Tomalak Toreth Ustard Valdore Varel Velal Vrax Vreenak Xerius
 			}
 			regnal_first_names_male = {
-				Hiren "Kimara Cretak" Letant M'ret Merrok Neral Pardek Shinzon Tal'aura Valdore Vrax Vreenak 
+				Hiren "Kimara Cretak" Letant M'ret Merrok Neral Pardek Shinzon Tal'aura Valdore Vrax Vreenak
 			}
 			regnal_first_names_female = {
-				Hiren "Kimara Cretak" Letant M'ret Merrok Neral Pardek Shinzon Tal'aura Valdore Vrax Vreenak 
+				Hiren "Kimara Cretak" Letant M'ret Merrok Neral Pardek Shinzon Tal'aura Valdore Vrax Vreenak
 			}
 			regnal_second_names = {}
 		}

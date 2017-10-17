@@ -17,9 +17,9 @@ Star Trek
 Warhammer 40k
 * Chaos
 * Dark Eldar
-* Eldar 
+* Eldar
 * Imperium
-* Necrons 
+* Necrons
 * Orks
 * Tau
 * Tyranids
