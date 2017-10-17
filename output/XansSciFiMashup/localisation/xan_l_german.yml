@@ -38,15 +38,6 @@ EMPIRE_DESIGN_xan_w4_tau_desc:0 "Die Tau sind eine junge aufstrebende Spezies, d
 EMPIRE_DESIGN_xan_w4_tyranid_desc:0 "Die Tyraniden haben Ihren Ursprung außerhalb der Galaxis und bestehen aus einer sich ständig verändernden und aus verschiedensten Lebensformen bestehenden Spezies.\nDie einzelnen Lebensformen werden durch ein Schwarmbewusstsein gesteuert.\n\nDie Tyraniden ziehen durch die Galaxie und 'ernten' dabei alles biologische Leben um es in ihren Genpool auzunehmen. Sie lassen dabei nichts ales leere tote Gesteinsbrocken übrig."
 
 ############################################################################################################################################
-# System initializer
-############################################################################################################################################
-xan_st_federation_system_NAME:0 "ST Sol System"
-xan_st_federation_system_DESC:0 "Ein System, das dem Sonnensystem der Erde nachempfunden wurde.\n\n$system_initializer_DESC$"
-
-xan_w4_empire_system_NAME:0 "W4 Sol System"
-xan_w4_empire_system_DESC:0 "Ein System, das dem Sonnensystem der Erde nachempfunden wurde.\n\n$system_initializer_DESC$"
-
-############################################################################################################################################
 # personality
 ############################################################################################################################################
 #-----Starcraft ----------------------------------------------------------------------------------------------------------
