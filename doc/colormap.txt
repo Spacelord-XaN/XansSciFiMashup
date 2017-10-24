@@ -4,18 +4,18 @@ brown			xan_sc_terran
 orange			xan_w4_tau
 red_orange		xan_sc_zerg
 red				xan_sw_newRepublic
-burgundy		xan_st_klingon
-pink
+burgundy		xan_st_klingon, xan_sg_wraith
+pink			xan_sg_goauld
 purple			xan_w4_tyranids
 dark_purple		xan_w4_darkEldar
 indigo			xan_w4_empire
 dark_blue		xan_sw_empire
 blue			xan_st_federation
-turquoise		xan_w4_eldar
+turquoise		xan_w4_eldar, xan_sg_asgard
 teal			xan_st_cardassian
 dark_teal		xan_sc_protoss
 green			xan_st_ferengi, xan_va_skaarj
 dark_green		xan_st_borg, xan_st_romulan
-grey
+grey			xan_sg_replicator
 dark_grey		xan_w4_necron
 black			xan_st_dominion
