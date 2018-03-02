@@ -15,12 +15,9 @@ xan_st_borg = {
 		destroyer = {}
 		cruiser = {}
 		battleship = {}
-		orbital_station = {}
 		mining_station = {}
 		research_station = {}
-		wormhole_station = {}
 		observation_station = {}
-		outpost_station = {}
 		transport = {}
 		military_station_small = {}
 		military_station_medium = {}
@@ -168,12 +165,9 @@ xan_st_cardassian = {
 		destroyer = {}
 		cruiser = {}
 		battleship = {}
-		orbital_station = {}
 		mining_station = {}
 		research_station = {}
-		wormhole_station = {}
 		observation_station = {}
-		outpost_station = {}
 		transport = {}
 		military_station_small = {}
 		military_station_medium = {}
@@ -310,23 +304,14 @@ xan_st_dominion = {
 		battleship = {
 			"Jem'Hadar battleship"
 		}
-		orbital_station = {
-			"Dominion station"
-		}
 		mining_station = {
 			"Vorta mining station"
 		}
 		research_station = {
 			"Founder research station"
 		}
-		wormhole_station = {
-			"Vorta wormhole station"
-		}
 		observation_station = {
 			"Founder research station"
-		}
-		outpost_station = {
-			"Jem'Hadar outpost"
 		}
 		transport = {
 			"Jem'Hadar transporter"
@@ -497,12 +482,9 @@ xan_st_federation = {
 		destroyer = {}
 		cruiser = {}
 		battleship = {}
-		orbital_station = {}
 		mining_station = {}
 		research_station = {}
-		wormhole_station = {}
 		observation_station = {}
-		outpost_station = {}
 		transport = {}
 		military_station_small = {}
 		military_station_medium = {}
@@ -655,12 +637,9 @@ xan_st_ferengi = {
 		destroyer = {}
 		cruiser = {}
 		battleship = {}
-		orbital_station = {}
 		mining_station = {}
 		research_station = {}
-		wormhole_station = {}
 		observation_station = {}
-		outpost_station = {}
 		transport = {}
 		military_station_small = {}
 		military_station_medium = {}
@@ -816,12 +795,9 @@ xan_st_klingon = {
 		destroyer = {}
 		cruiser = {}
 		battleship = {}
-		orbital_station = {}
 		mining_station = {}
 		research_station = {}
-		wormhole_station = {}
 		observation_station = {}
-		outpost_station = {}
 		transport = {}
 		military_station_small = {}
 		military_station_medium = {}
@@ -950,12 +926,9 @@ xan_st_romulan = {
 		destroyer = {}
 		cruiser = {}
 		battleship = {}
-		orbital_station = {}
 		mining_station = {}
 		research_station = {}
-		wormhole_station = {}
 		observation_station = {}
-		outpost_station = {}
 		transport = {}
 		military_station_small = {}
 		military_station_medium = {}

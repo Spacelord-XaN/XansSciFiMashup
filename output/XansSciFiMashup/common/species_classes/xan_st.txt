@@ -1,0 +1,71 @@
+xan_st_borg_bio={
+	archetype=BIOLOGICAL
+	graphical_culture=reptilian_01
+
+	portraits={
+		"xan_st_borg"
+	}
+}
+
+xan_st_borg_mach={
+	archetype=MACHINE
+	graphical_culture=reptilian_01
+
+	portraits={
+		"xan_st_borg"
+	}
+}
+
+xan_st_cardassian={
+	archetype=BIOLOGICAL
+	graphical_culture=reptilian_01
+
+	portraits={
+		"xan_st_cardassian"
+	}
+}
+
+xan_st_dominion={
+	archetype=BIOLOGICAL
+	graphical_culture=reptilian_01
+
+	portraits={
+		"xan_st_dominion"
+	}
+}
+
+xan_st_federation={
+	archetype=BIOLOGICAL
+	graphical_culture=mammalian_01
+
+	portraits={
+		"xan_st_federation"
+	}
+}
+
+xan_st_ferengi={
+	archetype=BIOLOGICAL
+	graphical_culture=mammalian_01
+
+	portraits={
+		"xan_st_ferengi"
+	}
+}
+
+xan_st_klingon={
+	archetype=BIOLOGICAL
+	graphical_culture=molluscoid_01
+
+	portraits={
+		"xan_st_klingon"
+	}
+}
+
+xan_st_romulan={
+	archetype=BIOLOGICAL
+	graphical_culture=avian_01
+
+	portraits={
+		"xan_st_romulan"
+	}
+}

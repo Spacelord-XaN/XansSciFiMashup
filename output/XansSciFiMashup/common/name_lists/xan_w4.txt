@@ -27,12 +27,9 @@ xan_w4_chaos = {
 		battleship = {
 			"Agonising Death" Conqueror "Planet Killer" Stormbeast "Terminus Est" "The Treacherous" "Vengeful Spirit"
 		}
-		orbital_station = {}
 		mining_station = {}
 		research_station = {}
-		wormhole_station = {}
 		observation_station = {}
-		outpost_station = {}
 		transport = {}
 		military_station_small = {}
 		military_station_medium = {}
@@ -161,12 +158,9 @@ xan_w4_darkEldar = {
 		battleship = {
 			Torture Cruiser
 		}
-		orbital_station = {}
 		mining_station = {}
 		research_station = {}
-		wormhole_station = {}
 		observation_station = {}
-		outpost_station = {}
 		transport = {}
 		military_station_small = {}
 		military_station_medium = {}
@@ -319,12 +313,9 @@ xan_w4_eldar = {
 		destroyer = {}
 		cruiser = {}
 		battleship = {}
-		orbital_station = {}
 		mining_station = {}
 		research_station = {}
-		wormhole_station = {}
 		observation_station = {}
-		outpost_station = {}
 		transport = {}
 		military_station_small = {}
 		military_station_medium = {}
@@ -479,12 +470,9 @@ xan_w4_empire = {
 			"Indomitable Wrath" Inflexible Invincible "Justus Dominus" "Legatus Stygies" "Lord of Light" Magnificat "Pride of Fenris" "Saint Augusta" Triumph "Vae Victis"
 			Victory "Virtue of Helena"
 		}
-		orbital_station = {}
 		mining_station = {}
 		research_station = {}
-		wormhole_station = {}
 		observation_station = {}
-		outpost_station = {}
 		transport = {}
 		military_station_small = {}
 		military_station_medium = {
@@ -660,12 +648,9 @@ xan_w4_necron = {
 		destroyer = {}
 		cruiser = {}
 		battleship = {}
-		orbital_station = {}
 		mining_station = {}
 		research_station = {}
-		wormhole_station = {}
 		observation_station = {}
-		outpost_station = {}
 		transport = {}
 		military_station_small = {}
 		military_station_medium = {}
@@ -794,12 +779,9 @@ xan_w4_ork = {
 		destroyer = {}
 		cruiser = {}
 		battleship = {}
-		orbital_station = {}
 		mining_station = {}
 		research_station = {}
-		wormhole_station = {}
 		observation_station = {}
-		outpost_station = {}
 		transport = {}
 		military_station_small = {}
 		military_station_medium = {}
@@ -945,12 +927,9 @@ xan_w4_tau = {
 		destroyer = {}
 		cruiser = {}
 		battleship = {}
-		orbital_station = {}
 		mining_station = {}
 		research_station = {}
-		wormhole_station = {}
 		observation_station = {}
-		outpost_station = {}
 		transport = {}
 		military_station_small = {}
 		military_station_medium = {}
@@ -1080,12 +1059,9 @@ xan_w4_tyranid = {
 		battleship = {
 			"Hive Ship"
 		}
-		orbital_station = {}
 		mining_station = {}
 		research_station = {}
-		wormhole_station = {}
 		observation_station = {}
-		outpost_station = {}
 		transport = {
 			"Mycetic Spore" Tyrannocyte
 		}

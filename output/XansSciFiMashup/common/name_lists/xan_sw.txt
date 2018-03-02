@@ -82,12 +82,9 @@ xan_sw_empire = {
 			Sovereign Vengeance
 		}
 
-		orbital_station = {}
 		mining_station = {}
 		research_station = {}
-		wormhole_station = {}
 		observation_station = {}
-		outpost_station = {}
 		transport = {}
 		military_station_small = {}
 		military_station_medium = {}
@@ -324,12 +321,9 @@ xan_sw_newRepublic = {
 			Imperious Monitor Nova Pelagia Steadfast Vindicator Volant
 		}
 
-		orbital_station = {}
 		mining_station = {}
 		research_station = {}
-		wormhole_station = {}
 		observation_station = {}
-		outpost_station = {}
 		transport = {}
 		military_station_small = {}
 		military_station_medium = {}

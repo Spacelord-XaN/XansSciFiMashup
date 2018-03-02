@@ -1,3 +1,8 @@
+Version 2.1
+-Added support for Stellaris 2.0
+-Added Star Trek Dominion
+
+
 Version 2.0
 -Changed borg species class to MAM
 
