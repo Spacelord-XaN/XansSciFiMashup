@@ -1,0 +1,71 @@
+xan_w4_chaos={
+	archetype=BIOLOGICAL
+	graphical_culture=mammalian_01
+
+	portraits={
+		"xan_w4_chaos"
+	}
+}
+
+xan_w4_darkEldar={
+	archetype=BIOLOGICAL
+	graphical_culture=avian_01
+
+	portraits={
+		"xan_w4_darkEldar"
+	}
+}
+
+xan_w4_eldar={
+	archetype=BIOLOGICAL
+	graphical_culture=avian_01
+
+	portraits={
+		"xan_w4_eldar"
+	}
+}
+
+xan_w4_empire={
+	archetype=BIOLOGICAL
+	graphical_culture=mammalian_01
+
+	portraits={
+		"xan_w4_empire"
+	}
+}
+
+xan_w4_necron={
+	archetype=BIOLOGICAL
+	graphical_culture=arthropoid_01
+
+	portraits={
+		"xan_w4_necron"
+	}
+}
+
+xan_w4_ork={
+	archetype=BIOLOGICAL
+	graphical_culture=reptilian_01
+
+	portraits={
+		"xan_w4_ork"
+	}
+}
+
+xan_w4_tau={
+	archetype=BIOLOGICAL
+	graphical_culture=arthropoid_01
+
+	portraits={
+		"xan_w4_tau"
+	}
+}
+
+xan_w4_tyranid={
+	archetype=BIOLOGICAL
+	graphical_culture=molluscoid_01
+
+	portraits={
+		"xan_w4_tyranid"
+	}
+}

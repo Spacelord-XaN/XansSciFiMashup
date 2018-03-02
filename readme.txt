@@ -1,6 +1,4 @@
-Currently WIP
-
-Addes the following factions to the game, all are set to spawn always:
+Adds the following factions to the game, all are set to spawn always:
 
 Star Wars
 * Galactic Empire
@@ -9,6 +7,7 @@ Star Wars
 Star Trek
 * Borg Collective
 * Cardassian Union
+* Dominion
 * Klingon Empire
 * Romulan Star Empire
 * United Federation of Plantes

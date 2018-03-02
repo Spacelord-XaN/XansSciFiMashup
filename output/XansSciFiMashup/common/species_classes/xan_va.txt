@@ -1,0 +1,8 @@
+xan_va_skaarj={
+	archetype=BIOLOGICAL
+	graphical_culture=reptilian_01
+
+	portraits={
+		"xan_va_skaarj"
+	}
+}

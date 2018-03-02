@@ -1,0 +1,17 @@
+xan_sw_empire={
+	archetype=BIOLOGICAL
+	graphical_culture=mammalian_01
+
+	portraits={
+		"xan_sw_empire"
+	}
+}
+
+xan_sw_newRepublic={
+	archetype=BIOLOGICAL
+	graphical_culture=mammalian_01
+
+	portraits={
+		"xan_sw_newRepublic"
+	}
+}

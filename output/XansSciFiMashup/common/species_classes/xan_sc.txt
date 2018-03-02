@@ -1,0 +1,26 @@
+xan_sc_protoss={
+	archetype=BIOLOGICAL
+	graphical_culture=mammalian_01
+
+	portraits={
+		"xan_sc_protoss"
+	}
+}
+
+xan_sc_terran={
+	archetype = BIOLOGICAL
+	graphical_culture=reptilian_01
+
+	portraits={
+		"xan_sc_terran"
+	}
+}
+
+xan_sc_zerg={
+	archetype = BIOLOGICAL
+	graphical_culture=molluscoid_01
+
+	portraits={
+		"xan_sc_zerg"
+	}
+}
