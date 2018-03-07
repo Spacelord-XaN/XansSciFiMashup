@@ -1,1 +1,1 @@
-@xan_spawn_enabled_default_default=always
+@xan_spawn_enabled_default=always
