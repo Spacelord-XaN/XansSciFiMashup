@@ -1,3 +1,7 @@
+Version 2.2
+-Added xan_variables.txt to switch empire spawn behavior.
+-Re-Enabled flags for designer
+
 Version 2.1
 -Added support for Stellaris 2.0
 -Added Star Trek Dominion
